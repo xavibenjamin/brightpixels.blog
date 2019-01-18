@@ -8,4 +8,4 @@ You're free to use whatever you'd like, **however**, posts found in the `_drafts
 
 ## Contributing
 
-Thanks for your interest in contributing! [Send me an email](mailto:smith@ttimsmith.com?subject=[brightpixels.blog] I want to contribute) and let's chat.
+Thanks for your interest in contributing! <a href="mailto:smith@ttimsmith.com?subject=[brightpixels.blog] I want to contribute">Send me an email</a> and let's chat.
