@@ -10,11 +10,6 @@
 
   @media #{$medium-up} {
     padding: 4rem 0 6rem;
-    min-height: calc(100vh - 169px);
-  }
-
-  @media #{$large-up} {
-    min-height: calc(100vh - 202px);
   }
 }
 
