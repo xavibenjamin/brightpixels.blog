@@ -1,6 +1,6 @@
 ---
 title: About
-permalink: '/about/'
+permalink: "/about/"
 excerpt: Find out more about Bright Pixels.
 layout: page
 ---
