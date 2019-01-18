@@ -4,6 +4,9 @@ subtitle: My blog has a new name… again
 seo_title: Brightly Colored is now Bright Pixels
 custom_type: post
 date: 2019-01-18 00:21 -06:00
+tags:
+- from the editor
+- site news
 ---
 
 **TL;DR** *Brightly Colored* is now called *Bright Pixels*.
