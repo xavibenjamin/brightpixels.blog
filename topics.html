@@ -1,0 +1,80 @@
+---
+title: Topics
+permalink: "/topics/"
+layout: default
+exclude_from_search: true
+excerpt: Topics covered on Bright Pixels.
+---
+
+<div class="page">
+  <header class="page__header page__header--full">
+    <h1 class="page-header__title" id="page-title">Topics</h1>
+    <p class="page-header__description">I love to write about <a href="#comics">comics</a>, my weekly <a href="#pull-list">pull list</a>, <em><a href="#star-wars">Star Wars</a></em>, <a href="#movies">movies</a>, <a href="#apple">Apple</a>, and <a href="#tech">technology</a>. I've written a few series over the years you may find interesting too: <a href="#brief-review">Brief Review</a>, <a href="#year-in-review">Year in Review</a>, and <a href="#jekyll-on-heroku">Jekyll on Heroku</a>. <a href="/reviews/">Reviews</a> are on their own page categorized by&nbsp;type.</p>
+  </header>
+
+
+<ul class="groups-list groups-list--full groups-list--space-saver groups-list--4-col">
+{% assign tags_max = 0 %}
+{% for tag in site.tags %}
+  {% if tag[1].size > tags_max %}
+    {% assign tags_max = tag[1].size %}
+  {% endif %}
+{% endfor %}
+{% for i in (1..tags_max) reversed %}
+  {% for tag in site.tags %}
+    {% if tag[1].size == i  %}
+      <li>
+        <a href="#{{ tag[0] | downcase | replace:' ','-' }}" title="{{ i }} posts">
+          {{ tag[0] }}
+          <span>{{ i }}</span>
+        </a>
+      </li>
+    {% endif %}
+  {% endfor %}
+{% endfor %}
+</ul>
+
+<button class="btn btn--primary btn--small" id="groups-list-toggle">
+  View All Topics
+</button>
+
+
+{% assign tags_max = 0 %}
+{% for tag in site.tags %}
+  {% if tag[1].size > tags_max %}
+    {% assign tags_max = tag[1].size %}
+  {% endif %}
+{% endfor %}
+  {% for i in (1..tags_max) reversed %}
+    {% for tag in site.tags %}
+      {% if tag[1].size == i %}
+        <section class="group-section" id="{{ tag[0] | downcase | replace:' ','-' }}">
+            <h2 class="group__name">{{ tag[0] }} <small class="group__count">{{ i }}</small></h2>
+            {% if tag[0] == 'development' %}<p>I used to do this for work, I have a <em>few</em> opinions about it.</p>{% endif %}
+            {% if tag[0] == 'movies' %}<p>I love watching movies, sometimes I write about them.</p>{% endif %}
+            {% if tag[0] == 'brief review' %}<p>My series of reviews that I keep brief.</p>{% endif %}
+            {% if tag[0] == 'Apple' %}<p>It’s not an Apple blog, but I sure do talk about them a lot.</p>{% endif %}
+            {% if tag[0] == 'Jekyll' %}<p>This blog is built with it, so naturally I love to write about it.</p>{% endif %}
+            {% if tag[0] == 'Jekyll on Heroku' %}<p>Series on hosting Jekyll with Heroku.</p>{% endif %}
+            {% if tag[0] == 'Star Wars' %}<p>These <em>are</em> the words you’re looking for.</p>{% endif %}
+            {% if tag[0] == 'NBA' %}<p>Basketball is my favorite sport. I like the way they dribble up and down the court.</p>{% endif %}
+            {% if tag[0] == 'year in review' %}<p>My tradition of reflecting on the past year, and dreaming of what lies ahead.</p>{% endif %}
+            {% if tag[0] == 'CSS' %}<p>The frontend technology I’ve focused my career on.</p>{% endif %}
+            {% if tag[0] == 'review' %}<p>A collection of all the movie, app, product, and book reviews I’ve done.</p>{% endif %}
+            {% if tag[0] == 'reviews' %}<p>These are all reviews I’ve linked to and <strong>were not</strong> written by me.</p>{% endif %}
+            {% if tag[0] == 'comics' %}<p>Writing about comics brings me <em>almost</em> as much joy as reading them.</p>{% endif %}
+            {% if tag[0] == 'pull list' %}<p>The list of comic books I’m buying every week.</p>{% endif
+            %}
+            <ul class="group__post-list group__post-list--2-col">
+              {% for post in tag.last %}
+                <li class="group-post__item">
+                  <a href="{{ post.url }}">{{ post.title | caps | widont }} {% if post.review.type %}{% include star-rating.html rating=post.review.rating %}{% endif %}</a>
+                </li>
+              {% endfor %}
+            </ul>
+            <a href="#page-title" class="group__return-home">Back to Top &uarr;</a>
+        </section>
+      {% endif %}
+  {% endfor %}
+{% endfor %}
+</div>

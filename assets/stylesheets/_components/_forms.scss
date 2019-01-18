@@ -1,0 +1,97 @@
+// -------------------------------
+// FORMS
+// -------------------------------
+
+::-webkit-input-placeholder {
+  color: $light-text-color;
+}
+::-moz-placeholder {
+  color: $light-text-color;
+}
+:-ms-input-placeholder {
+  color: $light-text-color;
+}
+:-moz-placeholder {
+  color: $light-text-color;
+}
+
+// -------------------------------
+// NEWSLETTER INPUT
+// -------------------------------
+.newsletter {
+  form {
+    display: grid;
+    grid-gap: 0.5rem;
+    margin-top: 1rem;
+    @media #{$medium-up} {
+      grid-template-columns: auto auto;
+    }
+  }
+  input {
+    border-radius: $global-radius;
+    color: $body-color;
+    font-size: $ratio-1;
+    max-height: 45px;
+    padding: 0.65rem;
+    transition: 0.2s ease-in-out;
+    width: 100%;
+    &:focus {
+      background: lighten(#feffda, 3%);
+    }
+  }
+  .btn {
+    font-size: $ratio-1;
+    line-height: 1;
+    max-height: 45px;
+    padding-bottom: 0.75rem;
+    padding-top: 0.75rem;
+    width: 100%;
+  }
+  p {
+    line-height: 1.3;
+  }
+}
+
+.newsletter__inputs {
+  display: grid;
+  grid-gap: 0.5rem;
+  grid-template-columns: 1fr 1fr;
+}
+
+// -----------------------------------------
+// SEARCH FORM
+// -----------------------------------------
+
+.search--page {
+  max-width: $wrapper-width;
+  margin-left: auto;
+  margin-right: auto;
+  padding: $ratio2 $ratio1;
+  background-color: darken($light-bg-color, 5%);
+}
+
+.search__input {
+  background-color: transparent;
+  font-family: $font-code;
+  padding: 0.8rem 0.6rem;
+  width: 100%;
+}
+
+.search--footer {
+  .search__input {
+    color: white;
+    border-bottom: 2px solid $primary-color;
+    font-size: $ratio-1;
+    transition: background-color 300ms ease-in-out;
+
+    &:focus {
+      background-color: rgba($primary-color, 0.15);
+    }
+  }
+}
+
+.search__input--secondary {
+  background-color: white;
+  border-bottom: 5px solid $primary-color;
+  padding: 1rem;
+}

@@ -1,0 +1,50 @@
+<footer class="footer" role="contentinfo">
+
+  <div class="footer__description">
+    <a href="/" class="footer-logo">{% include icons/icon-logo.html %}</a>
+    <p>Thanks for making it all the way down here! If this is your first time 'round these parts, I recommend you read <span class="caps"><a href="#">Hello&nbsp;World</a></span>.</p>
+  </div>
+
+  <div class="footer__topics">
+    <h2>Popular Topics</h2>
+    <ul>
+    {% capture tags %}
+      {% for tag in site.tags limit: 9 %}
+        <li data-sort="{{ site.posts.size | minus: tag[1].size | prepend: '0000' | slice: -4, 4 }}">
+          <a href="/topics/#{{ tag[0] | downcase | replace:' ','-' }}">{{ tag[0] | titlecase }}</a>
+        </li>
+      {% endfor %}
+    {% endcapture %}
+    {{ tags | split:'</li>' | sort | join:'</li>' }}
+    <li class="topics-link"><a href="/topics/"><span class="caps">All Topics</span></a></li>
+    </ul>
+  </div>
+
+  <div class="footer__about">
+    <h2>Furthermore</h2>
+    <ul>
+      <li><a href="/about/">About</a></li>
+      <li><a href="/archive/">Archive</a></li>
+      <li><a href="/subscribe/">Subscribe</a></li>
+      <li><a href="/styleguide/">Style Guide</a></li>
+      <li><a href="/contribute/">Contribute</a></li>
+    </ul>
+  </div>
+
+  {% unless page.url == '/search/' %}
+    {% include search-form.html %}
+  {% endunless %}
+
+  <div class="sub-footer">
+    <small><em>Bright Pixels</em> is proudly built with <a href="https://jekyllrb.com/">Jekyll</a> and hosted with <a href="https://www.netlify.com/">Netlify</a>. Made with {% include icons/icon-heart.html css_classes="icon--inline
+    icon--medium" %} in Saint Paul, MN.</small>
+
+    <small>&copy; 2013&ndash;{{ site.time | date: "%Y" }} Timothy B. Smith.</small>
+  </div>
+</footer>
+
+<!-- JS libraries -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/loadCSS/2.0.1/loadCSS.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/loadCSS/2.0.1/cssrelpreload.min.js"></script>
+
+<script src="/assets/app.js"></script>

@@ -1,0 +1,66 @@
+---
+layout: 
+---
+
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <link rel="hub" href="https://pubsubhubbub.appspot.com"/>
+  <title>{{ site.name }}</title>
+  <subtitle>By Timothy B. Smith and Friends</subtitle>
+  <link href="https://brightpixels.blog"/>
+  <link type="application/atom+xml" rel="self" href="https://brightpixels.blog/atom.xml"/>
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <rights>Copyright © 2013–{{ site.time | date: "%Y" }} {{ site.author.name }}</rights>
+  <id>https://brightpixels.blog/</id>
+  {% for author in site.data.authors %}
+    <author>
+      <name>{{ author[1].display_name }}</name>
+      <uri>{{ author[1].web }}</uri>
+      <email>{{ author[1].email }}</email>
+    </author>
+  {% endfor %}
+  {% assign posts = site.posts %}
+  {% for post in posts limit:20 %}
+    <entry>
+      <id>https://brightpixels.blog{{ post.id }}</id>
+      {% if post.custom_type == 'link' %}
+        <link type="text/html" rel="alternate" href="{{ post.link_url }}"/>
+      {% else %}
+        <link type="text/html" rel="alternate" href="https://brightpixels.blog{{ post.url }}"/>
+      {% endif %}
+      <title>{% if post.custom_type == 'link' %}{{ post.title | xml_escape }} →{% else %}{{ post.title | xml_escape }}{% if post.review.type %}{% include head-rating.html%}{% endif %}{% endif %}</title>
+      <published>{{ post.date | date_to_xmlschema }}</published>
+      <updated>{{ post.date | date_to_xmlschema }}</updated>
+      <author>
+        <name>{{ site.data.authors[post.author].display_name }}</name>
+        <uri>{{ site.data.authors[post.author].web }}</uri>
+      </author>
+      <content type="html">
+        <![CDATA[
+          {% if post.subtitle %}
+            <h2>{{ post.subtitle }}</h2>
+          {% endif %}
+          {{ post.content | strip_toc }}
+          {% if post.author != 'timsmith' %}
+            {% assign author = site.data.authors[post.author] %}
+            <p>
+              <a 
+                href="/authors/{{ author.author_path}}/"
+                title="{{ author.display_name }}">
+                {{ author.display_name }}
+              </a>
+              <em>is a {{ author.title | downcase }} for Bright Pixels.</em>
+            </p>
+          {% endif %}
+          {% if post.custom_type == 'link' %}
+            <p><a title="Permalink to ‘{{ post.title }}’" href="{{ site.url | xml_escape }}{{ post.url | xml_escape }}">&#9635;</a></p>
+          {% endif %}
+          {% if post.is_rss_only %}
+          <hr>
+          <p><em>This article is top secret! <a href="https://brightpixels.blog/rss-club/">Read more RSS Club posts.</a></em></p>
+          {% endif %}
+        ]]>
+      </content>
+    </entry>
+  {% endfor %}
+</feed>

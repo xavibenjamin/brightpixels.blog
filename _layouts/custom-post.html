@@ -1,0 +1,34 @@
+---
+class: single
+layout: compress
+---
+
+{% include header.html %}
+
+<main class="main" role="main">
+  <article class="post {% if page.artdirect_type %}type-artdirect{% endif %}">
+    <header class="post__header">
+      <h1 class="post__title">{{ page.title | smartify }}</h1>
+      {% if page.lead %}
+        <h2 class="post__lead">{{ page.lead | smartify }}</h2><!-- /.subheader -->
+      {% endif %}
+    </header>
+
+    <div class="post__entry">
+      {{ content | improve }}
+    </div>
+
+    <footer class="custom-post__footer">
+      <small class="post__meta">
+        {% include small-author.html %}
+        {% include date.html %}
+      </small>
+
+      {% include tags.html %}
+    </footer>
+  </article>
+</main>
+
+{% include footer.html %}
+  </body>
+</html>

@@ -1,0 +1,8 @@
+.bundle/
+/_drafts/sponsor*
+.sass-cache
+_site
+.DS_Store
+.asset-cache
+.jekyll-cache
+  

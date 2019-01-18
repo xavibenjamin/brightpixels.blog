@@ -1,0 +1,53 @@
+---
+title: 'Bright Pixels (@brightpxblog): Star Wars, comics, movies, technology, and other geekery from Tim Smith (@smithtimmytim) and friends.'
+layout: default
+custom_css_class: home
+excerpt: Bright Pixels is a web-column about comics, Star Wars, Apple, technology, movies, and other geekery.
+---
+
+<section class="posts">
+  {% assign filteredPosts = site.posts | where_exp: "item", "item.is_rss_only != true" %}
+  {% for post in filteredPosts limit: 5 %}
+    <article class="posts__post p-body format-{% if post.custom_type %}{{ post.custom_type }}{% endif %} h-entry">
+      {% if post.custom_type == 'post' %}
+      <header class="post__header">
+        <h1 class="p-name">
+          <a href="{{ post.url }}">{{ post.title | smartify | widont }}</a>
+        </h1>
+        {% if post.subtitle %}
+        <h2 class="post__subtitle">{{ post.subtitle | smartify | widont }}</h2>
+        {% endif %}
+
+        {% if post.review.type %}
+          {% include star-rating.html rating=post.review.rating %}
+        {% endif %}
+      </header>
+    
+      <div class="e-content">{{ post.content | improve }}</div>
+
+    {% elsif post.custom_type == 'link' %}
+      <header class="post__header">
+        <h1 class="p-name">
+          <a href="{{ post.link_url }}">{{ post.title | smartify | widont }}</a>
+        </h1>
+      </header>
+    
+      <div class="e-content">{{ post.content | improve }}</div>
+
+    {% endif %}
+
+      <footer class="post__footer">
+        {% include small-author.html %}
+        <a class="post__permalink" href="{{ post.url}}" title="Permalink to {{ post.title }}"><time class="dt-published" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %d" }}</time></a>
+        {% include tags.html %}
+      </footer>
+
+    </article>
+  {% endfor %}
+</section>
+
+<div class="archive-link">
+  <a href="/archive/" class="btn btn--primary">Visit Full Archive</a>
+</div>
+
+<a href="mailto:smith@ttimsmith.com" class="screen-reader-hide" rel="me">smith@ttimsmith.com</a>

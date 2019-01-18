@@ -1,0 +1,21 @@
+---
+layout: compress
+---
+
+{% include head.html %}
+
+    {% include header.html %}
+
+
+    <main class="main">
+      {{ content }}
+    </main>
+
+    {% include footer.html %}
+        
+    {% if jekyll.environment == "production" %}
+      {% include service-worker.html %}
+      <div class="offline-ready">Site is ready for Offline Use</div>
+    {% endif %}
+  </body>
+</html>

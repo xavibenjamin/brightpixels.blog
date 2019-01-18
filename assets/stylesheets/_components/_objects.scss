@@ -1,0 +1,127 @@
+// -------------------------------
+// OBJECTS
+// -------------------------------
+
+// Responsive iFrame -------------
+
+.iframe-container {
+  height: 0;
+  margin-bottom: 2rem;
+  margin-top: 2rem;
+  padding-bottom: 56.25%;
+  padding-top: 30px;
+  position: relative;
+}
+
+.iframe-container iframe,
+.iframe-container object,
+.iframe-container embed {
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+
+// Card --------------------------
+// Basically a reusable panel that
+// sits behind anything.
+// -------------------------------
+
+.card {
+  padding: 3.5rem 0;
+
+  @media #{$medium-up} {
+    border-radius: $global-radius;
+  }
+
+  h2 {
+    margin-top: 0;
+  }
+}
+
+.card--large {
+  margin: 2.2rem 0;
+}
+
+.card--light {
+  background-color: $light-bg-color;
+  color: $body-color;
+
+  h2 {
+    color: $heading-color;
+  }
+}
+
+// Slash List --------------------
+// List component with little sla-
+// shes in between items.
+// -------------------------------
+
+.slash-list {
+  display: flex;
+  flex-wrap: wrap;
+
+  li {
+    align-items: center;
+    display: flex;
+    font-size: $ratio-1;
+    line-height: 1.2;
+
+    + li {
+      &:before {
+        color: $light-text-color;
+        content: '/';
+        margin-left: 0.6rem;
+        margin-right: 0.6rem;
+      }
+    }
+  }
+}
+
+.slash-list__title {
+  line-height: 1;
+  font-size: $ratio-1;
+  margin-bottom: 0.4rem;
+  margin-top: 0;
+}
+
+// -----------------------------------------
+// CARBON AD STYLES
+// -----------------------------------------
+
+.bc-ad-container {
+  margin-bottom: 2.2rem;
+  @media #{$medium-up} {
+    margin-bottom: 4rem;
+  }
+}
+
+.carbon-wrap {
+  a {
+    color: $body-color;
+    font-weight: normal;
+    text-decoration: none;
+  }
+}
+
+.carbon-img {
+  display: block;
+}
+
+.carbon-text {
+  display: block;
+  font-size: $ratio-2;
+  line-height: 1.5;
+  text-align: left;
+  margin-top: $ratio-2;
+}
+
+.carbon-poweredby {
+  display: block;
+  font-size: $ratio-2;
+  line-height: 1;
+  margin-top: $ratio-2;
+  text-decoration: none;
+  text-transform: uppercase;
+}

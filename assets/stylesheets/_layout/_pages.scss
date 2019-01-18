@@ -1,0 +1,114 @@
+// -------------------------------
+// PAGES
+// -------------------------------
+
+.page {
+  @media #{$medium-up} {
+    padding: 0 2rem;
+  }
+}
+
+.page__header {
+  margin-bottom: 2rem;
+}
+
+.page__header--full {
+  @media #{$small-only} {
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+  }
+}
+
+.page-header__title {
+  color: $heading-color;
+  font-size: $ratio2;
+  font-weight: 400;
+  margin-bottom: 0.2rem;
+}
+
+.page-header__description {
+  color: lighten($body-color, 20%);
+  font-family: $font-display;
+  font-size: $ratio1;
+  line-height: 1.35;
+}
+
+// -----------------------------------------
+// AUTHOR PAGE
+// -----------------------------------------
+
+.author {
+  display: grid;
+  grid-column-gap: 1rem;
+  grid-template-columns: 75px auto;
+  margin-bottom: 3rem;
+
+  @media #{$medium-up} {
+    grid-column-gap: 1.4rem;
+    grid-template-columns: 200px minmax(auto, 35rem);
+  }
+}
+
+.author--single {
+  @media #{$small-only} {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 90%;
+  }
+
+  .author__picture {
+    grid-row: span 3;
+  }
+
+  .author__name {
+    font-size: $ratio2;
+    font-weight: 600;
+    color: $heading-color;
+    margin: 0;
+  }
+
+  .author__title {
+    color: lighten($body-color, 15%);
+    font-size: $ratio1;
+    margin-bottom: 0;
+    margin-top: 0;
+    text-transform: none;
+
+    &:before {
+      content: none;
+    }
+
+    @media #{$medium-up} {
+      margin-bottom: 0.6rem;
+    }
+  }
+
+  .author__bio {
+    line-height: 1.6;
+
+    @media #{$small-only} {
+      display: none;
+    }
+  }
+
+  .author-profiles {
+    grid-column: 2;
+    margin-top: 1.8rem;
+  }
+}
+
+// -----------------------------------------
+// SEARCH PAGE
+// -----------------------------------------
+
+.search__results {
+  h2 {
+    line-height: 1.4;
+    margin-bottom: 0.6rem;
+  }
+
+  .no-results {
+    margin-top: 1rem;
+  }
+}

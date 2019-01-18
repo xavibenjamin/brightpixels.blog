@@ -1,0 +1,154 @@
+// -------------------------------
+// FOOTER
+// -------------------------------
+
+$footer-light-text-color: lighten($light-text-color, 10%);
+
+.footer {
+  background-color: $secondary-color;
+  color: $footer-light-text-color;
+  padding: 2rem;
+
+  display: grid;
+  grid-gap: 1.4rem;
+  grid-template-areas:
+    'about'
+    'topics'
+    'furthermore'
+    'search'
+    'subfooter';
+
+  @media #{$medium-up} {
+    grid-template-columns: 3fr 2fr 1fr;
+    grid-gap: 2rem 2rem;
+    grid-template-areas:
+      'about topics furthermore'
+      'search search .'
+      'subfooter subfooter subfooter';
+  }
+
+  @media #{$large-up} {
+    grid-template-columns: 1fr 14rem 14rem;
+    grid-gap: 2rem 3rem;
+    grid-template-areas:
+      'about topics furthermore'
+      'search . .'
+      'subfooter subfooter subfooter';
+  }
+
+  p {
+    line-height: 1.5;
+    font-size: 0.85rem;
+  }
+
+  .icon {
+    fill: $primary-color;
+  }
+
+  a {
+    color: white;
+    font-weight: normal;
+    text-decoration: none;
+    &:hover,
+    &:focus {
+      color: lighten($link-color, 10%);
+    }
+  }
+}
+
+.footer__description {
+  grid-area: about;
+}
+
+.footer-logo {
+  display: grid;
+  width: 12rem;
+  margin-bottom: 0.8rem;
+
+  .icon-logo {
+    fill: $primary-color;
+  }
+}
+
+.search--footer {
+  grid-area: search;
+}
+
+.footer__topics h2,
+.footer__about h2 {
+  color: $footer-light-text-color;
+  border-bottom: 2px solid $footer-light-text-color;
+  padding-bottom: 0.4rem;
+  font-size: $ratio-1;
+  margin-bottom: $ratio-2;
+  text-transform: uppercase;
+}
+
+.footer__topics {
+  grid-area: topics;
+
+  ul {
+    column-count: 2;
+    li {
+      font-size: $ratio-1;
+      + li {
+        margin-top: 0.4rem;
+      }
+    }
+  }
+
+  .topics-link {
+    text-transform: uppercase;
+    a {
+      border-bottom: 1px solid $primary-color;
+    }
+  }
+}
+
+.footer__about {
+  grid-area: furthermore;
+
+  ul {
+    li {
+      font-size: $ratio-1;
+      + li {
+        margin-top: 0.4rem;
+      }
+    }
+  }
+}
+
+.sub-footer {
+  grid-area: subfooter;
+  text-align: center;
+
+  small {
+    display: block;
+    font-size: $ratio-2;
+    line-height: 1.6;
+    margin-top: 0.4rem;
+    max-width: 16rem;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+.offline-ready {
+  background: #cfe8c6;
+  bottom: 0;
+  color: darken(#cfe8c6, 50%);
+  display: none;
+  font-size: $ratio-1;
+  font-weight: 600;
+  left: 0;
+  padding: 0.8rem;
+  position: fixed;
+  right: 0;
+  text-align: center;
+  text-transform: uppercase;
+  z-index: 5;
+
+  &.active {
+    display: block;
+  }
+}

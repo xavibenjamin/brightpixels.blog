@@ -1,0 +1,30 @@
+{% if site.related_posts.size >= 1 %}
+<div class="related-posts">
+  <h5 class="related-posts__title">Read Next</h5>
+  <ul>
+  {% for post in site.related_posts limit: 2 %}
+    <li class="post-list__item">
+      <div class="related__text">
+        <div class="related__meta">
+          <small class="related__date">
+            <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %d, %Y" }}</time>
+          </small>
+          <ul class="post__topics">
+            {% assign sortedTags = post.tags | sort %}
+            {% for tag in sortedTags limit: 3 %}
+              <li class="topic">
+                <a href="/topics/#{{ tag | downcase | replace:' ','-'}}" title="Posts tagged {{ tag }}">#{{ tag }}</a>
+              </li>
+            {% endfor %}
+          </ul>
+        </div>
+        <a href="{{ post.url }}" title="{{ post.title | smartify }}"><span class="related__title">{{ post.title | smartify | widont }}</span> {% if post.review.type %}{% include star-rating.html rating=post.review.rating %}{% endif %}</a>
+        {% if post.subtitle %}<p class="related__subtitle">{{ post.subtitle | smartify | widont }}</p>{% endif %}
+      </div>
+        
+      {% if post.featured_image %}<a class="related__image" href="{{ post.url }}" title="{{ post.title | smartify }}"><img src="{{ post.featured_image }}" alt="Thumbnail for {{ post.title }}"></a>{% endif %}
+    </li>
+  {% endfor %}
+  </ul>
+</div>
+{% endif %}

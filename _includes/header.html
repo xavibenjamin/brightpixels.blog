@@ -1,0 +1,20 @@
+<header class="header" role="banner">
+
+  {% if page.url == '/' %}
+  <div class="site__branding">
+    <p class="header__byline"><span class="caps">Timothy B. Smith Presents</span></p>
+    <a href="/" class="logo">
+      {% include icons/icon-logo.html %}
+    </a>
+
+    <p class="header__description">{{ site.description | widont }}</p>
+  </div>
+
+  <a class="header__subscribe" href="/subscribe/">Subscribe</a>
+  {% else %}
+  <a href="/" class="logo-monogram">
+    {% include icons/icon-logo-monogram.html %}
+  </a>
+  {% endif %}
+
+</header>

@@ -1,0 +1,25 @@
+{% if include.page == 'true' %}
+  {% assign myPage = page %}
+{% else %} 
+  {% assign myPage = post %}
+{% endif %}
+
+{% if myPage.review.rating == 1 %}
+  ★
+{% elsif myPage.review.rating == 1.5 %}
+  ★½
+{% elsif myPage.review.rating == 2 %}
+  ★★
+{% elsif myPage.review.rating == 2.5 %}
+  ★★½
+{% elsif myPage.review.rating == 3 %}
+  ★★★
+{% elsif myPage.review.rating == 3.5 %}
+  ★★★½
+{% elsif myPage.review.rating == 4 %}
+  ★★★★
+{% elsif myPage.review.rating == 4.5 %}
+  ★★★★½
+{% elsif myPage.review.rating == 5 %}
+  ★★★★★
+{% endif %}

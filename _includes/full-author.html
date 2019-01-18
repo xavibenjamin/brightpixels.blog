@@ -1,0 +1,34 @@
+{% assign author = site.data.authors[page.author] %}
+{% capture author_pic_filename %}authors/{{ author.author_path }}.jpg{% endcapture %}
+
+<header class="author author--single">
+  {% if author.gravatar %}
+    <img src="//gravatar.com/avatar/{{ author.gravatar}}?s=500" alt="Picture of {{ author.display_name }}" class="author__picture" height="200" width="200" />
+  {% else %}
+    {% if jekyll.environment == "production" %}
+
+    <img
+      src="{{ author_pic_filename | imgix_url: w: 400, q: 70 }}"
+      class="author__picture"
+      alt="Picture of {{ author.display_name }}"
+      height="200"
+      width="200" />
+    {% else %}
+    <img
+      src="{{ site.url }}/uploads/authors/{{ author.author_path }}.jpg"
+      class="author__picture"
+      alt="Picture of {{ author.display_name }}"
+      height="200"
+      width="200" />
+    {% endif %}
+  {% endif %}
+   
+  <h1 id="page-title" class="author__name">{{ author.display_name }}</h1>
+  <h2 class="author__title">{{ author.title | markdownify | remove: '<p>' }}</h2>
+
+  <p class="author__bio">{{ author.bio | markdownify | remove: '<p>'  | remove: '</p>' }}</p>
+  
+  {% unless author.author_path == 'kellysmith' %}
+    {% include author-profiles.html %}
+  {% endunless %}
+</header>

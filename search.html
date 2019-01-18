@@ -1,0 +1,47 @@
+---
+title: Search
+layout: compress
+excerpt: Search Bright Pixels.
+---
+
+
+
+{% include head.html %}
+
+    {% include header.html %}
+
+    {% include search-form.html %}
+    <main class="main">
+      <div class="p-body">
+        <ul class="search__results" id="search-results"></ul>
+
+        <!-- Let's create our index -->
+        <script>
+          window.store = {
+            {% for post in site.posts %}
+              "{{ post.url | slugify }}": {
+                "title": "{{ post.title | xml_escape | widont }}",
+                "author": "{{ post.author | xml_escape }}",
+                "category": "{{ post.category | xml_escape }}",
+                "content": {{ post.content | strip_html | strip_newlines | jsonify }},
+                "url": "{{ post.url | xml_escape }}"
+              }
+              {% unless forloop.last %},{% endunless %}
+            {% endfor %}
+          };
+        </script>
+      </div>
+    </main>
+
+    {% include footer.html %}
+        
+    {% if jekyll.environment == "production" %}
+      {% include service-worker.html %}
+      <div class="offline-ready">Site is ready for Offline Use</div>
+    {% endif %}
+
+    <!-- JS to make this work -->
+    <script src="https://unpkg.com/lunr/lunr.js"></script>
+    <script src="/assets/search.js"></script>
+  </body>
+</html>

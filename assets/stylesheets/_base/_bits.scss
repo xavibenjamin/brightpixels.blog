@@ -1,0 +1,73 @@
+// -----------------------------------------
+// BITS
+// -----------------------------------------
+
+// COLORS ------------------------
+$primary-color: #ff008f;
+$secondary-color: #161f2d;
+$alt-color: #ffe000;
+
+// TEXT COLOR --------------------
+$body-color: lighten($secondary-color, 20%);
+$heading-color: $secondary-color;
+$light-text-color: lighten($body-color, 20%);
+$highlight-color: #fffedb;
+$link-color: #0993cb;
+$link-underline: lighten(saturate($link-color, 10%), 40%);
+
+// BG AND BORDER COLORS ----------
+$border-color: lighten($secondary-color, 76%);
+$light-bg-color: lighten($secondary-color, 81%);
+
+// GLOBAL RADIUS
+$global-radius: 2px;
+
+// -----------------------------------------
+// MEDIA QUERIES
+// -----------------------------------------
+
+$small-only: 'screen and (max-width: 39.9375em)';
+$medium-up: 'screen and (min-width: 40em)';
+$medium-only: 'screen and (min-width: 40em) and (max-width: 63.9375em)';
+$large-up: 'screen and (min-width: 64em)';
+$large-only: 'screen and (min-width: 64em) and (max-width: 74.9375em)';
+$large-up: 'screen and (min-width: 64em)';
+$xlarge-up: 'screen and (min-width: 90.063em)';
+$xlarge-only: 'screen and (min-width: 90.063em) and (max-width: 120em)';
+$xxlarge-up: 'screen and (min-width: 120.063em)';
+
+// -----------------------------------------
+// TYPOGRAPHY
+// -----------------------------------------
+
+$font-text: Whitney SSm A, Whitney SSm B, system, -apple-system,
+  BlinkMacSystemFont, Avenir, sans-serif;
+$font-small: Whitney SSm SmallCaps A, Whitney SSm SmallCaps B, system,
+  -apple-system, BlinkMacSystemFont, Avenir, sans-serif;
+$font-display: Whitney A, Whitney B, system, -apple-system, BlinkMacSystemFont,
+  Avenir, sans-serif;
+$font-code: Operator SSm A, Operator SSm B, Operator Mono, monospace;
+
+$base-font-size: 17px;
+
+// -----------------------------------------
+// SPACING RATIO
+// -----------------------------------------
+
+$ratio: 1rem;
+
+$ratio-1: 0.75rem;
+$ratio-2: 0.65rem;
+$ratio-3: 0.4rem;
+
+$ratio1: 1.3rem;
+$ratio2: 2.4rem;
+
+// -----------------------------------------
+// Content Widths
+// -----------------------------------------
+
+$text-width: 35.2rem;
+
+$content-width: $text-width * 1.25;
+$wrapper-width: $content-width * 1.35;

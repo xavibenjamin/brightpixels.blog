@@ -1,0 +1,26 @@
+// -----------------------------------------
+// REVIEW INFO
+// -----------------------------------------
+// Styles for the info that you see on rev-
+// iew posts.
+// -----------------------------------------
+
+.star__rating {
+  width: 5.4rem;
+  .post__header & {
+    margin-top: 0.8rem;
+  }
+
+  .p-body h2 &,
+  .p-body h3 & {
+    width: 4.2em;
+  }
+}
+
+.star--empty {
+  fill: lighten($light-text-color, 30%);
+}
+
+.star--filled {
+  fill: $primary-color;
+}

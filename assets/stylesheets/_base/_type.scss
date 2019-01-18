@@ -1,0 +1,228 @@
+// -------------------------------
+// TYPE
+// -------------------------------
+
+html {
+  font-size: calc(#{$base-font-size} + 0.25vw);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+  color: $body-color;
+  font-family: $font-text;
+  -webkit-hyphens: auto;
+  hyphens: auto;
+  line-height: 1.4;
+}
+
+// HEADINGS ----------------------
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: $font-display;
+  line-height: 1.3;
+}
+
+h1,
+h2,
+h5 {
+  color: $heading-color;
+}
+
+// TEXT --------------------------
+
+p {
+  font-size: $ratio;
+  line-height: 1.7;
+  + p {
+    margin-top: 1rem;
+  }
+}
+
+h1 {
+  line-height: 1.1;
+}
+
+h2 {
+  font-size: $ratio1;
+  font-weight: 700;
+  line-height: 1.2;
+  margin-top: $ratio1;
+  margin-bottom: $ratio-3;
+  + h3 {
+    margin-top: $ratio1;
+  }
+}
+
+h3 {
+  color: lighten($heading-color, 10%);
+  font-size: $ratio;
+  font-weight: 700;
+  margin-top: $ratio2;
+  margin-bottom: $ratio-3;
+  text-transform: uppercase;
+}
+
+h5 {
+  font-size: $ratio-1;
+  font-weight: 600;
+  margin: 3rem 0 0.6rem;
+  text-transform: uppercase;
+
+  &:before {
+    background-color: $border-color;
+    content: '';
+    display: block;
+    height: 1px;
+    margin-bottom: 5px;
+    width: 90px;
+  }
+}
+
+.p-body > ul:not(.slash-list):not(.author-archive):not(.search__results),
+.e-content > ul,
+blockquote > ul {
+  list-style-type: circle;
+  margin-bottom: 1.1rem;
+  margin-left: 2rem;
+  margin-top: 1.1rem;
+  li {
+    font-size: $ratio;
+    line-height: 1.7;
+
+    + li {
+      margin-top: 0.6rem;
+    }
+
+    ul {
+      list-style: square;
+      margin-left: 1rem;
+      margin-top: 0.5rem;
+    }
+  }
+  > li {
+    margin-left: 1.6rem;
+    padding-left: 4px;
+  }
+}
+
+.p-body > ol,
+.e-content > ol,
+blockquote > ol {
+  list-style-type: decimal-leading-zero;
+  margin-bottom: 1.1rem;
+  margin-left: 2rem;
+  margin-top: 1.1rem;
+  li {
+    font-size: $ratio;
+    line-height: 1.7;
+
+    + li {
+      margin-top: 0.6rem;
+    }
+
+    ol {
+      list-style-type: lower-roman;
+      margin-left: 1rem;
+      margin-top: 0.5rem;
+    }
+  }
+  > li {
+    margin-left: 1.6rem;
+    padding-left: 4px;
+  }
+}
+
+// INLINE TYPE -------------------
+
+strong {
+  font-weight: 600;
+  em {
+    font-style: italic;
+    font-weight: 600;
+  }
+}
+
+em,
+cite {
+  font-style: italic;
+  font-weight: inherit;
+}
+
+mark {
+  color: $body-color;
+  background-color: $highlight-color;
+  padding: 0 3px;
+}
+
+sup {
+  font-size: $ratio-1;
+}
+
+p,
+li,
+figcaption,
+.post__date {
+  .caps {
+    font-family: $font-small;
+  }
+}
+
+// BLOCKQUOTE --------------------
+blockquote {
+  border-left: 4px solid $primary-color;
+  color: $light-text-color;
+  margin-bottom: 1.1rem;
+  margin-top: 1.1rem;
+  padding-left: 0.75rem;
+  > blockquote {
+    margin-left: 0;
+  }
+  > ul {
+    margin-left: 0;
+    @media #{$large-up} {
+      margin-left: 1.3rem;
+    }
+  }
+  > ol {
+    margin-left: 0;
+    @media #{$small-only} {
+      margin-left: 0.3rem;
+    }
+    @media #{$medium-only} {
+      margin-left: 0.3rem;
+    }
+  }
+}
+
+// HR ----------------------------
+hr {
+  border: solid $border-color;
+  border-width: 1px 0 0;
+  display: block;
+  height: 0;
+  margin: 1.8rem auto;
+  padding: 0;
+}
+
+// LINKS -------------------------
+
+a {
+  color: $link-color;
+  font-weight: 600;
+  -webkit-hyphens: none;
+  hyphens: none;
+  text-decoration: underline;
+  text-decoration: underline solid $link-underline;
+  text-decoration-skip: ink;
+  transition: color 0.2s ease-in-out;
+  &:hover,
+  &:focus {
+    text-decoration: underline solid $link-color;
+  }
+}
