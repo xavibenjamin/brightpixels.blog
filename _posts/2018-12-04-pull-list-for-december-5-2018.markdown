@@ -2,9 +2,8 @@
 title: Pull List for December 5, 2018
 seo_title: 'Shazam! #1 - Pull List for December 5, 2018'
 date: 2018-12-04 00:09:00 -06:00
-tags:
-- comics
-- pull list
+categories:
+- Comics
 custom_type: post
 excerpt: Comics I read last week, and ones I'm picking up this week
 featured_image: "/uploads/pull-list-12-05-2018.jpg"

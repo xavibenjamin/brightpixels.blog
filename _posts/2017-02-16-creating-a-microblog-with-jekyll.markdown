@@ -1,10 +1,8 @@
 ---
 title: Creating a Microblog with Jekyll
 date: 2017-02-16 21:21:00 -06:00
-tags:
-- Microblogging with Jekyll
-- Jekyll
-- development
+categories:
+- Code
 custom_type: post
 ---
 

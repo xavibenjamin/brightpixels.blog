@@ -1,10 +1,6 @@
 ---
 title: BlackBerry Receives Buyout Offer
 date: 2013-09-23 12:50:07 -05:00
-tags:
-- BlackBerry
-layout: post
-custom_type: link
 link_url: http://www.theverge.com/2013/9/23/4762666/blackberry-receives-buyout-offer
 categories:
 - Tech
