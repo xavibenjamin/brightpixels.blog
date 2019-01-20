@@ -1,8 +1,8 @@
 ---
-title: 'The Best Photo Management Solution: iCloud Photos | The Sweet Setup'
+title: 'The Best Photo Management Solution: iCloud Photos'
 date: 2018-09-21 18:28:00 -05:00
-tags:
-- photography
+categories:
+- Photography
 link_url: https://thesweetsetup.com/apps/best-photo-management-solution/
 ---
 

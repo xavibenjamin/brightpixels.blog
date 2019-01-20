@@ -1,12 +1,9 @@
 ---
 title: "‘Fired? Speak No Evil’"
 date: 2014-01-06 12:36:25 -06:00
-tags:
-- management
-- work
-layout: post
-custom_type: link
 link_url: http://www.nytimes.com/2014/01/03/opinion/fired-speak-no-evil.html
+categories:
+- Business
 ---
 
 Will Blyte writing for *The New York Times*:

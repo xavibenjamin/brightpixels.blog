@@ -1,10 +1,8 @@
 ---
-title: Bendis and Walker’s New Hero Will Uncover a Secret That Impacts the Entire
-  DC Universe | AiPT!
+title: Bendis and Walker’s New Hero Will Uncover a Secret That Impacts the Entire DC Universe
 date: 2018-10-08 00:44:00 -05:00
-tags:
-- DC Comics
-- comics
+categories:
+- Comics
 excerpt: While I currently don't read anything DC, this new series from Brian Michael
   Bendis looks intriguing.
 link_url: http://www.adventuresinpoortaste.com/2018/10/07/nycc-2018-bendis-and-campbells-new-wonder-comics-hero-will-uncover-a-secret-that-impacts-the-entire-dc-universe/

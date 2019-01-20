@@ -1,11 +1,9 @@
 ---
-title: Review of Brian Michael Bendis’ Latest Comic ‘Cover’
+title: DC's Newest Jinxworld Comic Is the Best Yet
 date: 2018-10-16 05:30:00 -05:00
-tags:
-- comics
-- reviews
-excerpt: Brian Michael Bendis' new comic Cover, has a great premise and unconventional
-  (yet beautiful) art.
+categories:
+- Comics
+excerpt: Brian Michael Bendis' new comic Cover, has a great premise and unconventional (yet beautiful) art.
 link_url: http://www.ign.com/articles/2018/09/06/dcs-newest-jinxworld-comic-is-the-best-yet-cover-1-review
 featured_image: "/uploads/cover-comic-featured.jpg"
 ---

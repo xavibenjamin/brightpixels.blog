@@ -1,9 +1,8 @@
 ---
 title: 'A Sneak Peek at Star Wars: Galaxy’s Edge'
 date: 2018-12-31 11:15:00 -06:00
-tags:
+categories:
 - Star Wars
-- Disney
 custom_type: post
 featured_image: "/uploads/galaxys-edge-featured.jpg"
 ---

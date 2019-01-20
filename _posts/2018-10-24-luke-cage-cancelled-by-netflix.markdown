@@ -1,8 +1,7 @@
 ---
 title: "‘Luke Cage’ Cancelled by Netflix"
 date: 2018-10-24 05:50:00 -05:00
-tags:
-- Marvel
+categories:
 - TV
 excerpt: Shocking news.
 link_url: https://www.cbr.com/netflix-marvels-luke-cage-canceled/

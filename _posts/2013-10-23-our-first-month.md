@@ -1,11 +1,9 @@
 ---
 title: A Look Back on Our First Month
 date: 2013-10-23 12:48:50 -05:00
-tags:
-- site news
-- from the editor
-layout: post
 custom_type: post
+categories:
+- From the Editor
 ---
 
 A month ago today, I launched *The Bold Report*. I'm so glad I did it, and we've had some pretty great growth in our first month!

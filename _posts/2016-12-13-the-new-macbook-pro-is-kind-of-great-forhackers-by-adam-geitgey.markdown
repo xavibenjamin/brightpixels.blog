@@ -1,10 +1,8 @@
 ---
-title: The New MacBook Pro Is Kind of Great for Hackers by Adam Geitgey
+title: The New MacBook Pro Is Kind of Great for Hackers
 date: 2016-12-13 07:18:00 -06:00
-tags:
+categories:
 - Apple
-- MacBook Pro
-custom_type: link
 link_url: https://medium.com/@ageitgey/the-new-macbook-pro-is-kind-of-great-for-hackers-64c1c577a4d2
 ---
 

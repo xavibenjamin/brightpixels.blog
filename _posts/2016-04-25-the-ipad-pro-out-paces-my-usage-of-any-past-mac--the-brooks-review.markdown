@@ -1,11 +1,9 @@
 ---
-title: The iPad Pro Out Paces My Usage of Any Past Mac | The Brooks Review
+title: The iPad Pro Out Paces My Usage of Any Past Mac
 date: 2016-04-25 14:41:00 -05:00
-tags:
-- iPad
-layout: post
-custom_type: link
 link_url: https://brooksreview.net/2016/04/usage/
+categories:
+- Apple
 ---
 
 Ben Brooks:

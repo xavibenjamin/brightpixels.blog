@@ -1,9 +1,8 @@
 ---
-title: Marriott breach leaves 500 million exposed with passport, card numbers stolen
+title: Marriott Breach Leaves 500 Million Exposed
 date: 2018-12-03 05:41:00 -06:00
-tags:
-- tech
-- security
+categories:
+- Tech
 link_url: https://arstechnica.com/information-technology/2018/11/marriott-breach-leaves-500-million-exposed-with-passport-card-numbers-stolen/
 ---
 

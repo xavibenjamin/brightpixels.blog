@@ -1,9 +1,9 @@
 ---
 title: Jeremy Keith on ‘The Force Awakens’
 date: 2016-01-10 20:25:26 -06:00
-layout: post
-custom_type: link
 link_url: https://adactio.com/journal/10067
+categories:
+- Star Wars
 ---
 
 Yep, more Star Wars. Here’s Jeremy Keith:

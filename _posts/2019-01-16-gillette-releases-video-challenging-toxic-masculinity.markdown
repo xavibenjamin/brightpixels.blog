@@ -1,10 +1,8 @@
 ---
 title: Gillette Releases Video Challenging Toxic Masculinity
 date: 2019-01-16 11:17:00 -06:00
-tags:
-- masculinity
-- life
-- philosophy
+categories:
+- Life
 custom_type: post
 ---
 

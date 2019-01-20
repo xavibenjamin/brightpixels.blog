@@ -1,12 +1,9 @@
 ---
-title: The Difference Between “Remote” and “Remote-First” | ReadThink
+title: The Difference Between “Remote” and “Remote-First”
 date: 2016-09-28 00:00:00 -05:00
-tags:
-- remote work
-- work
-layout: post
-custom_type: link
 link_url: https://readthink.com/the-difference-between-remote-and-remote-first-7dd38458855f?gi=bc9be0e8887e
+categories:
+- Business
 ---
 
 Paul Farnell on the misconception that remote work prevents collaboration:

@@ -1,9 +1,9 @@
 ---
 title: Scheduled Posts in Jekyll with Zapier
+seo_title: Schedule Posts with Jekyll and Zapier
 date: 2018-10-16 11:50:00 -05:00
-tags:
-- development
-- Jekyll
+categories:
+- Code
 custom_type: post
 subtitle: Turned out to be a lot less difficult than anticipated
 ---

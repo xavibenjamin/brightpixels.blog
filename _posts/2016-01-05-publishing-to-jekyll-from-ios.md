@@ -1,13 +1,10 @@
 ---
 title: Publishing To Jekyll From iOS
 date: 2016-01-05 01:25:00 -06:00
-tags:
-- development
-- Jekyll
-- iOS
-layout: post
 custom_type: post
 subtitle: Finding a relatively easy setup for publishing on iOS
+categories:
+- Code
 ---
 
 **Disclaimer:** This method will only work if you have an external build process. If you host your Jekyll site on Github pages, for example, you're good to go. If you'd like to learn how to setup your site to deploy and build on something like Heroku, [I wrote about that](/2015/06/hosting-a-jekyll-site-on-heroku/). [Netlify](https://www.netlify.com/) is a great option too.

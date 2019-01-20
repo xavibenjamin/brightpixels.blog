@@ -1,9 +1,8 @@
 ---
 title: Leaked Emails Prove Facebook Is Creepy as Hell
 date: 2018-12-11 17:10:00 -06:00
-tags:
-- tech
-- privacy
+categories:
+- Tech
 custom_type: post
 excerpt: Thank goodness I left Facebook.
 featured_image: "/uploads/facebook-markz-featured.jpg"

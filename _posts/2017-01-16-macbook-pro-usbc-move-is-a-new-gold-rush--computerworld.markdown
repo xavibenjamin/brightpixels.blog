@@ -1,12 +1,9 @@
 ---
-title: MacBook Pro USB-C Move Is a New Gold Rush | Computerworld
+title: MacBook Pro USB-C Move Is a New Gold Rush
 date: 2017-01-16 15:08:00 -06:00
-tags:
-- displays
-- MacBook Pro
-- tech
-custom_type: link
 link_url: http://www.computerworld.com/article/3154468/apple-mac/macbook-pro-usb-c-move-is-a-new-gold-rush.html
+categories:
+- Apple
 ---
 
 Jonny Evans writing for *Computerworld*:

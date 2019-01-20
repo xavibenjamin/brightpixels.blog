@@ -1,9 +1,9 @@
 ---
-title: "‘Hamburger, Hamburger, Hamburger’"
+title: Hamburger, Hamburger, Hamburger
 date: 2016-01-22 09:25:00 -06:00
-layout: post
-custom_type: link
 link_url: https://adactio.com/journal/1012
+categories:
+- Design
 ---
 
 Jeremy Keith gives the definitive answer on whether the hamburger icon is good or bad:

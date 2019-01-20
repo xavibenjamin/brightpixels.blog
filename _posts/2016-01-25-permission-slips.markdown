@@ -1,9 +1,9 @@
 ---
-title: "‘Permission Slips’"
+title: Permission Slips
 date: 2016-01-25 01:37:00 -06:00
-layout: post
-custom_type: link
 link_url: http://emilymall.blogspot.com/2016/01/permission-slips.html
+categories:
+- Life
 ---
 
 Emily Mall:
@@ -12,4 +12,4 @@ Emily Mall:
 
 Emily tackles the interesting topic of adult permission slips. I'd never thought of this in this way, but boy does it make sense. You grow up dreaming of all the things you'll do when you become an adult; when you have the freedom to choose for yourself. Then, years later, you realize that you yourself are the biggest obstacle. You don't give yourself permission.
 
-After reading, I'm vowing to give myself permission for more things. 
+After reading, I'm vowing to give myself permission for more things.

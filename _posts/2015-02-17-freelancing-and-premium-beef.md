@@ -1,12 +1,9 @@
 ---
-title: "‘Freelancing and Premium Beef’"
+title: Freelancing and Premium Beef
 date: 2015-02-17 10:59:19 -06:00
-tags:
-- freelancing
-- business
-layout: post
-custom_type: link
 link_url: http://andyadams.org/freelancing-premium-beef/
+categories:
+- Business
 ---
 
 Andy Adams:

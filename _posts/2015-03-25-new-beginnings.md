@@ -1,11 +1,9 @@
 ---
 title: New Beginnings
 date: 2015-03-25 12:37:24 -05:00
-tags:
-- jobs
-- personal
-layout: post
 custom_type: post
+categories:
+- Life
 ---
 
 For the past two years, I've run my own business, [Anythin’ Goes](http://anythingo.es/). I've been so incredibly happy to work on some awesome projects with great people. On Monday, I begin a new chapter.

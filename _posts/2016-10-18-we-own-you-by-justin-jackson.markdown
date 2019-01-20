@@ -1,12 +1,8 @@
 ---
-title: We own you by Justin Jackson
+title: We Own You
 date: 2016-10-18 11:57:00 -05:00
-tags:
-- jobs
-- work
-- work life
-layout: post
-custom_type: link
+categories:
+- Life
 link_url: https://medium.com/mega-maker/we-own-you-9a97819ad292
 ---
 

@@ -1,11 +1,9 @@
 ---
-title: New York Knicks Trade Carmelo Anthony to Oklahoma City Thunder in Three-Player
-  Deal | NBA.com
+title: New York Knicks Trade Carmelo Anthony to Oklahoma City Thunder in Three-Player Deal
 date: 2017-09-26 10:21:00 -05:00
-tags:
-- NBA
-custom_type: link
 link_url: http://www.nba.com/article/2017/09/25/new-york-knicks-trade-carmelo-anthony-oklahoma-city-thunder
+categories:
+- Sports
 ---
 
 From NBA.com:

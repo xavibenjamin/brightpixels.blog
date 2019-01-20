@@ -1,9 +1,7 @@
 ---
-title: 'The Galaxy in Comics: ‘Age of Republic – Qui-Gon Jinn’ and the Nature of a
-  Jedi'
+title: 'StarWars.com Reviews ‘Age of Republic – Qui-Gon Jinn’'
 date: 2018-12-14 15:19:00 -06:00
-tags:
-- comics
+categories:
 - Star Wars
 link_url: https://www.starwars.com/news/the-galaxy-in-comics-age-of-republic-qui-gon-jinn
 featured_image: "/uploads/2018/12/quigon-featured.jpg"

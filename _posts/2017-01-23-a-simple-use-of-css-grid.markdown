@@ -1,12 +1,10 @@
 ---
 title: A Simple Use of CSS Grid
 date: 2017-01-23 12:50:00 -06:00
-tags:
-- CSS
-- development
-- grid layout
 subtitle: You might've heard of CSS Grid, now let's get our feet wet
 custom_type: post
+categories:
+- Code
 ---
 
 You might've heard awesome people like [Rachel Andrew](https://www.rachelandrew.co.uk/archives/2017/01/18/css-grid-one-layout-method-not-the-only-layout-method/) and Jen Simmons advocating for the use of CSS Grid. If you haven't, I recommend you follow [Jen][6765-0001] and [Rachel][6765-0002] on Twitter. You should [watch this talk](https://youtu.be/Felq4z_rdPQ), and [this one too](https://youtu.be/PZPPwxumEzs).
@@ -16,7 +14,7 @@ But, you might also feel that you don't know where to get started. How do you le
 Let's say you want two columns. I was working on basic two column layout for my resume on my site. The layout for that is essentially this:
 
 <figure class="extendout">
-  <img src="{{ site.url }}/uploads/2017/01/column-layout.jpg" alt="Pretty simple right? A main column and a sidebar">
+  {% include imgic.html src="/2017/01/column-layout.jpg" alt="Pretty simple right? A main column and a sidebar" %}
   <figcaption>Pretty simple right? A main column and a sidebar</figcaption>
 </figure>
 
@@ -91,7 +89,7 @@ That's it. Grid looks intimidating, but it's simplicity and versatility will bec
 }
 ```
 
-Pretty cool huh? If you have any questions or would like to discuss it further, [send me an email](mailto:tim@theboldreport.net).
+Pretty cool huh? If you have any questions or would like to discuss it further, [send me an email](mailto:smith@ttimsmith.com).
 
 [6765-0001]: https://twitter.com/jensimmons
 [6765-0002]: https://twitter.com/rachelandrew

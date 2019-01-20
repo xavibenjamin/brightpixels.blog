@@ -1,12 +1,9 @@
 ---
-title: What Is the Apple Watch Good For? |The Syndicate
+title: What Is the Apple Watch Good For?
 date: 2016-04-27 08:48:00 -05:00
-tags:
-- Apple Watch
-- tech
-layout: post
-custom_type: link
 link_url: https://medium.com/martiancraft-s-syndicate/what-is-the-apple-watch-good-for-6bf037638620#.ww47ojq8a
+categories:
+- Apple
 ---
 
 Richard Turton on *The Syndicate*:

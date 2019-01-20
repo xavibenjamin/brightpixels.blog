@@ -1,9 +1,8 @@
 ---
-title: 'Why display: contents Is Not CSS Grid Layout subgrid by Rachel Andrew'
+title: 'Why `display: contents` Is Not CSS Grid Layout subgrid'
 date: 2018-01-23 10:57:00 -06:00
-tags:
-- CSS
-- grid layout
+categories:
+- Code
 link_url: https://rachelandrew.co.uk/archives/2017/07/20/why-display-contents-is-not-css-grid-layout-subgrid/
 ---
 

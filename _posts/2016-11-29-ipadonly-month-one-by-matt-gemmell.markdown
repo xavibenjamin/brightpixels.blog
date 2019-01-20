@@ -1,12 +1,8 @@
 ---
 title: 'iPad-only: Month One by Matt Gemmell'
 date: 2016-11-29 16:37:00 -06:00
-tags:
-- iOS
-- iPad Only
-- tech
-layout: post
-custom_type: link
+categories:
+- Apple
 link_url: http://mattgemmell.com/ipad-only-month-one/
 ---
 

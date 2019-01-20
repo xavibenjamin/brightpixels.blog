@@ -1,11 +1,9 @@
 ---
-title: Chargers Reveal Plan to Bolt for Los Angeles | ESPN
+title: Chargers Reveal Plan to Bolt for Los Angeles
 date: 2017-01-16 15:06:00 -06:00
-tags:
-- NFL
-- sports
-custom_type: link
 link_url: http://www.espn.com/nfl/story/_/id/18458293
+categories:
+- Sports
 ---
 
 Jim Trotter and Eric D. Williams reporting for *ESPN*:

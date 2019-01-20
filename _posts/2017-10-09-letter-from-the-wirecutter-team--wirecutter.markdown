@@ -1,11 +1,9 @@
 ---
-title: Letter from the Wirecutter Team | Wirecutter
+title: Letter from the Wirecutter Team
 date: 2017-10-09 10:35:00 -05:00
-tags:
-- design
-- sites i love
-custom_type: link
 link_url: https://thewirecutter.com/letter-from-the-wirecutter-team/
+categories:
+- Design
 ---
 
 The *Wirecutter* Team:

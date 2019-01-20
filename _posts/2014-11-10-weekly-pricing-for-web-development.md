@@ -1,12 +1,9 @@
 ---
-title: "‘Weekly Pricing for Web Development’"
+title: Weekly Pricing for Web Development
 date: 2014-11-10 12:43:57 -06:00
-tags:
-- freelancing
-- business
-layout: post
-custom_type: link
 link_url: http://curtismchale.ca/2013/05/23/weekly-pricing-for-web-development/
+categories:
+- Business
 ---
 
 Curtis McHale:

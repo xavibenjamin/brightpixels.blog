@@ -1,13 +1,9 @@
 ---
-title: 'Avengers: Infinity War Trailer | Retake'
+title: 'Avengers: Infinity War Trailer'
 date: 2017-12-06 11:22:00 -06:00
-tags:
-- podcasts
-- Retake
-- movies
-- Marvel
-- trailers
 link_url: https://nightowl.fm/retake/26
+categories:
+- Film
 ---
 
 Official episode description from NightOwl.fm:

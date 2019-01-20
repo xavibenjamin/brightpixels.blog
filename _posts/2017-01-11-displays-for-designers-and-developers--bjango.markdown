@@ -1,10 +1,8 @@
 ---
-title: Displays for Designers and Developers | Bjango
+title: Displays for Designers and Developers
 date: 2017-01-11 18:36:00 -06:00
-tags:
+categories:
 - Apple
-- displays
-custom_type: link
 link_url: https://bjango.com/articles/macexternaldisplays/
 ---
 

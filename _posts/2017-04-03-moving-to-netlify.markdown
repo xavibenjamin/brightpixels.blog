@@ -1,13 +1,10 @@
 ---
 title: Moving to Netlify
 date: 2017-04-03 11:33:00 -05:00
-tags:
-- development
-- Jekyll
-- Jekyll on Heroku
-- Jekyll on Netlify
 subtitle: My time hosting Jekyll sites on Heroku draws to a close
 custom_type: post
+categories:
+- Code
 ---
 
 In June 2015, I set out on a bold journey. One where no one had gone before. If you're thinking of space, hell yea that would be amazing, but no. I set out to host my Jekyll site on Heroku.
@@ -18,13 +15,13 @@ I'd been paying money for my static site to be deployed. There had to be a bette
 
 After hours of reading blog posts and comments on all types of web forums (those still exist by the way), I found what I needed. As is often the case, finding the solution took way more time than actually implementing it. In just a few minutes I had deployed my site to Heroku and it was building directly from the latest commit on GitHub.
 
-Heroku has been an excellent home for my Jekyll sites. I've even [dedicated a series on how to do it](https://theboldreport.net/topics/#jekyll-on-heroku). It's been a lot of fun to figure out different issues I've run into and then write about them. Also, hosting with Heroku is what's allowed me to [publish easily from iOS](https://theboldreport.net/2016/01/publishing-to-jekyll-from-ios/).
+Heroku has been an excellent home for my Jekyll sites. I've even [dedicated a series on how to do it](/topics/#jekyll-on-heroku). It's been a lot of fun to figure out different issues I've run into and then write about them. Also, hosting with Heroku is what's allowed me to [publish easily from iOS](/2016/01/publishing-to-jekyll-from-ios/).
 
 But the time has come to move on.
 
 ## Why the Move?
 
-It isn't so much of a complete move as it is living in two places. Heroku is still very great with sites I manage. I'm mostly moving my Jekyll projects over to Netlify which I seem to have more and more of. [I *love* Jekyll](https://theboldreport.net/topics/#jekyll).
+It isn't so much of a complete move as it is living in two places. Heroku is still very great with sites I manage. I'm mostly moving my Jekyll projects over to Netlify which I seem to have more and more of. [I *love* Jekyll](/topics/#jekyll).
 
 ### One Click SSL
 
@@ -48,4 +45,4 @@ There are a few other reasons like easy deployment from GitHub, deploy previews 
 
 The people over at Netlify are doing a pretty great job. It seems very smart to me to design and build for the needs of people building static sites. I'm sure that number is growing and will continue to do so. Also, I'd be remiss not to mention how well designed the UI is. The experience has been very well thought through. Kudos to [Rafael Conde](https://rafaelconde.net/).
 
-If you've been looking to make a move for your static sites, you should definitely consider [Netlify](https://www.netlify.com/). If you have further questions, you can always [email me](mailto:tim@theboldreport.net).
+If you've been looking to make a move for your static sites, you should definitely consider [Netlify](https://www.netlify.com/). If you have further questions, you can always [email me](mailto:smith@ttimsmith.com).

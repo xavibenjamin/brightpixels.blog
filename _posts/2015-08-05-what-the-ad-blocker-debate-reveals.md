@@ -1,11 +1,11 @@
 ---
-title: "‘What The Ad Blocker Debate Reveals’"
+title: What The Ad Blocker Debate Reveals
 date: 2015-08-05 10:10:23 -05:00
-layout: post
-custom_type: link
 link_url: http://www.mondaynote.com/2015/08/03/what-the-ad-blocker-debate-reveals/
 excerpt: We feel cheated and rightly so. As users, we understand that we’re not really
   entitled to free browsing
+categories:
+- Tech
 ---
 
 Jean-Louis Gassée on the *Monday Note*:

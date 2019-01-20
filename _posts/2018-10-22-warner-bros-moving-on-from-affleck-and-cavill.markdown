@@ -1,9 +1,8 @@
 ---
 title: Warner Bros. Moving on from Affleck and Cavill
 date: 2018-10-22 05:50:00 -05:00
-tags:
-- DC Comics
-- movies
+categories:
+- Film
 excerpt: What a shame.
 link_url: https://www.cbr.com/warner-bros-ben-affleck-henry-cavill-recast/
 featured_image: "/uploads/justice-league-featured.jpg"

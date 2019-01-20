@@ -1,12 +1,9 @@
 ---
-title: "‘Deploy a Password Protected Jekyll Site on Heroku with Dropbox’"
+title: Deploy a Password Protected Jekyll Site on Heroku with Dropbox
 date: 2015-02-23 13:36:32 -06:00
-tags:
-- development
-- Jekyll
-layout: post
-custom_type: link
 link_url: http://daverupert.com/2015/02/jekyll-heroku-dropbox/
+categories:
+- Code
 ---
 
 Dave Rupert:

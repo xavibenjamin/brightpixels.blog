@@ -1,8 +1,8 @@
 ---
 title: My Parents' 28th Anniversary
 date: 2018-11-26 11:00:00 -06:00
-tags:
-- photography
+categories:
+- Life
 custom_type: post
 featured_image: "/uploads/2018/11/anni-04.jpg"
 ---

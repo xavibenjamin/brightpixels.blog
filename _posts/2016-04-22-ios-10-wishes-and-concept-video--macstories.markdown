@@ -1,11 +1,9 @@
 ---
-title: 'iOS 10: Wishes and Concept Video | MacStories'
+title: 'iOS 10: Wishes and Concept Video'
 date: 2016-04-22 00:33:00 -05:00
-tags:
-- iOS
-layout: post
-custom_type: link
 link_url: https://www.macstories.net/stories/ios-10-wishes/
+categories:
+- Apple
 ---
 
 Federico Viticci on *MacStories*:

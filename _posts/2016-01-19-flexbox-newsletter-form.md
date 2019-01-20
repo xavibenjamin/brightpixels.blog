@@ -1,8 +1,9 @@
 ---
 title: Building a Newsletter Form Using Flexbox and Javascript
 date: 2016-01-19 00:00:00 -06:00
-layout: post
 custom_type: post
+categories:
+- Code
 ---
 
 After creating a form to subscribe to *The Bold Report* newsletter, I wanted to show you how I did it. 

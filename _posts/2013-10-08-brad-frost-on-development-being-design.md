@@ -1,12 +1,9 @@
 ---
 title: Brad Frost on Development Being Design
 date: 2013-10-08 19:00:43 -05:00
-tags:
-- design
-- development
-layout: post
-custom_type: link
 link_url: http://bradfrostweb.com/blog/post/development-is-design/
+categories:
+- Code
 ---
 
 >As the Web landscape grows increasingly complex, it’s increasingly important to demonstrate the myriad ways a Web experience can be interacted with. It’s impossible for designers working in static environments to realistically articulate every device, user setting, and variable that effects how a design is realized. Because of this, front-end developers need to work closely with other designers to ensure what’s being created is realistic and feasible. This requires rolling front-end development into the design workflow, rethinking our deliverables, and working together in order to create experiences that look and function beautifully on a whole host of screen sizes, form factors, and environments.

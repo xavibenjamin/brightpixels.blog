@@ -1,13 +1,9 @@
 ---
-title: How to Make Firing People Suck Less for Them and Suck More for You | Signal
-  v. Noise
+title: Make Firing People Suck Less
 date: 2016-09-06 12:26:00 -05:00
-tags:
-- firing
-- work
-layout: post
-custom_type: link
-link_url: https://m.signalvnoise.com/how-to-make-firing-people-suck-less-for-them-and-suck-more-for-you-977afb9ad15d?gi=244bf223123
+link_url: https://m.signalvnoise.com/how-to-make-firing-people-suck-less-for-them-and-suck-more-for-you/
+categories:
+- Business
 ---
 
 David Heinemeier Hansson:

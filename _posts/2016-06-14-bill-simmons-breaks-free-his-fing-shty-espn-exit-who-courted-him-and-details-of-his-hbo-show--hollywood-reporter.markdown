@@ -1,13 +1,9 @@
 ---
-title: 'Bill Simmons Breaks Free: His “F—ing Sh**ty” ESPN Exit, Who Courted Him and
-  Details of His HBO Show | Hollywood Reporter'
+title: Bill Simmons Breaks Free
 date: 2016-06-14 10:51:00 -05:00
-tags:
-- interview
-- sports
-layout: post
-custom_type: link
 link_url: http://www.hollywoodreporter.com/features/bill-simmons-breaks-free-his-900291
+categories:
+- Sports
 ---
 
 Lacey Rose writing for the *Hollywood Reporter*:

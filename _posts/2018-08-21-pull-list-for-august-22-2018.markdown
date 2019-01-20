@@ -1,9 +1,9 @@
 ---
 title: Pull List for August 22, 2018
+seo_title: 'X-Men: Red #7, West Coast Avengers #1 - Pull List for August 22, 2018'
 date: 2018-08-21 20:13:00 -05:00
-tags:
-- comics
-- pull list
+categories:
+- Comics
 custom_type: post
 ---
 

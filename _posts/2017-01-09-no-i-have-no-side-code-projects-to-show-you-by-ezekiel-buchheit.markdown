@@ -1,9 +1,9 @@
 ---
-title: No, I Have No Side Code Projects to Show You by Ezekiel Buchheit
+title: No, I Have No Side Code Projects to Show You
 date: 2017-01-09 00:13:00 -06:00
-layout: post
-custom_type: link
 link_url: https://www.linkedin.com/pulse/i-have-side-code-projects-show-you-ezekiel-buchheit
+categories:
+- Code
 ---
 
 Ezekiel Buchheit:

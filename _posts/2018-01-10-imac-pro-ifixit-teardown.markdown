@@ -1,11 +1,10 @@
 ---
 title: iMac Pro iFixit Teardown
 date: 2018-01-10 11:10:00 -06:00
-tags:
-- Apple
-- Macintosh
 author: tjdraper
 link_url: https://www.ifixit.com/Teardown/iMac+Pro+Teardown/101807
+categories:
+- Apple
 ---
 
 Here's my second iMac Pro link for today.

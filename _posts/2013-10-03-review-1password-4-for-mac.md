@@ -1,19 +1,13 @@
 ---
 title: 'Review: 1Password 4 for Mac'
 date: 2013-10-03 00:00:00 -05:00
-tags:
-- 1Password
-- apps
-- review
-layout: post
 subtitle: The best password manager gets a great update
 custom_type: post
 review:
   type: app
   rating: 4
-  app:
-    developer: AgileBits
-  price: 49
+categories:
+- Tech
 ---
 
 [1Password](https://agilebits.com/onepassword) is one of my favorite apps. The amount of time it has saved me is unmeasurable, and it's made my password strategy secure and delightful.
@@ -51,7 +45,7 @@ This is especially true when I worked for a company. Having a separate vault exc
 
 <figure class="alignright">
   <img src="{{ site.url }}/uploads/2013/10/1p4-mac-create-new-vault.png" alt="With 1Password 4 you can now create new vaults. Organizing your passwords based on their use is simple.">
-  <figcaption>With 1Password 4 you can now create new vaults. Organizing your passwords based on their use is simple.</figcaption>
+  <figcaption>With 1Password 4 you can now create new vaults. Organizing your passwords based on their use is simple</figcaption>
 </figure>
 
 ## 1Password Mini
@@ -60,7 +54,7 @@ I love that they made a menubar app. I'm definitely one of those people that has
 
 <figure class="alignleft">
   <img src="{{ site.url }}/uploads/2013/10/1p4-mac-1p-mini-item-details.png" alt="1Password Mini makes using 1Password easier and faster than ever.">
-  <figcaption>1Password Mini makes using 1Password easier and faster than ever.</figcaption>
+  <figcaption>1Password Mini makes using 1Password easier and faster than ever</figcaption>
 </figure>
 
 It's too early for me to say, but I think 1Password Mini could completely replace the main app for me. So far, I haven't needed to open the main app for day-to-day responsibilities. To be honest, I only looked at the main app the day I downloaded it, and today when writing this review.

@@ -1,10 +1,8 @@
 ---
-title: Discontinuing Support for Check the Weather by David Smith
+title: Discontinuing Support for Check the Weather
 date: 2016-10-21 12:00:00 -05:00
-tags:
-- apps
-layout: post
-custom_type: link
+categories:
+- Tech
 link_url: https://david-smith.org/blog/2016/10/17/discontinuing-support-for-check-the-weather/
 ---
 

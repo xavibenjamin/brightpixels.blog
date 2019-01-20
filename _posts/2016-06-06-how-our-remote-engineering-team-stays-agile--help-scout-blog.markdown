@@ -1,12 +1,9 @@
 ---
-title: How Our Remote Engineering Team Stays Agile | Help Scout Blog
+title: How Our Remote Engineering Team Stays Agile
 date: 2016-06-06 09:01:00 -05:00
-tags:
-- management
-- work
-layout: post
-custom_type: link
 link_url: https://www.helpscout.net/blog/agile-remote-teams/
+categories:
+- Tech
 ---
 
 Chris Brookins on the Help Scout Blog:

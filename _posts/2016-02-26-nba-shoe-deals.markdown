@@ -1,11 +1,9 @@
 ---
 title: NBA Shoe Deals
 date: 2016-02-26 00:57:00 -06:00
-tags:
-- NBA
-layout: post
-custom_type: link
 link_url: http://sports.yahoo.com/news/inside-the-sneaker-industry--how-nba-shoe-deals-work-032155839.html
+categories:
+- Sports
 ---
 
 Nick DePaula writing for Yahoo Sports takes you on an eye-opening experience about shoe deals in the NBA:

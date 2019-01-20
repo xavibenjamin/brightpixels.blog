@@ -1,12 +1,9 @@
 ---
 title: Kobe Bryant Signs 2-Year Extension with Los Angeles Lakers
 date: 2013-11-26 13:14:11 -06:00
-tags:
-- NBA
-- Kobe Bryant
-layout: post
-custom_type: link
 link_url: http://espn.go.com/los-angeles/nba/story/_/id/10034589/kobe-bryant-signs-two-year-contract-extension-los-angeles-lakers
+categories:
+- Sports
 ---
 
 >Kobe Bryant signed a two-year contract extension with the Los Angeles Lakers on Monday.

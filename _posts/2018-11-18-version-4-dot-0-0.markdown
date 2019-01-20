@@ -1,11 +1,8 @@
 ---
 title: Version 4.0.0
 date: 2018-11-18 00:14:00 -06:00
-tags:
-- site news
-- from the editor
-- release notes
 custom_type: post
+is_rss_only: true
 ---
 
 Dear Reader,

@@ -1,10 +1,9 @@
 ---
-title: Redbox and No Chill | Brand New
+title: Redbox Brand Gets Atrocious Redesign
 date: 2017-10-06 11:40:00 -05:00
-tags:
-- design
-custom_type: link
 link_url: http://www.underconsideration.com/brandnew/archives/new_logo_for_redbox_1.php
+categories:
+- Design
 ---
 
 Armin Vit on *Brand New*:

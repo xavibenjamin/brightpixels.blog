@@ -1,12 +1,9 @@
 ---
-title: How to Make Money From Your Tiny Podcast by Justin Jackson
+title: Make Money From Your Tiny Podcast
 date: 2016-09-09 11:18:00 -05:00
-tags:
-- business
-- podcasts
-layout: post
-custom_type: link
 link_url: https://justinjackson.ca/tinypodcast/
+categories:
+- Podcasts
 ---
 
 Justin Jackson:

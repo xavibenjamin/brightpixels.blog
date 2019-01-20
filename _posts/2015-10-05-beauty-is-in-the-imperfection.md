@@ -1,9 +1,9 @@
 ---
 title: 'For The Record: Beauty Is in the Imperfection'
 date: 2015-10-05 12:51:23 -05:00
-layout: post
-custom_type: link
-link_url: http://towermedia.org/ftr/2
+link_url: https://ttimsmith.com/podcasts/ftr/beauty-is-in-the-imperfection/
+categories:
+- Podcasts
 ---
 
 > Paul Armstrong was in a business partnership back in 1998, which ended in him being sued. Soon after, he went through debt, the birth of his first baby, his parents divorcing, and his mother being diagnosed with dementia. He talks about life, marriage, kids, and how they’ve influenced his work.

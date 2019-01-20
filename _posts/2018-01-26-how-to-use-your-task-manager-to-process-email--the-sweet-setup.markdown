@@ -1,9 +1,8 @@
 ---
-title: How to Use Your Task Manager to Process Email | The Sweet Setup
+title: How to Use Your Task Manager to Process Email
 date: 2018-01-26 10:28:00 -06:00
-tags:
-- productivity
-- work life
+categories:
+- Life
 link_url: https://thesweetsetup.com/use-task-manager-process-email/
 ---
 

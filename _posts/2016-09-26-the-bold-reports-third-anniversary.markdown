@@ -1,13 +1,11 @@
 ---
 title: The Bold Report’s Third Anniversary
 date: 2016-09-26 07:19:00 -05:00
-tags:
-- from the editor
-- site news
-layout: post
 custom_type: post
 subtitle: The third anniversary is upon us. Here's an update on what's been happening
   with the site, what's coming, and a special giveaway for readers.
+categories:
+- From the Editor
 ---
 
 I published [the first post](https://theboldreport.net/2013/09/welcome/) on *The Bold Report* on September 23, 2013. It was an introduction to this new site, and a migration from the personal site where I’d been writing for about five years. As usual, [I got a little overly sentimental](https://ttimsmith.com/2013/09/moving-to-the-bold-report).
@@ -17,7 +15,7 @@ I published [the first post](https://theboldreport.net/2013/09/welcome/) on *The
 *The Bold Report* was created as a new Jekyll site—I was done using WordPress to blog. This is what it looked like when I started writing:
 
 <figure class="extendout">
-  <img src="{{ site.url }}/uploads/2016/09/original-boldreport-design.jpg" alt="Can you believe I thought that looked good? Also, boy has Google Chrome changed!">
+  {% include imgic.html src="/2016/09/original-boldreport-design.jpg" alt="Can you believe I thought that looked good? Also, boy has Google Chrome changed!" %}
   <figcaption>Can you believe I thought that looked good? Also, boy has Google Chrome changed!</figcaption>
 </figure>
 
@@ -39,7 +37,7 @@ So I’ve been using normal git flow by creating branches, then merging via pull
 
 September saw the first ever contributions to the site by someone other than me! TJ Draper wrote about [Apple removing ports from the MacBook Pro]({% post_url 2016-09-15-apple-removing-ports-from-macbook-pro %}) and Keaton Taylor wrote about [new `<video>` capabilities in iOS 10]({% post_url 2016-09-21-iOS10-expands-autoplay-for-mobile %}). These are exactly the type of contributions I was looking for. I wanted posts that were important and affected the individual writer. This blog is about personal interest, and that creates a path for a beautifully eclectic collection of topics.
 
-How contributions from other writers shape the site will be interesting to watch. If that worries you at all, I assure you that I’m still *very* interested in writing here and I have the final say on whatever gets published. If you’re interested in writing on *The Bold Report*, email me at [tim@theboldreport.net](mailto:tim@theboldreport.net).
+How contributions from other writers shape the site will be interesting to watch. If that worries you at all, I assure you that I’m still *very* interested in writing here and I have the final say on whatever gets published. If you’re interested in writing on *The Bold Report*, email me at [smith@ttimsmith.com](mailto:smith@ttimsmith.com).
 
 ## What's Been Published
 
@@ -83,7 +81,7 @@ This box comes complete with an [AeroPress](http://www.aerobie.com/product/aerop
 This gift comes with a copy of [Issue 3 of *The Great Discontent*](https://shop.thegreatdiscontent.com/collections/issues/products/the-great-discontent-issue-three), a copy of [*Responsive Design: Patterns and Principles* by Ethan Marcotte](https://abookapart.com/products/responsive-design-patterns-principles), and a [Moleskine Grid Notebook](https://www.amazon.com/Moleskine-Classic-Notebook-Squared-Notebooks/dp/8883701135/ref=sr_1_1?ie=UTF8&qid=1474648471&sr=8-1&keywords=moleskine+grid+notebook). This box will inspire you, teach you new things, and then help you get your ideas down on paper.
 
 <figure class="small__right">
-  <img src="{{ site.url }}/uploads/2016/09/spider-man-box.jpg" alt="Spider-Man Box">
+  {% include imgic.html src="/2016/09/spider-man-box.jpg" alt="Spider-Man Box" %}
 </figure>
 
 ### Spider-Man Box

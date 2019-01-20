@@ -1,12 +1,9 @@
 ---
-title: Medium Subscriptions by Manton Reece
+title: Medium Subscriptions
 date: 2016-06-01 09:32:00 -05:00
-tags:
-- publishing
-- writing
-layout: post
-custom_type: link
 link_url: http://www.manton.org/2016/05/medium-subscriptions.html
+categories:
+- Writing
 ---
 
 Manton Reece:

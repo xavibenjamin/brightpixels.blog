@@ -1,12 +1,9 @@
 ---
-title: The Evolution of Linkblogging by Manton Reece
+title: The Evolution of Linkblogging
 date: 2016-03-10 01:47:00 -06:00
-tags:
-- blogging
-- linkblogging
-layout: post
-custom_type: link
 link_url: http://www.manton.org/2016/03/the-evolution-of-linkblogging.html
+categories:
+- Writing
 ---
 
 Manton Reece:

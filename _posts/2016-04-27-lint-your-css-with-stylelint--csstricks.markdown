@@ -1,12 +1,9 @@
 ---
-title: Lint Your CSS with stylelint | CSS-Tricks
+title: Lint Your CSS with stylelint
 date: 2016-04-27 08:45:00 -05:00
-tags:
-- CSS
-- development
-layout: post
-custom_type: link
 link_url: https://css-tricks.com/stylelint/
+categories:
+- Code
 ---
 
 David Clark on *CSS-Tricks*:

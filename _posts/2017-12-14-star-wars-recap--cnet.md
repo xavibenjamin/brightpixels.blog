@@ -1,11 +1,9 @@
 ---
-title: Star Wars Recap | CNET
+title: Star Wars Recap
 date: 2017-12-14 09:00:00 -06:00
-tags:
-- movies
-- Star Wars
-author: tjdraper
 link_url: https://www.cnet.com/news/star-wars-recap-catch-up-on-the-saga-before-last-jedi/
+categories:
+- Star Wars
 ---
 
 Richard Trenholm for *CNET*:

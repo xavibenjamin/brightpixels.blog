@@ -1,8 +1,8 @@
 ---
-title: 'Circumcision: To Snip or Not to Snip? by Science Vs'
+title: 'Circumcision: To Snip or Not to Snip?'
 date: 2018-09-24 10:01:00 -05:00
-tags:
-- podcasts
+categories:
+- Science
 link_url: https://www.gimletmedia.com/science-vs/circumcision-to-snip-or-not-to-snip
 ---
 

@@ -1,12 +1,9 @@
 ---
-title: I’m Done with MacBooks | Subtraction.com
+title: I’m Done with MacBooks
 date: 2016-02-26 00:48:00 -06:00
-tags:
-- tech
-- iPad
-layout: post
-custom_type: link
 link_url: http://www.subtraction.com/2016/02/05/im-done-with-macbooks/
+categories:
+- Apple
 ---
 
 Khoi Vinh:

@@ -1,12 +1,9 @@
 ---
-title: Webfonts on the Prairie | A List Apart
+title: Webfonts on the Prairie
 date: 2016-09-08 15:16:00 -05:00
-tags:
-- industry issues
-- typography
-layout: post
-custom_type: link
 link_url: http://alistapart.com/article/webfonts-on-the-prairie
+categories:
+- Design
 ---
 
 Richard Fink on *A List Apart*:

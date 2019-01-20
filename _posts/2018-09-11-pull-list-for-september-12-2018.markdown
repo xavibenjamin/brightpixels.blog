@@ -1,9 +1,9 @@
 ---
 title: Pull List for September 12, 2018
+seo_title: 'Fantastic Four #2, Catwoman #3 - Pull List for September 12, 2018'
 date: 2018-09-11 20:29:00 -05:00
-tags:
-- comics
-- pull list
+categories:
+- Comics
 custom_type: post
 ---
 

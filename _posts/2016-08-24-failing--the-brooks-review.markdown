@@ -1,12 +1,9 @@
 ---
-title: Failing | The Brooks Review
+title: Failing
 date: 2016-08-24 20:00:00 -05:00
-tags:
-- culture
-- work
-layout: post
-custom_type: link
 link_url: http://brooksreview.net/2016/08/failing/
+categories:
+- Life
 ---
 
 Ben Brooks:

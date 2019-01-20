@@ -1,11 +1,9 @@
 ---
-title: Transpiled for-of Loops Are Bad for the Client by Dave Rupert
+title: Transpiled for-of Loops Are Bad for the Client
 date: 2017-10-30 10:43:00 -05:00
-tags:
-- development
-- industry issues
-custom_type: link
 link_url: https://daverupert.com/2017/10/for-of-loops-are-bad/
+categories:
+- Code
 ---
 
 Dave Rupert:

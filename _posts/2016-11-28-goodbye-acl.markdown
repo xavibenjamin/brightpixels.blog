@@ -1,10 +1,8 @@
 ---
 title: Goodbye ACL
 date: 2016-11-28 12:03:00 -06:00
-tags:
-- jobs
-- personal
-layout: post
+categories:
+- Life
 custom_type: post
 subtitle: After almost two years at ACL, I’ve decided to move on.
 ---

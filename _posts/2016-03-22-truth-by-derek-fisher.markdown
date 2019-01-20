@@ -1,12 +1,9 @@
 ---
-title: Truth by Derek Fisher
+title: Truth
 date: 2016-03-22 09:10:00 -05:00
-tags:
-- NBA
-- sports
-layout: post
-custom_type: link
 link_url: https://thecauldron.si.com/truth-9ebb66ca8990?gi=86bd2dcf1c04
+categories:
+- Sports
 ---
 
 Derek Fisher:

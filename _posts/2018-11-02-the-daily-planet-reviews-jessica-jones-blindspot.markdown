@@ -1,9 +1,8 @@
 ---
 title: 'The Daily Planet Reviews ‘Jessica Jones: Blindspot’'
 date: 2018-11-02 05:50:00 -05:00
-tags:
-- Marvel
-- comics
+categories:
+- Comics
 excerpt: Jessica Jones' return is fun, but I have some nitpicks.
 link_url: https://www.forbiddenplanetnyc.com/jessica-jones-blind-spot/
 featured_image: "/uploads/jessica-jones-blindspot-featured.jpg"

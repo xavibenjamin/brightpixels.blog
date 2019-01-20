@@ -1,8 +1,8 @@
 ---
 title: Man Uses Glitter Bomb to Get Back at Package Thief
 date: 2018-12-18 08:50:00 -06:00
-tags:
-- tech
+categories:
+- Tech
 custom_type: post
 excerpt: Mark Rober got tired of people taking packages from his front porch.
 ---

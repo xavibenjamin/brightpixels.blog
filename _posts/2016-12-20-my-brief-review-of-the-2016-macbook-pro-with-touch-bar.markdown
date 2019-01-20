@@ -1,10 +1,9 @@
 ---
-title: My Brief Review of the 2016 MacBook Pro with Touch Bar
+title: 2016 MacBook Pro with Touch Bar
+seo_title: My Brief Review of the 2016 MacBook Pro with Touch Bar
 date: 2016-12-20 15:19:00 -06:00
-tags:
-- MacBook Pro
-- brief review
-- review
+categories:
+- Apple
 custom_type: post
 subtitle: Earlier this year, Apple updated its MacBook Pro. Here are my thoughts on
   the new computer

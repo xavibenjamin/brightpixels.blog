@@ -1,8 +1,9 @@
 ---
 title: Podcasts I’m Loving Right Now
+seo_title: Podcast Recommendations for the Sophisticated Geek
 date: 2018-09-27 11:45:00 -05:00
-tags:
-- podcasts
+categories:
+- Podcasts
 custom_type: post
 subtitle: Let me recommend you some podcasts
 excerpt: Not only do I produce podcasts for a living at Changelog Media, I happen
@@ -12,7 +13,7 @@ featured_image: "/uploads/iphone-playing-podcast.jpg"
 
 <figure class="extendout">
   {% include imgic.html src="/iphone-playing-podcast.jpg" alt="iPhone playing Heavyweight" %}
-  <figcaption><em>Heavyweight</em> playing in Overcast.</figcaption>
+  <figcaption><em>Heavyweight</em> playing in Overcast</figcaption>
 </figure>
 
 Not only do I produce podcasts for a living at [Changelog Media](https://changelog.com/), I happen to be a big fan of them too. If you're looking for new things to listen to, here's a list of my current favorites. I even included two of my favorite episodes with each recommendation. These are in no particular order.

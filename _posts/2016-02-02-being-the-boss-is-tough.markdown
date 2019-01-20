@@ -1,9 +1,9 @@
 ---
 title: Being the Boss Is Tough
 date: 2016-02-02 21:42:00 -06:00
-layout: post
-custom_type: link
 link_url: https://blog.knowyourcompany.com/what-to-remember-when-you-re-the-boss-949bbc37929b#.5y5c0zbpw
+categories:
+- Business
 ---
 
 Claire Lew on being the boss:

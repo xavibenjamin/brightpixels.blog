@@ -1,9 +1,9 @@
 ---
 title: Chris Coyier’s Productivity Advice
 date: 2016-01-05 21:42:00 -06:00
-layout: post
-custom_type: link
 link_url: https://css-tricks.com/sit-and-do-it/
+categories:
+- Life
 ---
 
 Chris Coyier: 

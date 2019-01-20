@@ -2,9 +2,8 @@
 title: Leah Williams Says Writing Comics Professionally ‘Feels Like Getting Away with
   Something’
 date: 2018-12-13 21:45:00 -06:00
-tags:
-- comics
-- interview
+categories:
+- Comics
 link_url: http://www.comicsbeat.com/interview-leah-williams/
 featured_image: "/uploads/leah-williams-featured.jpg"
 ---

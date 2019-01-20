@@ -1,10 +1,9 @@
 ---
 title: On Managing Links
 date: 2016-02-05 07:33:00 -06:00
-tags:
-- tools
-layout: post
 custom_type: post
+categories:
+- Tech
 ---
 
 First off, let's just acknowledge how #firstworldproblem-sy this is. They're just links right? But I come across a lot of stuff on the web, and there's some of it that I need to categorize. Links usually fall into one of two categories:
@@ -34,7 +33,7 @@ Again, Pocket and IFTTT do the heavy lifting here. I save the link to Pocket and
 
 <figure class="extendout">
   <img src="{{ site.url }}/uploads/2016/02/pocket-to-email.jpg" alt="Pocket to Email Digest Recipe.">
-  <figcaption>Pocket to Email Digest Recipe.</figcaption>
+  <figcaption>Pocket to Email Digest Recipe</figcaption>
 </figure>
 
 Sure, someone might not want yet another email, but I honestly don't get much. Instead of just having a barrage of emails with links to myself, I have one email with all the links from the night before.

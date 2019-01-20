@@ -1,11 +1,9 @@
 ---
-title: Wirecutter, but for Everything | Wirecutter
+title: Wirecutter, but for Everything
 date: 2017-09-26 09:32:00 -05:00
-tags:
-- tech
-- sites i love
-custom_type: link
 link_url: http://thewirecutter.com/blog/wirecutter-but-for-everything/
+categories:
+- Tech
 ---
 
 Jacqui Cheng:

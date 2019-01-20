@@ -1,11 +1,9 @@
 ---
 title: Developers Show Off Their Could-Be Watch Face Creations
 date: 2018-10-17 11:50:00 -05:00
-tags:
-- Apple Watch
-- tech
-excerpt: Apple needs to stop being dumb and open up watch face customization to third-party
-  developers.
+categories:
+- Apple
+excerpt: Apple needs to stop being dumb and open up watch face customization to third-party developers.
 link_url: https://www.macstories.net/news/developers-show-what-they-could-make-if-apple-opened-up-watch-face-development/
 ---
 

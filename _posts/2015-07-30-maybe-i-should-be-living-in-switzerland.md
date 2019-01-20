@@ -1,9 +1,9 @@
 ---
 title: Maybe I Should Be Living in Switzerland
 date: 2015-07-30 18:40:33 -05:00
-layout: post
-custom_type: link
 link_url: http://www.vox.com/2015/7/21/8974435/switzerland-work-life-balance
+categories:
+- Life
 ---
 
 Chantal Panozzo sums up why she’s not completely excited to be living in the U.S. again:

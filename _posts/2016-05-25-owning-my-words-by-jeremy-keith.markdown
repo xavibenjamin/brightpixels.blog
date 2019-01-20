@@ -1,12 +1,9 @@
 ---
-title: Owning My Words by Jeremy Keith
+title: Owning My Words
 date: 2016-05-25 00:15:00 -05:00
-tags:
-- publishing
-- writing
-layout: post
-custom_type: link
 link_url: https://adactio.com/journal/10675
+categories:
+- Writing
 ---
 
 Jeremy Keith:

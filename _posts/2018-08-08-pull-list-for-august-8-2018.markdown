@@ -1,9 +1,9 @@
 ---
 title: Pull List for August 8, 2018
+seo_title: 'Fantastic Four #1, The Amazing Spider-Man #3 - Pull List for August 8, 2018'
 date: 2018-08-08 20:02:00 -05:00
-tags:
-- comics
-- pull list
+categories:
+- Comics
 custom_type: post
 ---
 

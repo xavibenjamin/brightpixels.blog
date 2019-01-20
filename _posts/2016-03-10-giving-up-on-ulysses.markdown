@@ -1,12 +1,10 @@
 ---
 title: Giving Up On Ulysses
 date: 2016-03-10 01:48:00 -06:00
-tags:
-- apps
-- blogging
-- writing
 subtitle: Ulysses and I have parted and gone our separate ways, but we’re still friends.
 custom_type: post
+categories:
+- Writing
 ---
 
 Ulysses and I have parted and gone our separate ways, but we’re still friends.

@@ -6,6 +6,8 @@ tags:
 layout: post
 custom_type: link
 link_url: http://www.theverge.com/2013/9/23/4762666/blackberry-receives-buyout-offer
+categories:
+- Tech
 ---
 
 >BlackBerry has officially filed a letter with Canadian holding company Fairfax Financial, an offer that could lead to it returning to private ownership.

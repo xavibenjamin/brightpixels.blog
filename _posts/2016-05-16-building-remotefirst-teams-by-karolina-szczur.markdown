@@ -1,12 +1,9 @@
 ---
-title: Building Remote-First Teams by Karolina Szczur
+title: Building Remote-First Teams
 date: 2016-05-16 11:24:00 -05:00
-tags:
-- remote work
-- work
-layout: post
-custom_type: link
 link_url: https://medium.com/@fox/building-remote-first-teams-a98bf8581db
+categories:
+- Business
 ---
 
 Karolina Szczur on "I can’t get this ASAP," one of the excuses against remote work:

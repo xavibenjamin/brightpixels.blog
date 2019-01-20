@@ -1,12 +1,9 @@
 ---
-title: Focused on the Grass by Chris Bowler
+title: Focused on the Grass
 date: 2016-09-13 11:09:00 -05:00
-tags:
-- jobs
-- work life
-layout: post
-custom_type: link
 link_url: http://chrisbowler.com/journal/greener-grass
+categories:
+- Life
 ---
 
 Chris Bowler:

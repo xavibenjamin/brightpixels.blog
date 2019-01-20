@@ -1,12 +1,9 @@
 ---
-title: Captain Marvel’s Mohawk Costume Is the Result of a Comic Creator’s Bet | Polygon
+title: Captain Marvel’s Mohawk Costume Is Because of a Bet
 date: 2018-09-21 17:25:32.159000000 -05:00
-tags:
-- comics
-- Marvel
-custom_type: link
+categories:
+- Comics
 link_url: https://www.polygon.com/2018/9/18/17873482/captain-marvel-trailer-costume-mohawk-kelly-sue-deconnick
-author: timsmith
 ---
 
 Kelly Sue DeConnick in an interview with Susan Polo for *Polygon*:

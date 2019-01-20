@@ -1,11 +1,8 @@
 ---
-title: Hello Again World by Jen Simmons
+title: Hello Again World
 date: 2016-11-09 12:05:00 -06:00
-tags:
-- personal
-- Twitter
-layout: post
-custom_type: link
+categories:
+- Tech
 link_url: http://jensimmons.com/post/nov-7-2016/hello-again-world
 ---
 

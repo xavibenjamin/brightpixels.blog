@@ -1,9 +1,9 @@
 ---
 title: Pull List for January 9, 2019
+seo_title: 'Captain Marvel #1, Martian Manhunter #2 - Pull List for January 9, 2019'
 date: 2019-01-08 05:45:00 -06:00
-tags:
-- comics
-- pull list
+categories:
+- Comics
 custom_type: post
 excerpt: Every Wednesday, all-new comic books hit the shelves with original stories
   to be engrossed in, and new art to be fascinated by. This is my weekly write-up

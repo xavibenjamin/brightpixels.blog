@@ -1,9 +1,9 @@
 ---
 title: Apple Cons f.lux With Night Shift
 date: 2016-01-18 00:10:00 -06:00
-layout: post
-custom_type: link
 link_url: http://www.512pixels.net/blog/2016/1/flux-responds-to-apples-night-shift
+categories:
+- Apple
 ---
 
 Stephen Hackett on *512 Pixels*:

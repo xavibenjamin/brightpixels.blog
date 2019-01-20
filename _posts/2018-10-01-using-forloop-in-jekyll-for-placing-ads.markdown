@@ -1,9 +1,8 @@
 ---
 title: Using forloop in Jekyll for Placing Ads
 date: 2018-10-01 00:14:00 -05:00
-tags:
-- development
-- Jekyll
+categories:
+- Code
 custom_type: post
 subtitle: A quick look at how I made ads less obtrusive for smaller screens
 ---
@@ -39,6 +38,6 @@ Now, we'll place our ad using `forloop.first`. `forloop.first` will return `true
 </ul>{% endraw %}
 ```
 
-<mark>In plain English, this if statement is saying that if it's the first item in the loop, then place the ad directly after it.</mark>
+<mark>In plain English: place the ad directly after the first item in the&nbsp;loop.</mark>
 
 Boom! Now our ad integrates better with the content, and is a better experience for readers because they're aren't hit with an ad as the first thing they see.

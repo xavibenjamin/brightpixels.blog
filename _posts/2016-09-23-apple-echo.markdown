@@ -1,12 +1,9 @@
 ---
 title: Apple Echo
 date: 2016-09-23 13:55:00 -05:00
-tags:
-- tech
+categories:
 - Apple
-layout: post
 author: tjdraper
-custom_type: link
 link_url: http://www.bloomberg.com/news/articles/2016-09-23/apple-said-to-step-up-plans-for-echo-style-smart-home-device-itfnod11
 ---
 

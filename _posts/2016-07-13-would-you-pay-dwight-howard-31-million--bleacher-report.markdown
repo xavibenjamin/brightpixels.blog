@@ -1,10 +1,8 @@
 ---
-title: Would You Pay Dwight Howard $31 Million? | Bleacher Report
+title: Would You Pay Dwight Howard $31 Million?
 date: 2016-07-13 21:07:00 -05:00
-tags:
-- NBA
-layout: post
-custom_type: link
+categories:
+- Sports
 link_url: http://thelab.bleacherreport.com/would-you-pay-dwight-howard-31-million/
 ---
 

@@ -1,13 +1,9 @@
 ---
 title: Why You Should Use Sass
 date: 2013-11-15 14:31:59 -06:00
-tags:
-- A List Apart
-- Sass
-- development
-layout: post
-custom_type: link
 link_url: http://alistapart.com/article/why-sass
+categories:
+- Code
 ---
 
 Dan Cederholm on *A List Apart*:

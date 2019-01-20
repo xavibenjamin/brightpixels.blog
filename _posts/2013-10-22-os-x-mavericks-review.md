@@ -1,12 +1,9 @@
 ---
 title: OS X Mavericks Review
 date: 2013-10-22 17:34:20 -05:00
-tags:
-- Apple
-- reviews
-layout: post
-custom_type: link
 link_url: http://512pixels.net/2013/10/mavericks-review/
+categories:
+- Apple
 ---
 
 Stephen Hackett on *512 Pixels*:

@@ -1,12 +1,9 @@
 ---
 title: HP and Microsoft Become ‘Competitors’
 date: 2013-10-10 11:46:04 -05:00
-tags:
-- Microsoft
-- tech
-layout: post
-custom_type: link
 link_url: http://www.theverge.com/2013/10/10/4823088/hp-attack-microsoft-in-public-as-outright-competitors
+categories:
+- Tech
 ---
 
 > Hewlett Packard and Microsoft are changing "from partners to outright competitors," says HP CEO Meg Whitman…

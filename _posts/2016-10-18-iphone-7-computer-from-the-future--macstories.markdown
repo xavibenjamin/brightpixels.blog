@@ -1,11 +1,8 @@
 ---
-title: 'iPhone 7: Computer from the Future | MacStories'
+title: 'iPhone 7: Computer from the Future'
 date: 2016-10-18 10:56:00 -05:00
-tags:
+categories:
 - Apple
-- iPhone
-layout: post
-custom_type: link
 link_url: https://www.macstories.net/stories/iphone-7-computer-from-the-future
 ---
 

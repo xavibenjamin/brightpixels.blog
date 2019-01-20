@@ -1,11 +1,9 @@
 ---
-title: Fantastical Version 2.2 Ships | MacSparky
+title: Fantastical Version 2.2 Ships
 date: 2016-04-04 08:47:00 -05:00
-tags:
-- apps
-layout: post
-custom_type: link
 link_url: http://macsparky.com/blog/2016/3/fantastical-version-22-ships
+categories:
+- Tech
 ---
 
 David Sparks:

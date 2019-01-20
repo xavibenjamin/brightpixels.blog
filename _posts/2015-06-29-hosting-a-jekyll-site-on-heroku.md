@@ -1,13 +1,10 @@
 ---
 title: Hosting a Jekyll Site on Heroku
 date: 2015-06-29 11:11:30 -05:00
-tags:
-- development
-- Jekyll
-- Jekyll on Heroku
-layout: post
 custom_type: post
 subtitle: Avoid pulling your hair out like I did.
+categories:
+- Code
 ---
 
 *This post is part of a series on [hosting Jekyll with Heroku](/topics/#jekyll-on-heroku).*

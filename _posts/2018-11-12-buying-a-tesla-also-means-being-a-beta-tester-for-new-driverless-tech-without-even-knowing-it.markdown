@@ -1,10 +1,8 @@
 ---
-title: Buying a Tesla Also Means Being a Beta Tester for New Driverless Tech Without
-  Even Knowing It
+title: Tesla's Autopilot Now Changes Lanes
 date: 2018-11-12 09:17:00 -06:00
-tags:
-- tech
-- transportation
+categories:
+- Tech
 excerpt: Tesla is beta testing some pretty cool features with drivers.
 link_url: https://www.wired.com/story/tesla-navigate-on-autopilot/
 ---

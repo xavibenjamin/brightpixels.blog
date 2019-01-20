@@ -1,11 +1,10 @@
 ---
 title: Kit Kats Fresh From the Factory
 date: 2016-04-22 11:08:00 -05:00
-tags:
-- personal
-layout: post
 custom_type: post
 subtitle: You can actually taste the difference.
+categories:
+- Life
 ---
 
 When I first read [Casey's post on buying chocolate directly from the Hershey's Factory](https://www.caseyliss.com/2015/9/24/its-reeses-time), I was skeptical. Back in 2015, they were doing a run of Reese's Peanut Butter Cups. Casey had this to say:

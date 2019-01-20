@@ -1,10 +1,9 @@
 ---
 title: Vacation to Las Vegas
 date: 2017-03-10 12:07:00 -06:00
-tags:
-- personal
-- vacation
 custom_type: post
+categories:
+- Life
 ---
 
 Dear Reader,

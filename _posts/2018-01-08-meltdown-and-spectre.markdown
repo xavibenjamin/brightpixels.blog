@@ -1,10 +1,8 @@
 ---
 title: Meltdown and Spectre
 date: 2018-01-08 09:40:00 -06:00
-tags:
-- tech
-- security
-- development
+categories:
+- Tech
 author: tjdraper
 link_url: https://stratechery.com/2018/meltdown-spectre-and-the-state-of-technology/
 ---
@@ -24,8 +22,8 @@ But as to the meat of the article:
 > Now, imagine the algorithm was changed to the following:
 >
 > * Check your manager’s calendar to see if they will be in the office
->     * If they will be in the office, wear slacks and collared-shirt
->     * If they will not be in the office, wear shorts-and-t-shirt
+>   * If they will be in the office, wear slacks and collared-shirt
+>   * If they will not be in the office, wear shorts-and-t-shirt
 > There’s just one problem: you’re not supposed to have access to your manager’s calendar.
 
 Ben does a fantastic job of breaking this all down into language that's pretty easy to understand. A vulnerability like this is still going to have some nuances that are hard to understand, but if you're remotely interested in tech and/or the Intel architecture vulnerability, I highly recommend this piece.

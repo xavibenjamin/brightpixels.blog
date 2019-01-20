@@ -1,13 +1,9 @@
 ---
 title: Marvel Creating Superhero Shows for Netflix
 date: 2013-11-07 12:55:45 -06:00
-tags:
-- Netflix
-- Marvel
-- TV
-layout: post
-custom_type: link
 link_url: http://www.theverge.com/2013/11/7/5076712/marvel-creating-four-superhero-tv-series-netflix-exclusives
+categories:
+- TV
 ---
 
 Jacob Kastrenakes reporting for *The Verge*:

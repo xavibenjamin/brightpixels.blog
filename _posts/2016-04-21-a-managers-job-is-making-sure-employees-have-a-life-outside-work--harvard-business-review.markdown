@@ -1,13 +1,9 @@
 ---
-title: A Manager’s Job Is Making Sure Employees Have a Life Outside Work | Harvard
-  Business Review
+title: A Manager’s Job Is Making Sure Employees Have a Life Outside Work
 date: 2016-04-21 00:44:00 -05:00
-tags:
-- business
-- work
-layout: post
-custom_type: link
 link_url: https://hbr.org/2016/03/a-managers-job-is-making-sure-employees-have-a-life-outside-work
+categories:
+- Business
 ---
 
 Arjun Dev Arora and Raman Frey writing for the *Harvard Business Review*:

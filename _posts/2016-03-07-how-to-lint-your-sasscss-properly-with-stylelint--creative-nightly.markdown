@@ -1,13 +1,9 @@
 ---
-title: How to Lint Your Sass/CSS Properly with Stylelint | Creative Nightly
+title: How to Lint Your Sass/CSS Properly with Stylelint
 date: 2016-03-07 09:03:00 -06:00
-tags:
-- CSS
-- development
-- Sass
-layout: post
-custom_type: link
 link_url: http://www.creativenightly.com/2016/02/How-to-lint-your-css-with-stylelint/
+categories:
+- Code
 ---
 
 Scotty Vernon on why linting stylesheets is a great idea:

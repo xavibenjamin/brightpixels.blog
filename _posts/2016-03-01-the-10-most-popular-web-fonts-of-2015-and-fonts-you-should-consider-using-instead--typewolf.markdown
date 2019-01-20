@@ -1,13 +1,10 @@
 ---
-title: The 10 Most Popular Web Fonts of 2015 (And Fonts You Should Consider Using
-  Instead) | Typewolf
+title: The 10 Most Popular Web Fonts of 2015
 date: 2016-03-01 07:15:00 -06:00
 permalink: "/most-popular-fonts-2015/"
-tags:
-- typography
-layout: post
-custom_type: link
 link_url: https://www.typewolf.com/blog/most-popular-fonts-of-the-year
+categories:
+- Design
 ---
 
 Jeremiah Shoaf:

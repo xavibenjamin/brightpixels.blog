@@ -1,8 +1,8 @@
 ---
 title: TKO Studios Trying to Break the Mold of Publishing Comics
 date: 2018-12-14 13:48:00 -06:00
-tags:
-- comics
+categories:
+- Comics
 featured_image: "/uploads/2018/12/tko-featured.jpg"
 custom_type: post
 ---

@@ -1,12 +1,9 @@
 ---
-title: Light Frames, Great Content | daverupert.com
+title: Light Frames, Great Content
 date: 2016-02-29 01:11:00 -06:00
-tags:
-- development
-- industry issues
-layout: post
-custom_type: link
 link_url: http://daverupert.com/2016/02/light-frames-great-content/
+categories:
+- Code
 ---
 
 Uncle Dave:

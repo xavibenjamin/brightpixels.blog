@@ -1,12 +1,9 @@
 ---
-title: Design as Branding | Daring Fireball
+title: Design as Branding
 date: 2016-09-22 09:56:13 -05:00
-tags:
-- Apple
-- design
-layout: post
-custom_type: link
 link_url: http://daringfireball.net/2016/09/design_as_branding
+categories:
+- Apple
 ---
 
 Farhad Manjoo, in his column for *The New York Times*:

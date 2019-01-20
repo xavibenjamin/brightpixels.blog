@@ -1,12 +1,9 @@
 ---
-title: Expressive Type for Copy Blocks | Cognition
+title: Expressive Type for Copy Blocks
 date: 2016-03-09 09:07:00 -06:00
-tags:
-- CSS
-- development
-layout: post
-custom_type: link
 link_url: http://cognition.happycog.com/article/expressive-type-for-copy-blocks
+categories:
+- Code
 ---
 
 Mark Huot tells the story of overriding poorly written defaults:

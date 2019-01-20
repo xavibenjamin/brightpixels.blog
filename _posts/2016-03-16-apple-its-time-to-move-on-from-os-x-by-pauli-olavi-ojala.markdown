@@ -1,12 +1,9 @@
 ---
-title: Apple, It’s Time to Move on From “OS X” by Pauli Olavi Ojala
+title: Apple, It’s Time to Move on From “OS X”
 date: 2016-03-16 09:54:00 -05:00
-tags:
-- Apple
-- macOS
-layout: post
-custom_type: link
 link_url: https://medium.com/@pauli/apple-it-s-time-to-move-on-from-os-x-cb94d167c77d
+categories:
+- Apple
 ---
 
 Pauli Olavi Ojala:

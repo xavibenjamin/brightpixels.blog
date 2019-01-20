@@ -1,11 +1,8 @@
 ---
-title: Speaking Most Clearly When Not Speaking At All by Jeffrey Zeldman
+title: Speaking Most Clearly When Not Speaking At All
 date: 2016-09-22 10:24:00 -05:00
-tags:
-- personal
-- writing
-layout: post
-custom_type: link
+categories:
+- Writing
 link_url: http://www.zeldman.com/2016/08/09/hear-the-silence/
 ---
 

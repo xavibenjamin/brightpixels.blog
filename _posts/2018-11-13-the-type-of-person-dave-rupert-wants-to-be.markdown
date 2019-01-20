@@ -1,9 +1,8 @@
 ---
 title: The Person Dave Rupert Wants to Be
 date: 2018-11-13 10:43:00 -06:00
-tags:
-- personal
-- tech
+categories:
+- Life
 excerpt: I agree with Dave.
 custom_type: post
 ---

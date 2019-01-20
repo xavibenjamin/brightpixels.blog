@@ -1,13 +1,9 @@
 ---
 title: On Getting the Work You Want
 date: 2014-01-02 12:50:21 -06:00
-tags:
-- business
-- freelancing
-- work
-layout: post
-custom_type: link
 link_url: http://danielmall.com/articles/how-to-get-the-work-you-want/
+categories:
+- Business
 ---
 
 Daniel Mall:

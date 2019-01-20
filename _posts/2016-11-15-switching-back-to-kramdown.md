@@ -1,10 +1,8 @@
 ---
 title: Switching Back to Kramdown
 date: 2016-11-15 16:42:00 -06:00
-tags:
-- development
-- Jekyll
-- Markdown
+categories:
+- Code
 custom_type: post
 subtitle: Quick update on my markdown woes.
 ---

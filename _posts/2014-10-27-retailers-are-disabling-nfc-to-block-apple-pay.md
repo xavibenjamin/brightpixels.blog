@@ -1,12 +1,9 @@
 ---
-title: "‘Retailers Are Disabling NFC to Block Apple Pay’"
+title: Retailers Are Disabling NFC to Block Apple Pay
 date: 2014-10-27 14:18:49 -05:00
-tags:
-- Apple
-- tech
-layout: post
-custom_type: link
 link_url: http://daringfireball.net/2014/10/nfc_apple_pay
+categories:
+- Apple
 ---
 
 John Gruber on *Daring Fireball*:

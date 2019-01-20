@@ -1,12 +1,9 @@
 ---
 title: Apple Reports Fourth Quarter Profit
 date: 2013-10-28 16:59:17 -05:00
-tags:
-- Apple
-- tech
-layout: post
-custom_type: link
 link_url: http://www.loopinsight.com/2013/10/28/apple-reports-7-5-billion-fourth-quarter-profit/
+categories:
+- Apple
 ---
 
 Jim Dalrymple on *The Loop*:

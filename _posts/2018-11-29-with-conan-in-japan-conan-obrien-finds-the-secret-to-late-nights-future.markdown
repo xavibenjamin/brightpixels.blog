@@ -1,7 +1,7 @@
 ---
 title: With ‘Conan in Japan,’ Conan O’Brien Finds the Secret to Late-Night’s Future
 date: 2018-11-29 22:55:00 -06:00
-tags:
+categories:
 - TV
 link_url: https://www.indiewire.com/2018/11/conan-in-japan-conan-obrien-tbs-changes-1202023778/
 ---

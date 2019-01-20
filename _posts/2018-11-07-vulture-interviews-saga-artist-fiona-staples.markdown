@@ -1,8 +1,8 @@
 ---
 title: Vulture Interviews ‘Saga’ Artist Fiona Staples
 date: 2018-11-07 05:22:00 -06:00
-tags:
-- comics
+categories:
+- Comics
 excerpt: Fiona Staples is amazing.
 link_url: http://www.vulture.com/2018/10/saga-comics-artist-fiona-staples-sketches-script.html
 ---

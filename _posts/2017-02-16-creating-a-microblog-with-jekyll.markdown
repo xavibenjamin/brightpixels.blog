@@ -186,4 +186,4 @@ This is really tough. Jekyll has no API that I can hook into to publish posts an
 
 ## Conclusion
 
-This is one of the ways to create a basic microblog. I'm sure there are things I haven't thought of yet, which I'll have to address down the road. Are you microblogging? What are you using for yours? Have you solved some of the problems I haven't fixed yet? I'd love to hear all about it! [Send an email to tim@theboldreport.net](mailto:tim@theboldreport.net).
+This is one of the ways to create a basic microblog. I'm sure there are things I haven't thought of yet, which I'll have to address down the road. Are you microblogging? What are you using for yours? Have you solved some of the problems I haven't fixed yet? I'd love to hear all about it! [Send an email to smith@ttimsmith.com](mailto:smith@ttimsmith.com).

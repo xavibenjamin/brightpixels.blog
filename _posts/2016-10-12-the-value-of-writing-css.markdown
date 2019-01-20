@@ -1,11 +1,8 @@
 ---
 title: The Value of Writing CSS
 date: 2016-10-12 10:23:00 -05:00
-tags:
-- CSS
-- development
-layout: post
-custom_type: link
+categories:
+- Code
 link_url: https://twitter.com/EliFitch/status/781248935562186753
 ---
 

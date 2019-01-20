@@ -1,9 +1,9 @@
 ---
 title: Casey Liss on Amazon Prime Now
 date: 2015-12-01 10:32:42 -06:00
-layout: post
-custom_type: link
 link_url: https://www.caseyliss.com/2015/11/30/amazon-prime-now
+categories:
+- Tech
 ---
 
 Casey Liss:

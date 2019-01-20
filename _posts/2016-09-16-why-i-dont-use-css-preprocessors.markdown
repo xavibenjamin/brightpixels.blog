@@ -1,12 +1,9 @@
 ---
-title: Why I don’t use CSS preprocessors
+title: Why I Don’t Use CSS Preprocessors
 date: 2016-09-16 11:44:00 -05:00
-tags:
-- CSS
-- development
-layout: post
-custom_type: link
 link_url: http://www.456bereastreet.com/archive/201603/why_i_dont_use_css_preprocessors/
+categories:
+- Code
 ---
 
 Roger Johansson:

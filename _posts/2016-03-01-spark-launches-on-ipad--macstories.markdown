@@ -1,12 +1,9 @@
 ---
-title: Spark Launches on iPad | MacStories
+title: Spark Launches on iPad
 date: 2016-03-01 07:18:00 -06:00
-tags:
-- apps
-- reviews
-layout: post
-custom_type: link
 link_url: https://www.macstories.net/reviews/spark-launches-on-ipad/
+categories:
+- Tech
 ---
 
 Federico Viticci:

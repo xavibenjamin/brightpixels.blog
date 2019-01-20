@@ -1,8 +1,8 @@
 ---
 title: SYFY FANGRRLS' Favorite Comics of 2018
 date: 2018-12-17 10:23:00 -06:00
-tags:
-- comics
+categories:
+- Comics
 link_url: https://www.syfy.com/syfywire/syfy-fangrrls-favorite-comics-of-2018
 featured_image: "/uploads/syfy-comics-2018-featured.jpg"
 ---

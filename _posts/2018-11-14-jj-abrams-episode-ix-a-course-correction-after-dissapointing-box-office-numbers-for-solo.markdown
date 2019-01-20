@@ -2,9 +2,8 @@
 title: J.J. Abrams’ Episode IX a ‘Course Correction’ After Disappointing Box Office
   Numbers for Solo
 date: 2018-11-14 09:03:00 -06:00
-tags:
+categories:
 - Star Wars
-- Episode IX
 excerpt: J.J. is a safe bet, but not the one I think Lucasfilm should take.
 featured_image: "/uploads/jj-featured.jpg"
 custom_type: post

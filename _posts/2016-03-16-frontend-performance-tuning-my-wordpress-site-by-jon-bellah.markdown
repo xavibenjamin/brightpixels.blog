@@ -1,12 +1,9 @@
 ---
-title: Front-end Performance Tuning My WordPress Site by Jon Bellah
+title: Frontend Performance Tuning WordPress
 date: 2016-03-16 02:04:00 -05:00
-tags:
-- development
-- web performance
-layout: post
-custom_type: link
 link_url: https://jonbellah.com/front-end-performance-tuning/
+categories:
+- Code
 ---
 
 Jon Bellah:

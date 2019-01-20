@@ -1,12 +1,9 @@
 ---
-title: Congratulations! You’ve Been Fired | The New York Times
+title: Congratulations! You’ve Been Fired
 date: 2016-04-21 00:43:00 -05:00
-tags:
-- industry issues
-- work
-layout: post
-custom_type: link
 link_url: http://www.nytimes.com/2016/04/10/opinion/sunday/congratulations-youve-been-fired.html
+categories:
+- Business
 ---
 
 Dan Lyons writing for *The New York Times*:

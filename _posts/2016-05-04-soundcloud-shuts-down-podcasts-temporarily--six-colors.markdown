@@ -1,10 +1,8 @@
 ---
-title: Soundcloud Shuts Down Podcasts Temporarily | Six Colors
+title: Soundcloud Shuts Down Podcasts Temporarily
 date: 2016-05-04 23:19:00 -05:00
-tags:
-- tech
-layout: post
-custom_type: link
+categories:
+- Tech
 link_url: https://sixcolors.com/link/2016/05/soundcloud-shuts-down-podcasts-temporarily/
 ---
 

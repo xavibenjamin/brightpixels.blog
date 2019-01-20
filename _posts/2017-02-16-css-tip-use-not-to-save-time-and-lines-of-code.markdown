@@ -1,10 +1,9 @@
 ---
 title: 'CSS Tip: Use :not to Save Time and Lines of Code'
 date: 2017-02-16 15:25:00 -06:00
-tags:
-- CSS
-- development
 custom_type: post
+categories:
+- Code
 ---
 
 I saw [this tweet from Matt Griffin](https://twitter.com/elefontpress/status/832308947054903296):
@@ -62,4 +61,4 @@ Lots of code just to space each post evenly, except for the last one. This is wh
 
 We've eliminated *five* lines of code here. Just imagine how much you'd save by using this throughout your code base! I made [a CodePen for you to see this](http://codepen.io/timothybsmith/pen/VPNBdW) in action.
 
-Hope this helps! If you have questions, [send me an email to tim@theboldreport.net](mailto:tim@theboldreport.net).
+Hope this helps! If you have questions, [send me an email to smith@ttimsmith.com](mailto:smith@ttimsmith.com).

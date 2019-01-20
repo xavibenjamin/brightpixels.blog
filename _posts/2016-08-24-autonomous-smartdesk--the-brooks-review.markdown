@@ -1,12 +1,9 @@
 ---
-title: Autonomous SmartDesk | The Brooks Review
+title: Autonomous SmartDesk
 date: 2016-08-24 20:00:00 -05:00
-tags:
-- furniture
-- reviews
-layout: post
-custom_type: link
 link_url: https://brooksreview.net/2016/08/autonomous-smartdesk/
+categories:
+- Tech
 ---
 
 Ben Brooks:

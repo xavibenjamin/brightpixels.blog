@@ -1,8 +1,8 @@
 ---
 title: Why We Need to Forgive Kevin Hart
 date: 2018-12-11 16:37:00 -06:00
-tags:
-- opinion
+categories:
+- Life
 link_url: https://www.nytimes.com/2018/12/07/opinion/kevin-hart-oscars-tweets.html
 featured_image: "/uploads/kevin-hart-featured.jpg"
 ---

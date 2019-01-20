@@ -1,9 +1,9 @@
 ---
 title: Stephen Hackett’s Mac Wishlist
 date: 2015-12-31 00:28:50 -06:00
-layout: post
-custom_type: link
 link_url: http://www.512pixels.net/blog/2015/12/2016-wishlist-the-mac
+categories:
+- Apple
 ---
 
 Stephen on wanting a Retina Display:

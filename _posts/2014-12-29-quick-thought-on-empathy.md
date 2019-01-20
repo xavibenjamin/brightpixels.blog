@@ -1,11 +1,9 @@
 ---
-title: "‘Quick Thought on Empathy’"
+title: Quick Thought on Empathy
 date: 2014-12-29 14:17:09 -06:00
-tags:
-- philosophy
-layout: post
-custom_type: link
 link_url: http://yaronschoen.com/writing/quick-thought-on-empathy/
+categories:
+- Life
 ---
 
 Yaron Schoen:

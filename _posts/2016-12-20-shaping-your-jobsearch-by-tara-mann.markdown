@@ -1,11 +1,8 @@
 ---
-title: Shaping Your Job Search by Tara Mann
+title: Shaping Your Job Search
+categories:
+- Life
 date: 2016-12-20 13:34:00 -06:00
-tags:
-- jobs
-- work
-layout: post
-custom_type: link
 link_url: https://medium.com/@taramann/shaping-your-job-search-9359ae7a71da
 ---
 

@@ -1,10 +1,9 @@
 ---
 title: Self-Doubt and My Interview With Shopify
 date: 2017-03-20 12:45:00 -05:00
-tags:
-- personal
-- industry issues
 custom_type: post
+categories:
+- Life
 ---
 
 Helen Tran wrote an [awesome article for fem-designers-in-tech](http://helentran.com/an-open-letter

@@ -1,10 +1,9 @@
 ---
-title: Shed Your Money Taboos by Derek Sivers
+title: Shed Your Money Taboos
 date: 2018-02-21 10:48:00 -06:00
-tags:
-- work
-- business
 link_url: https://sivers.org/mn1
+categories:
+- Business
 ---
 
 Derek Sivers offers advice to musicians that applies to *any* creative pursuit:
@@ -15,7 +14,7 @@ I've made this mistake many times in my career. I've made it when negotiating a 
 
 I've come away from these instances with a great lesson, and one that Derek touch on too: people won't value work, if you don't assign it value.
 
-Talking money is a life skill. 
+Talking money is a life skill.
 
 ---
 

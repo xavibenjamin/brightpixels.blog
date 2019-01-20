@@ -1,8 +1,8 @@
 ---
 title: Jason Dettbarn's Comic Collecting Origin Story
 date: 2018-10-31 10:30:00 -05:00
-tags:
-- comics
+categories:
+- Comics
 excerpt: 'Jason describes a lot of what I feel about comics. '
 link_url: https://www.relicscout.com/2018/10/26/my-comic-collecting-origin-story/
 ---

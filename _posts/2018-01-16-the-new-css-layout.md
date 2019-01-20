@@ -1,18 +1,17 @@
 ---
 title: The New CSS Layout
+seo_title: My Review of Rachel Andrew’s ‘The New CSS Layout’
 date: 2018-01-16 11:39:00 -06:00
-tags:
-- development
-- CSS
-- books
 custom_type: post
 review:
   type: book
   rating: 4
+categories:
+- Code
 ---
 
 <figure class="extendout">
-  <img src="{{ site.url }}/uploads/2018/01/css-layout-book.jpg" alt="The New CSS Layout by Rachel Andrew. Photo taken in Cozumel, Mexico">
+  {% include imgic.html src="/2018/01/css-layout-book.jpg" alt="The New CSS Layout by Rachel Andrew. Photo taken in Cozumel, Mexico" %}
   <figcaption><em>The New CSS Layout</em> by Rachel Andrew. Photo taken in Cozumel, Mexico</figcaption>
 </figure>
 

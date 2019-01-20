@@ -1,9 +1,9 @@
 ---
 title: "‘Solo’ Official Teaser"
 date: 2018-02-05 13:28:00 -06:00
-tags:
-- Star Wars
 custom_type: post
+categories:
+- Star Wars
 ---
 
 <div class="iframe-container">

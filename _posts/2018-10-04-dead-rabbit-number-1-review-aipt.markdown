@@ -1,9 +1,8 @@
 ---
-title: 'Dead Rabbit #1 Review | AiPT!'
+title: Dead Rabbit #1 Review
 date: 2018-10-04 10:34:00 -05:00
-tags:
-- comics
-- reviews
+categories:
+- Comics
 excerpt: Gerry Duggan's new series Dead Rabbit misses the mark, but I couldn't really
   articulate why.
 link_url: http://www.adventuresinpoortaste.com/2018/10/03/dead-rabbit-1-review/

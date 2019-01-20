@@ -1,11 +1,9 @@
 ---
-title: Don’t Listen to the Experts by Chris Enns
+title: Don’t Listen to the Experts
 date: 2016-07-13 21:24:00 -05:00
-tags:
-- work life
-layout: post
-custom_type: link
 link_url: http://www.chrisenns.com/2016/07/dont-listen-experts/
+categories:
+- Life
 ---
 
 Chris Enns:

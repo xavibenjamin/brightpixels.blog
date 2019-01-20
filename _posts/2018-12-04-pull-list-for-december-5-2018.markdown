@@ -1,5 +1,6 @@
 ---
 title: Pull List for December 5, 2018
+seo_title: 'Shazam! #1 - Pull List for December 5, 2018'
 date: 2018-12-04 00:09:00 -06:00
 tags:
 - comics

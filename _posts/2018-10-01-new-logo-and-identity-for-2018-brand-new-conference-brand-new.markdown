@@ -1,9 +1,8 @@
 ---
-title: New Logo and Identity for 2018 Brand New Conference | Brand New
+title: New Logo and Identity for the 2018 Brand New Conference
 date: 2018-10-01 09:59:00 -05:00
-tags:
-- design
-custom_type: link
+categories:
+- Design
 link_url: https://www.underconsideration.com/brandnew/archives/new_logo_and_identity_for_2018_brand_new_conference_by_underconsideration.php
 featured_image: "/uploads/bn-conf-2018-featured-image.jpg"
 ---

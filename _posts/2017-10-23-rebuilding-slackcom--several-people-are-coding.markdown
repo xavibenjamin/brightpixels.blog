@@ -1,12 +1,9 @@
 ---
-title: Rebuilding Slack.com | Several People Are Coding
+title: Rebuilding Slack.com
 date: 2017-10-23 12:53:00 -05:00
-tags:
-- development
-- grid layout
-- CSS
-custom_type: link
 link_url: https://slack.engineering/rebuilding-slack-com-b124c405c193
+categories:
+- Code
 ---
 
 Mina Markham on *Several People Are Coding*:

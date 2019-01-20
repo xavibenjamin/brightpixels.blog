@@ -1,12 +1,9 @@
 ---
-title: CSS Grid Layout Terminology, Explained by Ire Aderinokun
+title: CSS Grid Layout Terminology, Explained
 date: 2017-02-08 14:58:00 -06:00
-tags:
-- CSS
-- grid layout
-- development
-custom_type: link
 link_url: https://bitsofco.de/css-grid-terminology/
+categories:
+- Code
 ---
 
 Ire Aderinokun:

@@ -1,11 +1,9 @@
 ---
 title: Apple Event Day
 date: 2013-10-22 10:40:36 -05:00
-tags:
-- Apple
-- Apple event
-layout: post
 custom_type: post
+categories:
+- Apple
 ---
 
 Apple Event Days are always exciting for me, and this one will be no different.

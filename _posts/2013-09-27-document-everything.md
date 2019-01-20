@@ -1,10 +1,10 @@
 ---
 title: Document Everything
 date: 2013-09-27 14:35:13 -05:00
-tags:
-- design
 layout: post
 custom_type: post
+categories:
+- Writing
 ---
 
 Something I've been thinking about a lot recently is documentation. And yes, I'm thinking a little bit about legacy—documenting our life, and the things we make. However, I also mean documenting our process.

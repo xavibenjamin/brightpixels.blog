@@ -1,9 +1,9 @@
 ---
-title: "‘On The Verge’"
+title: On The Verge
 date: 2015-07-28 10:08:48 -05:00
-layout: post
-custom_type: link
 link_url: http://adactio.com/journal/9312
+categories:
+- Tech
 ---
 
 Jeremy Keith:

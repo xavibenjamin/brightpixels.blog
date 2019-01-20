@@ -1,9 +1,9 @@
 ---
 title: Pull List for January 16, 2019
+seo_title: 'The Amazing Spider-Man #13 - Pull List for January 16, 2019'
 date: 2019-01-15 10:34:00 -06:00
-tags:
-- comics
-- pull list
+categories:
+- Comics
 custom_type: post
 excerpt: Every Wednesday, all-new comic books hit the shelves with original stories
   to be engrossed in, and new art to be fascinated by. This is my weekly write-up
@@ -35,7 +35,7 @@ I'll be honest, even though I was beyond excited to read a Spidey title from Tom
 
 {% include h-rating.html text="Martian Manhunter #2" level=3 rating=4 url="https://leagueofcomicgeeks.com/profile/smithtimmytim/reviews/998828/martian-manhunter-2" %}
 
-I didn't know I'd enjoy this series as much as I am. Picking up right after the events of the first issue, this one dives a little deeper into who J'onn J'onzz is and what Martian life is like. Kudos to Riley Rossmo, who's gorgeous art style for this series flows seamlessly back and forth from Earth scenes to Mars. 
+I didn't know I'd enjoy this series as much as I am. Picking up right after the events of the first issue, this one dives a little deeper into who J'onn J'onzz is and what Martian life is like. Kudos to Riley Rossmo, who's gorgeous art style for this series flows seamlessly back and forth from Earth scenes to Mars.
 
 {% include h-rating.html text="Oblivion Song #11" level=3 rating=4 url="https://leagueofcomicgeeks.com/profile/smithtimmytim/reviews/998830/oblivion-song-11" %}
 

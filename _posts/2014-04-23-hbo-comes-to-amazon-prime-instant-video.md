@@ -1,12 +1,9 @@
 ---
 title: HBO Comes to Amazon Prime Instant Video
 date: 2014-04-23 14:30:49 -05:00
-tags:
-- HBO
-- TV
-layout: post
-custom_type: link
 link_url: http://www.theverge.com/2014/4/23/5643148/hbo-shows-coming-to-amazon-prime-instant-video
+categories:
+- TV
 ---
 
 Chris Welch reporting for *The Verge*:

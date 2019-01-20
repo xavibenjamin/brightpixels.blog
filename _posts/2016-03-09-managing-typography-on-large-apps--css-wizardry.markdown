@@ -1,12 +1,9 @@
 ---
-title: Managing Typography on Large Apps | CSS Wizardry
+title: Managing Typography on Large Apps
 date: 2016-03-09 09:09:00 -06:00
-tags:
-- development
-- typography
-layout: post
-custom_type: link
 link_url: http://csswizardry.com/2016/02/managing-typography-on-large-apps
+categories:
+- Code
 ---
 
 Harry Roberts:

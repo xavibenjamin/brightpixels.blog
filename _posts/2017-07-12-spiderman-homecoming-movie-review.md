@@ -1,19 +1,16 @@
 ---
 title: 'Spider-Man: Homecoming'
+seo_title: "Review: Spider-Man: Homecoming"
 date: 2017-07-12 00:00:00 -05:00
-tags:
-- movies
-- Marvel
-- movie review
-- review
-- my videos
-subtitle: "<em>Finally</em> a fun and well-done Spidey movie."
+subtitle: Finally a fun and well-done Spidey movie
 custom_type: post
 review:
   rating: 4
   type: movie
   movie:
     letterboxd: https://letterboxd.com/ttimsmith/film/spider-man-homecoming/
+categories:
+- Film
 ---
 
 <div class="iframe-container">

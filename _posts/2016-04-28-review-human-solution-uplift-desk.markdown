@@ -1,16 +1,14 @@
 ---
 title: 'Review: Human Solution Uplift Desk'
 date: 2016-04-28 01:51:00 -05:00
-tags:
-- furniture
-- review
-layout: post
 custom_type: post
 subtitle: Back in August of 2015, I decided to buy a standing desk. Here are some
   of my thoughts.
 review:
   type: product
   rating: 4.5
+categories:
+- Tech
 ---
 
 I've worked from home for about 6 years. In that time, I've invested real money into my office for about two. I'm grateful I did, and wish I would've started sooner. A few years ago, I bought myself a [Herman Miller Mirra](http://www.hermanmiller.com/products/seating/performance-work-chairs/mirra-2-chairs.html) chair.[^1]
@@ -33,7 +31,7 @@ With that criteria in mind, I bought the [Human Solution Uplift with a bamboo to
 
 <figure class="extendout">
   <img src="{{ site.url }}/uploads/2016/04/human-solution-uplift.jpg" alt="The Human Solution Uplift in my office.">
-  <figcaption>The Human Solution Uplift in my office.</figcaption>
+  <figcaption>The Human Solution Uplift in my office</figcaption>
 </figure>
 
 ## Quality
@@ -60,7 +58,7 @@ Configuring new presets is simple. You adjust it to the height you want, and you
 
 <figure class="alignright">
   <img src="{{ site.url }}/uploads/2016/04/uplift-controller.jpg" alt="The uplift controller makes it very simple to add new presets. Keep in mind that this controller is the upgrade to the standard one that comes with the desk.">
-  <figcaption>The uplift controller makes it very simple to add new presets. Keep in mind that this controller is the upgrade to the standard one that comes with the desk.</figcaption>
+  <figcaption>The uplift controller makes it very simple to add new presets. Keep in mind that this controller is the upgrade to the standard one that comes with the desk</figcaption>
 </figure>
 
 ## Price

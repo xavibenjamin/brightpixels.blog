@@ -1,10 +1,9 @@
 ---
-title: It's More Than Just the Words by Rachel Andrew
+title: It's More Than Just the Words
 date: 2017-01-09 00:11:00 -06:00
-tags:
-- development
-custom_type: link
 link_url: http://rachelandrew.co.uk/archives/2017/01/05/its-more-than-just-the-words/
+categories:
+- Code
 ---
 
 Rachel Andrew on the effect of no longer having a personal site:

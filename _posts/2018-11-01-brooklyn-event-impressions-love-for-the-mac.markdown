@@ -1,10 +1,8 @@
 ---
 title: Jason Snell's Mac Impressions from Apple's Brooklyn Event
 date: 2018-11-01 08:15:00 -05:00
-tags:
+categories:
 - Apple
-- Apple event
-- Mac
 excerpt: Apple is once again starting to make the Macs they *should* be making.
 link_url: https://sixcolors.com/post/2018/10/brooklyn-event-impressions-love-for-the-mac/
 ---
@@ -21,4 +19,4 @@ To me, this is the key takeaway from the event. The announcements regarding the 
 
 Instead of putting some self-imposed restriction to performance or I/O, Apple started the new Mac mini with four cores, four Thunderbolt 3 ports, and replaceable RAM. The MacBook Air, instead of having just USB-C like the MacBook, has two Thunderbolt 3 ports that can drive 5K displays.
 
-Tuesday's event felt different because it *was* different. Maybe… just maybe, <mark>we're finally being heard.</mark>
+Tuesday's event felt different because it *was* different. Maybe… just maybe, <mark>we're finally being&nbsp;heard.</mark>

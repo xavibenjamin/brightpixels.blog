@@ -1,15 +1,13 @@
 ---
 title: Grammarly
+seo_title: 'No matter the task, Grammarly helps your text be concise, articulate, and correct'
 date: 2019-01-10 10:00:00 -06:00
-tags:
-- apps
-- review
-- writing
+categories:
+- Writing
 custom_type: post
 subtitle: No matter the task, this writing assistant helps your text be concise, articulate,
   and correct
-excerpt: No matter the task, this writing assistant helps your text be concise, articulate,
-  and correct
+excerpt: No matter the task, this writing assistant helps your text be concise, articulate, and correct
 featured_image: "/uploads/2019/01/grammarly-review-featured.jpg"
 review:
   type: app
@@ -59,9 +57,9 @@ As I said before, I wrote this article in Grammarly, but I usually write in iA W
   <figcaption>Instead of using the same old words, Grammarly can suggest more detailed terms</figcaption>
 </figure>
 
-So far the app hasn't made a big deal about any of my formatting. I write in Markdown with some HTML interspersed in there too. Thankfully, Grammarly plays nice with that and instead focuses on the actual content. 
+So far the app hasn't made a big deal about any of my formatting. I write in Markdown with some HTML interspersed in there too. Thankfully, Grammarly plays nice with that and instead focuses on the actual content.
 
-<mark>It's important to note that this app can't replace an actual human.</mark> I'm almost embarrassed to write that because it should be obvious. But Grammarly does about 90 percent of what I'm looking for, and that's significant. It does so much more than check grammar and spelling; it helps me punctuate sentences accurately, helps me be more concise, and even use more descriptive words. 
+<mark>It's important to note that this app can't replace an actual human.</mark> I'm almost embarrassed to write that because it should be obvious. But Grammarly does about 90 percent of what I'm looking for, and that's significant. It does so much more than check grammar and spelling; it helps me punctuate sentences accurately, helps me be more concise, and even use more descriptive words.
 
 In the small amount of time I've been using Grammarly, I already feel my writing has improved. I definitely recommend it.
 

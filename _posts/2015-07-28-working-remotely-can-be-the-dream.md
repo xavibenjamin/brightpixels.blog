@@ -1,9 +1,9 @@
 ---
 title: Working Remotely Can Be the Dream
 date: 2015-07-28 09:37:14 -05:00
-layout: post
-custom_type: link
 link_url: https://medium.com/digital-nomad-stories/working-remotely-isn-t-always-a-dream-151619ae45dc
+categories:
+- Business
 ---
 
 Mark Nichols:

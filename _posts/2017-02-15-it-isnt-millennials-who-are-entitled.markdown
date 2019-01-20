@@ -1,11 +1,9 @@
 ---
 title: It Isn't Millennials Who Are Entitled
 date: 2017-02-15 21:28:00 -06:00
-tags:
-- work life
-- work
-custom_type: link
 link_url: http://www.independent.co.uk/life-style/millennials-struggling-work-careers-because-their-parents-gave-them-medals-for-coming-last-simon-a7537121.html
+categories:
+- Life
 ---
 
 Rachel Hosie writes on some thoughts from author and motivational speaker [Brian Sinek](https://www.startwithwhy.com/Home.aspx):

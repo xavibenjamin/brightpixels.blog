@@ -1,9 +1,9 @@
 ---
 title: "‘Twenty Thirteen, The Learnering’"
 date: 2014-01-03 12:13:03 -06:00
-layout: post
-custom_type: link
 link_url: http://armstrongcircus.com/blog/893/
+categories:
+- Life
 ---
 
 Paul Armstrong: 

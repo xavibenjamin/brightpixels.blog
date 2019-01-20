@@ -1,11 +1,9 @@
 ---
 title: Watch 10 Seasons of ‘the Joy of Painting’ on Youtube
 date: 2016-04-08 15:30:00 -05:00
-tags:
-- ASMR
-layout: post
-custom_type: link
 link_url: http://mentalfloss.com/article/78175/watch-10-seasons-joy-painting-youtube-free
+categories:
+- Life
 ---
 
 Mental Floss:

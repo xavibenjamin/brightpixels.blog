@@ -1,10 +1,9 @@
 ---
 title: End of the Year Survey
 date: 2017-12-27 11:40:00 -06:00
-tags:
-- site news
-- from the editor
 custom_type: post
+categories:
+- From the Editor
 ---
 
 Dear Reader,

@@ -1,9 +1,9 @@
 ---
 title: Make the Web Better by Helping the Beginners
 date: 2016-02-08 08:58:00 -06:00
-layout: post
-custom_type: link
 link_url: http://bradcolbow.com/blog/index.php/how-to-make-the-web-better
+categories:
+- Code
 ---
 
 Brad Colbow:

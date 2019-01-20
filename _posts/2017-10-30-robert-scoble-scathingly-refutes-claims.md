@@ -1,14 +1,9 @@
 ---
-title: Sexual Misconduct Claims, Suggests Accusers Motivated by ‘Peer Pressure’ |
-  The Verge
+title: Robert Scoble Denies Sexual Misconduct Claims, Suggesting Accusers Motivated by ‘Peer Pressure’
 date: 2017-10-30 23:00:00 -05:00
-tags:
-- sexual harassment
-- tech
-layout: post
-author: timsmith
-custom_type: link
 link_url: https://www.theverge.com/2017/10/25/16547332/robert-scoble-sexual-harassment-misconduct-response-blog-post
+categories:
+- Tech
 ---
 
 Adi Robertson writing for *The Verge*:

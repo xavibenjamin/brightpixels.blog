@@ -1,12 +1,9 @@
 ---
-title: U.S. Out of Excuses After Defeat in Trinidad Leaves It Out of World Cup | ESPN
-  FC
+title: U.S. Out of World Cup
 date: 2017-10-11 13:47:00 -05:00
-tags:
-- sports
-- football soccer
-custom_type: link
 link_url: http://www.espnfc.com/blog/the-match/60/post/3226598
+categories:
+- Sports
 ---
 
 Jeff Carlisle on *ESPN FC*:
@@ -16,7 +13,6 @@ Jeff Carlisle on *ESPN FC*:
 > No doubt, everyone associated with the U.S. national team is hurting in their own way, but Gonzalez's comment seemed to crystallize the pain that was a byproduct of the 2-1 defeat to Trinidad & Tobago -- a result that, when combined with scores from elsewhere, resulted in the U.S. being eliminated from World Cup qualifying for the first time since the 1986 cycle.
 >
 > It's a result that is difficult to process on many levels. But let's be clear: It's the most embarrassing defeat in U.S. soccer history and one that will be impossible for this group of players and coaches to live down.
-
 
 The U.S. Men's Soccer team is officially out of the World Cup. Now, I'm not going to pretend to know how this whole qualifying stuff works, but every four years this team manages to qualify just to make no impact whatsoever. *But they at least qualify*.
 

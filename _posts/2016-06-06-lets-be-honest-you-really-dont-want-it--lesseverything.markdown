@@ -1,11 +1,9 @@
 ---
-title: Let's Be Honest, You Really Don’t Want It | LessEverything
+title: Let's Be Honest, You Really Don’t Want It
 date: 2016-06-06 09:02:00 -05:00
-tags:
-- work life
-layout: post
-custom_type: link
 link_url: http://lesseverything.com/blog/archives/2016/05/10/lets-be-honest-you-really-dont-want-it/
+categories:
+- Life
 ---
 
 Allan Branch:

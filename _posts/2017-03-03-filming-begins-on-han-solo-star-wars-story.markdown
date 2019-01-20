@@ -1,10 +1,9 @@
 ---
-title: Filming Begins on Han Solo Star Wars Story
+title: Filming Begins on Han Solo Movie
 date: 2017-03-03 11:07:00 -06:00
-tags:
-- Star Wars
-custom_type: link
 link_url: http://www.starwars.com/news/han-solo-smuggler-scoundrel-hero-new-star-wars-story-begins
+categories:
+- Star Wars
 ---
 
 Here's another one I missed while [under the weather](/2017/02/under-the-weather/). From StarWars.com:
@@ -15,6 +14,8 @@ Here's another one I missed while [under the weather](/2017/02/under-the-weather
 
 How exciting! I love how all these spin-offs are exploring backstory we'd never known before. Together with the announcement was the first cast photo too.
 
-![First cast photo of the Han Solo movie]({{ "/uploads/2018/02/solo-cast.jpg " | prepend: site.url }})
+<figure class="reg">
+  {% include imgic.html src="/2018/02/solo-cast.jpg" alt="First Han Solo cast photo" %}
+</figure>
 
-The Han Solo movie comes out May 25, 2018.
+The Han Solo film debuts May 25, 2018.

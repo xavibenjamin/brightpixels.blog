@@ -1,9 +1,9 @@
 ---
 title: Drew Wilson on Design Titles
 date: 2016-02-08 08:57:00 -06:00
-layout: post
-custom_type: link
 link_url: http://blog.drewwilson.com/design-titles
+categories:
+- Design
 ---
 
 Drew Wilson: 

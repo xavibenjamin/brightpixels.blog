@@ -1,9 +1,8 @@
 ---
 title: Pull List for August 15, 2018
 date: 2018-08-14 20:06:00 -05:00
-tags:
-- comics
-- pull list
+categories:
+- Comics
 custom_type: post
 ---
 

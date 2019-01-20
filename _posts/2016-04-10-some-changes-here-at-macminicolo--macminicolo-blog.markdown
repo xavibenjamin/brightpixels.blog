@@ -1,11 +1,9 @@
 ---
-title: Some Changes Here at Macminicolo | Macminicolo Blog
+title: Some Changes Here at Macminicolo
 date: 2016-04-10 01:57:00 -05:00
-tags:
-- tech
-layout: post
-custom_type: link
 link_url: https://macminicolo.net/blog/files/Some-changes-here-at-Macminicolo.html
+categories:
+- Tech
 ---
 
 Brian Stucki:

@@ -1,12 +1,11 @@
 ---
 title: My Favorite TextExpander Snippets
 date: 2017-02-06 08:57:00 -06:00
-tags:
-- automation heaven
-- automation
 subtitle: Let's begin exploring automation with these simple and helpful keyboard
   shortcuts
 custom_type: post
+categories:
+- Tech
 ---
 
 *This post is part of a series on [creating automation heaven](/topics/#automation-heaven).*
@@ -34,7 +33,7 @@ My movie review snippet is similar. By typing `;moviereview`, I easily log movie
 
 <figure class="alignright">
   <img src="{{ site.url }}/uploads/2017/02/movie-review-snippet.jpg" alt="I watch a lot of movies, so giving these reviews some structure is very helpful">
-  <figcaption>I watch a lot of movies, so giving these reviews some structure is very helpful.</figcaption>
+  <figcaption>I watch a lot of movies, so giving these reviews some structure is very helpful</figcaption>
 </figure>
 
 My last Day One snippet is an end of the day summary. I downloaded this snippet from [Chuck Grimmett](http://cagrimmett.com/2015/12/02/five-minute-journal-textexpander.html) and modified them for my use. I only do this once a day in the evening and it helps me remember key things that happened that day. A little reflection each day feels healthy to me, and reminds me there is so much to be grateful for.
@@ -85,7 +84,7 @@ I also have one for 🖖🏼 (probably my most used emoji), which is just `:spoc
 
 These are just *some* of my uses for TextExpander. The possibilities are endless, and I hope you see the ways you'd use it.
 
-If you enjoyed this post and would like to talk more about TextExpander, have questions, or share all the cool ways you use it, [send an email to tim@theboldreport.net](mailto:tim@theboldreport.net).
+If you enjoyed this post and would like to talk more about TextExpander, have questions, or share all the cool ways you use it, [send an email to smith@ttimsmith.com](mailto:smith@ttimsmith.com).
 
 [6508-0001]: https://smilesoftware.com/textexpander
 [6508-0002]: http://dayoneapp.com

@@ -1,12 +1,9 @@
 ---
-title: How We Designed Our Interview Process | ReadMe.io Blog
+title: How We Designed Our Interview Process
 date: 2016-09-07 09:22:00 -05:00
-tags:
-- hiring
-- jobs
-layout: post
-custom_type: link
 link_url: https://blog.readme.io/how-we-designed-our-interview-process/
+categories:
+- Business
 ---
 
 Gregory Koberger on the ReadMe.io Blog

@@ -1,12 +1,9 @@
 ---
-title: Why I Quit Twitter — and Left Behind 35,000 Followers | Th New York Times
+title: Why I Quit Twitter
 date: 2016-06-14 10:49:00 -05:00
-tags:
-- online abuse
-- Twitter
-layout: post
-custom_type: link
 link_url: http://www.nytimes.com/2016/06/10/insider/why-i-quit-twitter-and-left-behind-35000-followers.html
+categories:
+- Tech
 ---
 
 Jonathan Weisman writing for *The New York Times*:

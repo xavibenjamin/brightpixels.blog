@@ -1,10 +1,7 @@
 ---
-title: 'Review: Things 3 for Mac and iOS'
+title: 'Things 3 for Mac and iOS'
+seo_title: My Review of Things 3 for Mac and iOS
 date: 2018-01-31 09:00:00 -06:00
-tags:
-- productivity
-- apps
-- review
 subtitle: A task manager you will actually want to use
 custom_type: post
 review:
@@ -12,10 +9,12 @@ review:
   type: app
 featured_image: "/uploads/2018/01/things-review-01.jpg"
 excerpt: A task manager you will actually want to use
+categories:
+- Tech
 ---
 
 <figure class="extendout">
-  <img src="{{ site.url }}/uploads/2018/01/things-review-01.jpg" alt="Things 3 on iPad">
+  {% include imgic.html src="/2018/01/things-review-01.jpg" alt="Things 3 on iPad" %}
   <figcaption>Things 3 on iPad</figcaption>
 </figure>
 
@@ -50,7 +49,7 @@ Cultured Code has achieved an incredible feat here. These are four different app
 Where most to-do apps only allow you to create lists, Things 3 recognizes two types of lists: Projects and Areas. You can create tasks in both, but this type of organization has helped my workflow.
 
 <figure class="extendout">
-  <img src="{{ site.url }}/uploads/2018/01/things-review-04.jpg" alt="Things 3 gives you verious ways to manage to-dos">
+  {% include imgic.html src="/2018/01/things-review-04.jpg" alt="Things 3 gives you verious ways to manage to-dos" %}
   <figcaption>Things 3 gives you verious ways to manage to-dos</figcaption>
 </figure>
 
@@ -63,7 +62,7 @@ Furthermore, you can organize tasks inside a project with headings. I often use 
 Each person will have their own way of using tags, I tend to use mine for quick bits of information that I can see at a glance.
 
 <figure class="alignleft">
-  <img src="{{ site.url }}/uploads/2018/01/things-review-05.jpg" alt="Tags can be a very powerful way of organizing your tasks">
+  {% include imgic.html src="/2018/01/things-review-05.jpg" alt="Tags can be a very powerful way of organizing your tasks" %}
   <figcaption>Tags can be a very powerful way of organizing your tasks</figcaption>
 </figure>
 
@@ -76,7 +75,7 @@ Overall, I like the implementation of tags. I wish I could make certain tags lim
 Any modern to-do app needs some way to sync. Things does this via Things Cloud and doesn't offer any alternate way of syncing. Thankfully, [Cultured Code has a whole page explaining what this service is](https://culturedcode.com/things/cloud/) and how they've ensured its security.
 
 <figure class="alignright">
-  <img src="{{ site.url }}/uploads/2018/01/things-review-03.jpg" alt="Things Cloud allows you to see all your tasks on any device">
+  {% include imgic.html src="/2018/01/things-review-03.jpg" alt="Things Cloud allows you to see all your tasks on any device" %}
   <figcaption>Things Cloud allows you to see all your tasks on any device</figcaption>
 </figure>
 

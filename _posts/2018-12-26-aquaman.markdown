@@ -1,11 +1,9 @@
 ---
 title: Aquaman
+seo_title: ‘Aquaman’ Can’t Be Saved by CGI or Jason Mamoa’s Charisma
 date: 2018-12-26 05:25:00 -06:00
-tags:
-- DC Comics
-- review
-- movie review
-- movies
+categories:
+- Film
 subtitle: Neither Jason Mamoa's charisma nor amazing special effects can mask this
   film's poorly written dialogue
 custom_type: post

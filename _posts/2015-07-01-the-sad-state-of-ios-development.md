@@ -1,9 +1,9 @@
 ---
 title: The Sad State of iOS Development
 date: 2015-07-01 10:42:51 -05:00
-layout: post
-custom_type: link
 link_url: http://inessential.com/2015/06/30/love
+categories:
+- Apple
 ---
 
 Brent Simmons:

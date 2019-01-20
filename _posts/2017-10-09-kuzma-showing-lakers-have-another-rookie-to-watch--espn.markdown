@@ -1,10 +1,10 @@
 ---
-title: Kuzma Showing Lakers Have Another Rookie to Watch | ESPN
+title: Kuzma Showing Lakers Have Another Rookie to Watch
 date: 2017-10-09 10:53:00 -05:00
-tags:
-- NBA
 custom_type: link
 link_url: http://www.espn.com/nba/story/_/id/20891274
+categories:
+- Sports
 ---
 
 Ohm Youngmisuk:

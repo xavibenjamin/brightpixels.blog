@@ -1,12 +1,8 @@
 ---
-title: USB-C vs. the Headphone Jack by Manton Reece
+title: USB-C vs. the Headphone Jack
 date: 2016-11-14 14:57:00 -06:00
-tags:
+categories:
 - Apple
-- headphone jack
-- tech
-layout: post
-custom_type: link
 link_url: http://www.manton.org/2016/11/usb-c-vs-the-headphone-jack.html
 ---
 

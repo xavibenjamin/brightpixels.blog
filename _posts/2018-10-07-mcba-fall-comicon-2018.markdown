@@ -1,9 +1,8 @@
 ---
 title: MCBA Fall ComiCon 2018
 date: 2018-10-07 22:58:00 -05:00
-tags:
-- comics
-- comic con
+categories:
+- Comics
 custom_type: post
 subtitle: My first comic con
 ---

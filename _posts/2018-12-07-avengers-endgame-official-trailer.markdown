@@ -1,9 +1,8 @@
 ---
 title: "‘Avengers: Endgame’ Official Trailer"
 date: 2018-12-07 10:42:00 -06:00
-tags:
-- Marvel
-- movies
+categories:
+- Film
 custom_type: post
 featured_image: "/uploads/avengers-endgame-featured.jpg"
 excerpt: Those Russo Brothers lied to us.

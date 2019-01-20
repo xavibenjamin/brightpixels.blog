@@ -1,14 +1,13 @@
 ---
 title: Another Way to Avoid Writing Unnecessary :last-child's
 date: 2017-03-06 14:53:00 -06:00
-tags:
-- CSS
-- development
 subtitle: The Lobotomized Owl Selector
 custom_type: post
+categories:
+- Code
 ---
 
-About two weeks ago, I wrote a post on how you [can use `:not` in your CSS to simplify life](https://theboldreport.net/2017/02/css-tip-use-not-to-save-time-and-lines-of-code/). Lots of people really liked the article, and I'm so glad! This method is pretty awesome.
+About two weeks ago, I wrote a post on how you [can use `:not` in your CSS to simplify life](/2017/02/css-tip-use-not-to-save-time-and-lines-of-code/). Lots of people really liked the article, and I'm so glad! This method is pretty awesome.
 
 One of our readers, [Miler](http://acidrums4.github.io), wrote in to point me to [this article that talks about the "lobotomized owl selector"](https://alistapart.com/article/axiomatic-css-and-lobotomized-owls). Funny name, but a fascinating approach, and quite honestly, way better.
 
@@ -33,4 +32,4 @@ If we go back to the original example, each `.post` would already be correctly s
 
 This only eliminates one line here, but possibly hundreds throughout our codebase.
 
-As always, if you have questions or would like to discuss [send me an email](mailto:tim@theboldreport.net).
+As always, if you have questions or would like to discuss [send me an email](mailto:smith@ttimsmith.com).

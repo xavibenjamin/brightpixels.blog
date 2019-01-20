@@ -1,9 +1,9 @@
 ---
 title: Pull List for December 12, 2018
+seo_title: 'Detective Comics #994, X-Men: Red #11 - Pull List for December 12, 2018'
 date: 2018-12-11 05:33:00 -06:00
-tags:
-- comics
-- pull list
+categories:
+- Comics
 custom_type: post
 featured_image: "/uploads/pull-list-12-12-2018.jpg"
 excerpt: Comics I'm reading this week and one's I read last week

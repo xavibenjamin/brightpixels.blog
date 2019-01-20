@@ -1,9 +1,8 @@
 ---
-title: 'Partly Sunny Review: Weather Reimagined | MacStories'
+title: 'Partly Sunny Review: Weather Reimagined'
 date: 2016-12-19 15:49:00 -06:00
-tags:
-- apps
-custom_type: link
+categories:
+- Tech
 link_url: https://www.macstories.net/reviews/partly-sunny-review-weather-reimagined/
 ---
 

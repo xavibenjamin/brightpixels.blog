@@ -1,12 +1,9 @@
 ---
-title: Ideas for Building a Family Friendly Culture | Wildbit Blog
+title: Building a Family Friendly Culture
 date: 2016-04-15 00:54:00 -05:00
-tags:
-- business
-- culture
-layout: post
-custom_type: link
 link_url: http://wildbit.com/blog/2016/03/24/ideas-for-building-a-family-friendly-culture
+categories:
+- Business
 ---
 
 Natalie Nagele explains what happens when you don't give employees workplace flexibility. Ya know, 'cause life happens:

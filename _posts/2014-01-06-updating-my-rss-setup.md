@@ -1,12 +1,9 @@
 ---
 title: Updating My RSS Setup
 date: 2014-01-06 12:49:32 -06:00
-tags:
-- RSS
-- reading
-- apps
-layout: post
 custom_type: post
+categories:
+- Tech
 ---
 
 Back in June, I wrote [a post on my RSS consumption setup](https://ttimsmith.com/2013/06/a-new-rss-setup). The setup has changed a little, so I wanted to write an updated version that I can point people to.

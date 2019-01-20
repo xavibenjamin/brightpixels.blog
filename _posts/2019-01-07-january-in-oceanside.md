@@ -1,10 +1,8 @@
 ---
 title: January in Oceanside
 date: 2019-01-07 12:09:00 -06:00
-tags:
-- photography
-- personal
-- snowbirding
+categories:
+- Life
 custom_type: post
 featured_image: "/uploads/2019/01/jan-in-ca-005.jpg"
 ---
@@ -23,7 +21,3 @@ Things will stay normal around here for the most part; I'll be writing as much a
   {% include imgic.html src="/2019/01/jan-in-ca-004.jpg" alt="Picture of me before sunset." style="grid-column: 2 / span 3;" %}
   {% include imgic.html src="/2019/01/jan-in-ca-005.jpg" alt="Kelly on the pier after sunset." style="grid-column: span 5;" %}
 </figure>
-
-
-
-

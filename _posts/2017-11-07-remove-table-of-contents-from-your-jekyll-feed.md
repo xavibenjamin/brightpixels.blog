@@ -1,11 +1,10 @@
 ---
 title: Remove Table of Contents From a Jekyll RSS Feed
 date: 2017-11-07 07:30:00 -06:00
-tags:
-- Jekyll
-- development
 custom_type: post
 subtitle: How is this not a post on the internet yet?
+categories:
+- Code
 ---
 
 **Note from the Editor:** *The following method will only work if you self-host your Jekyll site. GitHub Pages doesn't allow custom plugins.*

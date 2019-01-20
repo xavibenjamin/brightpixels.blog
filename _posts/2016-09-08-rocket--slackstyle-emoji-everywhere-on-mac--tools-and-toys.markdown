@@ -1,11 +1,9 @@
 ---
-title: Rocket — Slack-style Emoji Everywhere on Mac | Tools and Toys
+title: Slack-style Emoji Everywhere on Mac
 date: 2016-09-08 15:15:00 -05:00
-tags:
-- apps
-layout: post
-custom_type: link
 link_url: http://toolsandtoys.net/rocket-slack-style-emoji-everywhere-on-mac/
+categories:
+- Tech
 ---
 
 Chris Gonzales on *The Sweet Setup*:

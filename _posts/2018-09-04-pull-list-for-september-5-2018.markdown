@@ -1,9 +1,9 @@
 ---
 title: Pull List for September 5, 2018
+seo_title: 'Cover #1, Deadpool #4 - Pull List for September 5, 2018'
 date: 2018-09-04 20:25:00 -05:00
-tags:
-- comics
-- pull list
+categories:
+- Comics
 custom_type: post
 ---
 

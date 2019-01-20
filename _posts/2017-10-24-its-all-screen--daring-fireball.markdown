@@ -1,11 +1,9 @@
 ---
-title: "‘It’s All Screen’ | Daring Fireball"
+title: It’s All Screen
 date: 2017-10-24 00:00:00 -05:00
-tags:
-- Apple
-- iPhone X
-custom_type: link
 link_url: https://daringfireball.net/linked/2017/10/20/its-all-screen
+categories:
+- Apple
 ---
 
 John Gruber:

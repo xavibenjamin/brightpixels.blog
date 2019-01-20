@@ -1,11 +1,9 @@
 ---
 title: Yahoo’s ‘Year in Review’ Report
 date: 2013-12-03 12:03:31 -06:00
-tags:
-- tech
-layout: post
-custom_type: link
 link_url: http://thenextweb.com/insider/2013/12/03/yahoo-reveals-tumblrs-viral-blogs-2013-annual-year-review-report/
+categories:
+- Tech
 ---
 
 Ken Yeung on *The Next Web*:

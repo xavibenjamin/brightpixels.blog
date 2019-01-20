@@ -1,12 +1,9 @@
 ---
-title: With Version 1.1 and an iPad App, I’m Switching to Airmail | MacStories
+title: Federico Viticci Switches to Airmail
 date: 2016-04-25 14:43:00 -05:00
-tags:
-- apps
-- reviews
-layout: post
-custom_type: link
 link_url: http://www.macstories.net/reviews/with-version-1-1-and-an-ipad-app-im-switching-to-airmail/
+categories:
+- Tech
 ---
 
 Federico Viticci on *MacStories*:

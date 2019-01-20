@@ -1,9 +1,8 @@
 ---
 title: Apple to Hold Event on October 30th
 date: 2018-10-19 11:50:00 -05:00
-tags:
+categories:
 - Apple
-- Apple event
 excerpt: Apple is holding an event on October 30th and I hope there are some freaking
   Mac-related announcements.
 link_url: https://www.macstories.net/news/apple-announces-october-30th-event/

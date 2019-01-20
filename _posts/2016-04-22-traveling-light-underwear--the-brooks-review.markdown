@@ -1,11 +1,9 @@
 ---
-title: 'Traveling Light: Underwear | The Brooks Review'
+title: 'Traveling Light: Underwear'
 date: 2016-04-22 00:47:00 -05:00
-tags:
-- travel
-layout: post
-custom_type: link
 link_url: https://brooksreview.net/2016/04/tl-underwear/
+categories:
+- Life
 ---
 
 Ben Brooks:

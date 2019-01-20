@@ -1,9 +1,8 @@
 ---
 title: 4 Things I Miss About Mac
 date: 2019-01-09 06:32:00 -06:00
-tags:
-- Windows
-- macOS
+categories:
+- Tech
 link_url: https://daverupert.com/2019/01/things-i-miss-about-mac/
 ---
 

@@ -1,12 +1,9 @@
 ---
-title: Normalize (CSS) No More by Shaun Rashid
+title: Normalize (CSS) No More
 date: 2016-10-12 10:49:00 -05:00
-tags:
-- CSS
-- development
-layout: post
-custom_type: link
 link_url: http://shaunrashid.com/2015/09/15/normalize-css-no-more/
+categories:
+- Code
 ---
 
 Shaun Rashid:

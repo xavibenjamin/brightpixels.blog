@@ -1,9 +1,9 @@
 ---
 title: Matt Gemmell on Working from Home
 date: 2015-07-20 00:00:00 -05:00
-layout: post
-custom_type: link
 link_url: http://mattgemmell.com/working-from-home/
+categories:
+- Life
 ---
 
 Matt Gemmell writes an excellent piece on working from home. You can tell he’s been doing it for a while, and I love his emphasis on creating a routine. If you don’t have a routine when you work from home, you’ll never get anything done.

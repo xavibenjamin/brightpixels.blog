@@ -1,8 +1,8 @@
 ---
-title: How to Write a Blog Post | Rands in Repose
+title: How to Write a Blog Post
 date: 2018-01-30 17:16:00 -06:00
-tags:
-- writing
+categories:
+- Writing
 custom_type: link
 link_url: http://randsinrepose.com/archives/how-to-write-a-blog-post/
 ---
@@ -18,7 +18,7 @@ Michael Lopp:
 I liked this. When I was in school, I'd often print out essays and edit them. For the first time in a long time, I did just that.
 
 <figure class="extendout">
-  <img src="{{ site.url }}/uploads/2018/01/editing-things-review.jpg" alt="Editing my upcoming review of Things 3">
+  {% include imgic.html src="/2018/01/editing-things-review.jpg" alt="Editing my upcoming review of Things 3" %}
   <figcaption>Editing my upcoming review of Things 3</figcaption>
 </figure>
 

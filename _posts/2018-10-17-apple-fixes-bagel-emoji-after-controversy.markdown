@@ -1,9 +1,8 @@
 ---
 title: Apple Fixes Bagel Emoji After Controversy
 date: 2018-10-17 05:50:00 -05:00
-tags:
-- tech
-- emoji
+categories:
+- Tech
 excerpt: Another ridiculous thing the internet is up in arms about.
 link_url: https://blog.emojipedia.org/apple-fixes-bagel-emoji/
 featured_image: "/uploads/bagel-emoji-featured.jpg"

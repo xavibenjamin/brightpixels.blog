@@ -1,9 +1,8 @@
 ---
-title: My iPad Photography Workflow | The Sweet Setup
+title: My iPad Photography Workflow
 date: 2018-09-25 09:17:00 -05:00
-tags:
-- photography
-- iPad
+categories:
+- Photography
 link_url: https://thesweetsetup.com/my-ipad-photography-workflow/
 ---
 

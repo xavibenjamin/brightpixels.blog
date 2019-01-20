@@ -1,8 +1,8 @@
 ---
 title: Apparently There's a Science to Drinking Coffee
 date: 2018-12-05 21:11:00 -06:00
-tags:
-- coffee
+categories:
+- Life
 author: kellysmith
 custom_type: post
 excerpt: Who knew?

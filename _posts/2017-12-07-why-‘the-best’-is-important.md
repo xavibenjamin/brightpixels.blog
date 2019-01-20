@@ -1,12 +1,10 @@
 ---
 title: Why ‘The Best’ is Important
 date: 2017-12-07 17:52:39.430000000 -06:00
-tags:
-- tech
-- personal
+categories:
+- Life
 custom_type: link
 link_url: https://brooksreview.net/2017/12/stop-messing-about-with-crap/
-author: timsmith
 ---
 
 Ben Brooks on _The Brooks Review_:

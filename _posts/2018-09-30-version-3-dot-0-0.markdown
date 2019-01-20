@@ -1,10 +1,6 @@
 ---
 title: Version 3.0.0
 date: 2018-09-30 14:39:00 -05:00
-tags:
-- from the editor
-- release notes
-- site news
 custom_type: post
 is_rss_only: true
 ---

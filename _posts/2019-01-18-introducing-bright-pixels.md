@@ -1,9 +1,8 @@
 ---
 title: Introducing Bright Pixels
 date: 2019-01-18 00:21:00 -06:00
-tags:
-- from the editor
-- site news
+categories:
+- From the Editor
 subtitle: My blog has a new name… again
 seo_title: Brightly Colored is now Bright Pixels
 custom_type: post

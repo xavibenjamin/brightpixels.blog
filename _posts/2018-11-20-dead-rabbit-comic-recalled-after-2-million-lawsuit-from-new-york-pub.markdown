@@ -1,9 +1,8 @@
 ---
 title: "‘Dead Rabbit’ Comic Recalled After $2 Million Lawsuit From New York Pub"
 date: 2018-11-20 17:43:00 -06:00
-tags:
-- comics
-- Image Comics
+categories:
+- Comics
 custom_type: post
 excerpt: Ooooh! I suddenly have a rare comic in my possession.
 featured_image: "/uploads/dead-rabbit-featured.jpg"

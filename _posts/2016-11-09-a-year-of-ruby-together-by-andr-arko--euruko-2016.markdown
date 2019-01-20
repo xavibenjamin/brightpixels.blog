@@ -1,10 +1,8 @@
 ---
-title: A Year of Ruby, Together by André Arko | EuRuKo 2016
+title: A Year of Ruby, Together
 date: 2016-11-09 11:05:00 -06:00
-tags:
-- development
-layout: post
-custom_type: link
+categories:
+- Code
 link_url: https://www.youtube.com/watch?v=SJddsEfvcW8
 ---
 

@@ -1,11 +1,9 @@
 ---
-title: Signed Git Commits with Tower by Aaron Parecki
+title: Signed Git Commits with Tower
 date: 2016-09-13 10:38:00 -05:00
-tags:
-- development
-layout: post
-custom_type: link
 link_url: https://aaronparecki.com/2016/07/29/10/git-tower
+categories:
+- Code
 ---
 
 Aaron Parecki:

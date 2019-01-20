@@ -1,12 +1,9 @@
 ---
 title: MacStories Reviews Fantastical 2.2
 date: 2014-10-22 12:06:17 -05:00
-tags:
-- apps
-- reviews
-layout: post
-custom_type: link
 link_url: http://www.macstories.net/reviews/fantastical-2-2-interactive-notifications-share-extension-and-today-widget/
+categories:
+- Tech
 ---
 
 Federico Viticci writing on *MacStories*:

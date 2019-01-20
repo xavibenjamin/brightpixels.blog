@@ -1,11 +1,9 @@
 ---
 title: Ron Burgundy Takes Over Local News to Promote ‘Anchorman 2’
 date: 2013-12-02 10:48:57 -06:00
-tags:
-- movies
-layout: post
-custom_type: link
 link_url: http://www.theverge.com/2013/12/1/5163560/ron-burgundy-invades-local-news-to-promote-anchorman-2
+categories:
+- Film
 ---
 
 Kwame Opam on *The Verge*:

@@ -1,11 +1,9 @@
 ---
 title: An Argument for App.net
 date: 2013-09-30 16:17:17 -05:00
-tags:
-- tech
-layout: post
-custom_type: link
 link_url: http://www.chrisenns.com/2013/09/favd/
+categories:
+- Tech
 ---
 
 Chris Enns:

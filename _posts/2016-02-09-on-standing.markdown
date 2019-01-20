@@ -1,9 +1,9 @@
 ---
-title: "‘On Standing’"
+title: On Standing
 date: 2016-02-09 08:30:00 -06:00
-layout: post
-custom_type: link
 link_url: http://chrisbowler.com/journal/on-standing
+categories:
+- Life
 ---
 
 Chris Bowler:

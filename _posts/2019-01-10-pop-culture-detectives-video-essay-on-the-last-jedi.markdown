@@ -1,9 +1,7 @@
 ---
 title: Pop Culture Detective's Video Essay on ‘The Last Jedi’
 date: 2019-01-10 10:09:00 -06:00
-tags:
-- Episode VIII
-- Episode IX
+categories:
 - Star Wars
 custom_type: post
 featured_image: "/uploads/2019/01/last-jedi-video-featured.jpg"

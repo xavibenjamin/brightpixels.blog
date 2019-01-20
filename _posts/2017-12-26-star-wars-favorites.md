@@ -1,10 +1,9 @@
 ---
-title: My Favorite Star Wars Movies
+title: My Favorite ‘Star Wars’ Movies
 date: 2017-12-26 15:29:00 -06:00
-tags:
-- Star Wars
-- movies
 custom_type: post
+categories:
+- Star Wars
 ---
 
 After recording [an episode of *Retake* about *Rogue One*][0178-0001], TJ and I started talking about where the movie fell within our personal favorites list. I realized I didn't have my list written somewhere.
@@ -39,4 +38,3 @@ My list will change as more movies come out. What about you? [Send me an email](
 [4169-0002]: https://en.wikipedia.org/wiki/Star_Wars:_Episode_III_%E2%80%93_Revenge_of_the_Sith
 [4169-0003]: https://en.wikipedia.org/wiki/Star_Wars:_Episode_II_%E2%80%93_Attack_of_the_Clones
 [4169-0004]: https://en.wikipedia.org/wiki/Star_Wars:_Episode_I_%E2%80%93_The_Phantom_Menace
-

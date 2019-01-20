@@ -1,10 +1,8 @@
 ---
-title: 7 Writing Tips by Helen Tran
+title: 7 Writing Tips
 date: 2016-11-29 16:29:00 -06:00
-tags:
-- writing
-layout: post
-custom_type: link
+categories:
+- Writing
 link_url: http://helentran.com/7-writing-tips
 ---
 

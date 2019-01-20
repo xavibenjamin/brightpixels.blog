@@ -1,9 +1,9 @@
 ---
 title: Pull List for October 3, 2018
+seo_title: 'Paper Girls #25 - Pull List for October 3, 2018'
 date: 2018-10-02 08:30:00 -05:00
-tags:
-- comics
-- pull list
+categories:
+- Comics
 custom_type: post
 excerpt: Another week is here, and that means there are new comic books to read, new
   stories to be enveloped in, and new artwork to be entranced by. Here's what I read

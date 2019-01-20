@@ -1,9 +1,10 @@
 ---
-title: "‘Fire the Workaholics’"
+title: Fire the Workaholics
 date: 2015-08-24 07:43:00 -05:00
-layout: post
-custom_type: link
 link_url: https://signalvnoise.com/posts/902-fire-the-workaholics
+categories:
+- Business
+
 ---
 
 David Heinemeier Hansson:

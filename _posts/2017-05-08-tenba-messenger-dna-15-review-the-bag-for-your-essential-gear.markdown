@@ -1,15 +1,13 @@
 ---
 title: Tenba Messenger DNA 15
 date: 2017-05-08 12:18:00 -05:00
-tags:
-- review
-- my videos
-- camera bags
 subtitle: The bag for your essential gear
 custom_type: post
 review:
   type: product
   rating: 3.5
+categories:
+- Photography
 ---
 
 <div class="iframe-container">

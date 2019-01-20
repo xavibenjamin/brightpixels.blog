@@ -1,14 +1,9 @@
 ---
 title: 'Week in Review: March 10, 2017'
 date: 2017-03-10 11:56:00 -06:00
-tags:
-- CSS
-- microblogging
-- Apple
-- development
-- writing
-- sexual harassment
 custom_type: post
+categories:
+- Tech
 ---
 
 Greetings, you fine-looking people!

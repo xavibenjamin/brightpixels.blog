@@ -1,8 +1,8 @@
 ---
-title: Tips and Advice on Visiting Tulum, Mexico | NerdyFab
+title: Tips and Advice on Visiting Tulum, Mexico
 date: 2018-10-08 00:43:00 -05:00
-tags:
-- travel
+categories:
+- Life
 excerpt: Almost every time I talk to Nicole, she hypes up Tulum.
 link_url: https://nerdyfab.com/tips-and-advice-on-visiting-tulum-mexico/
 ---

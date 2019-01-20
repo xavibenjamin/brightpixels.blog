@@ -1,9 +1,8 @@
 ---
 title: What Happened to 5K Displays?
 date: 2018-11-30 09:51:00 -06:00
-tags:
-- displays
-- Apple
+categories:
+- Tech
 link_url: https://www.macstories.net/linked/what-happened-to-5k-displays/
 ---
 

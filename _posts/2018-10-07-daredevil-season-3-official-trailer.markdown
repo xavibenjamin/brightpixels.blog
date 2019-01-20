@@ -1,8 +1,7 @@
 ---
 title: "‘Daredevil’ Season 3 Official Trailer"
 date: 2018-10-07 23:16:00 -05:00
-tags:
-- Marvel
+categories:
 - TV
 custom_type: post
 excerpt: Season three of Daredevil debuts soon, and the official trailer has me hyped!

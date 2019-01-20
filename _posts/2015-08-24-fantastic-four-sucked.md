@@ -1,9 +1,9 @@
 ---
 title: "‘Fantastic Four’ Sucked"
 date: 2015-08-24 09:51:07 -05:00
-layout: post
-custom_type: link
 link_url: http://www.nytimes.com/2015/08/10/movies/fantastic-four-lacks-superpowers-at-box-office.html
+categories:
+- Film
 ---
 
 Brooks Barnes writing for the *New York Times*:

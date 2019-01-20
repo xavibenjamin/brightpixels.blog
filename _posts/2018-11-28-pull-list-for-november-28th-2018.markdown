@@ -1,9 +1,9 @@
 ---
 title: Pull List for November 28, 2018
+seo_title: 'Man-Eaters #3, The Amazing Spider-Man #10 - Pull List for November 28, 2018'
 date: 2018-11-28 05:48:00 -06:00
-tags:
-- comics
-- pull list
+categories:
+- Comics
 custom_type: post
 excerpt: Comics I read last week, and ones I’m picking up this week.
 featured_image: "/uploads/pull-list-11-28-2018.jpg"

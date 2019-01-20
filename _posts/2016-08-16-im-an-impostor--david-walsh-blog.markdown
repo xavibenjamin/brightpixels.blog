@@ -1,12 +1,9 @@
 ---
-title: I'm an Impostor | David Walsh Blog
+title: I'm an Impostor
 date: 2016-08-16 09:01:00 -05:00
-tags:
-- life
-- work life
-layout: post
-custom_type: link
 link_url: https://davidwalsh.name/impostor-syndrome
+categories:
+- Life
 ---
 
 David Walsh:

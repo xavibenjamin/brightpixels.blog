@@ -1,11 +1,9 @@
 ---
-title: What Will They Say About Me? | Cognition
+title: What Will They Say About Me?
 date: 2016-04-19 08:44:00 -05:00
-tags:
-- life
-layout: post
-custom_type: link
 link_url: http://cognition.happycog.com/article/what-will-they-say-about-me
+categories:
+- Life
 ---
 
 Dan Delauro writes his thoughts at a funeral he attended:

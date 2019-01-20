@@ -1,9 +1,9 @@
 ---
-title: "‘Feline Maximization’"
+title: Feline Maximization
 date: 2016-01-13 00:27:12 -06:00
-layout: post
-custom_type: link
 link_url: http://barelylegally.com/post/feline-maximization/
+categories:
+- TV
 ---
 
 Dominic Mauro on his site *Barely Legally*:

@@ -1,9 +1,8 @@
 ---
-title: How to Read the Internet by Robin Rendle
+title: How to Read the Internet
 date: 2018-01-25 12:34:00 -06:00
-tags:
-- publishing
-- writing
+categories:
+- Writing
 link_url: https://robinrendle.com/notes/how-to-read-the-internet/
 ---
 
@@ -19,7 +18,7 @@ We've seen how social media algorithmically suggests content, and how damaging t
 
 As Robin remarks, it would seem that the blog is coming back this year, and just in my personal experience, I've seen many write for the first time in a while. I hope more people understand how toxic social media has become and start writing on their own sites.
 
-Writing on your site obligates you stop and think about what the hell you're writing before actually publishing. And then there's the thread trend that's become extremely popular on Twitter where people write full blog posts in tweet form—an absolute absurdity to read. 
+Writing on your site obligates you stop and think about what the hell you're writing before actually publishing. And then there's the thread trend that's become extremely popular on Twitter where people write full blog posts in tweet form—an absolute absurdity to read.
 
 Sadly, some of these threads are well written and important, but they're quickly forgotten due to Twitter's inherent focus on the disposable. Where on a blog, writers often carefully curate the  content they publish, social media is riddled with a confusing cocktail of thoughtful posts and the mundane.
 

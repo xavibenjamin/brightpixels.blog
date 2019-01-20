@@ -1,12 +1,9 @@
 ---
 title: How Do I Keep Up With the Web?
 date: 2017-04-18 13:57:00 -05:00
-tags:
-- design
-- development
-- industry issues
-- AMA
 custom_type: post
+categories:
+- Code
 ---
 
 I got the following question from a nice fellow by the name of Chris Martin:

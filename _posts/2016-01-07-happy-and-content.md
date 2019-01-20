@@ -1,13 +1,11 @@
 ---
 title: '2015: Year in Review'
 date: 2016-01-07 19:12:17 -06:00
-tags:
-- personal
-- year in review
-layout: post
 custom_type: post
 subtitle: The title perfectly encapsulates my year. 2015 came and went, and as usual,
   here's my annual year in review.
+categories:
+- Life
 ---
 
 This was by far the best year in a long time. Kelly and I were married on May 9. It was the best day of my life.
@@ -25,7 +23,7 @@ We were surrounded by all of our friends and family who smothered us in so much 
 
 <figure class="small__right">
   <img src="{{ site.url }}/uploads/2016/01/acl-hiking.jpg" alt="ACL took us on a team-building excursion in May, which turned out to be awesome. Our team name was: The Totems.">
-  <figcaption>ACL took us on a team-building excursion in May, which turned out to be awesome. Our team name was: The Totems.</figcaption>
+  <figcaption>ACL took us on a team-building excursion in May, which turned out to be awesome. Our team name was: The Totems</figcaption>
 </figure>
 
 Having a "regular" day job has its pros and cons. After running my own business for so long, having a more rigid schedule where I work 5 days a week has been difficult to get used to.
@@ -50,7 +48,7 @@ Kelly and I went to Europe for the first time this summer. It was the first time
   <img src="{{ site.url }}/uploads/2016/01/paris-pastry.jpg" alt="" class="grid-thirds" />
   <img src="{{ site.url }}/uploads/2016/01/kelly-punching.jpg" alt="" class="grid-half" />
   <img src="{{ site.url }}/uploads/2016/01/europe-group-on-the-bus.jpg" alt="" class="grid-half" />
-  <figcaption>Some of my favorite Europe moments.</figcaption>
+  <figcaption>Some of my favorite Europe moments</figcaption>
 </figure>
 
 We saw the Eiffel Tower at night with all the lights on, walked many unknown streets, took the subway, had espresso and pastries in a French cafe, missed our train, felt frustrated because we couldn’t speak French, ate amazing food, made great new friends, and saw people nude on the beach like it was no big deal. I hope we get the chance to go back.

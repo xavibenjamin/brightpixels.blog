@@ -1,11 +1,9 @@
 ---
-title: The Best BB-8 Yet Recognizes Voice Commands and Comes When It's Called | Toyland
+title: The Best BB-8 Yet Recognizes Voice Commands and Comes When It's Called
 date: 2016-03-03 07:29:00 -06:00
-tags:
-- Star Wars
-layout: post
-custom_type: link
 link_url: http://toyland.gizmodo.com/the-best-bb-8-yet-recognizes-voice-commands-and-comes-w-1758410074
+categories:
+- Star Wars
 ---
 
 Andrew Liszewski writing for *Toyland*:

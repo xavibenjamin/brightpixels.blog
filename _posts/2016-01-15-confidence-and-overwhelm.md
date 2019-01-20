@@ -1,9 +1,9 @@
 ---
-title: "‘Confidence and Overwhelm’"
+title: Confidence and Overwhelm
 date: 2016-01-15 00:00:13 -06:00
-layout: post
-custom_type: link
 link_url: https://rachelandrew.co.uk/archives/2015/08/14/confidence-and-overwhelm
+categories:
+- Code
 ---
 
 Rachel Andrew:

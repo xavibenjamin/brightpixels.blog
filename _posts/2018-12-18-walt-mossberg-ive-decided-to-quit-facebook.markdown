@@ -1,8 +1,8 @@
 ---
 title: 'Walt Mossberg: ‘I’ve Decided to Quit Facebook’'
 date: 2018-12-18 10:09:00 -06:00
-tags:
-- tech
+categories:
+- Tech
 custom_type: post
 ---
 
@@ -16,7 +16,7 @@ Walt has long been a respected member of the tech community, and his decision is
 
 Makes sense. You can't just leave Facebook—they have their tentacles attached to these other services too.
 
-I think an interesting movement is happening here. All of us whom call the internet home have always been early adopters. <mark>I was on Facebook and Instagram <em>years before</em> any of my offline friends were.</mark>
+I think an interesting movement is happening here. All of us whom call the internet home have always been early adopters. <mark>I was on Facebook and Instagram <em>years before</em> any of my offline friends&nbsp;were.</mark>
 
 In a similar vein, we're now the early adopters who understand the moral bankruptcy of the people running social media. Just as I had to explain to IRL friends what Instagram was, they give me the same confusing look when I tell them I've deleted my account.
 

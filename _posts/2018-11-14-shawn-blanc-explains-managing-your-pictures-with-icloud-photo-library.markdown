@@ -1,9 +1,8 @@
 ---
-title: Shawn Blanc Explains Managing Your Pictures With iCloud Photo Library
+title: Manage Your Pictures With iCloud Photo Library
 date: 2018-11-14 10:10:00 -06:00
-tags:
-- photography
-- iCloud Photo Library
+categories:
+- Photography
 excerpt: Apple Photos is pretty great.
 custom_type: post
 ---

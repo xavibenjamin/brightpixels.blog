@@ -1,11 +1,9 @@
 ---
-title: Sticky Headers by Jeremy Keith
+title: Sticky Headers
 date: 2016-07-27 00:31:00 -05:00
-tags:
-- CSS
-layout: post
-custom_type: link
 link_url: https://adactio.com/journal/10877
+categories:
+- Code
 ---
 
 Jeremy Keith:

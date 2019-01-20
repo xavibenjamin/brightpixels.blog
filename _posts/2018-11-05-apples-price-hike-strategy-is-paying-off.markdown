@@ -1,7 +1,7 @@
 ---
-title: Apple’s price increases are great for everyone but the consumer
+title: Apple’s Price Increases Are Great for Everyone but the Consumer
 date: 2018-11-05 11:45:00 -06:00
-tags:
+categories:
 - Apple
 excerpt: Yay for corporate greed?
 link_url: https://www.theverge.com/2018/11/1/18053012/apple-q4-earnings-report-iphone-ipad-macbook-price-bump

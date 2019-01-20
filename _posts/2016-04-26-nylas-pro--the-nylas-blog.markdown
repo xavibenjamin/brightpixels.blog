@@ -1,11 +1,9 @@
 ---
-title: Nylas Pro | The Nylas Blog
+title: Nylas Pro
 date: 2016-04-26 08:53:00 -05:00
-tags:
-- apps
-layout: post
-custom_type: link
 link_url: https://nylas.com/blog/nylas-pro/
+categories:
+- Tech
 ---
 
 Michael Grinich on the Nylas Blog:

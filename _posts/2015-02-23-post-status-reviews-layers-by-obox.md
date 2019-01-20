@@ -1,12 +1,9 @@
 ---
 title: Post Status Reviews Layers by Obox
 date: 2015-02-23 13:28:09 -06:00
-tags:
-- reviews
-- tech
-layout: post
-custom_type: link
 link_url: https://poststatus.com/layers-theme-obox/
+categories:
+- Code
 ---
 
 Brian Krogsgard:

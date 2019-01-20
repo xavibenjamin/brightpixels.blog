@@ -1,10 +1,9 @@
 ---
-title: 16-Bit Fight Between Luke Skywalker and Kylo Ren in ‘The Last Jedi’
+title: Fight Between Luke Skywalker and Kylo Ren from ‘The Last Jedi’ in 16-Bit
 date: 2018-01-17 13:34:00 -06:00
-tags:
-- Star Wars
-- Episode VIII
 custom_type: post
+categories:
+- Star Wars
 ---
 
 <div class="iframe-container">

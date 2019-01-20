@@ -1,10 +1,10 @@
 ---
 title: Pull List for July 25, 2018
+seo_title: 'Pull List for July 25, 2018 - X-23 #2, The Amazing Spider-Man #2'
 date: 2018-07-25 19:47:00 -05:00
-tags:
-- comics
-- pull list
 custom_type: post
+categories:
+- Comics
 ---
 
 Pretty small week for me, but great books I’m looking forward to! Here are my picks for the week.

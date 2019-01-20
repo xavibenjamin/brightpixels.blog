@@ -1,8 +1,8 @@
 ---
 title: Questions to Ask in Interviews
 date: 2016-12-13 07:19:00 -06:00
-tags:
-- jobs
+categories:
+- Business
 custom_type: post
 subtitle: I'm open-sourcing questions I ask in interviews too.
 ---
@@ -31,4 +31,4 @@ These are just a few gems from the *amazing* list she's made. Here are some I li
 
 As Julia writes in her post, don't ask all of these in the same interview, and ask the same question to several people. You'll start noticing a pattern in their answers; good or bad.
 
-Have questions you like asking too? [I'd love to hear about them](mailto:tim@theboldreport.net?subject=Here's a question I love asking).
+Have questions you like asking too? [I'd love to hear about them](mailto:smith@ttimsmith.com?subject=Here's a question I love asking).

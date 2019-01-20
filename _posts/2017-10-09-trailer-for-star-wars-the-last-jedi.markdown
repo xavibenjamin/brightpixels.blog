@@ -1,10 +1,9 @@
 ---
 title: 'Trailer for ‘Star Wars: The Last Jedi’'
 date: 2017-10-09 23:35:00 -05:00
-tags:
-- Episode VIII
-- Star Wars
 custom_type: post
+categories:
+- Star Wars
 ---
 
 <div class="iframe-container">

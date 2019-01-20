@@ -1,10 +1,8 @@
 ---
 title: Cherish Thine .dotfiles
 date: 2018-11-12 11:23:00 -06:00
-tags:
-- development
-- setup
-- tech
+categories:
+- Code
 custom_type: post
 subtitle: Setting up a new Mac is so much easier these days
 ---

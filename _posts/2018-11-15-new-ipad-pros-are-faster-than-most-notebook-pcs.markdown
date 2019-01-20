@@ -1,9 +1,8 @@
 ---
 title: New iPad Pros Are Faster Than Most Notebook PCs
 date: 2018-11-15 09:18:00 -06:00
-tags:
-- iPad
-- tech
+categories:
+- Apple
 excerpt: Well, I don't know how to feel about this.
 custom_type: post
 ---

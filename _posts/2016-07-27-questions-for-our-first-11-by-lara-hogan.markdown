@@ -1,12 +1,9 @@
 ---
-title: Questions for Our First 1:1 by Lara Hogan
+title: "Questions for Our First 1:1"
 date: 2016-07-27 00:26:00 -05:00
-tags:
-- management
-- work
-layout: post
-custom_type: link
 link_url: http://larahogan.me/blog/first-one-on-one-questions/
+categories:
+- Business
 ---
 
 Lara Hogan:

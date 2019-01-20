@@ -1,11 +1,9 @@
 ---
 title: MetaLab Launches Peak
 date: 2013-10-28 20:13:39 -05:00
-tags:
-- apps
-layout: post
-custom_type: link
 link_url: http://www.usepeak.com
+categories:
+- Tech
 ---
 
 [Matt Pearson](https://twitter.com/matro/status/394982616132517889):

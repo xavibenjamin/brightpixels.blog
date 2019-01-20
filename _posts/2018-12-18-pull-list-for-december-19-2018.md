@@ -1,9 +1,9 @@
 ---
 title: Pull List for December 19, 2018
+seo_title: 'The Amazing Spider-Man #12, Aquaman #43 - Pull List for December 19, 2018'
 date: 2018-12-18 05:25:00 -06:00
-tags:
-- comics
-- pull list
+categories:
+- Comics
 custom_type: post
 featured_image: "/uploads/pull-list-12-19-2018.jpg"
 excerpt: Comics I read last week and the comics I'll buy this week

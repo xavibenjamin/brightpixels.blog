@@ -1,11 +1,9 @@
 ---
-title: Wait, You Don’t Control Your Calendar? | Signal v. Noise
+title: Wait, You Don’t Control Your Calendar?
 date: 2017-02-15 16:31:00 -06:00
-tags:
-- work
-- productivity
-custom_type: link
 link_url: https://m.signalvnoise.com/wait-you-dont-control-your-calendar-3a40f8f642fe
+categories:
+- Life
 ---
 
 Jason Fried on controlling your calendar:

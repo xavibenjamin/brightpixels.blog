@@ -1,10 +1,9 @@
 ---
 title: "‘Black Panther’ Official Trailer"
 date: 2017-11-06 10:42:00 -06:00
-tags:
-- movies
-- Marvel
 custom_type: post
+categories:
+- Film
 ---
 
 <div class="iframe-container">

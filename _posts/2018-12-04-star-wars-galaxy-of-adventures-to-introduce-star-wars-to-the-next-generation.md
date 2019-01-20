@@ -1,8 +1,8 @@
 ---
 title: "‘Star Wars Galaxy of Adventures’ to Introduce Star Wars to the Next Generation"
-date: 2018-12-04 09:33:00 -06:00
-tags:
+categories:
 - Star Wars
+date: 2018-12-04 09:33:00 -06:00
 custom_type: post
 featured_image: "/uploads/galaxyofadventures-featured.jpg"
 ---

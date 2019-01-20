@@ -1,12 +1,9 @@
 ---
-title: "‘Another Week; Another Debate About Podcasts’"
+title: Another Week; Another Debate About Podcasts
 date: 2015-02-17 14:58:07 -06:00
-tags:
-- podcasts
-- hot drama
-layout: post
-custom_type: link
 link_url: http://www.512pixels.net/blog/2015/2/another-week-another-debate-about-podcasts
+categories:
+- Podcasts
 ---
 
 Stephen Hackett:

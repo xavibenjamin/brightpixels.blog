@@ -1,9 +1,8 @@
 ---
 title: Why the MCU's Post-Credits Scenes Are So Important to Kevin Feige
 date: 2018-11-02 11:43:00 -05:00
-tags:
-- Marvel
-- movies
+categories:
+- Film
 excerpt: I had never thought about the reason behind it.
 link_url: https://www.cbr.com/kevin-feige-post-credits-scenes-important/
 featured_image: "/uploads/kevin-feige-featured.jpg"

@@ -1,11 +1,9 @@
 ---
-title: Hassle-free Full Bleed with *:not() by Dave Rupert
+title: Hassle-free Full Bleed with *:not()
 date: 2017-03-29 15:40:00 -05:00
-tags:
-- CSS
-- development
-custom_type: link
 link_url: http://daverupert.com/2017/03/full-bleed-with-not/
+categories:
+- Code
 ---
 
 Dave wrote this the day I went to Vegas and I haven't had time to write about it.

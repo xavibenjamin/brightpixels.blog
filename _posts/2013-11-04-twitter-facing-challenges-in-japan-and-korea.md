@@ -1,13 +1,9 @@
 ---
 title: Twitter Facing Monetary Challenges in Japan and Korea
 date: 2013-11-04 10:39:46 -06:00
-tags:
-- Twitter
-- tech
-- business
-layout: post
-custom_type: link
 link_url: http://thenextweb.com/twitter/2013/11/04/twitter-is-facing-challenges-making-money-in-japan-and-korea
+categories:
+- Tech
 ---
 
 Reported on *The Next Web*:

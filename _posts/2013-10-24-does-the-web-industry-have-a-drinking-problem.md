@@ -1,12 +1,9 @@
 ---
 title: Does the Web Industry Have a Drinking Problem?
 date: 2013-10-24 11:49:34 -05:00
-tags:
-- A List Apart
-- industry issues
-layout: post
-custom_type: link
 link_url: http://alistapart.com/column/does-our-industry-have-a-drinking-problem
+categories:
+- Tech
 ---
 
 Rachel Andrew writing on *A List Apart*:

@@ -1,11 +1,9 @@
 ---
-title: "‘Don't Snuggle Your Space Heater, And Other Tips For Surviving Winter’"
+title: How to Not Die in Winter
 date: 2015-02-20 14:47:13 -06:00
-tags:
-- winter
-layout: post
-custom_type: link
 link_url: http://gothamist.com/2015/02/03/life_hack_how_to_not_die.php
+categories:
+- Life
 ---
 
 Lauren Evans on *Gothamist*:

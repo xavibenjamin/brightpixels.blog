@@ -1,9 +1,9 @@
 ---
 title: Pull List for August 29, 2018
+seo_title: 'X-23 #3, Batgirl #26 - Pull List for August 29, 2018'
 date: 2018-08-28 20:20:00 -05:00
-tags:
-- comics
-- pull list
+categories:
+- Comics
 custom_type: post
 ---
 

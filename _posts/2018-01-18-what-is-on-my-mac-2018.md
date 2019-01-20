@@ -1,5 +1,5 @@
 ---
-title: 'What''s on My Mac: 2018'
+title: 'What’s on My Mac: 2018'
 date: 2018-01-18 15:09:00 -06:00
 subtitle: A list of apps that make Mac experience better
 custom_type: post
@@ -20,7 +20,7 @@ I tried out Hyper for a few months and was pretty happy with it. I loved how eas
 Here's an app that I'm not all that happy with, but it's the best of the worst you know? [Newton](https://newtonhq.com/) caught my attention and I *love* the design, but it can't archive from a folder/label. How does an email app not have that feature? That would seem to be critical. When I reached out to the Newton team about this, they didn't seem to care. So I'm stuck with Airmail for now.
 
 - [**TextExpander**][5830-0005]:
-I purchased TextExpander back in 2012 and have never regretted it. It saves me a lot of time. Over the years, I've added more and more snippets that prevent me from unnecessary typing. [I even wrote about some of my favorite snippets](https://theboldreport.net/2017/02/my-favorite-textexpander-snippets/). And here's the thing, I love TextExpander not so much for the typing, but for the fact that I don't have to remember specific formats.
+I purchased TextExpander back in 2012 and have never regretted it. It saves me a lot of time. Over the years, I've added more and more snippets that prevent me from unnecessary typing. [I even wrote about some of my favorite snippets](/2017/02/my-favorite-textexpander-snippets/). And here's the thing, I love TextExpander not so much for the typing, but for the fact that I don't have to remember specific formats.
 
 - [**iA Writer**][5830-0006]:
 iA Writer is where I do all of my writing on the Mac. I like writing without distraction, and this app makes it possible. Obviously, it's not the only app that promises this, but their built-in preview is great and I love how they format my Markdown as I write. I only wish I could change the font I write in.

@@ -1,7 +1,7 @@
 ---
 title: Vulture's ‘House of Cards’ Series Finale Recap
 date: 2018-11-05 10:45:00 -06:00
-tags:
+categories:
 - TV
 excerpt: What a stupid ending.
 link_url: http://www.vulture.com/2018/11/house-of-cards-recap-season-6-episode-8-finale.html

@@ -1,8 +1,8 @@
 ---
-title: 'Away from Keyboard: Eryn O''Neil Isn''t Afraid to Speak Her Mind'
+title: 'Away from Keyboard: Eryn O’Neil Isn’t Afraid to Speak Her Mind'
 date: 2018-10-10 12:52:00 -05:00
-tags:
-- podcasts
+categories:
+- Podcasts
 excerpt: A new episode of Away from Keyboard with special guest Eryn O'Neil.
 link_url: https://changelog.com/afk/8
 featured_image: "/uploads/afk-eryn-featured.jpg"
