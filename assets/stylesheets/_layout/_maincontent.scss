@@ -111,7 +111,7 @@
   }
 }
 
-.p-body {
+.e-content .p-body > {
   h3,
   h2 {
     a:not(.heading-link) {
@@ -126,13 +126,28 @@
 
 .post__meta {
   color: $light-text-color;
-  font-size: $ratio-1;
+  font-size: $ratio-2;
   font-family: $font-code;
   margin-bottom: 1rem;
 }
 
 .post__author {
   a {
+    transition: background-color 300ms ease-in-out;
+    &:hover,
+    &:focus {
+      background-color: rgba($link-color, 0.1);
+    }
+  }
+}
+
+.post__category {
+  a {
+    color: $light-text-color;
+    font-weight: normal;
+    text-decoration: none;
+    transition: background-color 300ms ease-in-out;
+
     &:hover,
     &:focus {
       background-color: rgba($link-color, 0.1);
@@ -568,6 +583,43 @@ $reddit-color: #ff4500;
       object-fit: cover;
       border-radius: $global-radius;
     }
+  }
+}
+
+// POST LIST -------------------------------
+
+.post-list {
+  margin-top: 2.8rem;
+
+  .post__meta {
+    margin-bottom: 0.4rem;
+  }
+}
+
+.post-list__title {
+  margin-top: 0;
+  margin-bottom: 0.2rem;
+
+  a {
+    color: $heading-color;
+    text-decoration: none;
+
+    &:hover,
+    &:focus {
+      color: $primary-color !important;
+    }
+  }
+}
+
+.post-list__more {
+  color: lighten($light-text-color, 5%);
+  font-size: $ratio-1;
+  text-decoration: none;
+  font-weight: 400;
+  &:hover,
+  &:focus {
+    color: $primary-color;
+    text-decoration: none;
   }
 }
 
