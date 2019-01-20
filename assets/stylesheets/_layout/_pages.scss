@@ -25,10 +25,21 @@
   font-size: $ratio2;
   font-weight: 400;
   margin-bottom: 0.2rem;
+  letter-spacing: -1px;
+
+  small {
+    font-family: $font-code;
+    font-size: $ratio-1;
+    margin-left: $ratio-2;
+    background-color: $light-bg-color;
+    padding: 0.2rem 0.5rem;
+    border-radius: 3px;
+    vertical-align: middle;
+  }
 }
 
 .page-header__description {
-  color: lighten($body-color, 20%);
+  color: $light-text-color;
   font-family: $font-display;
   font-size: $ratio1;
   line-height: 1.35;
@@ -95,20 +106,5 @@
   .author-profiles {
     grid-column: 2;
     margin-top: 1.8rem;
-  }
-}
-
-// -----------------------------------------
-// SEARCH PAGE
-// -----------------------------------------
-
-.search__results {
-  h2 {
-    line-height: 1.4;
-    margin-bottom: 0.6rem;
-  }
-
-  .no-results {
-    margin-top: 1rem;
   }
 }
