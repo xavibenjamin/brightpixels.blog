@@ -8,7 +8,7 @@ layout: page
 _Bright Pixels_ is designed and developed by me, [Tim Smith](http://ttimsmith.com), in beautiful [St. Paul, Minnesota](https://www.stpaul.gov/). This web-column covers a whole range of things including, but not limited to: comics, _Star Wars_, movies, Apple, technology, design, and development.
 
 <figure class="extendout">
-  {% include imgic.html src="/tim-02-16x9.jpg" alt="Tim Smith's Photo" %}
+  {% include img.html src="/tim-02-16x9.jpg" alt="Tim Smith's Photo" %}
   <figcaption>Photo by <a href="https://www.jaimielaurenphoto.com/">Jaimie Lauren</a></figcaption>
 </figure>
 

@@ -7,7 +7,7 @@ excerpt: Style guide for Bright Pixels.
 ---
 
 <figure class="small__right">
-  {% include imgic.html src="/2013/09/tim_680x510.jpg" alt="Tim Smith" %}
+  {% include img.html src="/2013/09/tim_680x510.jpg" alt="Tim Smith" %}
   <figcaption>Use the <code>.small__right</code> class for this particular styling</figcaption>
 </figure>
 
@@ -20,7 +20,7 @@ This website is currently set in Whitney for primary and secondary text, and Whi
 Secondary headings are used to separate portions of text. I don't ever use links in headings unless it's a link post. Primary headings are only used once in the page title or post title. Links in regular text look like [this](/styleguide).
 
 <figure class="extendout">
-  {% include imgic.html src="/2014/01/sonos-top_view.jpg" alt="Sonos top view" %}
+  {% include img.html src="/2014/01/sonos-top_view.jpg" alt="Sonos top view" %}
   <figcaption>This image style can be used with the <code>.extendout</code> class</figcaption>
 </figure>
 
@@ -38,7 +38,7 @@ As normal, you've got styles for `inline code`, _italics_, and **bold text**. In
 - These are pretty cool sometimes, but like I said, don't really use them all that often.
 
 <figure class="alignright">
-  {% include imgic.html src="/2013/10/1p4-mac-create-new-vault.png" alt="Create new vault in 1Password 4" %}
+  {% include img.html src="/2013/10/1p4-mac-create-new-vault.png" alt="Create new vault in 1Password 4" %}
   <figcaption>Use the <code>.alignright</code> class for this image styling. Use of images is encouraged</figcaption>
 </figure>
 
@@ -64,7 +64,7 @@ I use horizontal rules for separating ideas in an article.
 3. And this is the last item
 
 <figure class="alignleft">
-  {% include imgic.html src="/2013/10/1p4-mac-1p-mini-item-details.png" alt="1Password Mini details" %}
+  {% include img.html src="/2013/10/1p4-mac-1p-mini-item-details.png" alt="1Password Mini details" %}
   <figcaption>For this image styling, use the <code>.alignleft</code> class. I like to use captions for the most part, not required though</figcaption>
 </figure>
 
@@ -77,11 +77,11 @@ Ben Brooks on _The Brooks Review_:
 > There’s a lot of good looking options out there, but I wanted to be able to test something affordable for a change. So I reached out to Tom Bihn and asked if I could stop by to test out a few different bags, and possibly swipe one for a while to test out.
 
 <figure class="photo-grid photo-grid--one">
-  {% include imgic.html src="/2016/01/eiffel-tower.jpg" %}
-  {% include imgic.html src="/2016/01/deannda-posing.jpg" %}
-  {% include imgic.html src="/2016/01/paris-pastry.jpg" %}
-  {% include imgic.html src="/2016/01/kelly-punching.jpg" %}
-  {% include imgic.html src="/2016/01/europe-group-on-the-bus.jpg" %}
+  {% include img.html src="/2016/01/eiffel-tower.jpg" %}
+  {% include img.html src="/2016/01/deannda-posing.jpg" %}
+  {% include img.html src="/2016/01/paris-pastry.jpg" %}
+  {% include img.html src="/2016/01/kelly-punching.jpg" %}
+  {% include img.html src="/2016/01/europe-group-on-the-bus.jpg" %}
   <figcaption>Use a <code>figure</code> with the class of <code>.photo-grid .photo-grid--one</code></figcaption>
 </figure>
 
@@ -108,9 +108,9 @@ redcarpet:
 ```
 
 <figure class="photo-grid photo-grid--three">
-  {% include imgic.html src="/2016/01/eiffel-tower.jpg" alt="" %}
-  {% include imgic.html src="/2016/01/deannda-posing.jpg" alt="" %}
-  {% include imgic.html src="/2016/01/paris-pastry.jpg" alt="" %}
+  {% include img.html src="/2016/01/eiffel-tower.jpg" alt="" %}
+  {% include img.html src="/2016/01/deannda-posing.jpg" alt="" %}
+  {% include img.html src="/2016/01/paris-pastry.jpg" alt="" %}
   <figcaption>Use a <code>figure</code> with the class of <code>.photo-grid .photo-grid--three</code></figcaption>
 </figure>
 
@@ -171,8 +171,8 @@ Let's look at some data!
 Lorem ipsum dolor sit amet, consectetur adip*isicing elit, sed do eiusmod *tempor incididunt ut labore et dolore magna aliqua.
 
 <figure class="photo-grid photo-grid--two">
-  {% include imgic.html src="/2016/01/kelly-punching.jpg" %}
-  {% include imgic.html src="/2016/01/europe-group-on-the-bus.jpg" %}
+  {% include img.html src="/2016/01/kelly-punching.jpg" %}
+  {% include img.html src="/2016/01/europe-group-on-the-bus.jpg" %}
   <figcaption>Use a <code>figure</code> with the class of <code>.photo-grid .photo-grid--two</code></figcaption>
 </figure>
 
