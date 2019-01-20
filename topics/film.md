@@ -1,6 +1,6 @@
 ---
 layout: category
 title: Film
-permalink: '/topics/film/'
+permalink: '/film/'
 description: I love watching movies, sometimes I write about them.
 ---

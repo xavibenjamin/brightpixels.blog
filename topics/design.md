@@ -1,5 +1,5 @@
 ---
 layout: category
 title: Design
-permalink: '/topics/design/'
+permalink: '/design/'
 ---

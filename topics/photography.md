@@ -1,5 +1,5 @@
 ---
 layout: category
 title: Photography
-permalink: '/topics/photography/'
+permalink: '/photography/'
 ---
