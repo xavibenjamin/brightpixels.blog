@@ -10,7 +10,7 @@ featured_image: "/uploads/pull-list-07-21-2018.jpg"
 ---
 
 <figure class="extendout">
-  {% include imgic.html src="/pull-list-07-21-2018.jpg" alt="Pull List for November 21, 2018" %}
+  {% include img.html src="/pull-list-07-21-2018.jpg" alt="Pull List for November 21, 2018" %}
   <figcaption><strong>From left to right, back to front:</strong> <em>Oblivion Song</em> #9, <em>Daredevil</em> #611, <em>The Amazing Spider-Man</em> #9, <em>Wonder Woman</em> #58, and <em>Uncanny X-Men</em> #1</figcaption>
 </figure>
 

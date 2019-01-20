@@ -10,7 +10,7 @@ featured_image: "/uploads/pull-list-10-10-2018.jpg"
 ---
 
 <figure class="extendout">
-  {% include imgic.html src="/pull-list-10-10-2018.jpg" alt="Pull List Image for Oct 10, 2018" %}
+  {% include img.html src="/pull-list-10-10-2018.jpg" alt="Pull List Image for Oct 10, 2018" %}
   <figcaption><strong>From left to right:</strong> Paper Girls #25, Dead Rabbit #1, and Analog Vol. 1 Trade Paperback</figcaption>
 </figure>
 

@@ -9,7 +9,7 @@ categories:
 ---
 
 <figure class="reg">
-  {% include imgic.html src="/oscar-isaac-as-apocalypse.jpg" alt="Oscar Isaac as Apocalypse" %}
+  {% include img.html src="/oscar-isaac-as-apocalypse.jpg" alt="Oscar Isaac as Apocalypse" %}
 </figure>
 
 [Renaldo Matadeen writing for *CBR*](https://www.cbr.com/oscar-isaac-hard-words-xmen-apocalypse/):

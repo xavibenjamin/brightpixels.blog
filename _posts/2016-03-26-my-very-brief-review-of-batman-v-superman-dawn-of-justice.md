@@ -14,7 +14,7 @@ categories:
 ---
 
 <figure class="extendout">
-  {% include imgic.html src="/2016/03/batmanvsuperman.jpg" alt="I specifically chose an image that had Wonder Woman in the center. She was my favorite character." %}
+  {% include img.html src="/2016/03/batmanvsuperman.jpg" alt="I specifically chose an image that had Wonder Woman in the center. She was my favorite character." %}
   <figcaption>Wonder Woman was my favorite character in the film <span class="image__copyright">© Warner Bros.</span></figcaption>
 </figure>
 

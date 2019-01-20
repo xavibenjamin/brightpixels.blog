@@ -15,7 +15,7 @@ categories:
 ---
 
 <figure class="extendout">
-  {% include imgic.html src="/media/luke-skywalker.jpg" alt="Mark Hamill as Luke Skywalker (Disney/Lucasfilm)" %}
+  {% include img.html src="/media/luke-skywalker.jpg" alt="Mark Hamill as Luke Skywalker (Disney/Lucasfilm)" %}
   <figcaption>Mark Hamill as Luke Skywalker <span class="image__copyright">© Disney/Lucasfilm</span></figcaption>
 </figure>
 

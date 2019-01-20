@@ -14,7 +14,7 @@ Due to depression, 2018 has been difficult for me. But reflecting on the year ha
 
 
 <figure class="small__right">
-  {% include imgic.html src="/2018/12/cruise-001.jpg" alt="Kelly on the beach" %}
+  {% include img.html src="/2018/12/cruise-001.jpg" alt="Kelly on the beach" %}
   <figcaption></figcaption>
 </figure>
 
@@ -32,7 +32,7 @@ One day, I was chatting with my friend Adam Stacoviak, and he told me [Changelog
 I'll be honest, I was scared at first. This was something completely different to what I'd done professionally since… well… ever. But, I also knew I needed a break from the web. I was burnt out, didn't agree with how JavaScript-centric the industry has become, and disillusioned with how undervalued my CSS skillset is.
 
 <figure class="extendout">
-  {% include imgic.html src="/2018/12/changelog-001.jpg" alt="The Changelog team." %}
+  {% include img.html src="/2018/12/changelog-001.jpg" alt="The Changelog team." %}
   <figcaption>The Changelog team</figcaption>
 </figure>
 
@@ -49,9 +49,9 @@ And they let me host my own show! [*Away from Keyboard*](https://changelog.com/a
 We went to Florida twice this year. In April, we went to St. Petersburg for [Front End Design Conference](http://frontenddesignconference.com/index.php). FEDC is a special event for me: it was the first conference I ever went to. Now, six years later, I'd been invited to speak there. It was a dream come true.
 
 <figure class="photo-grid photo-grid--four">
-  {% include imgic.html src="/2018/12/florida-001.jpg" alt="Kelly at the Universal walk." style="grid-column: span 4;" %}
-  {% include imgic.html src="/2018/12/florida-003.jpg" alt="Kelly on the beach." style="grid-column: 2 / span 2; grid-row: 2 / span 2;" %}
-  {% include imgic.html src="/2018/12/florida-002.jpg" alt="Kelly and I at Disney World." style="grid-column: span 3;" %}
+  {% include img.html src="/2018/12/florida-001.jpg" alt="Kelly at the Universal walk." style="grid-column: span 4;" %}
+  {% include img.html src="/2018/12/florida-003.jpg" alt="Kelly on the beach." style="grid-column: 2 / span 2; grid-row: 2 / span 2;" %}
+  {% include img.html src="/2018/12/florida-002.jpg" alt="Kelly and I at Disney World." style="grid-column: span 3;" %}
 </figure>
 
 
@@ -64,16 +64,16 @@ Kelly and I aren't made for that type of heat, but it was still a relaxing week.
 I don't know how much longer I'll be able to make it in Minnesota. This year marked my six year anniversary, and the winters are starting to grate on me. Denver is a place I've always been interested in, so we decided to visit. Our best friends, The Prados, decided to come along too.
 
 <figure class="photo-grid photo-grid--four">
-  {% include imgic.html src="/2018/12/denver-001.jpg" alt="Graffiti on the tour" style="grid-column: span 2;" %}
-  {% include imgic.html src="/2018/12/denver-002.jpg" alt="Graffiti on the tour" style="grid-column: span 4;" %}
-  {% include imgic.html src="/2018/12/denver-003.jpg" alt="Abi hugging a tree." style="grid-column: span 4" %}
-  {% include imgic.html src="/2018/12/denver-005.jpg" alt="Felipe leaning against a wall." style="grid-column: span 2;" %}
+  {% include img.html src="/2018/12/denver-001.jpg" alt="Graffiti on the tour" style="grid-column: span 2;" %}
+  {% include img.html src="/2018/12/denver-002.jpg" alt="Graffiti on the tour" style="grid-column: span 4;" %}
+  {% include img.html src="/2018/12/denver-003.jpg" alt="Abi hugging a tree." style="grid-column: span 4" %}
+  {% include img.html src="/2018/12/denver-005.jpg" alt="Felipe leaning against a wall." style="grid-column: span 2;" %}
 </figure>
 
 We had an amazing time. Denver is a beautiful place, filled with nice people and breathtaking topography. We were only there for an extended weekend, but we were able to visit Boulder and do a fun graffiti tour downtown.
 
 <figure class="small__right">
-  {% include imgic.html src="/2018/12/london-001.jpg" alt="Kelly in front of the London Eye." %}
+  {% include img.html src="/2018/12/london-001.jpg" alt="Kelly in front of the London Eye." %}
   <figcaption></figcaption>
 </figure>
 
@@ -89,7 +89,7 @@ We only spent 4 days in London (much of it crazy jet-lagged), but we still got t
 Twenty-eight years isn't usually a big year for anniversaries, but I'm a sucky child that hadn't done much of anything for my parents' anniversary as an adult. That needed to change this year. With the help of Kelly and my aunt, we planned a nice, small dinner for my parents, and invited some of their friends. To our surprise, some family from California came to celebrate as well.
 
 <figure class="alignleft">
-  {% include imgic.html src="/2018/12/anniversary-001.jpg" alt="My parents in downtown Saint Paul." %}
+  {% include img.html src="/2018/12/anniversary-001.jpg" alt="My parents in downtown Saint Paul." %}
   <figcaption>My parents don’t have many pictures together, so I decided to gift them a&nbsp;photoshoot</figcaption>
 </figure>
 
@@ -105,11 +105,11 @@ The big differentiator has been my camera. In April, I sold my Canon DSLR and bo
 I read a lot of comics this year and loved every minute of it. In the past, most of my comics were superhero-related. 2018 was the year I tried to broaden my horizons. In the process, I found great comics like [Saga](https://amzn.to/2rSVfNh), [Analog](https://amzn.to/2CzGk0r), [Oblivion Song](https://amzn.to/2SmolQK), and more. Back in November, I wrote about [how I started reading comics and some of my current recommendations](/2018/11/my-geek-life/).
 
 <figure class="photo-grid photo-grid--one">
-  {% include imgic.html src="/2018/12/comics-001.jpg" alt="" %}
-  {% include imgic.html src="/2018/12/comics-002.jpg" alt="" %}
-  {% include imgic.html src="/2018/12/comics-003.jpg" alt="" %}
-  {% include imgic.html src="/2018/12/comics-004.jpg" alt="" %}
-  {% include imgic.html src="/2018/12/comics-005.jpg" alt="" %}
+  {% include img.html src="/2018/12/comics-001.jpg" alt="" %}
+  {% include img.html src="/2018/12/comics-002.jpg" alt="" %}
+  {% include img.html src="/2018/12/comics-003.jpg" alt="" %}
+  {% include img.html src="/2018/12/comics-004.jpg" alt="" %}
+  {% include img.html src="/2018/12/comics-005.jpg" alt="" %}
   <figcaption>Had so much fun taking pictures of comics</figcaption>
 </figure>
 

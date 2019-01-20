@@ -7,7 +7,7 @@ link_url: https://www.starwars.com/news/interview-ahsoka-tano-gentle-giant-mini-
 ---
 
 <figure class="reg">
-  {% include imgic.html src="/ahsoka-bust.jpg" alt="Ahsoka Tano Bust" %}
+  {% include img.html src="/ahsoka-bust.jpg" alt="Ahsoka Tano Bust" %}
   <figcaption>Photo from StarWars.com</figcaption>
 </figure>
 

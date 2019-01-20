@@ -13,7 +13,7 @@ categories:
 ---
 
 <figure class="extendout">
-  {% include imgic.html src="/2016/04/iphone-6s-plus.jpg" alt="My iPhone 6s Plus in all its glory." %}
+  {% include img.html src="/2016/04/iphone-6s-plus.jpg" alt="My iPhone 6s Plus in all its glory." %}
   <figcaption>My iPhone 6s Plus in all its glory</figcaption>
 </figure>
 

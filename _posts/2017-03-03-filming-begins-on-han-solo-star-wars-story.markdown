@@ -15,7 +15,7 @@ Here's another one I missed while [under the weather](/2017/02/under-the-weather
 How exciting! I love how all these spin-offs are exploring backstory we'd never known before. Together with the announcement was the first cast photo too.
 
 <figure class="reg">
-  {% include imgic.html src="/2018/02/solo-cast.jpg" alt="First Han Solo cast photo" %}
+  {% include img.html src="/2018/02/solo-cast.jpg" alt="First Han Solo cast photo" %}
 </figure>
 
 The Han Solo film debuts May 25, 2018.

@@ -15,7 +15,7 @@ review:
 ---
 
 <figure class="extendout">
-  {% include imgic.html src="/2019/01/grammarly-review-featured.jpg" alt="" %}
+  {% include img.html src="/2019/01/grammarly-review-featured.jpg" alt="" %}
   <figcaption>Grammarly for mac<span class="caps">OS</span><span class="image__copyright">&copy; Timothy B. Smith</span></figcaption>
 </figure>
 
@@ -26,14 +26,14 @@ Kelly and I got Hulu in November when they had their 99¢/month promotion. 99¢ 
 So here I am, writing this into Grammarly as it wonderfully checks every word. I'm excited. I've considered hiring an editor many times for *Brightly Colored* but it, unfortunately, doesn't align with how fast I tend to publish articles.
 
 <figure class="reg">
-  {% include imgic.html src="/2019/01/grammarly-mac-001.jpg" alt="" %}
+  {% include img.html src="/2019/01/grammarly-mac-001.jpg" alt="" %}
   <figcaption>If you're getting wordy, Grammarly is quick to suggest a more concise way to get your idea across</figcaption>
 </figure>
 
 <mark>Grammarly helps me just… write.</mark> I have a bad habit of editing myself as I write, which frequently blocks me from expressing what I feel. Grammarly does a lot of the editing work for me, so I don't have to. My only job is to write in the moment, then edit all those thoughts later.
 
 <figure class="alignleft">
-  {% include imgic.html src="/2019/01/grammarly-mac-004.jpg" alt="" %}
+  {% include img.html src="/2019/01/grammarly-mac-004.jpg" alt="" %}
   <figcaption>Grammarly checks to see if you're using the same word too often and suggests a suitable synonym</figcaption>
 </figure>
 
@@ -44,7 +44,7 @@ The app's UI for suggesting alternate words is excellent. It'll show you the wor
 Grammarly's statistics are another fantastic feature. It'll give you statistics you've come to take for granted like word and character count, but it also shows you the average length of words used, sentence length, and even a readability score. Unfortunately, the app doesn't give you any suggestions on how you could improve that score, which I think would be great.
 
 <figure class="alignright">
-  {% include imgic.html src="/2019/01/grammarly-mac-007.jpg" alt="" %}
+  {% include img.html src="/2019/01/grammarly-mac-007.jpg" alt="" %}
   <figcaption>Grammarly offers helpful insights like sentence length, word count, and a readability score</figcaption>
 </figure>
 
@@ -53,7 +53,7 @@ Getting content in and out is easy too.  You can either write in Grammarly or wr
 As I said before, I wrote this article in Grammarly, but I usually write in iA Writer. Once I've got a solid draft, I copy the text and paste it into Grammarly.
 
 <figure class="extendout">
-  {% include imgic.html src="/2019/01/grammarly-mac-003.jpg" alt="" %}
+  {% include img.html src="/2019/01/grammarly-mac-003.jpg" alt="" %}
   <figcaption>Instead of using the same old words, Grammarly can suggest more detailed terms</figcaption>
 </figure>
 

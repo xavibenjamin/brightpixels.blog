@@ -18,7 +18,7 @@ excerpt: Neither Jason Mamoa's charisma nor amazing special effects can mask thi
 ---
 
 <figure class="extendout">
-  {% include imgic.html src="/aquaman-featured.jpg" alt="" %}
+  {% include img.html src="/aquaman-featured.jpg" alt="" %}
   <figcaption>Jason Mamoa as Aquaman<span class="image__copyright">&copy; Warner Bros.</span></figcaption>
 </figure>
 

@@ -9,7 +9,7 @@ featured_image: "/uploads/pull-list-09-26-2018.jpg"
 ---
 
 <figure class="extendout">
-  {% include imgic.html src="/pull-list-09-26-2018.jpg" alt="Comics from last week" %}
+  {% include img.html src="/pull-list-09-26-2018.jpg" alt="Comics from last week" %}
   <figcaption><strong>From left to right:</strong> West Coast Avengers #2, Return of Wolverine #1, and Mr. & Mrs. X #3</figcaption>
 </figure>
 

@@ -15,7 +15,7 @@ I published [the first post](https://theboldreport.net/2013/09/welcome/) on *The
 *The Bold Report* was created as a new Jekyll site—I was done using WordPress to blog. This is what it looked like when I started writing:
 
 <figure class="extendout">
-  {% include imgic.html src="/2016/09/original-boldreport-design.jpg" alt="Can you believe I thought that looked good? Also, boy has Google Chrome changed!" %}
+  {% include img.html src="/2016/09/original-boldreport-design.jpg" alt="Can you believe I thought that looked good? Also, boy has Google Chrome changed!" %}
   <figcaption>Can you believe I thought that looked good? Also, boy has Google Chrome changed!</figcaption>
 </figure>
 
@@ -81,7 +81,7 @@ This box comes complete with an [AeroPress](http://www.aerobie.com/product/aerop
 This gift comes with a copy of [Issue 3 of *The Great Discontent*](https://shop.thegreatdiscontent.com/collections/issues/products/the-great-discontent-issue-three), a copy of [*Responsive Design: Patterns and Principles* by Ethan Marcotte](https://abookapart.com/products/responsive-design-patterns-principles), and a [Moleskine Grid Notebook](https://www.amazon.com/Moleskine-Classic-Notebook-Squared-Notebooks/dp/8883701135/ref=sr_1_1?ie=UTF8&qid=1474648471&sr=8-1&keywords=moleskine+grid+notebook). This box will inspire you, teach you new things, and then help you get your ideas down on paper.
 
 <figure class="small__right">
-  {% include imgic.html src="/2016/09/spider-man-box.jpg" alt="Spider-Man Box" %}
+  {% include img.html src="/2016/09/spider-man-box.jpg" alt="Spider-Man Box" %}
 </figure>
 
 ### Spider-Man Box

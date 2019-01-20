@@ -12,7 +12,7 @@ featured_image: "/uploads/things-i-read-09-26-2018.jpg"
 ---
 
 <figure class="extendout">
-  {% include imgic.html src="/things-i-read-09-26-2018.jpg" alt="Things I read on Sept 26, 2018" %}
+  {% include img.html src="/things-i-read-09-26-2018.jpg" alt="Things I read on Sept 26, 2018" %}
   <figcaption><strong>From left to right:</strong> Saga Vol. 4, X-Men: Red #8, The New World #3, and Man-Eaters #1</figcaption>
 </figure>
 

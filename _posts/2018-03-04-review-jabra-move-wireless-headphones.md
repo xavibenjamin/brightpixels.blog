@@ -13,7 +13,7 @@ categories:
 ---
 
 <figure class="extendout">
-  {% include imgic.html src="/2018/03/jabra-5.jpg" alt="The Jabra Move Wireless headphones" %}
+  {% include img.html src="/2018/03/jabra-5.jpg" alt="The Jabra Move Wireless headphones" %}
   <figcaption>The Jabra Move Wireless headphones</figcaption>
 </figure>
 
@@ -39,7 +39,7 @@ I decided to purchase the Jabra Move Wireless headphones. If you're in the marke
 The headphones are very well-built. The band combines a stainless steel frame with a soft material that cushions the top. The ear cups are plastic on the outside and soft pleather on the inside.
 
 <figure class="alignright">
-  {% include imgic.html src="/2018/03/jabra-1.jpg" alt="The stainless steel frame and the soft fabric of the headband make for an aesthetically-pleasing look in addition to a quality build you can feel" %}
+  {% include img.html src="/2018/03/jabra-1.jpg" alt="The stainless steel frame and the soft fabric of the headband make for an aesthetically-pleasing look in addition to a quality build you can feel" %}
   <figcaption>The stainless steel frame and the soft fabric of the headband, make for an aesthetically-pleasing look in addition to a quality build you can&nbsp;feel</figcaption>
 </figure>
 
@@ -54,7 +54,7 @@ Bluetooth audio sucks. It just does. There is no comparison to wired audio. Blue
 Still, Bluetooth audio is not created equal. Some headphones I've tested don't sound good at all, even when not compared to a wired connection. Not the case with the Jabra Move Wireless headphones. The audio they produce is full and rich, and they handle a variety of musical styles excellently. Additionally, the headphones manage podcasts and talk radio very well.
 
 <figure class="alignleft">
-  {% include imgic.html src="/2018/03/jabra-4.jpg" alt="Labeled earcups help you make sure you have the headphones on right" %}
+  {% include img.html src="/2018/03/jabra-4.jpg" alt="Labeled earcups help you make sure you have the headphones on right" %}
   <figcaption>Labeled earcups help you make sure you have the headphones on&nbsp;right</figcaption>
 </figure>
 
@@ -66,7 +66,7 @@ I was nervous buying over-ear headphones. In the past I had bought a pair of Bea
 These headphones changed my mind. Yes, they are over-ear headphones, but they’re comfortable. The ear cups are comfy and soft, and the headband is flexible enough to accommodate my large head. When I first got them, I tested the headphones for two hours straight and didn’t feel any ear pain or discomfort on the top of my head.
 
 <figure class="extendout">
-  {% include imgic.html src="/2018/03/jabra-3.jpg" alt="Jabra's minimal branding helps these look great wherever you have them" %}
+  {% include img.html src="/2018/03/jabra-3.jpg" alt="Jabra's minimal branding helps these look great wherever you have them" %}
   <figcaption>Jabra's minimal branding helps these look great wherever you have them</figcaption>
 </figure>
 

@@ -13,7 +13,7 @@ featured_image: "/uploads/2019/01/pull-list-for-jan-16-2019.jpg"
 ---
 
 <figure class="extendout">
-  {% include imgic.html src="/2019/01/pull-list-for-jan-16-2019.jpg" alt="Pull List for January 16, 2019" %}
+  {% include img.html src="/2019/01/pull-list-for-jan-16-2019.jpg" alt="Pull List for January 16, 2019" %}
   <figcaption></figcaption>
 </figure>
 

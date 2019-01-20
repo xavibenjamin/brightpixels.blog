@@ -15,9 +15,9 @@ Things will stay normal around here for the most part; I'll be writing as much a
 **Lens:** Sony 24–70mm ƒ/2.8 GM
 
 <figure class="photo-grid photo-grid--four">
-  {% include imgic.html src="/2019/01/jan-in-ca-001.jpg" alt="Kelly on the pier before sunset." style="grid-column: span 3;" %}
-  {% include imgic.html src="/2019/01/jan-in-ca-002.jpg" alt="Beautiful bird on the pier." style="grid-column: 2 / span 5;" %}
-  {% include imgic.html src="/2019/01/jan-in-ca-003.jpg" alt="Sunset from the pier." style="grid-column: span 6;" %}
-  {% include imgic.html src="/2019/01/jan-in-ca-004.jpg" alt="Picture of me before sunset." style="grid-column: 2 / span 3;" %}
-  {% include imgic.html src="/2019/01/jan-in-ca-005.jpg" alt="Kelly on the pier after sunset." style="grid-column: span 5;" %}
+  {% include img.html src="/2019/01/jan-in-ca-001.jpg" alt="Kelly on the pier before sunset." style="grid-column: span 3;" %}
+  {% include img.html src="/2019/01/jan-in-ca-002.jpg" alt="Beautiful bird on the pier." style="grid-column: 2 / span 5;" %}
+  {% include img.html src="/2019/01/jan-in-ca-003.jpg" alt="Sunset from the pier." style="grid-column: span 6;" %}
+  {% include img.html src="/2019/01/jan-in-ca-004.jpg" alt="Picture of me before sunset." style="grid-column: 2 / span 3;" %}
+  {% include img.html src="/2019/01/jan-in-ca-005.jpg" alt="Kelly on the pier after sunset." style="grid-column: span 5;" %}
 </figure>

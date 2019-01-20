@@ -14,15 +14,15 @@ I rented a lens for the weekend. Some of the photos have quite a bit of noise, w
 **Lens:** [Canon EF 70–200mm ƒ/2.8L IS II USM](http://amzn.to/2DL2lYj)
 
 <figure class="photo-grid photo-grid--four">
-  {% include imgic.html style="grid-column: span 2; grid-row: span 2;" src="/2018/01/20180127-IMG_1814.jpg" alt="Eslia in portrait" %}
-  {% include imgic.html style="grid-column: span 3;" src="/2018/01/20180127-IMG_1823.jpg" alt="Eslia looking away" %}
-  {% include imgic.html style="grid-column: span 2; grid-row: 2 / span 2;" src="/2018/01/20180127-IMG_1828.jpg" alt="Eslia in portrait again with trees behind her" %}
-  {% include imgic.html style="grid-column: span 3;" src="/2018/01/20180127-IMG_1887.jpg" alt="Arlene talking into the microphone" %}
-  {% include imgic.html style="grid-column: span 3" src="/2018/01/20180127-IMG_1906.jpg" alt="Abi really excited" %}
-  {% include imgic.html style="grid-column: span 4; grid-row: span 2;" src="/2018/01/20180127-IMG_1964.jpg" alt="Dylan surprised" %}
-  {% include imgic.html style="grid-column: span 2; grid-row: span 2;" src="/2018/01/20180127-IMG_2013.jpg" alt="Candid of Raf" %}
-  {% include imgic.html style="grid-column: span 6; grid-row: span 2;" src="/2018/01/20180128-IMG_2295.jpg" alt="Danielle being covered in toiletpaper" %}
-  {% include imgic.html style="grid-column: span 2;" src="/2018/01/20180127-IMG_2109.jpg" alt="Dylan catching a ball in a cup" %}
-  {% include imgic.html style="grid-column: span 2;" src="/2018/01/20180128-IMG_2364.jpg" alt="Toilet paper bride and groom" %}
-  {% include imgic.html style="grid-column: 2 / span 5" src="/2018/01/20180128-IMG_2310.jpg" alt="Junior excited" %}
+  {% include img.html style="grid-column: span 2; grid-row: span 2;" src="/2018/01/20180127-IMG_1814.jpg" alt="Eslia in portrait" %}
+  {% include img.html style="grid-column: span 3;" src="/2018/01/20180127-IMG_1823.jpg" alt="Eslia looking away" %}
+  {% include img.html style="grid-column: span 2; grid-row: 2 / span 2;" src="/2018/01/20180127-IMG_1828.jpg" alt="Eslia in portrait again with trees behind her" %}
+  {% include img.html style="grid-column: span 3;" src="/2018/01/20180127-IMG_1887.jpg" alt="Arlene talking into the microphone" %}
+  {% include img.html style="grid-column: span 3" src="/2018/01/20180127-IMG_1906.jpg" alt="Abi really excited" %}
+  {% include img.html style="grid-column: span 4; grid-row: span 2;" src="/2018/01/20180127-IMG_1964.jpg" alt="Dylan surprised" %}
+  {% include img.html style="grid-column: span 2; grid-row: span 2;" src="/2018/01/20180127-IMG_2013.jpg" alt="Candid of Raf" %}
+  {% include img.html style="grid-column: span 6; grid-row: span 2;" src="/2018/01/20180128-IMG_2295.jpg" alt="Danielle being covered in toiletpaper" %}
+  {% include img.html style="grid-column: span 2;" src="/2018/01/20180127-IMG_2109.jpg" alt="Dylan catching a ball in a cup" %}
+  {% include img.html style="grid-column: span 2;" src="/2018/01/20180128-IMG_2364.jpg" alt="Toilet paper bride and groom" %}
+  {% include img.html style="grid-column: 2 / span 5" src="/2018/01/20180128-IMG_2310.jpg" alt="Junior excited" %}
 </figure>

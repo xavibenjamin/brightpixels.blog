@@ -16,7 +16,7 @@ featured_image: "/uploads/2016/12/rogue-one-jyn-erso.jpg"
 ---
 
 <figure class="extendout">
-  {% include imgic.html src="/2016/12/rogue-one-jyn-erso.jpg" alt="Felicity Jones as Jyn Erso in Rogue One." %}
+  {% include img.html src="/2016/12/rogue-one-jyn-erso.jpg" alt="Felicity Jones as Jyn Erso in Rogue One." %}
   <figcaption>Felicity Jones as Jyn Erso in <em>Rogue One</em><span class="image__copyright">© Disney/Lucasfilm</span></figcaption>
 </figure>
 

@@ -14,7 +14,7 @@ But, you might also feel that you don't know where to get started. How do you le
 Let's say you want two columns. I was working on basic two column layout for my resume on my site. The layout for that is essentially this:
 
 <figure class="extendout">
-  {% include imgic.html src="/2017/01/column-layout.jpg" alt="Pretty simple right? A main column and a sidebar" %}
+  {% include img.html src="/2017/01/column-layout.jpg" alt="Pretty simple right? A main column and a sidebar" %}
   <figcaption>Pretty simple right? A main column and a sidebar</figcaption>
 </figure>
 

@@ -10,7 +10,7 @@ excerpt: Comics I read last week and the comics I'll buy this week
 ---
 
 <figure class="extendout">
-  {% include imgic.html src="/pull-list-12-19-2018.jpg" alt="Pull List for December 19, 2018" %}
+  {% include img.html src="/pull-list-12-19-2018.jpg" alt="Pull List for December 19, 2018" %}
   <figcaption><strong>Left to right, back to front:</strong> <em>Oblivion Song</em> #10, <em>Wonder Woman</em> #60, <em>The Amazing Spider-Man</em> #11, <em>Detective Comics</em> #994, and <em>X-Men: Red</em> #11</figcaption>
 </figure>
 

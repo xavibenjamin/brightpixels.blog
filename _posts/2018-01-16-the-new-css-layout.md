@@ -11,7 +11,7 @@ categories:
 ---
 
 <figure class="extendout">
-  {% include imgic.html src="/2018/01/css-layout-book.jpg" alt="The New CSS Layout by Rachel Andrew. Photo taken in Cozumel, Mexico" %}
+  {% include img.html src="/2018/01/css-layout-book.jpg" alt="The New CSS Layout by Rachel Andrew. Photo taken in Cozumel, Mexico" %}
   <figcaption><em>The New CSS Layout</em> by Rachel Andrew. Photo taken in Cozumel, Mexico</figcaption>
 </figure>
 

@@ -10,7 +10,7 @@ featured_image: "/uploads/pull-list-11-28-2018.jpg"
 ---
 
 <figure class="extendout">
-  {% include imgic.html src="/pull-list-11-28-2018.jpg" alt="Pull List for November 28, 2018" %}
+  {% include img.html src="/pull-list-11-28-2018.jpg" alt="Pull List for November 28, 2018" %}
   <figcaption><strong>Left to right, back to front:</strong> <em>West Coast Avengers</em> #4, <em>The Last Space Race</em> #2, <em>Burnouts</em> #3, <em>American Carnage</em> #1, and <em>Cover</em> #3</figcaption>
 </figure>
 

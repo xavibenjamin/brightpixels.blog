@@ -10,7 +10,7 @@ categories:
 Dear Reader,
 
 <figure class="extendout">
-  {% include imgic.html src="/2016/02/cozumel-drinks.jpg" alt="I could really get used to this." %}
+  {% include img.html src="/2016/02/cozumel-drinks.jpg" alt="I could really get used to this." %}
   <figcaption>I could really get used to this</figcaption>
 </figure>
 

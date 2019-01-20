@@ -10,7 +10,7 @@ featured_image: "/uploads/pull-list-10-24-2018.jpg"
 ---
 
 <figure class="extendout">
-  {% include imgic.html src="/pull-list-10-24-2018.jpg" alt="Pull List for October 24, 2018" %}
+  {% include img.html src="/pull-list-10-24-2018.jpg" alt="Pull List for October 24, 2018" %}
   <figcaption><strong>From left to right:</strong> <em>The New World</em> #4, <em>Shuri</em> #1, <em>Cover</em> #2, and <em>Daredevil</em> #609</figcaption>
 </figure>
 

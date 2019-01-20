@@ -10,7 +10,7 @@ featured_image: "/uploads/pull-list-10-17-2018.jpg"
 ---
 
 <figure class="extendout">
-  {% include imgic.html src="/pull-list-10-17-2018.jpg" alt="Comics from last week" %}
+  {% include img.html src="/pull-list-10-17-2018.jpg" alt="Comics from last week" %}
 
   <figcaption><strong>From left to right starting from the back:</strong> <em>True Believers: What If Spider-Man Had Rescued Gwen Stacy?</em> #1, <em>X-23</em> #5, <em>Catwoman</em> #4, <em>Spider-Geddon</em> #1, <em>Oblivion Song</em> #1, <em>The Amazing Spider-Man</em> #7, <em>The Last Space Race</em> #1</figcaption>
 </figure>
