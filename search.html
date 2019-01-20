@@ -1,6 +1,5 @@
 ---
 title: Search
-layout: compress
 excerpt: Search Bright Pixels.
 ---
 
@@ -17,10 +16,13 @@ excerpt: Search Bright Pixels.
         <script>
           window.store = {
             {% for post in site.posts %}
+            {% assign author = site.data.authors[post.author] %}
               "{{ post.url | slugify }}": {
                 "title": "{{ post.title | xml_escape | widont }}",
-                "author": "{{ post.author | xml_escape }}",
-                "category": "{{ post.category | xml_escape }}",
+                "date" : "{{ post.date |  date: '%b %d, %Y' }}",
+                "author": "{{ author.display_name }}",
+                "category": "{{ post.categories[0] | xml_escape }}",
+                {% if post.featured_image %}"image": "{{ post.featured_image }}",{% endif %}
                 "content": {{ post.content | strip_html | strip_newlines | jsonify }},
                 "url": "{{ post.url | xml_escape }}"
               }

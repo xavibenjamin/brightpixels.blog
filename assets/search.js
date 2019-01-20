@@ -10,8 +10,23 @@
         // Iterate over the results
         var item = store[results[i].ref];
         appendString +=
-          '<li><h2><a href="' + item.url + '">' + item.title + '</a></h2>';
-        appendString += '<p>' + item.content.substring(0, 180) + '...</p></li>';
+          '<article class="post-list"><div class="post__meta">' +
+          item.author +
+          '&emsp;' +
+          item.category +
+          '&emsp;' +
+          item.date +
+          '</div><h2 class="post-list__title"><a href="' +
+          item.url +
+          '">' +
+          item.title +
+          '</a></h2>';
+        appendString +=
+          '<p class="post-list__excerpt">' +
+          item.content.substring(0, 180) +
+          '...<a class="post-list__more" href="' +
+          item.url +
+          '"><span class="caps">More</span></a></p></article>';
       }
 
       searchResults.innerHTML = appendString;
@@ -42,13 +57,15 @@
     // a boost of 10 to indicate matches on this field are more important.
     var idx = lunr(function() {
       this.field('id');
-      this.field('title', { boost: 10 });
+      this.field('title');
       this.field('author');
-      this.field('content');
+      this.field('content', { boost: 10 });
+      this.field('category');
       for (var key in window.store) {
         this.add({
           id: key,
           title: window.store[key].title,
+          category: window.store[key].category,
           author: window.store[key].author,
           content: window.store[key].content
         });
