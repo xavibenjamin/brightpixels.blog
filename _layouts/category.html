@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<div class="p-body">
+  {% unless page.hide_title %}
+    <header class="page__header">
+      {% assign catCount = site.categories[page.title] | size %}
+      <h1 class="page-header__title" id="page-title">{{ page.title | smartify | widont }} <small>{{ catCount }}</small></h1>
+      {% if page.description %}
+        <p class="page-header__description">{{ page.description | markdownify | smartify | widont | remove: '<p>' | remove: '</p>' }}</p>
+      {% endif %}
+    </header>
+  {% endunless %}
+
+  {% assign category = page.title %}
+  {% for post in site.categories[category] %}
+    {% assign author = site.data.authors[post.author] %}
+      <article class="post-list">
+        <div class="post__meta">
+          <span class="post__author"><a class="p-author h-card" href="/authors/{{ author.author_path }}" title="View more posts written by {{ author.display_name }}">{{ author.display_name }}</a></span>&emsp;<span class="post__date"><time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}">{{ post.date | date: "%b %d, %Y" }}</time></span>
+        </div>
+        <h2 class="post-list__title"><a href="{{ post.url }}" title="Permalink for {{ post.title }}">{{ post.title | widont }}</a></h2>
+        <p class="post-list__excerpt">{% if post.has_excerpt %}{{ post.excerpt }}{% else %}{{ post.content | markdownify | strip_html | strip_newlines | truncate: 180 }}{% endif %}<a href="{{ post.url }}" class="post-list__more" title="Permalink for {{ post.title }}"><span class="caps">More</a></p>
+      </article>
+  {% endfor %}
+</div>
+
+
+
