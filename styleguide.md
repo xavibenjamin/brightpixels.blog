@@ -82,7 +82,7 @@ Ben Brooks on _The Brooks Review_:
   {% include imgic.html src="/2016/01/paris-pastry.jpg" %}
   {% include imgic.html src="/2016/01/kelly-punching.jpg" %}
   {% include imgic.html src="/2016/01/europe-group-on-the-bus.jpg" %}
-  <figcaption>Use a <code>figure</code> with the class of <code>.photo-grid .photo-grid--one</code>.</figcaption>
+  <figcaption>Use a <code>figure</code> with the class of <code>.photo-grid .photo-grid--one</code></figcaption>
 </figure>
 
 I use Github Flavored Markdown for code blocks. In other words, I use three back ticks. I always declare the language that's being used in the code block.
@@ -111,7 +111,7 @@ redcarpet:
   {% include imgic.html src="/2016/01/eiffel-tower.jpg" alt="" %}
   {% include imgic.html src="/2016/01/deannda-posing.jpg" alt="" %}
   {% include imgic.html src="/2016/01/paris-pastry.jpg" alt="" %}
-  <figcaption>Use a <code>figure</code> with the class of <code>.photo-grid .photo-grid--three</code>.</figcaption>
+  <figcaption>Use a <code>figure</code> with the class of <code>.photo-grid .photo-grid--three</code></figcaption>
 </figure>
 
 ## What about a table?
@@ -173,7 +173,7 @@ Lorem ipsum dolor sit amet, consectetur adip*isicing elit, sed do eiusmod *tempo
 <figure class="photo-grid photo-grid--two">
   {% include imgic.html src="/2016/01/kelly-punching.jpg" %}
   {% include imgic.html src="/2016/01/europe-group-on-the-bus.jpg" %}
-  <figcaption>Use a <code>figure</code> with the class of <code>.photo-grid .photo-grid--two</code>.</figcaption>
+  <figcaption>Use a <code>figure</code> with the class of <code>.photo-grid .photo-grid--two</code></figcaption>
 </figure>
 
 And that's it. Oh wait… I forgot something.[^1]

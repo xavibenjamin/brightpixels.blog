@@ -90,7 +90,7 @@ You can find possible photo grid options on the [Style Guide](/styleguide). It'l
   Fair" %}
   {% include imgic.html src="/2017/12/dawson.jpg" alt="Dawson" %}
   {% include imgic.html src="/2017/12/friends-at-the-cabin.jpg" alt="Friends at the Cabin" %}
-  <figcaption>Caption for the images goes here.</figcaption>
+  <figcaption>Caption for the images goes here</figcaption>
 </figure>
 {% endraw %}
 ```

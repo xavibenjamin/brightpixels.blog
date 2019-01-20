@@ -9,7 +9,7 @@ _Bright Pixels_ is designed and developed by me, [Tim Smith](http://ttimsmith.co
 
 <figure class="extendout">
   {% include imgic.html src="/tim-02-16x9.jpg" alt="Tim Smith's Photo" %}
-  <figcaption>Photo by <a href="https://www.jaimielaurenphoto.com/">Jaimie Lauren</a>.</figcaption>
+  <figcaption>Photo by <a href="https://www.jaimielaurenphoto.com/">Jaimie Lauren</a></figcaption>
 </figure>
 
 Just as a person goes through different phases of life, so has this site. There have been periods where I write a lot about a particular topic, then move on to another. There was also a time when I wasn't the only one to write here, which you can learn more about below. The constant, however, has always been me. Most of _Bright Pixels_ is a reflection of my life, my personal growth, my successes, and my sorrows.
