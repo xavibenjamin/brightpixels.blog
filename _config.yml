@@ -36,7 +36,6 @@ permalink: '/:year/:month/:title/'
 exclude:
   - README.md
   - Rakefile
-  - Gemfile
   - Gemfile.lock
   - '.asset-cache'
 livereload: true
