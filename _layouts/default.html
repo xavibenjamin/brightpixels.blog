@@ -2,7 +2,7 @@
 ---
 
 {% include head.html %}
-
+  <body class="page-{{ page.layout | slugify }} {% if page.custom_css_class %}{{ page.custom_css_class }}{% else %}page-{{ page.title | slugify }}{% endif %}">
     {% include header.html %}
 
 
