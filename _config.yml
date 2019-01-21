@@ -9,35 +9,34 @@ collections:
     title: Uploads
     output: true
 defaults:
-  - scope:
-      path: ''
-      type: posts
-    values:
-      custom_type: link
-      subtitle:
-      excerpt:
-      layout: post
-      author: timsmith
-      seo_title:
-      link_url:
-      featured_image:
-      is_rss_only:
-      review:
-        type:
-        rating:
-        movie:
-          letterboxd:
+- scope:
+    path: ''
+    type: posts
+  values:
+    custom_type: link
+    subtitle: 
+    excerpt: 
+    layout: post
+    author: timsmith
+    seo_title: 
+    link_url: 
+    featured_image: 
+    is_rss_only: 
+    review:
+      type: 
+      rating: 
+      movie:
+        letterboxd: 
 name: Bright Pixels
 url: https://brightpixels.blog
-description:
-  A web-column about comic books, Star Wars, movies, Apple, technology,
+description: A web-column about comic books, Star Wars, movies, Apple, technology,
   and other geekery.
-permalink: '/:year/:month/:title/'
+permalink: "/:year/:month/:title/"
 exclude:
-  - README.md
-  - Rakefile
-  - Gemfile.lock
-  - '.asset-cache'
+- README.md
+- Rakefile
+- Gemfile.lock
+- ".asset-cache"
 livereload: true
 highlighter: rouge
 port: 4000
@@ -49,24 +48,23 @@ markdown_ext: markdown,mkdown,mkdn,mkd,md,mdown
 kramdown:
   input: GFM
 plugins:
-  - jekyll-typogrify
-  - jekyll-include-cache
+- jekyll-typogrify
+- jekyll-include-cache
 social:
   links:
-    - https://twitter.com/smithtimmytim
-    - https://github.com/smithtimmytim
-    - https://www.linkedin.com/in/smithtimmytim
-    - https://www.flickr.com/photos/smithtimmytim
-    - https://micro.blog/smith
-    - https://twitter.com/brightpxblog
+  - https://twitter.com/smithtimmytim
+  - https://github.com/smithtimmytim
+  - https://www.linkedin.com/in/smithtimmytim
+  - https://www.flickr.com/photos/smithtimmytim
+  - https://micro.blog/smith
+  - https://twitter.com/brightpxblog
 imgix:
   source: brightpixels.imgix.net
   secure_url_token: yecPTdx6GYCCJd7M
-sizes:
-  '(min-width: 90em) 1300px, (min-width: 70em) 1000px, (min-width: 50em) 750px,
-  (min-width: 31.5em) 500px, 100vw'
+sizes: "(min-width: 90em) 1300px, (min-width: 70em) 1000px, (min-width: 50em) 750px,
+  (min-width: 31.5em) 500px, 100vw"
 srcset:
-  - 500
-  - 750
-  - 1000
-  - 1300
+- 500
+- 750
+- 1000
+- 1300
