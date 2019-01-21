@@ -1,7 +1,6 @@
 ---
 title: Stuff I’ve made (and actually use)
-date: 2019-01-16 02:29:34.095000000 -06:00
-published: false
+date: 2019-01-16 02:29:00 -06:00
 link_url: http://brettterpstra.com/2019/01/15/stuff-ive-made-and-actually-use/
 featured_image: http://cdn3.brettterpstra.com/uploads/2019/01/favorite-projects-rb_fb.jpg
 ---
