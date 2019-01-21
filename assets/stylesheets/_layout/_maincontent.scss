@@ -23,15 +23,16 @@
 
 .post__permalink {
   color: $light-text-color;
-  display: block;
-  font-family: $font-code;
-  font-size: $ratio-1;
   font-weight: normal;
   text-decoration: none;
   &:hover,
   &:focus {
     color: $link-color;
     text-decoration: none;
+  }
+
+  .date__hash {
+    color: $primary-color;
   }
 }
 
