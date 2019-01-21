@@ -1,9 +1,9 @@
 ---
 title: Influencing Web Layouts with Print Layouts
 date: 2016-01-22 09:24:00 -06:00
-link_url: https://css-tricks.com/print-magazine-layouts-converted-to-web-layouts/
 categories:
 - Design
+link_url: https://css-tricks.com/print-magazine-layouts-converted-to-web-layouts/
 ---
 
 Chris Coyier on *CSS-Tricks*:

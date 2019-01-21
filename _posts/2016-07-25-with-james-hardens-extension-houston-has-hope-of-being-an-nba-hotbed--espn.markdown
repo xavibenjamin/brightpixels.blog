@@ -1,9 +1,9 @@
 ---
 title: James Harden's Extension gives Houston Contending Aspirations
 date: 2016-07-25 08:54:00 -05:00
-link_url: http://espn.go.com/blog/houston-rockets/post/_/id/2718/with-james-hardens-extension-houston-has-hope-of-being-an-nba-hotbed
 categories:
 - Sports
+link_url: http://espn.go.com/blog/houston-rockets/post/_/id/2718/with-james-hardens-extension-houston-has-hope-of-being-an-nba-hotbed
 ---
 
 > Harden is staying.

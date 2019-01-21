@@ -1,11 +1,11 @@
 ---
 title: Building a Hackintosh
 date: 2017-12-27 09:00:00 -06:00
+categories:
+- Apple
 subtitle: My journey to an affordable, upgradable, and extensible Mac
 author: tjdraper
 custom_type: post
-categories:
-- Apple
 ---
 
 <figure class="extendout">

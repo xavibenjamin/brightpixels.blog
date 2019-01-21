@@ -1,9 +1,9 @@
 ---
 title: The Wirecutter on The Best iPhone 6 Case
 date: 2014-10-29 13:35:07 -05:00
-link_url: http://thewirecutter.com/reviews/best-iphone-6-case/
 categories:
 - Tech
+link_url: http://thewirecutter.com/reviews/best-iphone-6-case/
 ---
 
 Yesterday, I went out and got myself an iPhone 6.[^1] I've had an iPhone since the iPhone 4, and at first I had a screen protector on it, and a bulky case.[^2] When I upgraded to an 5s last year, I decided that I wasn't going to use a case anymore. I wanted it naked so as to not devalue the beauty and design of the phone.

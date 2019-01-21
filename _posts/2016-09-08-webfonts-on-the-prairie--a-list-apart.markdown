@@ -1,9 +1,9 @@
 ---
 title: Webfonts on the Prairie
 date: 2016-09-08 15:16:00 -05:00
-link_url: http://alistapart.com/article/webfonts-on-the-prairie
 categories:
 - Design
+link_url: http://alistapart.com/article/webfonts-on-the-prairie
 ---
 
 Richard Fink on *A List Apart*:

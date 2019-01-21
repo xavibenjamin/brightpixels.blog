@@ -1,9 +1,9 @@
 ---
 title: U.S. Out of World Cup
 date: 2017-10-11 13:47:00 -05:00
-link_url: http://www.espnfc.com/blog/the-match/60/post/3226598
 categories:
 - Sports
+link_url: http://www.espnfc.com/blog/the-match/60/post/3226598
 ---
 
 Jeff Carlisle on *ESPN FC*:

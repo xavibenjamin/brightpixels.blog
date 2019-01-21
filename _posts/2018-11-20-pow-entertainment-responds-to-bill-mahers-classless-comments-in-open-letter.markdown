@@ -1,8 +1,8 @@
 ---
 title: POW! Entertainment Responds to Bill Maher's Classless Comments in Open Letter
+date: 2018-11-20 08:58:00 -06:00
 categories:
 - Comics
-date: 2018-11-20 08:58:00 -06:00
 custom_type: post
 excerpt: Love this response from Team Stan.
 ---

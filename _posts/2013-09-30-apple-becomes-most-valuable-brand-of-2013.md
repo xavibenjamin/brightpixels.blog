@@ -1,9 +1,9 @@
 ---
 title: Apple Becomes ‘Most Valuable Brand’ of 2013
 date: 2013-09-30 12:05:04 -05:00
-link_url: http://thenextweb.com/apple/2013/09/30/apple-overtakes-coca-cola-to-become-most-valuable-brand-of-2013/
 categories:
 - Apple
+link_url: http://thenextweb.com/apple/2013/09/30/apple-overtakes-coca-cola-to-become-most-valuable-brand-of-2013/
 ---
 
 >Apple has taken the top spot as 2013′s Most Valuable Brand, ending Coca-Cola’s 13 year streak as number one in the annual Best Global Brands report compiled by Interbrand. Coca-Cola ended up third, surpassed by both Apple and Google this year.

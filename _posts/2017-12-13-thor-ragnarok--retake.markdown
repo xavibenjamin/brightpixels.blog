@@ -1,9 +1,9 @@
 ---
 title: 'Thor: Ragnarok'
-seo_title: 'Retake Reviews Thor: Ragnarok'
 date: 2017-12-13 10:57:00 -06:00
 categories:
 - Film
+seo_title: 'Retake Reviews Thor: Ragnarok'
 link_url: https://nightowl.fm/retake/27
 ---
 

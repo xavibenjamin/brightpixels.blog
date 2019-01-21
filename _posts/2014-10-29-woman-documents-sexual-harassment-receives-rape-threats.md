@@ -1,9 +1,9 @@
 ---
 title: Woman Documents Sexual Harassment; Receives Rape Threats
 date: 2014-10-29 17:12:35 -05:00
-link_url: http://boingboing.net/2014/10/29/woman-who-documented-sexual-ha.html
 categories:
 - Life
+link_url: http://boingboing.net/2014/10/29/woman-who-documented-sexual-ha.html
 ---
 
 Cory Doctorow reporting for *Boing Boing*:

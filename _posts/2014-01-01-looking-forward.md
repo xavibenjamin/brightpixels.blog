@@ -1,9 +1,9 @@
 ---
 title: '2013: Year in Review'
 date: 2014-01-01 14:27:15 -06:00
-custom_type: post
 categories:
 - Life
+custom_type: post
 ---
 
 It's 2014. I can't believe I'm writing that. It seems like yesterday that I published [this post](https://ttimsmith.com/2013/01/my-definition-of-success).

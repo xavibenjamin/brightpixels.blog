@@ -1,9 +1,9 @@
 ---
 title: Microsoft Surface Tablets Crash on New England Patriots Sideline
 date: 2016-01-25 13:40:00 -06:00
-link_url: http://screengrabber.deadspin.com/new-england-patriots-suffering-from-bsod-1754843741
 categories:
 - Tech
+link_url: http://screengrabber.deadspin.com/new-england-patriots-suffering-from-bsod-1754843741
 ---
 
 Timothy Burke on *Screengrabber*:

@@ -1,8 +1,8 @@
 ---
 title: Shaping Your Job Search
+date: 2016-12-20 13:34:00 -06:00
 categories:
 - Life
-date: 2016-12-20 13:34:00 -06:00
 link_url: https://medium.com/@taramann/shaping-your-job-search-9359ae7a71da
 ---
 

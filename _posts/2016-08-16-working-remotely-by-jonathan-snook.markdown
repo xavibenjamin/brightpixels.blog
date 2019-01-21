@@ -1,9 +1,9 @@
 ---
 title: Working Remotely
 date: 2016-08-16 10:02:00 -05:00
-link_url: https://snook.ca/archives/other/working-remotely
 categories:
 - Life
+link_url: https://snook.ca/archives/other/working-remotely
 ---
 
 Jonathan Snook:

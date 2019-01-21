@@ -1,9 +1,9 @@
 ---
 title: Apple iPhone Touchscreen Faster than Android Devices
 date: 2013-09-23 14:17:25 -05:00
-link_url: http://venturebeat.com/2013/09/19/apples-iphone-5-touchscreen-is-2-5-times-faster-than-android-devices/
 categories:
 - Apple
+link_url: http://venturebeat.com/2013/09/19/apples-iphone-5-touchscreen-is-2-5-times-faster-than-android-devices/
 ---
 
 > Apple’s iPhone 5 is 2.5 times faster at responding to touches than Google Android devices, according to a benchmark test by game and app streaming firm Agawi.

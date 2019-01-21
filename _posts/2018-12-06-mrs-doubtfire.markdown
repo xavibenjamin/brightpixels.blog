@@ -1,9 +1,9 @@
 ---
 title: Mrs. Doubtfire
-seo_title: My Review of Mrs. Doubtfire
 date: 2018-12-06 05:44:00 -06:00
 categories:
 - Film
+seo_title: My Review of Mrs. Doubtfire
 custom_type: post
 subtitle: Robin Williams delivers a fantastic performance in this movie about love,
   family, and adapting to new circumstances

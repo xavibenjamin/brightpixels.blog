@@ -1,9 +1,9 @@
 ---
 title: Day One 2 Review
 date: 2016-02-23 09:22:00 -06:00
-link_url: https://www.macstories.net/reviews/day-one-2-review/
 categories:
 - Tech
+link_url: https://www.macstories.net/reviews/day-one-2-review/
 ---
 
 Jake Underwood writing for *MacStories*:

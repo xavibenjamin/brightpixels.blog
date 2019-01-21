@@ -1,10 +1,10 @@
 ---
 title: The iMac Pro T2 Chip
 date: 2018-01-10 09:00:00 -06:00
-author: tjdraper
-link_url: https://www.macworld.com/article/3245764/macs/the-t2-chip-makes-the-imac-pro-the-start-of-a-mac-revolution.html
 categories:
 - Apple
+author: tjdraper
+link_url: https://www.macworld.com/article/3245764/macs/the-t2-chip-makes-the-imac-pro-the-start-of-a-mac-revolution.html
 ---
 
 This is the first of two links regarding the iMac Pro that I’ll be posting today.

@@ -1,15 +1,15 @@
 ---
 title: Wonder Woman
-seo_title: "Review: Wonder Woman"
 date: 2017-06-07 00:00:00 -05:00
+categories:
+- Film
+seo_title: 'Review: Wonder Woman'
 custom_type: post
 review:
   type: movie
   rating: 4.5
   movie:
     letterboxd: https://letterboxd.com/ttimsmith/film/wonder-woman-2017/
-categories:
-- Film
 ---
 
 <div class="iframe-container">

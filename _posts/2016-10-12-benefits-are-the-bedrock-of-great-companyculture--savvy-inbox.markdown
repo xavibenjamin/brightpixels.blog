@@ -1,9 +1,9 @@
 ---
 title: Benefits Are the Bedrock of Great Company Culture
 date: 2016-10-12 10:43:00 -05:00
-link_url: https://savvyinbox.com/benefits-are-the-bedrock-of-great-company-culture-10c94bb81cb2#.nyopznw8e
 categories:
 - Business
+link_url: https://savvyinbox.com/benefits-are-the-bedrock-of-great-company-culture-10c94bb81cb2#.nyopznw8e
 ---
 
 Paul Farnell is on a roll these days:

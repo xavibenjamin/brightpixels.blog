@@ -1,9 +1,9 @@
 ---
 title: Personal Site Redesigned
 date: 2017-03-29 00:00:00 -05:00
-link_url: https://ttimsmith.com
 categories:
 - Code
+link_url: https://ttimsmith.com
 ---
 
 Three months ago, I set out to redesign my personal site. I usually start feeling the itch every year or so. I don't really know what version this is, but [feel free to look at previous iterations on the Wayback Machine](https://web.archive.org/web/*/http://ttimsmith.com). 

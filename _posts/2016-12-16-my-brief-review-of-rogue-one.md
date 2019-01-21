@@ -1,9 +1,9 @@
 ---
 title: 'Rogue One: A Star Wars Story'
-seo_title: 'My Review of ‘Rogue One: A Star Wars Story’'
 date: 2016-12-16 22:29:00 -06:00
 categories:
 - Film
+seo_title: 'My Review of ‘Rogue One: A Star Wars Story’'
 custom_type: post
 subtitle: The first of the non-saga <em>Star Wars</em> movies has finally come out,
   and I really liked it

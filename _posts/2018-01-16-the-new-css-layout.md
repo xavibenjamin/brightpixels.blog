@@ -1,13 +1,13 @@
 ---
 title: The New CSS Layout
-seo_title: My Review of Rachel Andrew’s ‘The New CSS Layout’
 date: 2018-01-16 11:39:00 -06:00
+categories:
+- Code
+seo_title: My Review of Rachel Andrew’s ‘The New CSS Layout’
 custom_type: post
 review:
   type: book
   rating: 4
-categories:
-- Code
 ---
 
 <figure class="extendout">

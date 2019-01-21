@@ -1,9 +1,9 @@
 ---
 title: Clean Up Your Metadata
 date: 2015-12-01 10:30:01 -06:00
-link_url: https://adactio.com/journal/9881
 categories:
 - Code
+link_url: https://adactio.com/journal/9881
 ---
 
 Jeremy Keith on all the `meta` elements you need for nice previews on Twitter and Facebook:

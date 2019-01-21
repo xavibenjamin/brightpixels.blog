@@ -1,9 +1,9 @@
 ---
 title: Using an Ad Blocker is Not ‘Puppy Genocide’
 date: 2016-01-21 14:28:00 -06:00
-link_url: https://www.techdirt.com/articles/20151229/08111133184/gq-forbes-go-after-adblocker-users-rather-than-their-own-shitty-advertising-inventory.shtml
 categories:
 - Tech
+link_url: https://www.techdirt.com/articles/20151229/08111133184/gq-forbes-go-after-adblocker-users-rather-than-their-own-shitty-advertising-inventory.shtml
 ---
 
 Timothy Geigner on *Techdirt*:

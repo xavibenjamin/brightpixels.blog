@@ -1,9 +1,9 @@
 ---
 title: Autonomous SmartDesk
 date: 2016-08-24 20:00:00 -05:00
-link_url: https://brooksreview.net/2016/08/autonomous-smartdesk/
 categories:
 - Tech
+link_url: https://brooksreview.net/2016/08/autonomous-smartdesk/
 ---
 
 Ben Brooks:

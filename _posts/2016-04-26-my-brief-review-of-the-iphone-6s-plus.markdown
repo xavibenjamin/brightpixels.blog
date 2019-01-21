@@ -1,15 +1,15 @@
 ---
 title: iPhone 6s Plus
-seo_title: My Brief Review of the iPhone 6s Plus
 date: 2016-04-26 08:54:00 -05:00
+categories:
+- Apple
+seo_title: My Brief Review of the iPhone 6s Plus
 custom_type: post
 subtitle: The iPhone 6s Plus is my favorite iPhone. I was hesitant, but I’m glad I
   decided to try it.
 review:
   type: product
   rating: 5
-categories:
-- Apple
 ---
 
 <figure class="extendout">

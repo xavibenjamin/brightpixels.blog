@@ -1,9 +1,9 @@
 ---
 title: Welcome to ‘For The Record’
 date: 2015-09-10 22:13:57 -05:00
-link_url: http://towermedia.org/ftr/0
 categories:
 - Podcasts
+link_url: http://towermedia.org/ftr/0
 ---
 
 The premiere of my new show, *For The Record*, is only a few days away! I'm so excited, and I really hope you like it. Until then, you can listen to the preview, and find out what I plan this show to be all about.

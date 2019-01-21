@@ -1,9 +1,9 @@
 ---
 title: "‘Not Just a Boy Scout’"
 date: 2014-04-24 00:00:00 -05:00
-link_url: http://www.esn.fm/giantsize/6
 categories:
 - Comics
+link_url: http://www.esn.fm/giantsize/6
 ---
 
 The quality of shows that Moisés Chiullan produces is by far one of the best. He's an expert moderator, and his passion for the topics really shines through.

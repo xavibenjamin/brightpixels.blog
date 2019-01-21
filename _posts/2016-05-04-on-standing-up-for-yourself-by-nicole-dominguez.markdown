@@ -1,9 +1,9 @@
 ---
 title: On Standing Up for Yourself
 date: 2016-05-04 22:45:00 -05:00
-link_url: https://medium.com/@sodevious/on-standing-up-for-yourself-a56d87d977dc#.q3rt99z8m
 categories:
 - Life
+link_url: https://medium.com/@sodevious/on-standing-up-for-yourself-a56d87d977dc#.q3rt99z8m
 ---
 
 Nicole Dominguez:

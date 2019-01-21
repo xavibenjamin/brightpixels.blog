@@ -1,9 +1,9 @@
 ---
 title: How a TV Sitcom Triggered the Downfall of Western Civilization
 date: 2016-03-29 09:06:00 -05:00
-link_url: https://medium.com/@thatdavidhopkins/how-a-tv-sitcom-triggered-the-downfall-of-western-civilization-336e8ccf7dd0
 categories:
 - Film
+link_url: https://medium.com/@thatdavidhopkins/how-a-tv-sitcom-triggered-the-downfall-of-western-civilization-336e8ccf7dd0
 ---
 
 David Hopkins breaks down what the show *Friends* means to him and society at large, like no one has ever done:

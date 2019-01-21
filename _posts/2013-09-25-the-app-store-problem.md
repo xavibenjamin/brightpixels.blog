@@ -1,9 +1,9 @@
 ---
 title: The App Store Problem
 date: 2013-09-25 11:50:17 -05:00
-link_url: http://512pixels.net/2013/09/clearly-we-have-a-problem/
 categories:
 - Apple
+link_url: http://512pixels.net/2013/09/clearly-we-have-a-problem/
 ---
 
 Stephen Hackett on 512 Pixels:

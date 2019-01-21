@@ -1,9 +1,9 @@
 ---
 title: The Upside to Technology? It’s Personal
 date: 2016-04-08 15:31:00 -05:00
-link_url: http://www.nytimes.com/2016/03/31/fashion/social-media-technology.html
 categories:
 - Tech
+link_url: http://www.nytimes.com/2016/03/31/fashion/social-media-technology.html
 ---
 
 Nick Bilton in his last column for *The New York Times*:

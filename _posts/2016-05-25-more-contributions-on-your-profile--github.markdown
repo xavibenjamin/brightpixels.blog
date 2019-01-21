@@ -1,10 +1,10 @@
 ---
 title: More Contributions on Your Profile
 date: 2016-05-25 00:03:00 -05:00
-custom_type: link
-link_url: https://github.com/blog/2173-more-contributions-on-your-profile
 categories:
 - Tech
+custom_type: link
+link_url: https://github.com/blog/2173-more-contributions-on-your-profile
 ---
 
 Sarah Vessels on the GitHub blog:

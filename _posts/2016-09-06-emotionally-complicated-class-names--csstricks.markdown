@@ -1,9 +1,9 @@
 ---
 title: Emotionally Complicated Class Names
 date: 2016-09-06 12:27:00 -05:00
-link_url: https://css-tricks.com/emotionally-complicated-class-names/
 categories:
 - Code
+link_url: https://css-tricks.com/emotionally-complicated-class-names/
 ---
 
 This list is pretty hilarious. I'll add my own just for fun.

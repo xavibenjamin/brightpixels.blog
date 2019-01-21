@@ -1,9 +1,9 @@
 ---
 title: Making Videos on YouTube
 date: 2017-06-26 12:46:00 -05:00
-custom_type: post
 categories:
 - From the Editor
+custom_type: post
 ---
 
 Dear Reader,

@@ -1,9 +1,9 @@
 ---
 title: Bulls’ Gasol Replaces Injured Butler on All-Star Team
 date: 2016-02-12 00:48:00 -06:00
-link_url: http://www.nba.com/2016/news/as.game/02/09/bulls-pau-gasol-replaces-jimmy-butler-on-all-star-team/index.html
 categories:
 - Sports
+link_url: http://www.nba.com/2016/news/as.game/02/09/bulls-pau-gasol-replaces-jimmy-butler-on-all-star-team/index.html
 ---
 
 From NBA.com:

@@ -1,9 +1,9 @@
 ---
 title: A Sticky Situation
 date: 2017-04-03 06:53:00 -05:00
-link_url: https://ethanmarcotte.com/wrote/a-sticky-situation/
 categories:
 - Code
+link_url: https://ethanmarcotte.com/wrote/a-sticky-situation/
 ---
 
 Ethan Marcotte:

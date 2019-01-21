@@ -1,9 +1,9 @@
 ---
 title: Ralph Breaks the Internet
-seo_title: 'My Review of Ralph Breaks the Internet'
 date: 2018-12-03 10:48:00 -06:00
 categories:
 - Film
+seo_title: My Review of Ralph Breaks the Internet
 subtitle: Fun and action-packed, this film was entertaining with a great moral
 custom_type: post
 review:

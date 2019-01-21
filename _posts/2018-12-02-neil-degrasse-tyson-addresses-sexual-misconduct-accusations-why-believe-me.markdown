@@ -1,5 +1,6 @@
 ---
-title: 'Neil deGrasse Tyson Addresses Sexual Misconduct Accusations: ‘Why Believe Me?’'
+title: 'Neil deGrasse Tyson Addresses Sexual Misconduct Accusations: ‘Why Believe
+  Me?’'
 date: 2018-12-02 22:01:00 -06:00
 categories:
 - Life

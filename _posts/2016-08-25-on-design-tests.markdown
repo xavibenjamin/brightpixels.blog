@@ -1,10 +1,10 @@
 ---
 title: On Design Tests
 date: 2016-08-25 11:11:00 -05:00
-custom_type: post
-subtitle: Should you take them?
 categories:
 - Design
+custom_type: post
+subtitle: Should you take them?
 ---
 
 Looking for a job is a stressful affair. Filtering through hundreds of job descriptions requires stellar skimming skills. After all, you want to minimize wasted time on ones that don't meet your personal requirements. Postings with little to no details about salary, benefits, and the day to day of the position are surprisingly prevalent.

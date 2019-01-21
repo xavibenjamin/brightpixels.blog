@@ -1,9 +1,9 @@
 ---
 title: The Best Third-Party Email App for iOS
 date: 2016-03-10 01:23:00 -06:00
-link_url: http://thesweetsetup.com/apps/the-best-third-party-email-app-for-ios/
 categories:
 - Tech
+link_url: http://thesweetsetup.com/apps/the-best-third-party-email-app-for-ios/
 ---
 
 Bradley Chambers writing for *The Sweet Setup*:

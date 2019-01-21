@@ -1,9 +1,9 @@
 ---
 title: 12 Moments in ‘the Last Jedi’ That Positively Wrecked Me
 date: 2017-12-19 12:05:00 -06:00
-link_url: https://www.tor.com/2017/12/17/12-moments-in-star-wars-the-last-jedi-that-positively-wrecked-me/
 categories:
 - Star Wars
+link_url: https://www.tor.com/2017/12/17/12-moments-in-star-wars-the-last-jedi-that-positively-wrecked-me/
 ---
 
 Emily Asher-Perrin for Tor.com:

@@ -1,9 +1,9 @@
 ---
 title: Don't Overthink It (Flexbox) Grids
 date: 2016-06-28 09:11:00 -05:00
-link_url: https://css-tricks.com/dont-overthink-flexbox-grids
 categories:
 - Code
+link_url: https://css-tricks.com/dont-overthink-flexbox-grids
 ---
 
 Chris Coyier:

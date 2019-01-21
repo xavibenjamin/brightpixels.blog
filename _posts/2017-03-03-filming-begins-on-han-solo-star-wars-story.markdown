@@ -1,9 +1,9 @@
 ---
 title: Filming Begins on Han Solo Movie
 date: 2017-03-03 11:07:00 -06:00
-link_url: http://www.starwars.com/news/han-solo-smuggler-scoundrel-hero-new-star-wars-story-begins
 categories:
 - Star Wars
+link_url: http://www.starwars.com/news/han-solo-smuggler-scoundrel-hero-new-star-wars-story-begins
 ---
 
 Here's another one I missed while [under the weather](/2017/02/under-the-weather/). From StarWars.com:

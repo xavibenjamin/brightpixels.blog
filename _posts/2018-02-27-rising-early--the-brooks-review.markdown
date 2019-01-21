@@ -1,9 +1,9 @@
 ---
 title: Rising Early
 date: 2018-02-27 21:58:00 -06:00
-link_url: https://brooksreview.net/2018/02/rising-early/
 categories:
 - Life
+link_url: https://brooksreview.net/2018/02/rising-early/
 ---
 
 Ben Brooks on *The Brooks Review*:

@@ -1,9 +1,9 @@
 ---
 title: Emmet’s Hidden Features
 date: 2014-11-10 12:31:15 -06:00
-link_url: http://www.jordanm.co.uk/post/91335536701/emmets-hidden-power-features
 categories:
 - Code
+link_url: http://www.jordanm.co.uk/post/91335536701/emmets-hidden-power-features
 ---
 
 Jordan Moore:

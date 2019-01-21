@@ -1,15 +1,15 @@
 ---
 title: Despicable Me 3
-seo_title: "Review: Despicable Me 3"
 date: 2017-07-05 00:00:00 -05:00
+categories:
+- Film
+seo_title: 'Review: Despicable Me 3'
 custom_type: post
 review:
   rating: 2.5
   type: movie
   movie:
     letterboxd: https://letterboxd.com/ttimsmith/film/despicable-me-3/
-categories:
-- Film
 ---
 
 <div class="iframe-container">

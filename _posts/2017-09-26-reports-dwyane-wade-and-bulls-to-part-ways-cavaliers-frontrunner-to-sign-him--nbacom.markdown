@@ -1,9 +1,9 @@
 ---
-title: 'Dwyane Wade and Bulls to Part Ways, Cavaliers ‘Frontrunner’ to Sign Him'
+title: Dwyane Wade and Bulls to Part Ways, Cavaliers ‘Frontrunner’ to Sign Him
 date: 2017-09-26 09:52:00 -05:00
-link_url: http://www.nba.com/article/2017/09/24/report-dwyane-wade-bulls-buyout-agreement-spurs-heat-cavaliers-frontrunners
 categories:
 - Sports
+link_url: http://www.nba.com/article/2017/09/24/report-dwyane-wade-bulls-buyout-agreement-spurs-heat-cavaliers-frontrunners
 ---
 
 Tim Reynolds for *The Associated Press* and NBA.com:

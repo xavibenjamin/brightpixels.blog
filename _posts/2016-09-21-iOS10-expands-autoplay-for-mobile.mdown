@@ -1,10 +1,10 @@
 ---
 title: New Policies for iOS
 date: 2016-09-21 02:54:00 -05:00
-author: keatontaylor
-link_url: https://webkit.org/blog/6784/new-video-policies-for-ios/
 categories:
 - Apple
+author: keatontaylor
+link_url: https://webkit.org/blog/6784/new-video-policies-for-ios/
 ---
 
 Jer Noble for Webkit speaking on some new features in iOS 10:

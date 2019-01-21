@@ -1,9 +1,9 @@
 ---
 title: "‘On Productivity’"
 date: 2015-02-26 15:49:28 -06:00
-link_url: http://krogsgard.com/2015/on-productivity/
 categories:
 - Life
+link_url: http://krogsgard.com/2015/on-productivity/
 ---
 
 Brian Krogsgard:

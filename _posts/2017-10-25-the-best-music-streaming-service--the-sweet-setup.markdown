@@ -1,9 +1,9 @@
 ---
 title: The Best Music Streaming Service
 date: 2017-10-25 11:51:00 -05:00
-link_url: https://thesweetsetup.com/apps/best-music-streaming-service/
 categories:
 - Music
+link_url: https://thesweetsetup.com/apps/best-music-streaming-service/
 ---
 
 Tyler Hayes on *The Sweet Setup*:

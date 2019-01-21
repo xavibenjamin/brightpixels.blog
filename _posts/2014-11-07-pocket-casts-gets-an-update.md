@@ -1,9 +1,9 @@
 ---
 title: Pocket Casts Gets an Update
 date: 2014-11-07 00:56:57 -06:00
-link_url: http://blog.shiftyjelly.com/2014/11/07/pocket-casts-5-for-ios-bigger-than-the-biggest/
 categories:
 - Tech
+link_url: http://blog.shiftyjelly.com/2014/11/07/pocket-casts-5-for-ios-bigger-than-the-biggest/
 ---
 
 Shifty Jelly updated Pocket Casts to version 5 today, and with that, two of our awesome shows on Goodstuff were featured in the post.

@@ -1,9 +1,9 @@
 ---
 title: Gordon Hayward Injury Casts Pall Over Opening Night
 date: 2017-10-19 12:03:00 -05:00
-link_url: http://www.nba.com/article/2017/10/18/gordon-hayward-injury-casts-pall-over-opening-night-thriller
 categories:
 - Sports
+link_url: http://www.nba.com/article/2017/10/18/gordon-hayward-injury-casts-pall-over-opening-night-thriller
 ---
 
 Steve Aschburner on NBA.com:

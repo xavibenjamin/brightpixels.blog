@@ -1,9 +1,9 @@
 ---
 title: Lint Your CSS with stylelint
 date: 2016-04-27 08:45:00 -05:00
-link_url: https://css-tricks.com/stylelint/
 categories:
 - Code
+link_url: https://css-tricks.com/stylelint/
 ---
 
 David Clark on *CSS-Tricks*:

@@ -1,9 +1,9 @@
 ---
 title: Netflix’s Opaque Disruption Annoys Rivals on TV
 date: 2016-03-09 09:13:00 -06:00
-link_url: http://www.nytimes.com/2016/01/18/business/media/disruption-by-netflix-irks-tv-foes.html
 categories:
 - Tech
+link_url: http://www.nytimes.com/2016/01/18/business/media/disruption-by-netflix-irks-tv-foes.html
 ---
 
 John Koblin reporting for *The New York Times*:

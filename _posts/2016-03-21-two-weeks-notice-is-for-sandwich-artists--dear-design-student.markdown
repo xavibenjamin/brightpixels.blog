@@ -1,9 +1,9 @@
 ---
 title: Two Weeks Notice Is for Sandwich Artists
 date: 2016-03-21 00:20:00 -05:00
-link_url: https://deardesignstudent.com/two-weeks-notice-is-for-sandwich-artists-e25a78bece1e?gi=e538e781e7fd
 categories:
 - Business
+link_url: https://deardesignstudent.com/two-weeks-notice-is-for-sandwich-artists-e25a78bece1e?gi=e538e781e7fd
 ---
 
 Mike Monteiro on *Dear Design Student*:

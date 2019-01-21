@@ -1,9 +1,9 @@
 ---
 title: CSS and Scalability
 date: 2016-03-29 08:40:00 -05:00
-link_url: http://mrmrs.io/writing/2016/03/24/scalable-css/
 categories:
 - Code
+link_url: http://mrmrs.io/writing/2016/03/24/scalable-css/
 ---
 
 Adam Morse:

@@ -1,9 +1,9 @@
 ---
 title: Sleep Deprivation Is Not a Badge of Honor
 date: 2016-03-30 08:46:00 -05:00
-link_url: https://m.signalvnoise.com/sleep-deprivation-is-not-a-badge-of-honor/
 categories:
 - Life
+link_url: https://m.signalvnoise.com/sleep-deprivation-is-not-a-badge-of-honor/
 ---
 
 David Heinemeier Hansson:

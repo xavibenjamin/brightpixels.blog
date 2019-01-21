@@ -1,10 +1,10 @@
 ---
 title: Going Back To Comics
 date: 2016-05-21 23:24:00 -05:00
-custom_type: post
-subtitle: Let's talk comic books!
 categories:
 - Comics
+custom_type: post
+subtitle: Let's talk comic books!
 ---
 
 <figure class="extendout">

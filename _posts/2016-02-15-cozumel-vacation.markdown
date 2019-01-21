@@ -1,10 +1,10 @@
 ---
 title: Cozumel Vacation
 date: 2016-02-15 22:39:00 -06:00
-layout: post
-custom_type: post
 categories:
 - Life
+layout: post
+custom_type: post
 ---
 
 Dear Reader,

@@ -1,9 +1,9 @@
 ---
 title: Netflix’s Stand on Proxies and Unblockers
 date: 2016-01-18 00:00:00 -06:00
-link_url: https://media.netflix.com/en/company-blog/evolving-proxy-detection-as-a-global-service
 categories:
 - Tech
+link_url: https://media.netflix.com/en/company-blog/evolving-proxy-detection-as-a-global-service
 ---
 
 David Fallagar on The Netflix Blog:

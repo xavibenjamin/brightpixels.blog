@@ -1,9 +1,9 @@
 ---
 title: 'Spider-Man: Into the Spider-Verse'
-seo_title: 'My Review of Spider-Man: Into the Spiderverse'
 date: 2018-12-17 05:45:00 -06:00
 categories:
 - Film
+seo_title: 'My Review of Spider-Man: Into the Spiderverse'
 custom_type: post
 subtitle: Thrilling and reference-filled, this film is equal parts substance and fun
 excerpt: Thrilling and reference-filled, this film is equal parts substance and fun

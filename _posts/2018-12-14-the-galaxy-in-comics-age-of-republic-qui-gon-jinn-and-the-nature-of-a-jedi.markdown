@@ -1,5 +1,5 @@
 ---
-title: 'StarWars.com Reviews ‘Age of Republic – Qui-Gon Jinn’'
+title: StarWars.com Reviews ‘Age of Republic – Qui-Gon Jinn’
 date: 2018-12-14 15:19:00 -06:00
 categories:
 - Star Wars

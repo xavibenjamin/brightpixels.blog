@@ -1,9 +1,9 @@
 ---
 title: Failing
 date: 2016-08-24 20:00:00 -05:00
-link_url: http://brooksreview.net/2016/08/failing/
 categories:
 - Life
+link_url: http://brooksreview.net/2016/08/failing/
 ---
 
 Ben Brooks:

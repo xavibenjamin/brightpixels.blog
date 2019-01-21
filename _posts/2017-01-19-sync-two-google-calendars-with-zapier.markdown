@@ -1,10 +1,10 @@
 ---
 title: Sync Two Google Calendars with Zapier
 date: 2017-01-19 10:03:00 -06:00
-custom_type: post
-subtitle: Stop pulling your hair out, let's learn how to merge calendars
 categories:
 - Tech
+custom_type: post
+subtitle: Stop pulling your hair out, let's learn how to merge calendars
 ---
 
 <figure class="iframe-container">

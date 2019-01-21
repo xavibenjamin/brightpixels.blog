@@ -1,9 +1,9 @@
 ---
 title: BlackBerry Secures $1 Billion in Funding
 date: 2013-11-04 10:53:00 -06:00
-link_url: http://www.theverge.com/2013/11/4/5064278/blackberry-ceo-steps-down-as-company-secures-1-billion-funding-from
 categories:
 - Tech
+link_url: http://www.theverge.com/2013/11/4/5064278/blackberry-ceo-steps-down-as-company-secures-1-billion-funding-from
 ---
 
 Vlad Savov reporting for *The Verge*:

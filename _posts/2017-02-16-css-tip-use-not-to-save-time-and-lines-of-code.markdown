@@ -1,9 +1,9 @@
 ---
 title: 'CSS Tip: Use :not to Save Time and Lines of Code'
 date: 2017-02-16 15:25:00 -06:00
-custom_type: post
 categories:
 - Code
+custom_type: post
 ---
 
 I saw [this tweet from Matt Griffin](https://twitter.com/elefontpress/status/832308947054903296):

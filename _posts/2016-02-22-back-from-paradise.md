@@ -1,10 +1,10 @@
 ---
 title: Back From Paradise
 date: 2016-02-22 00:38:25 -06:00
-custom_type: post
-subtitle: My island vacation is over.
 categories:
 - Life
+custom_type: post
+subtitle: My island vacation is over.
 ---
 
 <figure class="photo-grid photo-grid--one">

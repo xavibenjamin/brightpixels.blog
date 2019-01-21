@@ -1,12 +1,12 @@
 ---
 title: London
-seo_title: Our London Trip for Sustain Summit
 date: 2018-10-29 16:22:00 -05:00
+categories:
+- Life
+seo_title: Our London Trip for Sustain Summit
 custom_type: post
 excerpt: Some of my favorite shots from London
 featured_image: "/uploads/london-featured.jpg"
-categories:
-- Life
 ---
 
 Kelly and I spent a beautiful four days in London this past week. Modern travel (while cramped and uncomfortable) is a marvel. The idea that we were half way across the world just a few days ago is nothing short of incredible.

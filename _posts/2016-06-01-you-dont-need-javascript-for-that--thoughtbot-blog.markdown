@@ -1,9 +1,9 @@
 ---
 title: You Don't Need JavaScript for That!
 date: 2016-06-01 09:27:00 -05:00
-link_url: https://robots.thoughtbot.com/you-don-t-need-javascript-for-that
 categories:
 - Code
+link_url: https://robots.thoughtbot.com/you-don-t-need-javascript-for-that
 ---
 
 Cristina Silva on the Thoughtbot Blog:

@@ -1,9 +1,9 @@
 ---
-title: "Questions for Our First 1:1"
+title: Questions for Our First 1:1
 date: 2016-07-27 00:26:00 -05:00
-link_url: http://larahogan.me/blog/first-one-on-one-questions/
 categories:
 - Business
+link_url: http://larahogan.me/blog/first-one-on-one-questions/
 ---
 
 Lara Hogan:

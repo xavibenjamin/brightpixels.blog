@@ -1,9 +1,9 @@
 ---
 title: Federico Viticci Switches to Airmail
 date: 2016-04-25 14:43:00 -05:00
-link_url: http://www.macstories.net/reviews/with-version-1-1-and-an-ipad-app-im-switching-to-airmail/
 categories:
 - Tech
+link_url: http://www.macstories.net/reviews/with-version-1-1-and-an-ipad-app-im-switching-to-airmail/
 ---
 
 Federico Viticci on *MacStories*:

@@ -1,5 +1,5 @@
 ---
-title: 'Visualizing a Job Search'
+title: Visualizing a Job Search
 date: 2016-10-25 11:32:00 -05:00
 categories:
 - Life

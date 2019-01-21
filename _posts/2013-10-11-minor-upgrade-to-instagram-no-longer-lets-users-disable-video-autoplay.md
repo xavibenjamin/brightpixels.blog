@@ -1,9 +1,9 @@
 ---
 title: "‘Minor’ Upgrade to Instagram No Longer Lets Users Disable Video Autoplay"
 date: 2013-10-11 13:05:20 -05:00
-link_url: http://thenextweb.com/facebook/2013/10/11/instagram-longer-lets-users-disable-video-autoplay-small-important-step-towards-ads/
 categories:
 - Tech
+link_url: http://thenextweb.com/facebook/2013/10/11/instagram-longer-lets-users-disable-video-autoplay-small-important-step-towards-ads/
 ---
 
 Jon Russell reporting for *The Next Web*:

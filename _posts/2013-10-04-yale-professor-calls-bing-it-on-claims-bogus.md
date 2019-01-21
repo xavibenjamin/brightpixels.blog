@@ -1,9 +1,9 @@
 ---
 title: Yale Professor Calls ‘Bing It On’ Claims Bogus
 date: 2013-10-04 11:42:35 -05:00
-link_url: http://www.theverge.com/2013/10/2/4796830/microsoft-fires-back-at-yale-professor-who-calls-bing-it-on-claims
 categories:
 - Tech
+link_url: http://www.theverge.com/2013/10/2/4796830/microsoft-fires-back-at-yale-professor-who-calls-bing-it-on-claims
 ---
 
 > This week, a Yale law professor took aim at Microsoft's "[Bing It On](http://www.bingiton.com/)" campaign…

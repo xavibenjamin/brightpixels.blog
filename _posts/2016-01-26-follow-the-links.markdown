@@ -1,9 +1,9 @@
 ---
 title: Follow the Links
 date: 2016-01-26 09:06:00 -06:00
-link_url: http://aworkinglibrary.com/writing/follow-the-links/
 categories:
 - Tech
+link_url: http://aworkinglibrary.com/writing/follow-the-links/
 ---
 
 Mandy Brown on what happens when an app tries to keep you within that app: 

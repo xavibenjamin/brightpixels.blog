@@ -1,9 +1,9 @@
 ---
 title: 'Lego Star Wars: The Force Awakens Review'
 date: 2016-07-25 08:53:00 -05:00
-link_url: http://playstationinsider.com/2016/07/lego-star-wars-the-force-awakens-review-ps4/
 categories:
 - Star Wars
+link_url: http://playstationinsider.com/2016/07/lego-star-wars-the-force-awakens-review-ps4/
 ---
 
 Logan Moore writing for *PlayStation Insider*:

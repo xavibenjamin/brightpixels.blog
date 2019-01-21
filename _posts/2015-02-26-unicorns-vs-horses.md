@@ -1,9 +1,9 @@
 ---
 title: Building a Lifestyle Business
 date: 2015-02-26 16:04:54 -06:00
-link_url: https://medium.com/@awilkinson/unicorns-vs-horses-f81d8dd61f17
 categories:
 - Business
+link_url: https://medium.com/@awilkinson/unicorns-vs-horses-f81d8dd61f17
 ---
 
 Andrew Wilkinson talks about being In-N-Out Burger instead of becoming McDonalds. It's quite encouraging to read something like this from someone who's had so much success in our industry. Here's my favorite part of the article:

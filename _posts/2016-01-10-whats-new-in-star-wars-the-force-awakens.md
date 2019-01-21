@@ -1,9 +1,9 @@
 ---
-title: "What’s New in Star Wars: The Force Awakens"
+title: 'What’s New in Star Wars: The Force Awakens'
 date: 2016-01-10 18:51:50 -06:00
-link_url: http://mattheweppelsheimer.com/2016/01/whats-new-in-star-wars-the-force-awakens/
 categories:
 - Film
+link_url: http://mattheweppelsheimer.com/2016/01/whats-new-in-star-wars-the-force-awakens/
 ---
 
 My friend and ex-boss, Matthew Eppelsheimer, wasn’t happy with all the similarities in The Force Awakens. After viewing number three, he had this to say:

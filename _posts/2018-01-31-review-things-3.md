@@ -1,7 +1,9 @@
 ---
-title: 'Things 3 for Mac and iOS'
-seo_title: My Review of Things 3 for Mac and iOS
+title: Things 3 for Mac and iOS
 date: 2018-01-31 09:00:00 -06:00
+categories:
+- Tech
+seo_title: My Review of Things 3 for Mac and iOS
 subtitle: A task manager you will actually want to use
 custom_type: post
 review:
@@ -9,8 +11,6 @@ review:
   type: app
 featured_image: "/uploads/2018/01/things-review-01.jpg"
 excerpt: A task manager you will actually want to use
-categories:
-- Tech
 ---
 
 <figure class="extendout">

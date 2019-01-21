@@ -1,9 +1,9 @@
 ---
 title: Saying Goodbye to Firebug
 date: 2017-10-30 10:55:00 -05:00
-link_url: https://hacks.mozilla.org/2017/10/saying-goodbye-to-firebug/
 categories:
 - Code
+link_url: https://hacks.mozilla.org/2017/10/saying-goodbye-to-firebug/
 ---
 
 Jan Honza Odvarko:

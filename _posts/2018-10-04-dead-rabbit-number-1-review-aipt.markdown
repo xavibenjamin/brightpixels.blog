@@ -1,5 +1,5 @@
 ---
-title: Dead Rabbit #1 Review
+title: Dead Rabbit
 date: 2018-10-04 10:34:00 -05:00
 categories:
 - Comics

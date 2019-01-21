@@ -1,6 +1,6 @@
 ---
-title: ‘Daredevil’ Director Alex Garcia Lopez Knew the Fight Scene Should Be Done
-  in a Single Take
+title: "‘Daredevil’ Director Alex Garcia Lopez Knew the Fight Scene Should Be Done
+  in a Single Take"
 date: 2018-11-01 11:50:00 -05:00
 categories:
 - TV

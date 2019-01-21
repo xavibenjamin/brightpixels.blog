@@ -1,10 +1,10 @@
 ---
 title: Courage
 date: 2017-09-25 11:15:00 -05:00
-custom_type: link
-link_url: https://marco.org/2017/09/18/courage
 categories:
 - Apple
+custom_type: link
+link_url: https://marco.org/2017/09/18/courage
 ---
 
 Marco Arment on the iPhone X's "notch":

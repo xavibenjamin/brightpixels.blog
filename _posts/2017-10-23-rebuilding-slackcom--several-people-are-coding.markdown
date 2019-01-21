@@ -1,9 +1,9 @@
 ---
 title: Rebuilding Slack.com
 date: 2017-10-23 12:53:00 -05:00
-link_url: https://slack.engineering/rebuilding-slack-com-b124c405c193
 categories:
 - Code
+link_url: https://slack.engineering/rebuilding-slack-com-b124c405c193
 ---
 
 Mina Markham on *Several People Are Coding*:

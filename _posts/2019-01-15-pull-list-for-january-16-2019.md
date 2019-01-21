@@ -1,9 +1,9 @@
 ---
 title: Pull List for January 16, 2019
-seo_title: 'The Amazing Spider-Man #13 - Pull List for January 16, 2019'
 date: 2019-01-15 10:34:00 -06:00
 categories:
 - Comics
+seo_title: 'The Amazing Spider-Man #13 - Pull List for January 16, 2019'
 custom_type: post
 excerpt: Every Wednesday, all-new comic books hit the shelves with original stories
   to be engrossed in, and new art to be fascinated by. This is my weekly write-up

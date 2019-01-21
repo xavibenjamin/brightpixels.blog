@@ -1,10 +1,10 @@
 ---
 title: Contentment and Being Grateful
 date: 2013-10-02 14:56:56 -05:00
-layout: post
-custom_type: post
 categories:
 - Life
+layout: post
+custom_type: post
 ---
 
 We all have our moments when we feel down. In my case, the past two years have been full of personal mistakes and bad decisions. Failure is difficult to accept. Yet, these things considered, it's not the end; the book has not yet been finished, even when at times, it certainly feels like it.

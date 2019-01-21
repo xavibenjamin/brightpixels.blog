@@ -1,9 +1,9 @@
 ---
 title: "‘Pushing Against a Tidal Wave’"
 date: 2016-01-13 10:28:00 -06:00
-link_url: https://rachsmith.com/2016/pushing-against-a-tidal-wave
 categories:
 - Code
+link_url: https://rachsmith.com/2016/pushing-against-a-tidal-wave
 ---
 
 Rachel Smith:

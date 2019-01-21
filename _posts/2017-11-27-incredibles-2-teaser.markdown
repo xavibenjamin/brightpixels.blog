@@ -1,9 +1,9 @@
 ---
 title: "‘Incredibles 2’ Teaser"
 date: 2017-11-27 15:44:00 -06:00
-custom_type: post
 categories:
 - Film
+custom_type: post
 ---
 
 <div class="iframe-container">

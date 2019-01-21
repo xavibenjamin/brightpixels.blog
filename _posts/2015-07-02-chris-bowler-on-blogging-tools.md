@@ -1,9 +1,9 @@
 ---
 title: Chris Bowler on Blogging Tools
 date: 2015-07-02 21:14:33 -05:00
-link_url: http://chrisbowler.com/journal/blogging-tools
 categories:
 - Writing
+link_url: http://chrisbowler.com/journal/blogging-tools
 ---
 
 Chris Bowler:

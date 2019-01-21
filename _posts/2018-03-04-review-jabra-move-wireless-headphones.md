@@ -1,15 +1,15 @@
 ---
 title: Jabra Move Wireless Headphones
-seo_title: My Review of the Jabra Move Wireless Headphones
 date: 2018-03-04 00:00:00 -06:00
+categories:
+- Tech
+seo_title: My Review of the Jabra Move Wireless Headphones
 subtitle: A well-built and affordable pair of wireless headphones you shouldn't ignore
 custom_type: post
 review:
   type: product
   rating: 4
 featured_image: "/uploads/2018/03/jabra-featured.jpg"
-categories:
-- Tech
 ---
 
 <figure class="extendout">

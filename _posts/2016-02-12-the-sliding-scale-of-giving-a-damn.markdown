@@ -1,9 +1,9 @@
 ---
 title: The Sliding Scale of Giving a F***
 date: 2016-02-12 00:47:00 -06:00
-link_url: http://blog.capwatkins.com/the-sliding-scale-of-giving-a-fuck
 categories:
 - Life
+link_url: http://blog.capwatkins.com/the-sliding-scale-of-giving-a-fuck
 ---
 
 Cap Watkins:

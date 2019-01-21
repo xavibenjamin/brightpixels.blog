@@ -1,9 +1,9 @@
 ---
 title: Making Fussy Coffee
 date: 2014-11-05 13:07:35 -06:00
-link_url: http://peterbinks.net/blog/making-fussy-coffee
 categories:
 - Life
+link_url: http://peterbinks.net/blog/making-fussy-coffee
 ---
 
 Peter Binkowski:

@@ -1,9 +1,9 @@
 ---
 title: The Best App for Managing Personal Finances and Budgets
 date: 2016-08-17 11:41:00 -05:00
-link_url: http://thesweetsetup.com/apps/favorite-app-managing-personal-finances-budgets/
 categories:
 - Tech
+link_url: http://thesweetsetup.com/apps/favorite-app-managing-personal-finances-budgets/
 ---
 
 Mike Schmitz for *The Sweet Setup*:

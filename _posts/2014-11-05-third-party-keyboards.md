@@ -1,9 +1,9 @@
 ---
 title: Third-Party Keyboards Have Potential They Can't Reach
 date: 2014-11-05 11:57:27 -06:00
-link_url: http://www.macstories.net/stories/ios-8-accessibility-and-third-party-keyboards/
 categories:
 - Tech
+link_url: http://www.macstories.net/stories/ios-8-accessibility-and-third-party-keyboards/
 ---
 
 Steven Aquino for *MacStories*:

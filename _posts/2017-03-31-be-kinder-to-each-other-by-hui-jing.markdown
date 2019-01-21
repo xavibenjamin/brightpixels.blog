@@ -1,9 +1,9 @@
 ---
 title: Be Kinder to Each Other
 date: 2017-03-31 14:46:00 -05:00
-link_url: https://www.chenhuijing.com/blog/a-little-more-kindness/
 categories:
 - Code
+link_url: https://www.chenhuijing.com/blog/a-little-more-kindness/
 ---
 
 Hui Jing after reading some negative comments on the [Update CSS Grid page of the Windows Developer Feedback site](https://wpdev.uservoice.com/forums/257854-microsoft-edge-developer/suggestions/6514853-update-css-grid):

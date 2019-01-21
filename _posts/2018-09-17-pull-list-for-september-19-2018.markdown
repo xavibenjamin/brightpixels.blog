@@ -1,9 +1,10 @@
 ---
 title: Pull List for September 19, 2018
-seo_title: 'Return of Wolverine #1, West Coast Avengers #2 - Pull List for September 19, 2018'
 date: 2018-09-17 20:38:00 -05:00
 categories:
 - Comics
+seo_title: 'Return of Wolverine #1, West Coast Avengers #2 - Pull List for September
+  19, 2018'
 custom_type: post
 ---
 

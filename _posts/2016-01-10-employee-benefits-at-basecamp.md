@@ -1,9 +1,9 @@
 ---
 title: Employee Benefits at Basecamp
 date: 2016-01-10 18:28:27 -06:00
-link_url: https://m.signalvnoise.com/employee-benefits-at-basecamp-d2d46fd06c58?gi=ccfbe6430075
 categories:
 - Business
+link_url: https://m.signalvnoise.com/employee-benefits-at-basecamp-d2d46fd06c58?gi=ccfbe6430075
 ---
 
 Jason Fried on *Signal v. Noise*:

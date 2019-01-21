@@ -1,9 +1,9 @@
 ---
 title: Buying Event Tickets Is a Sham
 date: 2016-02-22 08:32:00 -06:00
-link_url: https://www.theguardian.com/us-news/2016/jan/28/hamilton-adele-tickets-new-york-fixed-game
 categories:
 - Tech
+link_url: https://www.theguardian.com/us-news/2016/jan/28/hamilton-adele-tickets-new-york-fixed-game
 ---
 
 Sam Thielman reporting for *The Guardian*:

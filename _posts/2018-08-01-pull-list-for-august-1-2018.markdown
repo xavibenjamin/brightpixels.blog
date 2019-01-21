@@ -1,9 +1,9 @@
 ---
 title: Pull List for August 1, 2018
-seo_title: 'Captain America #2, Immortal Hulk #4 - Pull List for August 1, 2018'
 date: 2018-08-01 19:50:00 -05:00
 categories:
 - Comics
+seo_title: 'Captain America #2, Immortal Hulk #4 - Pull List for August 1, 2018'
 custom_type: post
 ---
 

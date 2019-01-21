@@ -1,6 +1,7 @@
 ---
-layout: category
 title: Podcasts
+permalink: "/podcasts/"
+layout: category
 seo_title: Posts about Podcasts
-permalink: '/podcasts/'
 ---
+

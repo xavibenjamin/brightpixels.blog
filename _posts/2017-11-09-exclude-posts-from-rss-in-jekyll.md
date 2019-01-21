@@ -1,10 +1,10 @@
 ---
 title: Exclude Posts From RSS in Jekyll
 date: 2017-11-09 10:39:00 -06:00
-subtitle: Two different solutions depending on your circumstance
-custom_type: post
 categories:
 - Code
+subtitle: Two different solutions depending on your circumstance
+custom_type: post
 ---
 
 Let's say you want to exclude a post from your RSS feed. How do you go about doing that? Well, there are a few ways. First, you'd need to add something to the front matter of your post:

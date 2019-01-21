@@ -1,9 +1,9 @@
 ---
 title: My Favorite ‘Star Wars’ Movies
 date: 2017-12-26 15:29:00 -06:00
-custom_type: post
 categories:
 - Star Wars
+custom_type: post
 ---
 
 After recording [an episode of *Retake* about *Rogue One*][0178-0001], TJ and I started talking about where the movie fell within our personal favorites list. I realized I didn't have my list written somewhere.

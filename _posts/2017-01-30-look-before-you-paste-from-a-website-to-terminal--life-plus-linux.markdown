@@ -1,9 +1,9 @@
 ---
 title: Look Before You Paste From a Website to Terminal
 date: 2017-01-30 14:28:00 -06:00
-link_url: https://lifepluslinux.blogspot.co.uk/2017/01/look-before-you-paste-from-website-to.html
 categories:
 - Code
+link_url: https://lifepluslinux.blogspot.co.uk/2017/01/look-before-you-paste-from-website-to.html
 ---
 
 Found this great tip [via Jeremy Keith](https://adactio.com/links/11785). Basically, if you're on a site you don't trust, don't just copy paste into your terminal. In fact, as Jeremy points out:

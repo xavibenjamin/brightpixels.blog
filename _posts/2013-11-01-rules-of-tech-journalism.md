@@ -1,9 +1,9 @@
 ---
 title: Rules of Tech Journalism
 date: 2013-11-01 11:08:56 -05:00
-link_url: http://curiousrat.com/the-new-rules-of-tech-journalism
 categories:
 - Tech
+link_url: http://curiousrat.com/the-new-rules-of-tech-journalism
 ---
 
 Harry Marks:

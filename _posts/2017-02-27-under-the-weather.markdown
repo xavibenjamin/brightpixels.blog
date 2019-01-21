@@ -1,9 +1,9 @@
 ---
 title: Under the Weather
 date: 2017-02-27 11:46:00 -06:00
-custom_type: post
 categories:
 - From the Editor
+custom_type: post
 ---
 
 Hello Dear Reader,

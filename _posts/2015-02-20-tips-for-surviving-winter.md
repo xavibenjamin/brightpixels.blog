@@ -1,9 +1,9 @@
 ---
 title: How to Not Die in Winter
 date: 2015-02-20 14:47:13 -06:00
-link_url: http://gothamist.com/2015/02/03/life_hack_how_to_not_die.php
 categories:
 - Life
+link_url: http://gothamist.com/2015/02/03/life_hack_how_to_not_die.php
 ---
 
 Lauren Evans on *Gothamist*:

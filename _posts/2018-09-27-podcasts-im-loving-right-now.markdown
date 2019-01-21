@@ -1,9 +1,9 @@
 ---
 title: Podcasts I’m Loving Right Now
-seo_title: Podcast Recommendations for the Sophisticated Geek
 date: 2018-09-27 11:45:00 -05:00
 categories:
 - Podcasts
+seo_title: Podcast Recommendations for the Sophisticated Geek
 custom_type: post
 subtitle: Let me recommend you some podcasts
 excerpt: Not only do I produce podcasts for a living at Changelog Media, I happen

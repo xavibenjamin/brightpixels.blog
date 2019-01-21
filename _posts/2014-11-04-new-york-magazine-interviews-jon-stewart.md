@@ -1,9 +1,9 @@
 ---
 title: New York Magazine Interviews Jon Stewart
 date: 2014-11-04 13:57:59 -06:00
-link_url: http://nymag.com/daily/intelligencer/2014/10/jon-stewart-rosewater-in-conversation.html
 categories:
 - TV
+link_url: http://nymag.com/daily/intelligencer/2014/10/jon-stewart-rosewater-in-conversation.html
 ---
 
 Jon Stewart:

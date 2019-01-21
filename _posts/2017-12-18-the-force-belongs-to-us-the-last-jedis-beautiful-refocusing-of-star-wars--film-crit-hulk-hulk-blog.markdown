@@ -1,9 +1,9 @@
 ---
-title: ‘The Last Jedi’ and its Beautiful Refocusing of Star Wars
+title: "‘The Last Jedi’ and its Beautiful Refocusing of Star Wars"
 date: 2017-12-18 14:22:00 -06:00
-link_url: https://filmcrithulk.blog/2017/12/15/the-force-belongs-to-us-the-last-jedis-beautiful-refocusing-of-star-wars/
 categories:
 - Star Wars
+link_url: https://filmcrithulk.blog/2017/12/15/the-force-belongs-to-us-the-last-jedis-beautiful-refocusing-of-star-wars/
 ---
 
 FILM CRIT HULK:

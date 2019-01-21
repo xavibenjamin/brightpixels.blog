@@ -1,9 +1,9 @@
 ---
 title: Pull List for October 31, 2018
-seo_title: 'Man-Eaters #2, West Coast Avengers #3 - Pull List for October 31, 2018'
 date: 2018-10-30 13:10:00 -05:00
 categories:
 - Comics
+seo_title: 'Man-Eaters #2, West Coast Avengers #3 - Pull List for October 31, 2018'
 custom_type: post
 excerpt: Comics I read last week and what I'm picking up this week.
 featured_image: "/uploads/pull-list-10-31-2018.jpg"

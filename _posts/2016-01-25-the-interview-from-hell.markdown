@@ -1,9 +1,9 @@
 ---
 title: The Interview from Hell
 date: 2016-01-25 02:05:00 -06:00
-link_url: http://deliberate-software.com/on-defeat/
 categories:
 - Business
+link_url: http://deliberate-software.com/on-defeat/
 ---
 
 Steve Shogren:

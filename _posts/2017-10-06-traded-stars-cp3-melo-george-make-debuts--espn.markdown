@@ -1,9 +1,9 @@
 ---
 title: Traded Stars CP3, Melo, George Make Debuts
 date: 2017-10-06 12:05:00 -05:00
-link_url: http://www.espn.com/nba/story/_/id/20910057
 categories:
 - Sports
+link_url: http://www.espn.com/nba/story/_/id/20910057
 ---
 
 Tim MacMahon and Royce Young writing for *ESPN*:

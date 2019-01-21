@@ -1,9 +1,9 @@
 ---
 title: I Bought a Camera
 date: 2017-04-28 12:46:00 -05:00
-custom_type: post
 categories:
 - Tech
+custom_type: post
 ---
 
 After debating whether I should buy a DSLR for almost a year, I finally decided last week that I was going to pull the trigger.

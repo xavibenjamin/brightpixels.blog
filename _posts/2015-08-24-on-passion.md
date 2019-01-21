@@ -1,9 +1,9 @@
 ---
 title: On Passion
 date: 2015-08-24 06:30:00 -05:00
-link_url: https://the-pastry-box-project.net/noah-stokes/2015-august-21
 categories:
 - Life
+link_url: https://the-pastry-box-project.net/noah-stokes/2015-august-21
 ---
 
 Noah Stokes nails it:

@@ -1,6 +1,7 @@
 ---
-layout: category
 title: Tech
+permalink: "/tech/"
+layout: category
 seo_title: Posts about Technology
-permalink: '/tech/'
 ---
+

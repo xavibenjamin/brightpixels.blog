@@ -1,9 +1,9 @@
 ---
 title: Renting iTunes Movies and the Value of Ownership
 date: 2017-11-30 00:00:00 -06:00
-link_url: https://www.subtraction.com/2017/11/17/renting-itunes-movies-and-the-value-of-ownership/
 categories:
 - Film
+link_url: https://www.subtraction.com/2017/11/17/renting-itunes-movies-and-the-value-of-ownership/
 ---
 
 Khoi Vinh:

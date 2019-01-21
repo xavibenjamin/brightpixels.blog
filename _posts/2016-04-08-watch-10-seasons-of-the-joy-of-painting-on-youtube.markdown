@@ -1,9 +1,9 @@
 ---
 title: Watch 10 Seasons of ‘the Joy of Painting’ on Youtube
 date: 2016-04-08 15:30:00 -05:00
-link_url: http://mentalfloss.com/article/78175/watch-10-seasons-joy-painting-youtube-free
 categories:
 - Life
+link_url: http://mentalfloss.com/article/78175/watch-10-seasons-joy-painting-youtube-free
 ---
 
 Mental Floss:

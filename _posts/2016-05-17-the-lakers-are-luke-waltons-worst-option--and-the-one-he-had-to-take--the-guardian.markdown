@@ -1,9 +1,9 @@
 ---
 title: The Lakers Are Luke Walton's Worst Option
 date: 2016-05-17 09:48:00 -05:00
-link_url: https://www.theguardian.com/sport/blog/2016/may/01/luke-walton-los-angeles-lakers-coach-nba
 categories:
 - Sports
+link_url: https://www.theguardian.com/sport/blog/2016/may/01/luke-walton-los-angeles-lakers-coach-nba
 ---
 
 Les Carpenter writing for *The Guardian*:

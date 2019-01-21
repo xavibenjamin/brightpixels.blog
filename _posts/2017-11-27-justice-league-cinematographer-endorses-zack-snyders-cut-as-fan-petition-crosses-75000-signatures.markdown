@@ -1,9 +1,9 @@
 ---
 title: Fan Petition for Zack Snyder’s Cut of ‘Justice League’ Crosses 75,000 Signatures
 date: 2017-11-27 16:08:00 -06:00
-link_url: https://batman-news.com/2017/11/21/justice-league-zack-snyder-cut-fan-petition/
 categories:
 - Film
+link_url: https://batman-news.com/2017/11/21/justice-league-zack-snyder-cut-fan-petition/
 ---
 
 Chris Begley on Batman News:

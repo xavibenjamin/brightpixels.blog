@@ -1,10 +1,10 @@
 ---
 title: Apple to Delay New Features and Focus on Software Quality
 date: 2018-01-31 09:00:00 -06:00
-author: tjdraper
-link_url: https://www.bloomberg.com/news/articles/2018-01-30/apple-is-said-to-push-back-some-key-iphone-software-features
 categories:
 - Apple
+author: tjdraper
+link_url: https://www.bloomberg.com/news/articles/2018-01-30/apple-is-said-to-push-back-some-key-iphone-software-features
 ---
 
 Mark Gurman writing for _Bloomberg_:

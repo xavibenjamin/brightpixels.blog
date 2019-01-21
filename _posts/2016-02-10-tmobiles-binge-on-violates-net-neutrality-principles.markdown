@@ -1,9 +1,9 @@
 ---
 title: T-Mobile’s ‘Binge On’ violates Net Neutrality principles
 date: 2016-02-10 08:57:00 -06:00
-link_url: http://www.geekwire.com/2016/stanford-law-professor-says-t-mobiles-binge-on-violates-net-neutrality-principles/
 categories:
 - Tech
+link_url: http://www.geekwire.com/2016/stanford-law-professor-says-t-mobiles-binge-on-violates-net-neutrality-principles/
 ---
 
 Greg Sandoval reporting for *GeekWire*:

@@ -1,9 +1,9 @@
 ---
 title: 7 Things an Obi-Wan Kenobi Standalone Film Needs to Succeed
 date: 2017-12-06 11:41:00 -06:00
-link_url: https://nerdist.com/7-things-obi-wan-kenobi-solo-film-needs/
 categories:
 - Film
+link_url: https://nerdist.com/7-things-obi-wan-kenobi-solo-film-needs/
 ---
 
 Eric Diaz on *Nerdist*:

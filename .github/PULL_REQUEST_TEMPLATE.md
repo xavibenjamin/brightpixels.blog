@@ -1,5 +1,0 @@
-#### Purpose
-
-#### Screenshots
-
-:coffee:

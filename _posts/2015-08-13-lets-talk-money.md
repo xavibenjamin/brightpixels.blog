@@ -1,12 +1,12 @@
 ---
 title: "‘Let’s Talk Money’"
 date: 2015-08-13 11:15:28 -05:00
+categories:
+- Business
 link_url: http://helentran.com/lets-talk-money
 excerpt: One of the most displeasing sentiments out there is that if you are passionate
   about something, the money shouldn't matter. People will fall all over themselves
   agreeing to this.
-categories:
-- Business
 ---
 
 Helen Tran:

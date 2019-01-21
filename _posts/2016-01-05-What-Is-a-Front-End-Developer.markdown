@@ -1,9 +1,9 @@
 ---
 title: What Is a Front End Developer?
 date: 2016-01-05 01:58:00 -06:00
-link_url: http://learntocodewith.me/web-dev/front-end-developer-skills/
 categories:
 - Code
+link_url: http://learntocodewith.me/web-dev/front-end-developer-skills/
 ---
 
 Laurence Bradford:

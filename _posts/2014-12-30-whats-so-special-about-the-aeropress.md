@@ -1,9 +1,9 @@
 ---
 title: What’s So Special About the AeroPress
 date: 2014-12-30 14:18:50 -06:00
-link_url: http://shawnblanc.net/2014/12/the-special-aeropress/
 categories:
 - Life
+link_url: http://shawnblanc.net/2014/12/the-special-aeropress/
 ---
 
 Shawn Blanc:

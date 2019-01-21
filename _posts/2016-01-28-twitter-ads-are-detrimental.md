@@ -1,9 +1,9 @@
 ---
 title: Twitter Implies Their Ads Suck
 date: 2016-01-28 10:28:57 -06:00
-link_url: http://mattgemmell.com/tiered-social-media/
 categories:
 - Tech
+link_url: http://mattgemmell.com/tiered-social-media/
 ---
 
 Matt Gemmell on what he’s calling “tiered social media”:

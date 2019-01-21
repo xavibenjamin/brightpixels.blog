@@ -1,11 +1,11 @@
 ---
 title: Popular Science’s Apple TV Wishlist
 date: 2015-08-05 09:57:37 -05:00
+categories:
+- Apple
 link_url: http://www.popsci.com/what-we-want-new-apple-tv
 excerpt: An interesting list of wishes for the new Apple TV. My hope is that rumors
   about the SDK are true. With an SDK, the possibilities are endless
-categories:
-- Apple
 ---
 
 Dave Gershgorn writing for *Popular Science*:

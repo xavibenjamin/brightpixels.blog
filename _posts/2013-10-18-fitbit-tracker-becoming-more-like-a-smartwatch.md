@@ -1,9 +1,9 @@
 ---
 title: Fitbit Tracker Becoming More Like a Smartwatch
 date: 2013-10-18 11:11:02 -05:00
-link_url: http://thenextweb.com/insider/2013/10/17/fitbit-ceo-inching-closer-closer-smart-watch/
 categories:
 - Tech
+link_url: http://thenextweb.com/insider/2013/10/17/fitbit-ceo-inching-closer-closer-smart-watch/
 ---
 
  Josh Ong reporting for *The Next Web*:

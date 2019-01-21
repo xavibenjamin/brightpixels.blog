@@ -1,9 +1,9 @@
 ---
 title: I'm an Impostor
 date: 2016-08-16 09:01:00 -05:00
-link_url: https://davidwalsh.name/impostor-syndrome
 categories:
 - Life
+link_url: https://davidwalsh.name/impostor-syndrome
 ---
 
 David Walsh:

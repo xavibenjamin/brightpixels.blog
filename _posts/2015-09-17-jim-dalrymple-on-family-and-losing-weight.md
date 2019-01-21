@@ -1,9 +1,9 @@
 ---
 title: Jim Dalrymple on Family and Losing Weight
 date: 2015-09-17 11:18:10 -05:00
-link_url: https://ttimsmith.com/podcasts/ftr/jim-dalrymple-on-family-and-losing-weight/
 categories:
 - Podcasts
+link_url: https://ttimsmith.com/podcasts/ftr/jim-dalrymple-on-family-and-losing-weight/
 ---
 
 For the first episode of [For The Record](https://ttimsmith.com/podcasts/ftr/), I decided to talk with [Jim Dalrymple](https://twitter.com/jdalrymple). Jim is one of those people who's so easy to have a great conversation with.

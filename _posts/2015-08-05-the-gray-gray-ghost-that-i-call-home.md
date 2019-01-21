@@ -1,11 +1,11 @@
 ---
 title: The Gray Gray Ghost That I Call Home
 date: 2015-08-05 10:28:17 -05:00
+categories:
+- Tech
 link_url: https://css-tricks.com/the-gray-gray-ghost-that-i-call-home/
 excerpt: The problem is we haven’t learned how to have constructive conversations
   online
-categories:
-- Tech
 ---
 
 Chris Coyier nails it:

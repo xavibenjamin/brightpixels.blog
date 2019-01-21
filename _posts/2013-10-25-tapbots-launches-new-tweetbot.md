@@ -1,9 +1,9 @@
 ---
 title: Tapbots Launches New Tweetbot
 date: 2013-10-25 12:02:12 -05:00
-link_url: http://tapbots.com/software/tweetbot
 categories:
 - Tech
+link_url: http://tapbots.com/software/tweetbot
 ---
 
 While I admire all the hard work that went in creating this new version of Tweetbot, I can't help be a little disappointed. The app has lost much of its personality; both visually and sonically. The new app has some very well done animations, but unfortunately looks too "default iOS 7" for my taste.

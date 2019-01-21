@@ -1,9 +1,9 @@
 ---
 title: The iPad Is in Trouble?
 date: 2014-11-04 14:31:19 -06:00
-link_url: http://www.subtraction.com/2014/10/28/ipad-at-a-crossroads/
 categories:
 - Apple
+link_url: http://www.subtraction.com/2014/10/28/ipad-at-a-crossroads/
 ---
 
 Khoi Vinh on *Subtraction.com*:

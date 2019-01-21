@@ -1,9 +1,9 @@
 ---
 title: One Man’s Terrible Amazon Interview Experience
 date: 2017-01-12 10:52:00 -06:00
-link_url: http://shivankaul.com/blog/2016/12/07/clean-your-desk-yet-another-amazon-interview-experience.html
 categories:
 - Tech
+link_url: http://shivankaul.com/blog/2016/12/07/clean-your-desk-yet-another-amazon-interview-experience.html
 ---
 
 Shivan Kaul Sahib describes his second round interview at Amazon:

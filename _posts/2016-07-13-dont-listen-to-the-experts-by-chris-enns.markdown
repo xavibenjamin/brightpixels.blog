@@ -1,9 +1,9 @@
 ---
 title: Don’t Listen to the Experts
 date: 2016-07-13 21:24:00 -05:00
-link_url: http://www.chrisenns.com/2016/07/dont-listen-experts/
 categories:
 - Life
+link_url: http://www.chrisenns.com/2016/07/dont-listen-experts/
 ---
 
 Chris Enns:

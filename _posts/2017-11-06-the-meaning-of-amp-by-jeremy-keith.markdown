@@ -1,9 +1,9 @@
 ---
 title: The Meaning of AMP
 date: 2017-11-06 13:17:00 -06:00
-link_url: https://adactio.com/journal/13035
 categories:
 - Code
+link_url: https://adactio.com/journal/13035
 ---
 
 Jeremy Keith:

@@ -1,9 +1,9 @@
 ---
 title: Shed Your Money Taboos
 date: 2018-02-21 10:48:00 -06:00
-link_url: https://sivers.org/mn1
 categories:
 - Business
+link_url: https://sivers.org/mn1
 ---
 
 Derek Sivers offers advice to musicians that applies to *any* creative pursuit:

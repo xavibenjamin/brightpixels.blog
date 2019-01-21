@@ -1,10 +1,10 @@
 ---
 title: Speeding Up Your Heroku Jekyll Site
 date: 2017-01-17 08:03:00 -06:00
-custom_type: post
-subtitle: Cache the hell out of all the things
 categories:
 - Code
+custom_type: post
+subtitle: Cache the hell out of all the things
 ---
 
 This post is part of a series on [hosting Jekyll with Heroku](/topics/#jekyll-on-heroku).

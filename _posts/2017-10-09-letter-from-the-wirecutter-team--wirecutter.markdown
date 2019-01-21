@@ -1,9 +1,9 @@
 ---
 title: Letter from the Wirecutter Team
 date: 2017-10-09 10:35:00 -05:00
-link_url: https://thewirecutter.com/letter-from-the-wirecutter-team/
 categories:
 - Design
+link_url: https://thewirecutter.com/letter-from-the-wirecutter-team/
 ---
 
 The *Wirecutter* Team:

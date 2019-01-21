@@ -1,8 +1,11 @@
 ---
 title: 'Star Wars: The Last Jedi'
-seo_title: 'My Brief Review of ‘Star Wars: The Last Jedi’'
 date: 2017-12-15 00:00:00 -06:00
-subtitle: The latest of the Star Wars saga films is a fresh, new, and exciting chapter of my favorite franchise
+categories:
+- Star Wars
+seo_title: 'My Brief Review of ‘Star Wars: The Last Jedi’'
+subtitle: The latest of the Star Wars saga films is a fresh, new, and exciting chapter
+  of my favorite franchise
 custom_type: post
 review:
   type: movie
@@ -10,8 +13,6 @@ review:
   movie:
     letterboxd: https://letterboxd.com/ttimsmith/film/star-wars-the-last-jedi/
 featured_image: "/uploads/media/luke-skywalker.jpg"
-categories:
-- Star Wars
 ---
 
 <figure class="extendout">

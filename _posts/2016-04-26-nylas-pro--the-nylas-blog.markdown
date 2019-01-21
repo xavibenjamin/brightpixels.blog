@@ -1,9 +1,9 @@
 ---
 title: Nylas Pro
 date: 2016-04-26 08:53:00 -05:00
-link_url: https://nylas.com/blog/nylas-pro/
 categories:
 - Tech
+link_url: https://nylas.com/blog/nylas-pro/
 ---
 
 Michael Grinich on the Nylas Blog:

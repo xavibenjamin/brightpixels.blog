@@ -1,9 +1,9 @@
 ---
 title: CSS Writing Mode
 date: 2016-09-06 12:25:00 -05:00
-link_url: https://ishadeed.com/article/css-writing-mode/
 categories:
 - Code
+link_url: https://ishadeed.com/article/css-writing-mode/
 ---
 
 Ahmad Shadeed:

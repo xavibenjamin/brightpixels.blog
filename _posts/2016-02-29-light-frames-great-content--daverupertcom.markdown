@@ -1,9 +1,9 @@
 ---
 title: Light Frames, Great Content
 date: 2016-02-29 01:11:00 -06:00
-link_url: http://daverupert.com/2016/02/light-frames-great-content/
 categories:
 - Code
+link_url: http://daverupert.com/2016/02/light-frames-great-content/
 ---
 
 Uncle Dave:

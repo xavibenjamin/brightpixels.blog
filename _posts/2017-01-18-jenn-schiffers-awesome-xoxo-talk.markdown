@@ -1,9 +1,9 @@
 ---
 title: Jenn Schiffer's Awesome XOXO Talk
 date: 2017-01-18 07:55:00 -06:00
-custom_type: post
 categories:
 - Code
+custom_type: post
 ---
 
 <figure class="iframe-container">

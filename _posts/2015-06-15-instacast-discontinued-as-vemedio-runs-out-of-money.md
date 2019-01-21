@@ -1,9 +1,9 @@
 ---
 title: Instacast Discontinued as Vemedio Runs out of Money
 date: 2015-06-15 13:54:43 -05:00
-link_url: http://9to5mac.com/2015/06/14/instacast-shuts-down-vemedio-podcast-app/
 categories:
 - Tech
+link_url: http://9to5mac.com/2015/06/14/instacast-shuts-down-vemedio-podcast-app/
 ---
 
 Benjamin Mayo reporting for *[9to5Mac](http://9to5mac.com/2015/06/14/instacast-shuts-down-vemedio-podcast-app/)*:

@@ -1,10 +1,11 @@
 ---
 title: Finding Good Content
 date: 2016-02-23 09:18:00 -06:00
-link_url: https://brooksreview.net/2016/02/good-content/
 categories:
 - Tech
+link_url: https://brooksreview.net/2016/02/good-content/
 ---
+
  Ben Brooks on how difficult it is to find good content:
 
 > There’s piles of shit every where you look, which you have to sift through item by item in order to find something decent — it’s even more work to find something good because you can’t judge good until you finish reading it.

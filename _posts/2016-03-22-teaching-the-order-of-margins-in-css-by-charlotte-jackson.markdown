@@ -1,9 +1,9 @@
 ---
 title: Teaching the Order of Margins in CSS
 date: 2016-03-22 09:23:00 -05:00
-link_url: http://www.lottejackson.com/learning/teaching-the-order-of-margins
 categories:
 - Code
+link_url: http://www.lottejackson.com/learning/teaching-the-order-of-margins
 ---
 
 Charlotte Jackson:

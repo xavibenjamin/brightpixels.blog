@@ -1,9 +1,9 @@
 ---
 title: People Still Read Blogs
 date: 2015-02-16 22:58:29 -06:00
-link_url: http://justinjackson.ca/blogs/
 categories:
 - Writing
+link_url: http://justinjackson.ca/blogs/
 ---
 
 Justin Jackson:

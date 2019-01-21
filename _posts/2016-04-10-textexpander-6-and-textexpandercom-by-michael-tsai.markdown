@@ -1,9 +1,9 @@
 ---
 title: TextExpander 6 and TextExpander.com
 date: 2016-04-10 02:00:00 -05:00
-link_url: http://mjtsai.com/blog/2016/04/06/textexpander-6-and-textexpander-com/
 categories:
 - Tech
+link_url: http://mjtsai.com/blog/2016/04/06/textexpander-6-and-textexpander-com/
 ---
 
 Michael Tsai:

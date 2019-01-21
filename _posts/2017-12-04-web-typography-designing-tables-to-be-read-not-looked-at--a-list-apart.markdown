@@ -1,9 +1,9 @@
 ---
 title: 'Web Typography: Designing Tables to be Read, Not Looked At'
 date: 2017-12-04 11:44:00 -06:00
-link_url: https://alistapart.com/article/web-typography-tables
 categories:
 - Design
+link_url: https://alistapart.com/article/web-typography-tables
 ---
 
 Richard Rutter in an excerpt from his new book, [*Web Typography*](http://book.webtypography.net/) published on *A List Apart*:

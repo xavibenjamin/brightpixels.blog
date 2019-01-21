@@ -1,9 +1,9 @@
 ---
 title: Focused on the Grass
 date: 2016-09-13 11:09:00 -05:00
-link_url: http://chrisbowler.com/journal/greener-grass
 categories:
 - Life
+link_url: http://chrisbowler.com/journal/greener-grass
 ---
 
 Chris Bowler:

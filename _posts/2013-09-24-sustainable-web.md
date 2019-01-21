@@ -1,9 +1,9 @@
 ---
 title: James Christie on Sustainable Web Design
 date: 2013-09-24 10:10:39 -05:00
-link_url: http://alistapart.com/article/sustainable-web-design
 categories:
 - Code
+link_url: http://alistapart.com/article/sustainable-web-design
 ---
 
 >At 1.4MB, today’s average page is 15 times larger than it was 10 years ago, primarily due to images (881kB) and script (224kB). Plain old HTML totals just 54kB—but when’s the last time you saw an HTML-only site? This average page also makes more than 100 HTTP requests. Whether they fetch a big object or a small one, these add up to more delay and more power wastage. The average site is also slow: Alexa’s top 2,000 retailer sites now take an average of more than seven seconds to load—much longer than users consider acceptable.

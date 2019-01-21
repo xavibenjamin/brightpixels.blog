@@ -1,9 +1,9 @@
 ---
 title: Permission Slips
 date: 2016-01-25 01:37:00 -06:00
-link_url: http://emilymall.blogspot.com/2016/01/permission-slips.html
 categories:
 - Life
+link_url: http://emilymall.blogspot.com/2016/01/permission-slips.html
 ---
 
 Emily Mall:

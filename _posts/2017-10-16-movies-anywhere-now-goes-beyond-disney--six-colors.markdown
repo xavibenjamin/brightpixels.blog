@@ -1,9 +1,9 @@
 ---
 title: Movies Anywhere Now Goes Beyond Disney
 date: 2017-10-16 10:34:00 -05:00
-link_url: https://sixcolors.com/post/2017/10/movies-anywhere-now-goes-beyond-disney/
 categories:
 - Tech
+link_url: https://sixcolors.com/post/2017/10/movies-anywhere-now-goes-beyond-disney/
 ---
 
 Dan Moren on *Six Colors*:

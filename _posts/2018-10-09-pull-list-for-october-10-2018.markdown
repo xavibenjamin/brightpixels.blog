@@ -1,9 +1,9 @@
 ---
 title: Pull List for October 10, 2018
-seo_title: 'The Amazing Spider-Man #7, X-23 #5 - Pull List for October 10, 2018'
 date: 2018-10-09 10:14:00 -05:00
 categories:
 - Comics
+seo_title: 'The Amazing Spider-Man #7, X-23 #5 - Pull List for October 10, 2018'
 custom_type: post
 excerpt: Comics I'm picking up October 10, 2018.
 featured_image: "/uploads/pull-list-10-10-2018.jpg"

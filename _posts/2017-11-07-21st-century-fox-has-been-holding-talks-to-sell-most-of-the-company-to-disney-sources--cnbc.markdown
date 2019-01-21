@@ -1,9 +1,9 @@
 ---
 title: 21st Century Fox Holding Talks to Sell Most of the Company to Disney
 date: 2017-11-07 10:25:00 -06:00
-link_url: https://www.cnbc.com/2017/11/06/21st-century-fox-has-been-holding-talks-to-sell-most-of-company-to-disney-sources.html
 categories:
 - Film
+link_url: https://www.cnbc.com/2017/11/06/21st-century-fox-has-been-holding-talks-to-sell-most-of-company-to-disney-sources.html
 ---
 
 David Faber for CNBC:

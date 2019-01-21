@@ -1,9 +1,9 @@
 ---
 title: Alfred Version 3
 date: 2016-03-07 09:00:00 -06:00
-link_url: https://www.alfredapp.com/blog/announcements/alfred-v3-is-coming/
 categories:
 - Tech
+link_url: https://www.alfredapp.com/blog/announcements/alfred-v3-is-coming/
 ---
 
 From the Alfred blog:

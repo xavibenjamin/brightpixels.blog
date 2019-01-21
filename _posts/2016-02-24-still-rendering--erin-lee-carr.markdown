@@ -1,9 +1,9 @@
 ---
 title: Still Rendering
 date: 2016-02-24 09:25:00 -06:00
-link_url: https://medium.com/@erinleecarr/lessons-dbbaa0c8294d#.cy6q1awqj
 categories:
 - Life
+link_url: https://medium.com/@erinleecarr/lessons-dbbaa0c8294d#.cy6q1awqj
 ---
 
 Erin Lee Carr on the death of her father:

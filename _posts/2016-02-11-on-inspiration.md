@@ -1,9 +1,9 @@
 ---
 title: On Inspiration
 date: 2016-02-11 02:30:00 -06:00
-custom_type: post
 categories:
 - Life
+custom_type: post
 ---
 
 *Originally published on The Branch in 2013.*

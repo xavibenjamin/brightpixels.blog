@@ -1,9 +1,9 @@
 ---
 title: 'Karolina Szczur: ‘Your Tech Job Posting is Broken’'
 date: 2017-08-17 10:11:00 -05:00
-link_url: https://medium.com/@fox/your-tech-job-posting-is-broken-heres-how-to-fix-it-6db06b9769cb
 categories:
 - Tech
+link_url: https://medium.com/@fox/your-tech-job-posting-is-broken-heres-how-to-fix-it-6db06b9769cb
 ---
 
 Karolina Szczur:

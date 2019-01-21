@@ -1,9 +1,9 @@
 ---
 title: Frontend Performance Tuning WordPress
 date: 2016-03-16 02:04:00 -05:00
-link_url: https://jonbellah.com/front-end-performance-tuning/
 categories:
 - Code
+link_url: https://jonbellah.com/front-end-performance-tuning/
 ---
 
 Jon Bellah:

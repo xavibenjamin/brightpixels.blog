@@ -1,9 +1,9 @@
 ---
 title: What the Mac Needs in 2018
 date: 2018-01-22 10:43:00 -06:00
-link_url: https://www.macworld.com/article/3244657/macs/what-the-mac-needs-in-2018.html
 categories:
 - Apple
+link_url: https://www.macworld.com/article/3244657/macs/what-the-mac-needs-in-2018.html
 ---
 
 Jason Snell on *Macworld*:

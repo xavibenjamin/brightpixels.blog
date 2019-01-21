@@ -1,11 +1,11 @@
 ---
 title: Dynamic Web Typography with Typekit
 date: 2015-08-06 10:25:46 -05:00
+categories:
+- Code
 link_url: http://www.iamtomnewton.com/blog/dynamic-typography/
 excerpt: This makes so much sense. Why download the whole glyph set when you’re most
   likely not using it all?
-categories:
-- Code
 ---
 
 Tom Newton talking about a new Typekit feature:

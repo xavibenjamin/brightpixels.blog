@@ -1,9 +1,9 @@
 ---
 title: Apple’s iPhone Upgrade Program Gets More and More Convenient
 date: 2017-10-26 14:25:00 -05:00
-link_url: https://sixcolors.com/post/2017/10/apples-iphone-upgrade-program-gets-more-and-more-convenient/
 categories:
 - Apple
+link_url: https://sixcolors.com/post/2017/10/apples-iphone-upgrade-program-gets-more-and-more-convenient/
 ---
 
 Dan Moren on *Six Colors*:

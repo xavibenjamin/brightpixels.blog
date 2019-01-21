@@ -2,9 +2,9 @@
 title: An Interview with Una Kravets
 date: 2016-03-01 07:21:00 -06:00
 permalink: "/una-interview-css-tricks/"
-link_url: https://css-tricks.com/an-interview-with-una-kravets/
 categories:
 - Code
+link_url: https://css-tricks.com/an-interview-with-una-kravets/
 ---
 
 Una Kravets:

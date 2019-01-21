@@ -1,9 +1,9 @@
 ---
 title: Newsstand Isn’t the Problem
 date: 2013-12-05 19:20:33 -06:00
-link_url: http://brooksreview.net/2013/11/the-blame-apple-game/
 categories:
 - Apple
+link_url: http://brooksreview.net/2013/11/the-blame-apple-game/
 ---
 
 Ben Brooks on *The Brooks Review*:

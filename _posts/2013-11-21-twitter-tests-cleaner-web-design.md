@@ -1,9 +1,9 @@
 ---
 title: Twitter Tests Cleaner Web Design
 date: 2013-11-21 00:00:00 -06:00
-link_url: http://techcrunch.com/2013/11/21/twitter-web-redesign/
 categories:
 - Tech
+link_url: http://techcrunch.com/2013/11/21/twitter-web-redesign/
 ---
 
 Darrell Etherington on *TechCrunch*:

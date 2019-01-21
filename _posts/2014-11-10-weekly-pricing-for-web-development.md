@@ -1,9 +1,9 @@
 ---
 title: Weekly Pricing for Web Development
 date: 2014-11-10 12:43:57 -06:00
-link_url: http://curtismchale.ca/2013/05/23/weekly-pricing-for-web-development/
 categories:
 - Business
+link_url: http://curtismchale.ca/2013/05/23/weekly-pricing-for-web-development/
 ---
 
 Curtis McHale:

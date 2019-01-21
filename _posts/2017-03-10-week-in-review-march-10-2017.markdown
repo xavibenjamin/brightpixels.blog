@@ -1,9 +1,9 @@
 ---
 title: 'Week in Review: March 10, 2017'
 date: 2017-03-10 11:56:00 -06:00
-custom_type: post
 categories:
 - Tech
+custom_type: post
 ---
 
 Greetings, you fine-looking people!

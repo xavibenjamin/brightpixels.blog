@@ -1,9 +1,9 @@
 ---
 title: Introducing Night Owl
 date: 2016-09-12 13:35:00 -05:00
-link_url: https://nightowl.fm/
 categories:
 - Podcasts
+link_url: https://nightowl.fm/
 ---
 
 > We are super excited to launch Night Owl today with a brand new show, [Retake](https://nightowl.fm/retake), and a brand new episode of an existing show brought over to Night Owl, [Top Brew](https://nightowl.fm/topbrew).

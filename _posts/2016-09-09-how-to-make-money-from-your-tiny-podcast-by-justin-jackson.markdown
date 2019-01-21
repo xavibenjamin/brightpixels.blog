@@ -1,9 +1,9 @@
 ---
 title: Make Money From Your Tiny Podcast
 date: 2016-09-09 11:18:00 -05:00
-link_url: https://justinjackson.ca/tinypodcast/
 categories:
 - Podcasts
+link_url: https://justinjackson.ca/tinypodcast/
 ---
 
 Justin Jackson:

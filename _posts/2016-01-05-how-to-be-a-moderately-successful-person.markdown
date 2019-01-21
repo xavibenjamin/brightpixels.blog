@@ -1,11 +1,11 @@
 ---
 title: How To Be a Moderately Successful Person
 date: 2016-01-05 22:09:00 -06:00
+categories:
+- Life
 layout: post
 custom_type: link
 link_url: https://www.theguardian.com/commentisfree/2016/jan/01/how-to-be-moderately-successful-person-like-me
-categories:
-- Life
 ---
 
 Emer O'Toole:

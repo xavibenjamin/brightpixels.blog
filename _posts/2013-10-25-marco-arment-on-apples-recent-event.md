@@ -1,9 +1,9 @@
 ---
 title: Marco Arment on Apple’s Recent Event
 date: 2013-10-25 12:19:57 -05:00
-link_url: http://www.marco.org/2013/10/24/off
 categories:
 - Apple
+link_url: http://www.marco.org/2013/10/24/off
 ---
 
 >Something felt a bit off about this week’s Apple event.

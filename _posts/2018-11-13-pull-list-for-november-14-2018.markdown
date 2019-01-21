@@ -1,9 +1,10 @@
 ---
 title: Pull List for November 14, 2018
-seo_title: 'The Amazing Spider-Man #9, Oblivion Song #9 - Pull List for November 14, 2018'
 date: 2018-11-13 05:24:00 -06:00
 categories:
 - Comics
+seo_title: 'The Amazing Spider-Man #9, Oblivion Song #9 - Pull List for November 14,
+  2018'
 custom_type: post
 excerpt: Comics I read last week, and one's I'm picking up this week.
 featured_image: "/uploads/pull-list-11-14-2018.jpg"

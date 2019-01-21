@@ -1,5 +1,6 @@
 ---
-title: Bendis and Walker’s New Hero Will Uncover a Secret That Impacts the Entire DC Universe
+title: Bendis and Walker’s New Hero Will Uncover a Secret That Impacts the Entire
+  DC Universe
 date: 2018-10-08 00:44:00 -05:00
 categories:
 - Comics

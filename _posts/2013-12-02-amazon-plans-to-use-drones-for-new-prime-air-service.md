@@ -1,9 +1,9 @@
 ---
 title: Amazon Plans to Use Drones for New Prime Air Service
 date: 2013-12-02 10:28:44 -06:00
-link_url: http://www.techhive.com/article/2068040/amazon-plans-to-use-drones-to-deliver-packages.html
 categories:
 - Tech
+link_url: http://www.techhive.com/article/2068040/amazon-plans-to-use-drones-to-deliver-packages.html
 ---
 
 John Ribeiro on *TechHive*:

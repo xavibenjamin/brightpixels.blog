@@ -1,9 +1,9 @@
 ---
 title: Netflix Breaking From All-At-Once Release Strategy with ‘Turbo Fast’
 date: 2013-12-04 12:17:50 -06:00
-link_url: http://www.theverge.com/2013/12/3/5170230/netflix-breaking-from-all-at-once-release-strategy-with-turbo-fast
 categories:
 - TV
+link_url: http://www.theverge.com/2013/12/3/5170230/netflix-breaking-from-all-at-once-release-strategy-with-turbo-fast
 ---
 
 Chris Welch on *The Verge*:

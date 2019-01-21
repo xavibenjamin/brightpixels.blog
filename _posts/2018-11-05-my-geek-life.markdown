@@ -1,9 +1,9 @@
 ---
 title: My Geek Life
-seo_title: How to Start Reading Comics
 date: 2018-11-05 05:45:00 -06:00
 categories:
 - Comics
+seo_title: How to Start Reading Comics
 custom_type: post
 subtitle: The geekery… it's always been there
 excerpt: 'Embracing my geek and realizing that I loved to read, just hadn''t found

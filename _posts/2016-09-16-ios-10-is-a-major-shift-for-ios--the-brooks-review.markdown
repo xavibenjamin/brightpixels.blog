@@ -1,9 +1,9 @@
 ---
 title: iOS 10 is A Major Shift for iOS
 date: 2016-09-16 11:43:00 -05:00
-link_url: https://brooksreview.net/2016/09/ios-10/
 categories:
 - Apple
+link_url: https://brooksreview.net/2016/09/ios-10/
 ---
 
 Ben Brooks:

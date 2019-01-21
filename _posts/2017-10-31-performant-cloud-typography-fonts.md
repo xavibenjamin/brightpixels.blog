@@ -1,10 +1,10 @@
 ---
 title: Performance Tuning Cloud.typography Fonts
 date: 2017-10-31 22:21:00 -05:00
-subtitle: Typography can look great and load at warp speed, Mr. Sulu
-custom_type: post
 categories:
 - Code
+subtitle: Typography can look great and load at warp speed, Mr. Sulu
+custom_type: post
 ---
 
 I've used fonts from [Cloud.typography](https://www.typography.com/cloud/welcome/) for about two years now. I love Hoefler & Co.'s family of typefaces—this site uses Whitney. But the problem has always been the performance hog these fonts are to serve.

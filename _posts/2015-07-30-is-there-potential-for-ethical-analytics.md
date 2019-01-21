@@ -1,9 +1,9 @@
 ---
 title: Is There Potential for “Ethical Analytics”?
 date: 2015-07-30 18:22:05 -05:00
-link_url: http://laurakalbag.com/is-there-potential-for-ethical-analytics/
 categories:
 - Code
+link_url: http://laurakalbag.com/is-there-potential-for-ethical-analytics/
 ---
 
 Laura Kalbag has some interesting thoughts that I’ve been pondering myself:

@@ -1,9 +1,9 @@
 ---
-title: 'Suz Hinton Says Find Your Allies'
-seo_title: 'Away From Keyboard: Suz Hinton Says Find Your Allies'
+title: Suz Hinton Says Find Your Allies
 date: 2018-09-26 12:30:00 -05:00
 categories:
 - Podcasts
+seo_title: 'Away From Keyboard: Suz Hinton Says Find Your Allies'
 link_url: https://changelog.com/afk/7/
 ---
 

@@ -1,11 +1,11 @@
 ---
 title: My Favorite TextExpander Snippets
 date: 2017-02-06 08:57:00 -06:00
+categories:
+- Tech
 subtitle: Let's begin exploring automation with these simple and helpful keyboard
   shortcuts
 custom_type: post
-categories:
-- Tech
 ---
 
 *This post is part of a series on [creating automation heaven](/topics/#automation-heaven).*

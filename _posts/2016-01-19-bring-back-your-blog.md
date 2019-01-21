@@ -1,9 +1,9 @@
 ---
 title: An Invitation to Bring Back Your Personal Site
 date: 2016-01-19 23:50:00 -06:00
-link_url: http://www.elezea.com/2016/01/an-invitation/
 categories:
 - Writing
+link_url: http://www.elezea.com/2016/01/an-invitation/
 ---
 
 Rian van der Merwe:

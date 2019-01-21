@@ -1,9 +1,9 @@
 ---
 title: Presenting Goodstuff Broadcasting
 date: 2014-04-22 17:01:40 -05:00
-custom_type: post
 categories:
 - From the Editor
+custom_type: post
 ---
 
 On March 17th, I launched [Goodstuff Broadcasting](http://goodstuff.fm/) together with my good friends [Chris Enns](https://twitter.com/ichris) and [Adam Clark](https://twitter.com/avclark).

@@ -1,10 +1,10 @@
 ---
 title: Our One Year Anniversary
 date: 2016-05-16 11:21:00 -05:00
-custom_type: post
-subtitle: We've been married for a year now. It's flown by.
 categories:
 - Life
+custom_type: post
+subtitle: We've been married for a year now. It's flown by.
 ---
 
 <figure class="extendout">

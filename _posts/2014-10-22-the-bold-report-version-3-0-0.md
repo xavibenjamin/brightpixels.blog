@@ -1,9 +1,9 @@
 ---
 title: " The Bold Report Version 3.0.0"
 date: 2014-10-22 11:39:03 -05:00
-custom_type: post
 categories:
 - From the Editor
+custom_type: post
 ---
 
 Hi Reader,

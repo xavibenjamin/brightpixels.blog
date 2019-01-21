@@ -1,9 +1,9 @@
 ---
 title: The Average Worker Is Productive for Almost 3 Hours
 date: 2017-01-23 11:26:00 -06:00
-link_url: http://www.inc.com/melanie-curtin/in-an-8-hour-day-the-average-worker-is-productive-for-this-many-hours.html
 categories:
 - Life
+link_url: http://www.inc.com/melanie-curtin/in-an-8-hour-day-the-average-worker-is-productive-for-this-many-hours.html
 ---
 
 Melanie Curtin for Inc.com:

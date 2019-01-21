@@ -1,9 +1,9 @@
 ---
 title: Samsung Fined $340,000 in Taiwan for Fake Online Comments
 date: 2013-10-24 11:06:11 -05:00
-link_url: http://www.theverge.com/2013/10/24/5023658/samsung-fined-340000-for-posting-negative-htc-reviews
 categories:
 - Tech
+link_url: http://www.theverge.com/2013/10/24/5023658/samsung-fined-340000-for-posting-negative-htc-reviews
 ---
 
  Aaron Souppouris reporting for *The Verge*:

@@ -1,14 +1,14 @@
 ---
 title: "‘We Still Let Harassers Participate In Our Community’"
 date: 2015-08-13 11:52:50 -05:00
+categories:
+- Life
 layout: post
 custom_type: link
 link_url: http://kovalc.in/2015/08/12/harassers.html
 excerpt: We have a problem. A really big problem. If reporting someone does nothing,
   if organizers are not fit to deal with these tough situations, and if no one is
   warning others of those who endanger our community
-categories:
-- Life
 ---
 
 Katie Kovalcin:

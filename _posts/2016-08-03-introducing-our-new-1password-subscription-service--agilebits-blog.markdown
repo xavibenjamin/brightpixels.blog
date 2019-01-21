@@ -1,9 +1,9 @@
 ---
 title: The New 1Password Subscription Service
 date: 2016-08-03 15:01:00 -05:00
-link_url: https://blog.agilebits.com/2016/08/03/new-1password-hosted-service/
 categories:
 - Tech
+link_url: https://blog.agilebits.com/2016/08/03/new-1password-hosted-service/
 ---
 
 Dave Teare on the AgileBits Blog:

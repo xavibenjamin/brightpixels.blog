@@ -1,9 +1,9 @@
 ---
 title: The Trouble with Twitter
 date: 2016-08-16 08:52:00 -05:00
-link_url: http://macsparky.com/blog/2016/8/the-trouble-with-twitter
 categories:
 - Tech
+link_url: http://macsparky.com/blog/2016/8/the-trouble-with-twitter
 ---
 
 David Sparks commenting on [this BuzzFeed article](https://www.buzzfeed.com/charliewarzel/a-honeypot-for-assholes-inside-twitters-10-year-failure-to-s?utm_term=.voz6E4N5l#.vu9AVM6OZ):

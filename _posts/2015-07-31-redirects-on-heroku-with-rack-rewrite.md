@@ -1,10 +1,10 @@
 ---
 title: Heroku Redirects with rack-rewrite
 date: 2015-07-31 00:00:00 -05:00
-custom_type: post
-subtitle: Moved this blog to Heroku, now what?
 categories:
 - Code
+custom_type: post
+subtitle: Moved this blog to Heroku, now what?
 ---
 
 *This post is part of a series on [hosting Jekyll with Heroku](/topics/#jekyll-on-heroku).*

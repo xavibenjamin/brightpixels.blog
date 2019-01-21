@@ -1,9 +1,9 @@
 ---
 title: It’s Time to Rethink iCloud
 date: 2016-09-09 11:19:00 -05:00
-link_url: http://www.macworld.com/article/3115792/ios/hey-apple-it-s-time-to-rethink-icloud.html
 categories:
 - Apple
+link_url: http://www.macworld.com/article/3115792/ios/hey-apple-it-s-time-to-rethink-icloud.html
 ---
 
 Dan Moren writing for *Macworld* on the problems with iCloud:

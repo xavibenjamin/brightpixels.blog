@@ -1,9 +1,9 @@
 ---
 title: Passenger Shot as Cars Approach Frogtown Stoplight
 date: 2017-10-25 11:37:00 -05:00
-link_url: http://www.twincities.com/2017/10/23/st-paul-shooting-frogtown-woman-teen-injured/
 categories:
 - Life
+link_url: http://www.twincities.com/2017/10/23/st-paul-shooting-frogtown-woman-teen-injured/
 ---
 
 Mara H. Gottfried for the *Pioneer Press*:
