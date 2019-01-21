@@ -1,7 +1,6 @@
 ---
 title: Say hello, new logo
-date: 2019-01-16 13:33:13.557000000 -06:00
-published: false
+date: 2019-01-16 13:33:00 -06:00
 link_url: https://slackhq.com/say-hello-new-logo
 featured_image: https://slackhq.com/wp-content/uploads/2019/01/2019-01_BrandRefresh_slack-brand-refresh_unfurl-1.png
 ---

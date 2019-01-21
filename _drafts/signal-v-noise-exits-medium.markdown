@@ -1,7 +1,6 @@
 ---
 title: Signal v Noise exits Medium
-date: 2019-01-16 13:33:15.360000000 -06:00
-published: false
+date: 2019-01-16 13:33:00 -06:00
 link_url: https://m.signalvnoise.com/signal-v-noise-exits-medium/
 featured_image: https://s0.wp.com/i/blank.jpg
 ---
