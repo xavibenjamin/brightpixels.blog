@@ -91,13 +91,27 @@
 // -----------------------------------------
 
 .bc-ad-container {
-  margin-bottom: 2.2rem;
-  @media #{$medium-up} {
-    margin-bottom: 4rem;
+  margin-left: auto;
+  margin-right: auto;
+  width: 16rem;
+  .posts & {
+    margin-bottom: 5rem;
+    margin-top: 5rem;
+  }
+
+  .page-post & {
+    margin-top: 5rem;
   }
 }
 
 .carbon-wrap {
+  align-items: center;
+  background-color: $light-bg-color;
+  border-radius: 2px;
+  display: grid;
+  grid-gap: $ratio;
+  grid-template-columns: 130px auto;
+  padding: $ratio-1;
   a {
     color: $body-color;
     font-weight: normal;
@@ -106,7 +120,9 @@
 }
 
 .carbon-img {
+  background-color: white;
   display: block;
+  max-height: 100px;
 }
 
 .carbon-text {
@@ -114,7 +130,6 @@
   font-size: $ratio-2;
   line-height: 1.5;
   text-align: left;
-  margin-top: $ratio-2;
 }
 
 .carbon-poweredby {
@@ -124,4 +139,5 @@
   margin-top: $ratio-2;
   text-decoration: none;
   text-transform: uppercase;
+  text-align: center;
 }
