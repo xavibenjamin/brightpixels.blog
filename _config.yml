@@ -78,6 +78,8 @@ webmentions:
     last_month: daily
     last_year: weekly
     older: every 2 months
+  legacy_domains:
+    - https://brightlycolored.org
   templates:
     likes: _includes/webmentions/like.html
     reposts: _includes/webmentions/repost.html
