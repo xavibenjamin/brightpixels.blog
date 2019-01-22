@@ -1,0 +1,113 @@
+// WEBMENTIONS -----------------------------
+
+.post__webmentions {
+  margin-top: $ratio2;
+
+  @media #{$medium-up} {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 2rem;
+  }
+}
+
+.webmentions {
+  + .webmentions {
+    margin-top: $ratio;
+  }
+}
+
+@media #{$medium-up} {
+  .webmentions {
+    grid-column: 1 / span 2;
+  }
+
+  .webmentions--likes {
+    grid-column: 1 / span 1;
+  }
+
+  .webmentions--reposts {
+    grid-column: 2 / span 1;
+  }
+}
+
+.post-webmentions__title {
+  font-size: $ratio-1;
+  margin-top: 0;
+
+  &:before {
+    content: none;
+  }
+}
+
+.webmentions__item:not(.webmention--like):not(.webmention--repost) {
+  position: relative;
+  padding-left: 3.5rem;
+  padding-top: $ratio1;
+  padding-bottom: $ratio1;
+
+  + .webmentions__item {
+    border-top: 1px solid $border-color;
+  }
+}
+
+.webmention__author__photo {
+  border-radius: 2px;
+  height: 2.2rem;
+  left: 0;
+  position: absolute;
+  width: 2.2rem;
+}
+
+.webmention__author {
+  line-height: 1;
+
+  a {
+    color: $heading-color;
+    display: inline-block;
+    text-decoration: none;
+
+    &:hover,
+    &:focus {
+      color: $primary-color;
+    }
+  }
+}
+
+.p-name,
+.webmention__content p {
+  font-size: $ratio-1;
+}
+
+.webmention__pubdate {
+  color: lighten($body-color, 25%);
+  font-family: $font-code;
+  font-size: $ratio-2;
+  vertical-align: middle;
+  margin-left: 0.3rem;
+}
+
+.webmention__content {
+  margin-top: 0.4rem;
+}
+
+$circular-avatar-size: 1.7rem;
+
+.webmentions--likes,
+.webmentions--reposts {
+  .webmentions__list {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, $circular-avatar-size);
+    grid-gap: 0.4rem;
+
+    .webmentions__item {
+      padding: 0;
+    }
+  }
+
+  .webmention__author__photo {
+    position: static;
+    border-radius: 50%;
+    height: $circular-avatar-size;
+    width: $circular-avatar-size;
+  }
+}

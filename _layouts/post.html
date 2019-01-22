@@ -34,14 +34,16 @@ custom_css_class: single
   <div class="e-content">{{ content | improve }}</div>
 
   <footer class="post__footer">
-    {% include_cached letterboxd-link.html %}
+    {% include letterboxd-link.html %}
     {% if page.author != 'timsmith' %}
-      {% include_cached author-credit.html %}
+      {% include author-credit.html %}
     {% endif %}
     <section class="card card--light card--large">
       <h2>Bright Pixels Dispatch</h2>
       {% include_cached newsletter-form.html %}
     </section>
+
+    {% include webmentions.html %}
   </footer>
 </article>
 
