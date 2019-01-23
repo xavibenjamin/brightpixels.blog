@@ -16,6 +16,6 @@ I don't understand buying the [OWC DEC](https://www.owcdigital.com/DEC/) unless 
 
 In the end, none of these options is really *ideal* per se, but the Elgato Thunderbolt 3 hub is about as close as we'll get in this weird and awkward transition period.
 
-[7185-0001]: https://theboldreport.net/2016/12/my-brief-review-of-the-2016-macbook-pro-with-touch-bar/
+[7185-0001]: https://brightpixels.blog/2016/12/my-brief-review-of-the-2016-macbook-pro-with-touch-bar/
 [7185-0002]: https://www.apple.com/shop/product/HKN62LL/A/lg-ultrafine-5k-display
-[7185-0003]: https://theboldreport.net/2017/01/displays-for-designers-and-developers-bjango/
+[7185-0003]: https://brightpixels.blog/2017/01/displays-for-designers-and-developers-bjango/

@@ -15,7 +15,7 @@ I'm not saying an Apple device has never frozen on me, but never for hitting the
 
 Now, I understand how that makes sense. iPhone is a very lucrative source of revenue for Apple. But something that hasn't made much sense is the fact that they need developers to make software for the iPhone. That requires pro-level hardware.
 
-Also, Apple has been removing ports like it's going out of style. [TJ Draper had this to say](https://theboldreport.net/2016/09/apple-removing-ports-from-macbook-pro/):
+Also, Apple has been removing ports like it's going out of style. [TJ Draper had this to say](https://brightpixels.blog/2016/09/apple-removing-ports-from-macbook-pro/):
 
 > I’m a pro and I need these ports to do the things I do as a professional. Remove all the ports from the non-pro devices. It makes sense and it allows things to move forward. But space is not at a premium in the MacBook Pro — particularly the 15”. So let’s not remove ports for no good reason. Please, Apple, remember what pro means.
 
@@ -29,7 +29,7 @@ John Gruber, one of the five journalists picked for the tech equivalent of going
 
 Gruber's whole writeup is worth the read, but this one quote is the one that made me feel like Apple hadn't forgotten me. I don't personally own a Mac Pro, but their investment in it is important for all of us pro customers.
 
-Not to mention, they're getting back into the display business. Which I'm so happy about because [the collaboration with LG has been *rocky* to say the least](https://theboldreport.net/2017/02/lg-has-redesigned-its-5k-mac-monitor-so-it-can-handle-being-placed-near-a-router-recode/). The screen is about the only amazing thing about this display. The I/O is virtually non-existent. It's sad for LG who ended up making a mess out of an great opportunity.
+Not to mention, they're getting back into the display business. Which I'm so happy about because [the collaboration with LG has been *rocky* to say the least](https://brightpixels.blog/2017/02/lg-has-redesigned-its-5k-mac-monitor-so-it-can-handle-being-placed-near-a-router-recode/). The screen is about the only amazing thing about this display. The I/O is virtually non-existent. It's sad for LG who ended up making a mess out of an great opportunity.
 
 In short, this is excellent news. Apple knows they messed up, and are taking actions to correct course. Yes, we won't see any of this stuff till *at least* 2018, but it's much better than "Apple is very committed to the pro market" junk they'd been feeding us before.
 

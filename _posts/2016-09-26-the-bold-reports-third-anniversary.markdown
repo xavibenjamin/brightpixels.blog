@@ -8,7 +8,7 @@ subtitle: The third anniversary is upon us. Here's an update on what's been happ
   with the site, what's coming, and a special giveaway for readers.
 ---
 
-I published [the first post](https://theboldreport.net/2013/09/welcome/) on *The Bold Report* on September 23, 2013. It was an introduction to this new site, and a migration from the personal site where I’d been writing for about five years. As usual, [I got a little overly sentimental](https://ttimsmith.com/2013/09/moving-to-the-bold-report).
+I published [the first post](https://brightpixels.blog/2013/09/welcome/) on *The Bold Report* on September 23, 2013. It was an introduction to this new site, and a migration from the personal site where I’d been writing for about five years. As usual, [I got a little overly sentimental](https://ttimsmith.com/2013/09/moving-to-the-bold-report).
 
 {% include toc.html %}
 

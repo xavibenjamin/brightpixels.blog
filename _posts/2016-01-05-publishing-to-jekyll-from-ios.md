@@ -43,7 +43,7 @@ username = '$github_username'
 # You can create a token specific for this workflow
 # at https://github.com/settings/tokens
 token = '$github_token'
-repo = '$github_repo' # Just as it says on the tin. For me it was 'theboldreport.net'
+repo = '$github_repo' # Just as it says on the tin. For me it was 'brightpixels.blog'
 
 ######## No need to edit past this point
 post_text = editor.get_text()

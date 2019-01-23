@@ -24,6 +24,6 @@ subtitle: What's new in the newest version of the site.
 - **Design a better archives page** - I loved the archives page, but it was just a giant list of posts and when you're already in the hundreds of posts, it just doesn't feel entirely useful. So the new page has the list, but now has some starting points.
 - **Give more priority to newsletter** - This solution ended up being deleted.
 - **Make 404 more helpful** - [Check it out](/404/). You tell me what you think. I think it's way more helpful.
-- **Redesign Search** - This is my favorite new thing. Now you can search directly in the header like before, but you'll see results right below it. You can still press enter if you want to see results larger, but I think it'll help you find content easier. Huge shoutout to [TJ Draper](https://theboldreport.net/authors/tjdraper) for helping me with this.
+- **Redesign Search** - This is my favorite new thing. Now you can search directly in the header like before, but you'll see results right below it. You can still press enter if you want to see results larger, but I think it'll help you find content easier. Huge shoutout to [TJ Draper](https://brightpixels.blog/authors/tjdraper) for helping me with this.
 
 You can view the [full release with relevant pull requests on GitHub](https://github.com/smithtimmytim/theboldreport.net/releases/tag/v5.0.0). If you normally read in your RSS Reader, take a look at the site. [Would love to hear your thoughts](mailto:smith@ttimsmith.com).

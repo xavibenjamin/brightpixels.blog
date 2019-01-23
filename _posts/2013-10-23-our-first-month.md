@@ -23,11 +23,11 @@ The number one source of referrals was Twitter with 1,560, my personal site in t
 ## Top Five Posts
 In the first month, these were the top posts:
 
-1. [Freelancing and Saying “No”](http://theboldreport.net/2013/10/freelancing-and-saying-no/)
-2. [Document Everything](http://theboldreport.net/2013/09/document-everything/)
-3.  [Review: 1Password 4 for Mac](http://theboldreport.net/2013/10/review-1password-4-for-mac/)
-4. [Dear Reader,](http://theboldreport.net/2013/09/welcome/)
-5. [Using Portly for Local Development](http://theboldreport.net/2013/10/using-portly-for-local-development/)
+1. [Freelancing and Saying “No”](http://brightpixels.blog/2013/10/freelancing-and-saying-no/)
+2. [Document Everything](http://brightpixels.blog/2013/09/document-everything/)
+3.  [Review: 1Password 4 for Mac](http://brightpixels.blog/2013/10/review-1password-4-for-mac/)
+4. [Dear Reader,](http://brightpixels.blog/2013/09/welcome/)
+5. [Using Portly for Local Development](http://brightpixels.blog/2013/10/using-portly-for-local-development/)
 
 ## Giveaway
 As a token of my appreciation, I wanted to give away two ~~"The Standard" Tonx Coffee Subscriptions~~. I'll personally pay for your first month, which includes two shipments of great-tasting coffee. My pal Jory Raphael is also kindly giving away two of his amazing [Symbolicons icon bundles](http://symbolicons.com/)! The winners will be choosen at random on Friday at 1pm Central. Here's what you have to do to win:

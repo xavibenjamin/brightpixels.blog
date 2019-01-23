@@ -6,7 +6,7 @@ categories:
 link_url: https://www.eventbrite.com/e/lets-learn-css-grid-tickets-33351798126
 ---
 
-You may have noticed that [I’m obsessed with CSS Grid](https://theboldreport.net/topics/#grid-layout). I’ve been making all types of things with it and loving it. When you see the new things possible for us with this new spec, I think you’ll be just as excited.
+You may have noticed that I’m obsessed with CSS Grid. I’ve been making all types of things with it and loving it. When you see the new things possible for us with this new spec, I think you’ll be just as excited.
 
 A few weeks ago, I gave a talk at a local conference here in the Twin Cities and wanted to expand that into a two hour workshop. My idea is simple: help people learn CSS Grid, but sell tickets at an affordable price. Workshops at conferences can cost up to $400 and I’ve never been able to go to one because of it.
 

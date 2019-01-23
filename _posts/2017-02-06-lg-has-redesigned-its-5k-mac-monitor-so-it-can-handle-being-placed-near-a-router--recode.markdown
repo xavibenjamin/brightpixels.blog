@@ -12,4 +12,4 @@ Ina Fried reporting for *Recode*:
 >
 > An LG spokesman told *Recode* that the company is adding additional shielding to newly manufactured models.
 
-As it is, [the options in the display space are pretty slim](https://theboldreport.net/2017/01/displays-for-designers-and-developers-bjango/), but now this? How embarrassing. With the experience LG has making monitors, it feels downright stupid. I hope this ordeal gets Apple to rethink it's departure from the display business.
+As it is, [the options in the display space are pretty slim](https://brightpixels.blog/2017/01/displays-for-designers-and-developers-bjango/), but now this? How embarrassing. With the experience LG has making monitors, it feels downright stupid. I hope this ordeal gets Apple to rethink it's departure from the display business.

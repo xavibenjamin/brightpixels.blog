@@ -30,7 +30,7 @@ My list will change as more movies come out. What about you? [Send me an email](
 [0178-0002]: https://en.wikipedia.org/wiki/The_Empire_Strikes_Back
 [0178-0003]: https://en.wikipedia.org/wiki/Star_Wars:_The_Force_Awakens
 [0178-0004]: https://en.wikipedia.org/wiki/Rogue_One
-[0178-0005]: https://theboldreport.net/2016/12/my-brief-review-of-rogue-one/
+[0178-0005]: https://brightpixels.blog/2016/12/my-brief-review-of-rogue-one/
 [0178-0006]: https://en.wikipedia.org/wiki/A_New_Hope
 [0178-0007]: https://en.wikipedia.org/wiki/Star_Wars:_The_Last_Jedi
 
