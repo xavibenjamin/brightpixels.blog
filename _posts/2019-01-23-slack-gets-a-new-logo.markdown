@@ -1,6 +1,6 @@
 ---
 title: Slack Gets a New Logo
-date: 2019-01-23 14:27:00 -06:00
+date: 2019-01-23 02:27:00 -06:00
 categories:
 - Design
 link_url: https://slackhq.com/say-hello-new-logo
