@@ -1,8 +1,8 @@
 ---
 title: Hello World
-permalink: '/hello/'
+permalink: "/hello/"
 layout: page
-seo_title: New to Bright Pixels? Read this firstjw 
+seo_title: New to Bright Pixels? Read this firstjw
 ---
 
 Thank you so much for visiting my online home. *Bright Pixels* is a web-column I've written since 2013. When I first launched this site, it was called *The Bold Report*. In 2017, [I changed the name to *Brightly Colored*](/2017/10/a-new-beginning/). Unfortunately, that name didn't work either, so [I decided on *Bright&nbsp;Pixels*](/2019/01/introducing-bright-pixels/).
