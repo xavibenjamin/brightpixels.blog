@@ -1,7 +1,6 @@
 ---
 title: 'Oscars: Full List of Nominations'
-date: 2019-01-23 01:57:01.503000000 -06:00
-published: false
+date: 2019-01-23 01:57:00 -06:00
 link_url: https://www.hollywoodreporter.com/lists/oscar-nominations-2019-complete-list-nominees-1172407/item/best-picture-1172473
 featured_image: https://cdn1.thr.com/sites/default/files/2019/01/best_picture-_oscar_2019-h_2019_0.jpg
 ---
