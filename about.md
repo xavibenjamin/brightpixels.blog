@@ -5,14 +5,14 @@ excerpt: Find out more about Bright Pixels.
 layout: page
 ---
 
-_Bright Pixels_ is designed and developed by me, [Tim Smith](http://ttimsmith.com), in beautiful [St. Paul, Minnesota](https://www.stpaul.gov/). This web-column covers a whole range of things including, but not limited to: comics, _Star Wars_, movies, Apple, technology, design, and development.
+_Bright Pixels_ is designed and developed by me, [Tim Smith](http://ttimsmith.com), in beautiful [St. Paul, Minnesota](https://www.stpaul.gov/).
 
 <figure class="extendout">
   {% include img.html src="/tim-02-16x9.jpg" alt="Tim Smith's Photo" %}
   <figcaption>Photo by <a href="https://www.jaimielaurenphoto.com/">Jaimie Lauren</a></figcaption>
 </figure>
 
-Just as a person goes through different phases of life, so has this site. There have been periods where I write a lot about a particular topic, then move on to another. There was also a time when I wasn't the only one to write here, which you can learn more about below. The constant, however, has always been me. Most of _Bright Pixels_ is a reflection of my life, my personal growth, my successes, and my sorrows.
+<mark markdown="span">If this is your first time visiting *Bright Pixels*, be sure to read [HELLO&nbsp;WORLD](/hello/).</mark>
 
 ## About Tim
 

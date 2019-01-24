@@ -9,7 +9,7 @@ Thank you so much for visiting my online home. *Bright Pixels* is a web-column I
 
 *Phew*. Now that we've got that out of the way allow me to introduce myself. I'm [Tim Smith](https://ttimsmith.com/), a former designer and frontend developer, currently working as the Senior Producer at [Changelog Media](https://changelog.com/).
 
-This site has over 600 posts. Some are pretty good; others are ok, some are downright bad. And guess what? That's ok. The site serves to document my interests and opinions at that moment. Just like any other human, growth causes opinions and positions to change.
+This site has over 600 posts. Some are pretty good; others are ok, some are downright bad. And guess what? That's ok. The site serves to document my interests and opinions at that moment. Just as a person goes through different phases of life, so has this site. There have been periods where I write a lot about a particular topic, then move on to another. _Bright Pixels_ is a reflection of my life, my personal growth, my successes, and my sorrows.
 
 I have three main rules for myself:
 
