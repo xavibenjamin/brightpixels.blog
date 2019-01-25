@@ -78,8 +78,9 @@
     {% endfor %} {% endif %}
 
     <!-- Webmetion Stuff -->
-
-    {% webmentions_head %}
+    {% if jekyll.environment == "production" %} 
+      {% webmentions_head %}
+    {% endif %}
 
     <!-- RSS Feeds -->
     <link

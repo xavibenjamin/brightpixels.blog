@@ -21,7 +21,7 @@ custom_css_class: single
     {% endif %}
 
     {% if page.review.type %}
-      {% include star-rating.html rating=page.review.rating %}
+      {% include_cached star-rating.html rating=page.review.rating %}
     {% endif %}
   </header>
 
@@ -42,7 +42,9 @@ custom_css_class: single
       <h2>Bright Pixels Dispatch</h2>
       {% include_cached newsletter-form.html %}
     </section>
-    {% include webmentions.html %}
+    {% if jekyll.environment == "production" %} 
+      {% include webmentions.html %}
+    {% endif %}
   </footer>
 </article>
 
