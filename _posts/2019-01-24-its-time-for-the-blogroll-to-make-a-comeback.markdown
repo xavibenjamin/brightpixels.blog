@@ -1,9 +1,9 @@
 ---
 title: It's Time for the Blogroll to Make a Comeback
-date: 2019-01-24 19:32 -06:00
-custom_type: post
+date: 2019-01-24 19:32:00 -06:00
 categories:
 - Writing
+custom_type: post
 ---
 
 I find myself reading more and more personal blogs these days. While many ditched their RSS reader years ago, I've always had my list of subscriptions. Some of my favorite people stopped writing over the years, but more are writing on their blogs again as we've come to understand [the cost of a centralized&nbsp;web](/2019/01/the-cost-of-a-centralized-web/).
