@@ -3,7 +3,10 @@
 // -------------------------------
 
 .home {
-  overflow-x: hidden;
+  position: relative;
+}
+
+.header--home {
   &:before {
     content: '';
     display: block;
@@ -15,41 +18,30 @@
   }
 }
 
-.header {
+.header__wrap {
   display: flex;
-  justify-content: center;
+  align-items: center;
   margin-left: auto;
   margin-right: auto;
   position: relative;
-  padding-top: 4rem;
-  padding-bottom: 4rem;
+  padding-top: 1.2rem;
+  padding-bottom: 1.2rem;
+  justify-content: space-between;
+
   width: 90%;
 
-  @media screen and (min-width: 73em) {
+  @media screen and (min-width: 78em) {
     width: 100%;
   }
 
-  .home & {
+  .header--home & {
     align-items: flex-start;
-    justify-content: space-between;
     padding-bottom: $ratio1;
     padding-top: $ratio1;
-  }
-}
 
-.header__subscribe {
-  color: $alt-color;
-  border: 3px solid $alt-color;
-  padding: 0.5rem 0.7rem;
-  text-decoration: none;
-  display: inline;
-  text-transform: uppercase;
-  font-size: $ratio-1;
-  transition: background-color 300ms ease-in-out;
-  &:hover,
-  &:focus {
-    background-color: rgba(white, 0.1);
-    text-decoration: none;
+    @media #{$small-only} {
+      flex-direction: column-reverse;
+    }
   }
 }
 
@@ -66,7 +58,7 @@
 
 .logo-monogram {
   display: grid;
-  width: 4.2rem;
+  width: 2.6rem;
 }
 
 .icon-logo {
@@ -96,62 +88,133 @@
 
 // Navigation
 
-.site__navigation {
-  background-color: $light-bg-color;
-  display: flex;
-  align-items: flex-end;
-  justify-content: space-between;
-  li {
-    + li {
-      margin-left: 0.8rem;
-    }
-  }
-  a {
-    font-size: $ratio-1;
-    text-decoration: none;
-  }
-}
-
-.navigation {
-  display: flex;
-}
-
-.search--header {
+.home__navigation {
   @media #{$small-only} {
-    display: none;
+    margin-bottom: 1.4rem;
   }
-  .search__input {
-    font-size: $ratio-2;
-    padding: $ratio-2;
+
+  > ul {
+    display: flex;
+    align-items: center;
+    li + li {
+      margin-left: 1.2rem;
+    }
+  }
+
+  .topics-menu__label {
+    color: $primary-color;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: $ratio-1;
+    background: none;
+    border: 0;
+
+    .home & {
+      color: $alt-color;
+      display: inline-block;
+    }
   }
 }
 
-// Header Menu
-
-.header__menu {
-  display: block;
-  transition: opacity 0.2s ease-in-out;
-  position: absolute;
-  top: 1.48rem;
-  left: 5%;
-  opacity: 0.6;
-
-  .menu__line {
-    display: block;
-    background-color: white;
-    width: 25px;
-    height: 1px;
-    + .menu__line {
-      margin-top: 6px;
-    }
-  }
+.header__subscribe {
+  color: $primary-color;
+  border: 3px solid $primary-color;
+  padding: 0.5rem 0.7rem;
+  text-decoration: none;
+  display: inline;
+  text-transform: uppercase;
+  font-size: $ratio-1;
+  transition: background-color 300ms ease-in-out;
 
   &:hover,
   &:focus {
-    opacity: 1;
+    background-color: rgba(white, 0.1);
+    text-decoration: none;
   }
 
-  @media #{$large-up} {
-    display: none;
+  .home & {
+    color: $alt-color;
+    border: 3px solid $alt-color;
+    display: inline-block;
+  }
+}
+
+.header-topics__close {
+  background: none;
+  border: 0;
+  display: block;
+  text-align: right;
+  font-size: 0.9rem;
+  padding: 0;
+  padding-top: 1rem;
+  transition: color 500ms ease-in-out;
+  &:hover,
+  &:focus {
+    color: $primary-color;
+  }
+}
+
+.header__topics {
+  background-color: white;
+  border-bottom: 10px solid $border-color;
+  position: relative;
+  z-index: 3;
+  max-height: 0;
+  overflow: hidden;
+  transition: all 500ms ease-in-out;
+
+  &.js-is-open {
+    max-height: 42rem;
+  }
+
+  .home & {
+    border-bottom: 10px solid darken($primary-color, 10%);
+  }
+
+  > * {
+    max-width: $wrapper-width;
+    width: 90%;
+    margin-right: auto;
+    margin-left: auto;
+
+    @media screen and (min-width: 73em) {
+      width: 100%;
+    }
+  }
+
+  .header-topics__title {
+    margin-top: 0;
+    margin-bottom: 0.6rem;
+    padding-top: 0.6rem;
+    border-top: 3px solid $heading-color;
+    text-transform: uppercase;
+    font-size: $ratio;
+  }
+
+  > ul {
+    display: grid;
+    grid-column-gap: 1.6rem;
+    grid-template-columns: repeat(auto-fill, minmax(220px, 1fr));
+    padding-bottom: 1rem;
+  }
+
+  a {
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+    color: $light-text-color;
+    padding: 0.6rem 0;
+    border-top: 3px solid $border-color;
+    line-height: 1;
+    font-size: $ratio-1;
+    &:hover,
+    &:focus {
+      color: $primary-color;
+    }
+
+    span {
+      font-family: $font-code;
+      font-size: $ratio-1;
+    }
   }
 }

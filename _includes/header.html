@@ -1,20 +1,36 @@
-<header class="header" role="banner">
+<div class="header__topics">
+  <button id="topics-close" class="header-topics__close">&times; <span class="caps">Close</span></button>
+  <h2 class="header-topics__title">Browse by Section</h2>
+  {% include_cached topics-list.html count=true %}
+</div>
 
-  {% if page.url == '/' %}
-  <div class="site__branding">
-    <p class="header__byline"><span class="caps">Timothy B. Smith Presents</span></p>
-    <a href="/" class="logo">
-      {% include icons/icon-logo.html %}
+<header class="header {% if page.url == '/' %}header--home{% endif %}" role="banner">
+
+  <div class="header__wrap">
+    {% if page.url == '/' %}
+    <div class="site__branding">
+      <p class="header__byline"><span class="caps">Timothy B. Smith Presents</span></p>
+      <a href="/" class="logo">
+        {% include_cached icons/icon-logo.html %}
+      </a>
+
+      <p class="header__description">{{ site.description | widont }}</p>
+    </div>
+
+    {% else %}
+
+    <a href="/" class="logo-monogram">
+      {% include_cached icons/icon-logo-monogram.html %}
     </a>
+    {% endif %}
 
-    <p class="header__description">{{ site.description | widont }}</p>
+    <nav class="home__navigation">
+      <ul>
+        <li class="topics-menu">
+          <button id="topics-toggle" class="topics-menu__label">Sections</button>       
+        </li>
+        <li><a class="header__subscribe" href="/subscribe/">Subscribe</a></li>
+      </ul>
+    </nav>
   </div>
-
-  <a class="header__subscribe" href="/subscribe/">Subscribe</a>
-  {% else %}
-  <a href="/" class="logo-monogram">
-    {% include icons/icon-logo-monogram.html %}
-  </a>
-  {% endif %}
-
 </header>
