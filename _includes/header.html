@@ -1,3 +1,7 @@
+<div class="header__topics">
+  <h2 class="header-topics__title">Sections</h2>
+  {% include_cached topics-list.html %}
+</div>
 <header class="header" role="banner">
 
   {% if page.url == '/' %}
@@ -10,11 +14,20 @@
     <p class="header__description">{{ site.description | widont }}</p>
   </div>
 
-  <a class="header__subscribe" href="/subscribe/">Subscribe</a>
+  <nav class="home__navigation">
+    <ul>
+      <li class="topics-menu">
+        <span class="topics-menu__label">Topics</span>       
+      </li>
+      <li><a class="header__subscribe" href="/subscribe/">Subscribe</a></li>
+    </ul>
+  </nav>
+
   {% else %}
+
   <a href="/" class="logo-monogram">
     {% include icons/icon-logo-monogram.html %}
   </a>
-  {% endif %}
 
+  {% endif %}
 </header>
