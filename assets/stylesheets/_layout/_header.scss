@@ -110,6 +110,7 @@
     font-size: $ratio-1;
     background: none;
     border: 0;
+    padding: 0;
 
     .home & {
       color: $alt-color;
@@ -150,6 +151,8 @@
   padding: 0;
   padding-top: 1rem;
   transition: color 500ms ease-in-out;
+  font-weight: 600;
+  margin-bottom: 0.6rem;
   &:hover,
   &:focus {
     color: $primary-color;
@@ -158,19 +161,15 @@
 
 .header__topics {
   background-color: white;
-  border-bottom: 10px solid $border-color;
   position: relative;
   z-index: 3;
   max-height: 0;
   overflow: hidden;
   transition: all 500ms ease-in-out;
+  box-shadow: 0 10px 0 0 rgba(black, 0.1);
 
   &.js-is-open {
     max-height: 42rem;
-  }
-
-  .home & {
-    border-bottom: 10px solid darken($primary-color, 10%);
   }
 
   > * {
