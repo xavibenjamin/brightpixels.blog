@@ -203,9 +203,10 @@
   }
 
   h1 {
+    font-family: $font-disp-cond;
     font-size: $ratio2;
     font-weight: 700;
-    line-height: 1.1;
+    line-height: 1.02;
     a {
       color: $heading-color;
       font-weight: inherit;
