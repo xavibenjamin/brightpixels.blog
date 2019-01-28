@@ -339,6 +339,7 @@
   }
 
   h1 a {
+    text-decoration: underline;
     text-decoration: underline solid $link-underline;
 
     &:focus,
