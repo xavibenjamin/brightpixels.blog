@@ -1,9 +1,9 @@
 ---
-title: 'Human Solution Uplift Desk'
-seo_title: 'Review: Human Solution Uplift Desk'
+title: Human Solution Uplift Desk
 date: 2016-04-28 01:51:00 -05:00
 categories:
 - Tech
+seo_title: 'Review: Human Solution Uplift Desk'
 custom_type: post
 subtitle: Back in August of 2015, I decided to buy a standing desk. Here are some
   of my thoughts.

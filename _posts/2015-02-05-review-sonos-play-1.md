@@ -1,9 +1,9 @@
 ---
-title: 'Sonos Play:1'
-seo_title: 'Review: Sonos Play:1'
+title: Sonos Play:1
 date: 2015-02-05 13:03:15 -06:00
 categories:
 - Tech
+seo_title: 'Review: Sonos Play:1'
 subtitle: Sonos adds an excellent and affordable product to their lineup
 custom_type: post
 review:

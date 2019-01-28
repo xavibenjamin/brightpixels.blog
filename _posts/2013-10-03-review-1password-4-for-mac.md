@@ -1,9 +1,9 @@
 ---
 title: 1Password 4 for Mac
-seo_title: 'Review: 1Password 4 for Mac'
 date: 2013-10-03 00:00:00 -05:00
 categories:
 - Tech
+seo_title: 'Review: 1Password 4 for Mac'
 subtitle: The best password manager gets a great update
 custom_type: post
 review:
