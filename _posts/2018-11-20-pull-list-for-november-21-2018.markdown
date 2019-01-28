@@ -9,6 +9,7 @@ excerpt: Every Wednesday, new comic books hit the shelves with new stories to be
   in, and new art to be fascinated by. This is my weekly write-up where I share what
   comic books I read last week, and my pull list of comics for this week.
 featured_image: "/uploads/pull-list-07-21-2018.jpg"
+series: pull-list
 ---
 
 <figure class="extendout">

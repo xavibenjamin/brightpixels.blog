@@ -15,13 +15,13 @@ I'd been paying money for my static site to be deployed. There had to be a bette
 
 After hours of reading blog posts and comments on all types of web forums (those still exist by the way), I found what I needed. As is often the case, finding the solution took way more time than actually implementing it. In just a few minutes I had deployed my site to Heroku and it was building directly from the latest commit on GitHub.
 
-Heroku has been an excellent home for my Jekyll sites. I've even [dedicated a series on how to do it](/topics/#jekyll-on-heroku). It's been a lot of fun to figure out different issues I've run into and then write about them. Also, hosting with Heroku is what's allowed me to [publish easily from iOS](/2016/01/publishing-to-jekyll-from-ios/).
+Heroku has been an excellent home for my Jekyll sites. I've even dedicated a series on how to do it. It's been a lot of fun to figure out different issues I've run into and then write about them. Also, hosting with Heroku is what's allowed me to [publish easily from iOS](/2016/01/publishing-to-jekyll-from-ios/).
 
 But the time has come to move on.
 
 ## Why the Move?
 
-It isn't so much of a complete move as it is living in two places. Heroku is still very great with sites I manage. I'm mostly moving my Jekyll projects over to Netlify which I seem to have more and more of. [I *love* Jekyll](/topics/#jekyll).
+It isn't so much of a complete move as it is living in two places. Heroku is still very great with sites I manage. I'm mostly moving my Jekyll projects over to Netlify which I seem to have more and more of. I *love* Jekyll.
 
 ### One Click SSL
 

@@ -6,6 +6,7 @@ categories:
 seo_title: Schedule Posts with Jekyll and Zapier
 custom_type: post
 subtitle: Turned out to be a lot less difficult than anticipated
+series: jekyll
 ---
 
 One of the tradeoffs of using a static site generator like Jekyll is not having scheduled posts. Sure you can add a date in the future, but static means exactly that, there's no dynamic part to find and compare dates and times. Without complex hacks, I hadn't found an easy way to do scheduled posts with Jekyll. That is, until now.

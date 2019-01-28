@@ -329,7 +329,11 @@
 
 .format-link {
   .post__header {
-    margin-bottom: 2.8rem;
+    margin-bottom: 1.4rem;
+  }
+
+  .post__meta {
+    margin-top: 0.4rem;
   }
 
   h1 {
@@ -383,6 +387,71 @@
 
   li + li {
     margin-top: 0.5rem;
+  }
+}
+
+// Series Stuff ----------------------------
+
+.post__series {
+  background: lighten($primary-color, 47%);
+  border-radius: $global-radius;
+  padding: 1.2rem;
+  margin-top: 2rem;
+
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  align-items: center;
+  grid-gap: 1.6rem 2rem;
+
+  .series__title {
+    font-weight: bold;
+    margin-bottom: 0.2rem;
+
+    small {
+      display: block;
+      font-size: 0.65em;
+      text-transform: uppercase;
+      color: lighten($primary-color, 27%);
+    }
+  }
+
+  p {
+    font-size: $ratio-2;
+    line-height: 1.4;
+  }
+
+  li {
+    font-size: $ratio-2;
+    padding-bottom: 0.4rem;
+
+    + li {
+      border-top: 2px solid lighten($primary-color, 43%);
+      padding-top: 0.4rem;
+    }
+  }
+
+  a {
+    color: $primary-color;
+    text-decoration: none;
+    &:hover,
+    &:focus {
+      color: lighten($primary-color, 25%);
+    }
+  }
+
+  .series__link {
+    font-family: $font-small;
+    grid-column: 1 / span 2;
+    text-align: center;
+    font-size: 0.8rem;
+    border: 2px solid lighten($primary-color, 43%);
+    padding: 0.6rem;
+    transition: all 0.2s ease-in-out;
+    &:hover,
+    &:focus {
+      color: $primary-color;
+      background-color: rgba($primary-color, 0.1);
+    }
   }
 }
 

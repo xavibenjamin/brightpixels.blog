@@ -5,6 +5,7 @@ categories:
 - Comics
 seo_title: 'Captain America #2, Immortal Hulk #4 - Pull List for August 1, 2018'
 custom_type: post
+series: pull-list
 ---
 
 Tryouts this week! Only the best comics will survive the chopping block! Here’s what I *actually* ended up picking up last week, and what I’m planning on getting this week.

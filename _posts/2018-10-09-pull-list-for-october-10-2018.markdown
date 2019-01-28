@@ -7,6 +7,7 @@ seo_title: 'The Amazing Spider-Man #7, X-23 #5 - Pull List for October 10, 2018'
 custom_type: post
 excerpt: Comics I'm picking up October 10, 2018.
 featured_image: "/uploads/pull-list-10-10-2018.jpg"
+series: pull-list
 ---
 
 <figure class="extendout">

@@ -6,6 +6,7 @@ categories:
 seo_title: 'Return of Wolverine #1, West Coast Avengers #2 - Pull List for September
   19, 2018'
 custom_type: post
+series: pull-list
 ---
 
 Another Wednesday is around the corner, and that means it'll be New Comic Book Day! Here's what I read last week, and what I'll be picking up this week.

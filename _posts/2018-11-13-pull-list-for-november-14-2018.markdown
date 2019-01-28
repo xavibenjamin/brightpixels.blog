@@ -8,6 +8,7 @@ seo_title: 'The Amazing Spider-Man #9, Oblivion Song #9 - Pull List for November
 custom_type: post
 excerpt: Comics I read last week, and one's I'm picking up this week.
 featured_image: "/uploads/pull-list-11-14-2018.jpg"
+series: pull-list
 ---
 
 <figure class="extendout">

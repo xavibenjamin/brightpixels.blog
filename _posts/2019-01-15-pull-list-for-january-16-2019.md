@@ -10,6 +10,7 @@ excerpt: Every Wednesday, all-new comic books hit the shelves with original stor
   where I share what comic books I read last week, and [my pull list](/topics/#pull-list)
   of comics for this week.
 featured_image: "/uploads/2019/01/pull-list-for-jan-16-2019.jpg"
+series: pull-list
 ---
 
 <figure class="extendout">

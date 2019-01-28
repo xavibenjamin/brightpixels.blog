@@ -5,6 +5,7 @@ categories:
 - Code
 subtitle: Two different solutions depending on your circumstance
 custom_type: post
+series: jekyll
 ---
 
 Let's say you want to exclude a post from your RSS feed. How do you go about doing that? Well, there are a few ways. First, you'd need to add something to the front matter of your post:

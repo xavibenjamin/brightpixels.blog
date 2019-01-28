@@ -5,10 +5,7 @@ categories:
 - Code
 custom_type: post
 subtitle: Cache the hell out of all the things
----
-
-This post is part of a series on [hosting Jekyll with Heroku](/topics/#jekyll-on-heroku).
-
+series: jekyll-with-heroku
 ---
 
 Something I missed about hosting my site on an Apache server, was how easy it was to turn on compression and caching. I finally spent an afternoon a few months ago to figure out how to do that on Heroku. It's actually pretty simple. In fact, it's easier than Apache, it's just that the unknown can be scary sometimes.

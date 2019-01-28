@@ -4,6 +4,7 @@ date: 2018-08-14 20:06:00 -05:00
 categories:
 - Comics
 custom_type: post
+series: pull-list
 ---
 
 Wednesday is here again, and that means it’s new comic book day! I don’t have any books on my pull list coming out this week, but that doesn’t mean I’m not reading something. Here’s my review on what I read last week, and what I’m reading this week.

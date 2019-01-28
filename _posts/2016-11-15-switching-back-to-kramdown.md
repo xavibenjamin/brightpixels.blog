@@ -5,6 +5,7 @@ categories:
 - Code
 custom_type: post
 subtitle: Quick update on my markdown woes.
+series: jekyll
 ---
 
 I've written previously on [switching to Redcarpet to process markdown](/2015/12/switching-to-redcarpet/). Since then, I was determined to find out if I could do the same thing with [Kramdown](https://github.com/gettalong/kramdown) since it's already a dependency of [Jekyll](http://jekyllrb.com/).[^sidenote]

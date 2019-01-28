@@ -5,6 +5,7 @@ categories:
 - Comics
 seo_title: 'Cover #1, Deadpool #4 - Pull List for September 5, 2018'
 custom_type: post
+series: pull-list
 ---
 
 Another NCBD (new comic book day) is upon us! Here’s what I read last week, and what I’m picking up this week! Also, you can follow me on [League of Comic Geeks](https://leagueofcomicgeeks.com/profile/smithtimmytim) to see all of my subscriptions and my growing collection!

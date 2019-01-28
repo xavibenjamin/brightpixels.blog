@@ -9,6 +9,7 @@ excerpt: Every Wednesday, all-new comic books hit the shelves with original stor
   to be engrossed in, and new art to be fascinated by. This is my weekly write-up
   where I share what comic books I read last week, and [my pull list](/topics/#pull-list)
   of comics for this week.
+series: pull-list
 ---
 
 Every Wednesday, all-new comic books hit the shelves with original stories to be engrossed in, and new art to be fascinated by. This is my weekly write-up where I share what comic books I read last week, and [my pull list](/topics/#pull-list) of comics for this week.

@@ -7,6 +7,7 @@ seo_title: 'Saga Vol. 8, Daredevil #609 - Pull List for October 24, 2018'
 custom_type: post
 excerpt: Another exciting week of comics!
 featured_image: "/uploads/pull-list-10-24-2018.jpg"
+series: pull-list
 ---
 
 <figure class="extendout">

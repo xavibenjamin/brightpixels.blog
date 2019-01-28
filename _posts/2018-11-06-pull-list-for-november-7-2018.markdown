@@ -7,6 +7,7 @@ seo_title: 'X-Men: Red #10, X-23 #6 - Pull List for November 7, 2018'
 custom_type: post
 excerpt: What I read last week and picking up this week.
 featured_image: "/uploads/pull-list-11-07-2018.jpg"
+series: pull-list
 ---
 
 <figure class="extendout">

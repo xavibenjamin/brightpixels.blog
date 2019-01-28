@@ -7,6 +7,7 @@ seo_title: 'Shazam! #1 - Pull List for December 5, 2018'
 custom_type: post
 excerpt: Comics I read last week, and ones I'm picking up this week
 featured_image: "/uploads/pull-list-12-05-2018.jpg"
+series: pull-list
 ---
 
 <figure class="extendout">

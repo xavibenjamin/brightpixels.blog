@@ -5,11 +5,9 @@ categories:
 - Code
 custom_type: post
 subtitle: Avoid pulling your hair out like I did.
+series: jekyll-with-heroku
 ---
 
-*This post is part of a series on [hosting Jekyll with Heroku](/topics/#jekyll-on-heroku).*
-
----
 I love using Jekyll. I use it for this blog, my personal site, and it’s the first thing I suggest when people want something with content that needs to be updated. However, deploying gets complicated when you’re using a variety of plugins and you don’t want to host with GitHub Pages.
 
 {% include toc.html %}

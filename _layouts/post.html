@@ -36,6 +36,7 @@ custom_css_class: single
   <div class="e-content">{{ content | improve }}</div>
 
   <footer class="post__footer">
+    {% include series.html %}
     {% include letterboxd-link.html %}
     {% if page.author != 'timsmith' %}
       {% include author-credit.html %}

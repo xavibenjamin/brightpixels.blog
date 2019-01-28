@@ -1,0 +1,20 @@
+{% if page.series %}
+<aside class="post__series">
+{% assign series = site.data.series[page.series] %}
+<div class="series__text">
+  <h4 class="series__title"><small>Series</small>{{ series.name }}</h4>
+  {{ series.description | markdownify }}
+</div>
+<ul class="series-list">
+  {% assign seriesPosts = site.posts | where: 'series', page.series %}
+  {% for post in seriesPosts reversed limit: 6 %}
+    {% if post.url == page.url %}
+      <li><strong>{{ post.title }}</strong></li>
+    {% else %}
+      <li><a href="{{post.url}}" title="Permalink to {{ post.title}}">{{ post.title | improve }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>
+<a class="series__link" href="/series/">Browse All Series</a>
+</aside>
+{% endif %}

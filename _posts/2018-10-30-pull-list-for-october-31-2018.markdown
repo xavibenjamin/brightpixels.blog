@@ -7,6 +7,7 @@ seo_title: 'Man-Eaters #2, West Coast Avengers #3 - Pull List for October 31, 20
 custom_type: post
 excerpt: Comics I read last week and what I'm picking up this week.
 featured_image: "/uploads/pull-list-10-31-2018.jpg"
+series: pull-list
 ---
 
 <figure class="extendout">

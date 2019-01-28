@@ -5,6 +5,7 @@ categories:
 - Comics
 seo_title: 'X-23 #3, Batgirl #26 - Pull List for August 29, 2018'
 custom_type: post
+series: pull-list
 ---
 
 Happy Wednesday peeps! New comic book day is upon us, and as packed as last week was, it’s pretty light this week. Here’s what I read last week, and what I’m picking up this week.
