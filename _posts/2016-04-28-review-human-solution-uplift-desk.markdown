@@ -1,5 +1,6 @@
 ---
-title: 'Review: Human Solution Uplift Desk'
+title: 'Human Solution Uplift Desk'
+seo_title: 'Review: Human Solution Uplift Desk'
 date: 2016-04-28 01:51:00 -05:00
 categories:
 - Tech

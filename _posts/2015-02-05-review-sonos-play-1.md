@@ -1,5 +1,6 @@
 ---
-title: 'Review: Sonos Play:1'
+title: 'Sonos Play:1'
+seo_title: 'Review: Sonos Play:1'
 date: 2015-02-05 13:03:15 -06:00
 categories:
 - Tech

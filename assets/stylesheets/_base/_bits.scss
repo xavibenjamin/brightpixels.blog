@@ -47,6 +47,8 @@ $font-small: Whitney SSm SmallCaps A, Whitney SSm SmallCaps B, system,
 $font-display: Whitney A, Whitney B, system, -apple-system, BlinkMacSystemFont,
   Avenir, sans-serif;
 $font-code: Operator SSm A, Operator SSm B, Operator Mono, monospace;
+$font-disp-cond: Whitney Cond A, Whitney Cond B, system, -apple-system,
+  BlinkMacSystemFont, Avenir, sans-serif;
 
 $base-font-size: 17px;
 
@@ -60,8 +62,8 @@ $ratio-1: 0.75rem;
 $ratio-2: 0.65rem;
 $ratio-3: 0.4rem;
 
-$ratio1: 1.3rem;
-$ratio2: 2.4rem;
+$ratio1: 1.4rem;
+$ratio2: 2.8rem;
 
 // -----------------------------------------
 // Content Widths

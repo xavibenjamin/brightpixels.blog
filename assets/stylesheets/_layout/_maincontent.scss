@@ -62,7 +62,6 @@
 .post__header {
   position: relative;
   h1 {
-    font-variant-numeric: lining-nums;
     -webkit-hyphens: none;
     hyphens: none;
 
@@ -70,10 +69,6 @@
       -webkit-hyphens: none;
       hyphens: none;
       text-decoration: none;
-    }
-
-    + h2 {
-      margin-top: 0.1rem;
     }
   }
 }
@@ -83,6 +78,7 @@
   font-size: $ratio1;
   font-weight: normal;
   line-height: 1.2;
+  margin-top: 0;
 }
 
 .post__footer {
@@ -129,7 +125,7 @@
   color: $light-text-color;
   font-size: $ratio-2;
   font-family: $font-code;
-  margin-bottom: $ratio-2;
+  margin-top: $ratio1;
   position: relative;
 }
 
@@ -146,22 +142,18 @@
 .post__category {
   display: block;
   text-transform: uppercase;
-  margin-bottom: $ratio;
-
-  @media #{$large-up} {
-    margin-bottom: 0;
-    position: absolute;
-    right: 103%;
-    white-space: pre;
-  }
+  margin-bottom: 0.2rem;
+  font-size: $ratio-2;
+  font-family: $font-code;
 
   a {
-    color: $primary-color;
+    color: $light-text-color;
     text-decoration: none;
     transition: background-color 300ms ease-in-out;
 
     &:hover,
     &:focus {
+      color: $primary-color;
       background-color: rgba($primary-color, 0.1);
     }
   }
@@ -199,13 +191,14 @@
 
 .format-post {
   .post__header {
-    margin-bottom: $ratio1;
+    margin-bottom: 2.8rem;
   }
 
   h1 {
+    font-family: $font-disp-cond;
     font-size: $ratio2;
     font-weight: 700;
-    line-height: 1.1;
+    line-height: 1.02;
     a {
       color: $heading-color;
       font-weight: inherit;
@@ -336,7 +329,7 @@
 
 .format-link {
   .post__header {
-    margin-bottom: $ratio;
+    margin-bottom: 2.8rem;
   }
 
   h1 {
