@@ -1,9 +1,9 @@
 ---
 title: Bonfire on the Beach
-date: 2019-02-05 09:55 -06:00
-custom_type: post
+date: 2019-02-05 09:55:00 -06:00
 categories:
 - Photography
+custom_type: post
 ---
 
 We couldn't leave California without having a bonfire on the beach. So what if all the locals thought we were crazy.
