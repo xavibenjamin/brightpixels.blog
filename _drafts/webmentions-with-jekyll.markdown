@@ -1,9 +1,9 @@
 ---
 title: Webmentions with Jekyll
 date: 2019-01-23 01:54:00 -06:00
-custom_type: post
 categories:
 - Code
+custom_type: post
 ---
 
 I haven't had comments on my blog since my WordPress days. Having a static site meant that there wasn't native commenting support. The fallback was often bloated JavaScript with something like Disqus, which I never really liked because the comments then belong to them and not *your* site.
