@@ -1,0 +1,30 @@
+---
+label: Link
+hide_body: 
+is_partial: 
+fields:
+- name: title
+  label: Title
+  type: textarea
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: categories
+  label: Categories
+  type: tag_list
+  hidden: false
+  default: ''
+- name: link_url
+  label: Link url
+  type: textarea
+  hidden: false
+  default: ''
+- name: excerpt
+  label: Excerpt
+  type: textarea
+  hidden: false
+  default: ''
