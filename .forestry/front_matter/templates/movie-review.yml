@@ -1,7 +1,7 @@
 ---
 label: Movie Review
-hide_body: 
-is_partial: 
+hide_body: false
+is_partial: false
 fields:
 - name: title
   label: Title
@@ -22,7 +22,7 @@ fields:
   label: Custom type
   type: text
   hidden: false
-  default: ''
+  default: post
 - name: featured_image
   label: Featured image
   type: file
@@ -46,7 +46,7 @@ fields:
     label: Type
     type: text
     hidden: false
-    default: ''
+    default: movie
   - name: rating
     label: Rating
     type: text
