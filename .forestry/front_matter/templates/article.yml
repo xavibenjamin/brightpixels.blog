@@ -1,0 +1,30 @@
+---
+label: Article
+hide_body: 
+is_partial: 
+fields:
+- name: title
+  label: Title
+  type: textarea
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: categories
+  label: Categories
+  type: tag_list
+  hidden: false
+  default: ''
+- name: custom_type
+  label: Custom type
+  type: text
+  hidden: false
+  default: ''
+- name: seo_title
+  label: Seo title
+  type: text
+  hidden: false
+  default: ''
