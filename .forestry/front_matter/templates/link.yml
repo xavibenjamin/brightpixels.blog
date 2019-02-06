@@ -1,21 +1,19 @@
 ---
 label: Link
-hide_body: 
-is_partial: 
+hide_body: false
+is_partial: false
 fields:
 - name: title
   label: Title
   type: textarea
   hidden: false
   default: ''
+- type: text
+  name: seo_title
+  label: SEO Title
 - name: date
   label: Date
   type: datetime
-  hidden: false
-  default: ''
-- name: categories
-  label: Categories
-  type: tag_list
   hidden: false
   default: ''
 - name: link_url
@@ -23,8 +21,34 @@ fields:
   type: textarea
   hidden: false
   default: ''
-- name: excerpt
+- type: textarea
+  name: excerpt
   label: Excerpt
-  type: textarea
-  hidden: false
-  default: ''
+- type: select
+  name: categories
+  config:
+    source:
+      type: simple
+    required: true
+    options:
+    - Apple
+    - Business
+    - Code
+    - Comics
+    - Design
+    - Film
+    - From the Editor
+    - Life
+    - Music
+    - Photography
+    - Podcasts
+    - Science
+    - Sports
+    - Star Wars
+    - TV
+    - Tech
+    - Writing
+  label: Categories
+- type: file
+  name: featured_image
+  label: Featured Image
