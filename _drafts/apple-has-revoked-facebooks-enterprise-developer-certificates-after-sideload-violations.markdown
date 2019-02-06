@@ -1,9 +1,8 @@
 ---
-title: Apple has revoked Facebook's enterprise developer certificates after sideload
-  violations
-date: 2019-01-30 10:57:00 -06:00
+title: Apple Revokes Facebook's Enterprise Developer Certificates
+date: 2019-02-07 05:00:00 -0600
 link_url: https://appleinsider.com/articles/19/01/30/apple-has-revoked-facebooks-enterprise-developer-certificates-after-sideload-violations
-featured_image: https://photos5.appleinsider.com/gallery/29519-47664-Facebook-research-xl.jpg
----
+featured_image: ''
 
-Apple has stopped Facebook from being able to use its internal apps by revoking its enterprise developer certificates, in response to reports the social network ignored guidelines relating to user privacy by distributing apps outside the app store, and paid users to install the spyware.
+---
+This happened while I was on the road back home, and I'm still shocked. So happy Apple did this. Facebook broke the rules (big time I might add) and needed to face the consequences for that. If Apple is going to talk the big talk of caring about privacy, actions like these are the necessary follow-through.
