@@ -52,3 +52,5 @@ fields:
 - type: file
   name: featured_image
   label: Featured Image
+pages:
+- _posts/2019-02-07-apple-has-revoked-facebooks-enterprise-developer-certificates-after-sideload-violations.markdown
