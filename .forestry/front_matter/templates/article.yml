@@ -1,11 +1,16 @@
 ---
 label: Article
-hide_body: 
-is_partial: 
+hide_body: false
+is_partial: false
 fields:
 - name: title
   label: Title
   type: textarea
+  hidden: false
+  default: ''
+- name: seo_title
+  label: Seo title
+  type: text
   hidden: false
   default: ''
 - name: date
@@ -22,9 +27,7 @@ fields:
   label: Custom type
   type: text
   hidden: false
-  default: ''
-- name: seo_title
-  label: Seo title
-  type: text
-  hidden: false
-  default: ''
+  default: post
+- type: file
+  name: featured_image
+  label: Featured Image
