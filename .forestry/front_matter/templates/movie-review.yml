@@ -8,6 +8,16 @@ fields:
   type: textarea
   hidden: false
   default: ''
+- name: seo_title
+  label: Seo title
+  type: text
+  hidden: false
+  default: ''
+- name: subtitle
+  label: Subtitle
+  type: textarea
+  hidden: false
+  default: ''
 - name: date
   label: Date
   type: datetime
@@ -17,7 +27,8 @@ fields:
   label: Categories
   type: tag_list
   hidden: false
-  default: ''
+  default:
+  - Film
 - name: custom_type
   label: Custom type
   type: text
@@ -26,16 +37,6 @@ fields:
 - name: featured_image
   label: Featured image
   type: file
-  hidden: false
-  default: ''
-- name: subtitle
-  label: Subtitle
-  type: textarea
-  hidden: false
-  default: ''
-- name: seo_title
-  label: Seo title
-  type: text
   hidden: false
   default: ''
 - name: review
@@ -65,3 +66,6 @@ fields:
     default: ''
   hidden: false
   default: ''
+- type: textarea
+  name: excerpt
+  label: Excerpt
