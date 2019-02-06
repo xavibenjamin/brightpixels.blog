@@ -1,0 +1,67 @@
+---
+label: Movie Review
+hide_body: 
+is_partial: 
+fields:
+- name: title
+  label: Title
+  type: textarea
+  hidden: false
+  default: ''
+- name: date
+  label: Date
+  type: datetime
+  hidden: false
+  default: ''
+- name: categories
+  label: Categories
+  type: tag_list
+  hidden: false
+  default: ''
+- name: custom_type
+  label: Custom type
+  type: text
+  hidden: false
+  default: ''
+- name: featured_image
+  label: Featured image
+  type: file
+  hidden: false
+  default: ''
+- name: subtitle
+  label: Subtitle
+  type: textarea
+  hidden: false
+  default: ''
+- name: seo_title
+  label: Seo title
+  type: text
+  hidden: false
+  default: ''
+- name: review
+  label: Review
+  type: field_group
+  fields:
+  - name: type
+    label: Type
+    type: text
+    hidden: false
+    default: ''
+  - name: rating
+    label: Rating
+    type: text
+    hidden: false
+    default: ''
+  - name: movie
+    label: Movie
+    type: field_group
+    fields:
+    - name: letterboxd
+      label: Letterboxd
+      type: text
+      hidden: false
+      default: ''
+    hidden: false
+    default: ''
+  hidden: false
+  default: ''
