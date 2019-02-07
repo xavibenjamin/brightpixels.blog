@@ -7,7 +7,7 @@
 </div>
 <ul class="series-list">
   {% assign seriesPosts = site.posts | where: 'series', page.series %}
-  {% for post in seriesPosts reversed limit: 6 %}
+  {% for post in seriesPosts limit: 6 %}
     {% if post.url == page.url %}
       <li><strong>{{ post.title }}</strong></li>
     {% else %}
