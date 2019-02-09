@@ -1,7 +1,7 @@
 <footer class="footer" role="contentinfo">
 
   <div class="footer__description">
-    <a href="/" class="footer-logo">{% include icons/icon-logo.html %}</a>
+    <a href="/" class="footer-logo">{% include_cached icons/icon-logo.html %}</a>
     <p>Thanks for making it all the way down here! If this is your first time 'round these parts, I recommend you read <span class="caps"><a href="/hello/">Hello&nbsp;World</a></span>.</p>
   </div>
 
@@ -27,7 +27,7 @@
   {% endunless %}
 
   <div class="sub-footer">
-    <small><em>Bright Pixels</em> is proudly built with <a href="https://jekyllrb.com/">Jekyll</a> and hosted with <a href="https://www.netlify.com/">Netlify</a>. Made with {% include icons/icon-heart.html css_classes="icon--inline
+    <small><em>Bright Pixels</em> is proudly built with <a href="https://jekyllrb.com/">Jekyll</a> and hosted with <a href="https://www.netlify.com/">Netlify</a>. Made with {% include_cached icons/icon-heart.html css_classes="icon--inline
     icon--medium" %} in Saint Paul, MN.</small>
 
     <small>&copy; 2013&ndash;{{ site.time | date: "%Y" }} Timothy B. Smith.</small>
