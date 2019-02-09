@@ -13,7 +13,7 @@ review:
 ---
 
 <figure class="extendout">
-  {% include img.html src="/2016/04/iphone-6s-plus.jpg" alt="My iPhone 6s Plus in all its glory." %}
+  {% include_cached img.html src="/2016/04/iphone-6s-plus.jpg" alt="My iPhone 6s Plus in all its glory." %}
   <figcaption>My iPhone 6s Plus in all its glory</figcaption>
 </figure>
 

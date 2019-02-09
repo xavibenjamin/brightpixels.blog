@@ -13,7 +13,7 @@ series: pull-list
 ---
 
 <figure class="extendout">
-  {% include img.html src="/things-i-read-09-26-2018.jpg" alt="Things I read on Sept 26, 2018" %}
+  {% include_cached img.html src="/things-i-read-09-26-2018.jpg" alt="Things I read on Sept 26, 2018" %}
   <figcaption><strong>From left to right:</strong> Saga Vol. 4, X-Men: Red #8, The New World #3, and Man-Eaters #1</figcaption>
 </figure>
 

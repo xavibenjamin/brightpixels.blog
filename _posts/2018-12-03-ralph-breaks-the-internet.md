@@ -16,7 +16,7 @@ excerpt: My thoughts on this great movie
 ---
 
 <figure class="extendout">
-  {% include img.html src="/ralph-BTI-featured.jpg" alt="Ralph Breaks the Internet" %}
+  {% include_cached img.html src="/ralph-BTI-featured.jpg" alt="Ralph Breaks the Internet" %}
   <figcaption><span class="image__copyright">© Walt Disney Animation Studios</span></figcaption>
 </figure>
 

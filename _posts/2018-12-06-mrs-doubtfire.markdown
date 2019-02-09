@@ -19,7 +19,7 @@ review:
 ---
 
 <figure class="extendout">
-  {% include img.html src="/mrs-doubtfire-featured.jpg" alt="Mrs. Doubtfire" %}
+  {% include_cached img.html src="/mrs-doubtfire-featured.jpg" alt="Mrs. Doubtfire" %}
   <figcaption>Robin Williams as Mrs. Doubtfire <span class="image__copyright">© 20th Century Fox</span></figcaption>
 </figure>
 

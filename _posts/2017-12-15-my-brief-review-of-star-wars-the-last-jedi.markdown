@@ -16,7 +16,7 @@ featured_image: "/uploads/media/luke-skywalker.jpg"
 ---
 
 <figure class="extendout">
-  {% include img.html src="/media/luke-skywalker.jpg" alt="Mark Hamill as Luke Skywalker (Disney/Lucasfilm)" %}
+  {% include_cached img.html src="/media/luke-skywalker.jpg" alt="Mark Hamill as Luke Skywalker (Disney/Lucasfilm)" %}
   <figcaption>Mark Hamill as Luke Skywalker <span class="image__copyright">© Disney/Lucasfilm</span></figcaption>
 </figure>
 

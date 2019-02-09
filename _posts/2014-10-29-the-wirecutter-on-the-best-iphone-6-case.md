@@ -9,14 +9,14 @@ link_url: http://thewirecutter.com/reviews/best-iphone-6-case/
 Yesterday, I went out and got myself an iPhone 6.[^1] I've had an iPhone since the iPhone 4, and at first I had a screen protector on it, and a bulky case.[^2] When I upgraded to an 5s last year, I decided that I wasn't going to use a case anymore. I wanted it naked so as to not devalue the beauty and design of the phone.
 
 <figure class="extendout">
-  {% include img.html src="/2014/10/iPhone5s-front.jpg" alt="My iPhone 5s on the front side. You'll notice no huge scratches or dings." %}
+  {% include_cached img.html src="/2014/10/iPhone5s-front.jpg" alt="My iPhone 5s on the front side. You'll notice no huge scratches or dings." %}
   <figcaption>My iPhone 5s on the front side. You'll notice no huge scratches or dings</figcaption>
 </figure>
 
 It wasn't that bad. The phone did pretty well on some minor drops. I made it a point to treat the phone as if it had a case, but still take care of it as much as possible. In my opinion, the phone still looks pretty great, but I've included some pictures[^3] for you to judge yourself.
 
 <figure class="alignright">
-  {% include img.html src="/2014/10/iPhone5s-back.jpg" alt="The back side of my iPhone 5s. Again no scratches! I've had this phone for a year, and that it's in such great condition without a case, is pretty surprising." %}
+  {% include_cached img.html src="/2014/10/iPhone5s-back.jpg" alt="The back side of my iPhone 5s. Again no scratches! I've had this phone for a year, and that it's in such great condition without a case, is pretty surprising." %}
   <figcaption>The back side of my iPhone 5s. Again no scratches! I've had this phone for a year, and that it's in such great condition without a case, is pretty surprising</figcaption>
 </figure>
 

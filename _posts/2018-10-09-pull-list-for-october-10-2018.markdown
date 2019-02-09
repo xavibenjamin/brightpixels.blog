@@ -11,7 +11,7 @@ series: pull-list
 ---
 
 <figure class="extendout">
-  {% include img.html src="/pull-list-10-10-2018.jpg" alt="Pull List Image for Oct 10, 2018" %}
+  {% include_cached img.html src="/pull-list-10-10-2018.jpg" alt="Pull List Image for Oct 10, 2018" %}
   <figcaption><strong>From left to right:</strong> Paper Girls #25, Dead Rabbit #1, and Analog Vol. 1 Trade Paperback</figcaption>
 </figure>
 

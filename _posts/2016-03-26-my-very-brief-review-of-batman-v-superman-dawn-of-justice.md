@@ -14,7 +14,7 @@ featured_image: "/uploads/2016/03/batmanvsuperman.jpg"
 ---
 
 <figure class="extendout">
-  {% include img.html src="/2016/03/batmanvsuperman.jpg" alt="I specifically chose an image that had Wonder Woman in the center. She was my favorite character." %}
+  {% include_cached img.html src="/2016/03/batmanvsuperman.jpg" alt="I specifically chose an image that had Wonder Woman in the center. She was my favorite character." %}
   <figcaption>Wonder Woman was my favorite character in the film <span class="image__copyright">© Warner Bros.</span></figcaption>
 </figure>
 

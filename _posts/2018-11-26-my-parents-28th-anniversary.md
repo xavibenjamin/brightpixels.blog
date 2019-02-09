@@ -13,14 +13,14 @@ My parents celebrated their 28th anniversary this November. They don't have many
 **Lens:** Sony 85mm ƒ/1.8
 
 <figure class="photo-grid photo-grid--four">
-  {% include img.html src="/2018/11/anni-11.jpg" style="grid-column: span 2" %}
-  {% include img.html src="/2018/11/anni-01.jpg" style="grid-column: span 4" %}
-  {% include img.html src="/2018/11/anni-02.jpg" style="grid-column: 2 /span 4" %}
-  {% include img.html src="/2018/11/anni-03.jpg" style="grid-column: 1 / span 4" %}
-  {% include img.html src="/2018/11/anni-08.jpg" style="grid-column: span 2" %}
-  {% include img.html src="/2018/11/anni-04.jpg" style="grid-column: span 6" %}
-  {% include img.html src="/2018/11/anni-07.jpg" style="grid-column: span 3" %}
-  {% include img.html src="/2018/11/anni-09.jpg" style="grid-column: span 3" %}
-  {% include img.html src="/2018/11/anni-10.jpg" style="grid-column: 3 / span 4" %}
-  {% include img.html src="/2018/11/anni-06.jpg" style="grid-column: span 6" %}
+  {% include_cached img.html src="/2018/11/anni-11.jpg" style="grid-column: span 2" %}
+  {% include_cached img.html src="/2018/11/anni-01.jpg" style="grid-column: span 4" %}
+  {% include_cached img.html src="/2018/11/anni-02.jpg" style="grid-column: 2 /span 4" %}
+  {% include_cached img.html src="/2018/11/anni-03.jpg" style="grid-column: 1 / span 4" %}
+  {% include_cached img.html src="/2018/11/anni-08.jpg" style="grid-column: span 2" %}
+  {% include_cached img.html src="/2018/11/anni-04.jpg" style="grid-column: span 6" %}
+  {% include_cached img.html src="/2018/11/anni-07.jpg" style="grid-column: span 3" %}
+  {% include_cached img.html src="/2018/11/anni-09.jpg" style="grid-column: span 3" %}
+  {% include_cached img.html src="/2018/11/anni-10.jpg" style="grid-column: 3 / span 4" %}
+  {% include_cached img.html src="/2018/11/anni-06.jpg" style="grid-column: span 6" %}
 </figure>

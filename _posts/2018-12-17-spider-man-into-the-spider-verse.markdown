@@ -16,7 +16,7 @@ review:
 ---
 
 <figure class="extendout">
-  {% include img.html src="/2018/12/spider-verse-review-featured.jpg" alt="Spider-Man: Into the Spider-Verse" %}
+  {% include_cached img.html src="/2018/12/spider-verse-review-featured.jpg" alt="Spider-Man: Into the Spider-Verse" %}
   <figcaption><span class="image__copyright">&copy; Sony Pictures Animation</span></figcaption>
 </figure>
 

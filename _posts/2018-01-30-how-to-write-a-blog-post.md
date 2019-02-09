@@ -18,7 +18,7 @@ Michael Lopp:
 I liked this. When I was in school, I'd often print out essays and edit them. For the first time in a long time, I did just that.
 
 <figure class="extendout">
-  {% include img.html src="/2018/01/editing-things-review.jpg" alt="Editing my upcoming review of Things 3" %}
+  {% include_cached img.html src="/2018/01/editing-things-review.jpg" alt="Editing my upcoming review of Things 3" %}
   <figcaption>Editing my upcoming review of Things 3</figcaption>
 </figure>
 
