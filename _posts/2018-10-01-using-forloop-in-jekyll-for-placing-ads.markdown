@@ -33,7 +33,7 @@ Now, we'll place our ad using `forloop.first`. `forloop.first` will return `true
       <span class="post-description">{{ post.excerpt }}</span>
     </li>
     {% if forloop.first %}
-      <! -- put your ad markup in here -->
+      <!-- put your ad markup in here -->
     {% endif %}
   {% endfor %}
 </ul>{% endraw %}
