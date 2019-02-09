@@ -5,6 +5,7 @@ categories:
 - Comics
 seo_title: 'X-Men: Red #7, West Coast Avengers #1 - Pull List for August 22, 2018'
 custom_type: post
+series: pull-list
 ---
 
 It’s Wednesday again! Here’s what I read last week, and what I’m picking up this week. Also! New category: what I’m dropping 😱

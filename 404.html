@@ -12,18 +12,6 @@ excerpt: This is not the page you are looking for… or is it?
 
 <p>My guess is, this isn't the page you're looking for. Should something be here? <a href="mailto:smith@ttimsmith.com?subject=[brightpixels.blog] 404 Error">Email me</a> or <a href="https://github.com/smithtimmytim/brightpixels.blog/issues">file an issue on GitHub</a>. Otherwise, let me point you to some cool stuff.</p>
 
-<h2>Popular Topics</h2>
-<ul class="tag-box inline">
-{% capture tags %}
-  {% for tag in site.tags limit: 15 %}
-    <li data-sort="{{ site.posts.size | minus: tag[1].size | prepend: '0000' | slice: -4, 4 }}">
-       <a href="/topics/#{{ tag[0] | downcase | replace:' ','-' }}">{{ tag[0] | titlecase }}</a>
-    </li>
-  {% endfor %}
-{% endcapture %}
-{{ tags | split:'</li>' | sort | join:'</li>' }}
-</ul>
-
 <h2>Recent Posts</h2>
 <ul class="post-list post-list--mini">
   {% for post in site.posts limit:10 %}

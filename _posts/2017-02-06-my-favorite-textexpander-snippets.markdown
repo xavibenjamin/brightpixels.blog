@@ -8,10 +8,6 @@ subtitle: Let's begin exploring automation with these simple and helpful keyboar
 custom_type: post
 ---
 
-*This post is part of a series on [creating automation heaven](/topics/#automation-heaven).*
-
----
-
 One of the reasons I love technology is tinkering with it to make my life easier. I'm constantly automating tasks so I can either do them faster, or not have to worry about them at all. I felt writing a series on automation would be a lot of fun, not only because I *love* to geek out about stuff like this, but it might also be helpful to you.
 
 For our first exploration into automation, we'll start with [TextExpander][6508-0001]. For those of you who don't know, TextExpander is an app that expands custom keyboard shortcuts into text or images. For example, you could type `;home`, and it would expand into your full home address. A simple example, but I'm sure you can see how helpful it would be over time.
@@ -29,7 +25,7 @@ By typing `;foodreview`, I get a form that asks me if I'd go back, how pricey th
   <figcaption>Ever go back to a restaurant you really liked, but don't remember what you ordered? No longer!</figcaption>
 </figure>
 
-My movie review snippet is similar. By typing `;moviereview`, I easily log movies I've watched. Some of those movies end up getting their own [brief review](/topics/#brief-review) here on *The Bold Report*, but for those that don't, my thoughts are recorded somewhere. [This one was originally made by David Sparks](https://www.macsparky.com/blog/2013/9/textexpander-snippets-media-review), but I modified it and formatted a few things in Markdown.
+My movie review snippet is similar. By typing `;moviereview`, I easily log movies I've watched. Some of those movies end up getting their own brief review here on *The Bold Report*, but for those that don't, my thoughts are recorded somewhere. [This one was originally made by David Sparks](https://www.macsparky.com/blog/2013/9/textexpander-snippets-media-review), but I modified it and formatted a few things in Markdown.
 
 <figure class="alignright">
   <img src="{{ site.url }}/uploads/2017/02/movie-review-snippet.jpg" alt="I watch a lot of movies, so giving these reviews some structure is very helpful">

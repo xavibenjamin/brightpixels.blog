@@ -1,0 +1,12 @@
+year-in-review:
+  name: Year in Review
+  description: My annual tradition to look back on the year and set goals for the next one.
+jekyll-with-heroku:
+  name: Jekyll with Heroku
+  description: Hacks to get your Jekyll site deployed and thriving on Heroku.
+pull-list:
+  name: Weekly Pull List
+  description: Short reviews of comics I’ve read and my list of ones I can’t wait to read.
+jekyll:
+  name: Hacking Jekyll
+  description: This site is powered by Jekyll. As I learn things, I try to write about them.

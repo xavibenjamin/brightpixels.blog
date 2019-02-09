@@ -5,6 +5,7 @@ categories:
 - Code
 custom_type: post
 subtitle: A quick look at how I made ads less obtrusive for smaller screens
+series: jekyll
 ---
 
 One of the things I didn't like about the previous version of this site's design was how prominent the ad was on smaller screens. Instead, I wanted to place the ad after the first post on the homepage.
@@ -32,7 +33,7 @@ Now, we'll place our ad using `forloop.first`. `forloop.first` will return `true
       <span class="post-description">{{ post.excerpt }}</span>
     </li>
     {% if forloop.first %}
-      <! -- put your ad markup in here -->
+      <!-- put your ad markup in here -->
     {% endif %}
   {% endfor %}
 </ul>{% endraw %}

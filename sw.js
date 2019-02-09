@@ -12,7 +12,6 @@ const filesToCache = [
   '/archive/',
   '/reviews/',
   '/subscribe/',
-  '/topics/',
   '/offline/',
   '/',
 

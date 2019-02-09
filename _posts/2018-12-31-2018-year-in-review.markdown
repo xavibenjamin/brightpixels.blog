@@ -6,6 +6,7 @@ categories:
 custom_type: post
 subtitle: Highlights of the past year
 featured_image: "/uploads/2018/12/florida-002.jpg"
+series: year-in-review
 ---
 
 Due to depression, 2018 has been difficult for me. But reflecting on the year has helped me remember all the fun and great experiences I've had. This is my annual write-up where I share some of the highlights of the year and set goals for the next one.
@@ -42,7 +43,6 @@ I'm so happy things came together the way they did. Changelog is a wonderful pla
 And they let me host my own show! [*Away from Keyboard*](https://changelog.com/afk) is the show I've wanted to make for years. You may recall I tried to do something similar back in 2015 with [*For the Record*](https://ttimsmith.com/podcasts/ftr/) and made *two episodes*. Sad, I know.
 
 *Away from Keyboard* already has ten awesome episodes, and I couldn't be prouder of the stories I've been able to tell. Also, I don't think I'll ever come up with a cooler name for a podcast.
-
 
 ## Good times in Florida
 

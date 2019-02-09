@@ -5,6 +5,7 @@ categories:
 - Code
 custom_type: post
 subtitle: How is this not a post on the internet yet?
+series: jekyll
 ---
 
 **Note from the Editor:** *The following method will only work if you self-host your Jekyll site. GitHub Pages doesn't allow custom plugins.*

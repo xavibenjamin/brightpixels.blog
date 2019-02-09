@@ -5,10 +5,7 @@ categories:
 - Code
 custom_type: post
 subtitle: Moved this blog to Heroku, now what?
----
-
-*This post is part of a series on [hosting Jekyll with Heroku](/topics/#jekyll-on-heroku).*
-
+series: jekyll-with-heroku
 ---
 
 A month ago, [I moved this blog over to Heroku](/2015/06/hosting-a-jekyll-site-on-heroku/), and I’ve been really happy. It’s made writing and deploying a lot easier. But I needed a way to redirect the feeds to FeedPress and display my nice 404 page, which I had no idea how to do.

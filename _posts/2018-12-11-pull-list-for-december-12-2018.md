@@ -7,6 +7,7 @@ seo_title: 'Detective Comics #994, X-Men: Red #11 - Pull List for December 12, 2
 custom_type: post
 featured_image: "/uploads/pull-list-12-12-2018.jpg"
 excerpt: Comics I'm reading this week and one's I read last week
+series: pull-list
 ---
 
 <figure class="extendout">

@@ -8,6 +8,7 @@ seo_title: 'Man-Eaters #3, The Amazing Spider-Man #10 - Pull List for November 2
 custom_type: post
 excerpt: Comics I read last week, and ones I’m picking up this week.
 featured_image: "/uploads/pull-list-11-28-2018.jpg"
+series: pull-list
 ---
 
 <figure class="extendout">

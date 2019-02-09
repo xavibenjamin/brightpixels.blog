@@ -5,6 +5,7 @@ categories:
 - Comics
 seo_title: 'Fantastic Four #2, Catwoman #3 - Pull List for September 12, 2018'
 custom_type: post
+series: pull-list
 ---
 
 Exciting new week of comics! Here's what I read last week, and what I'm picking up this week.

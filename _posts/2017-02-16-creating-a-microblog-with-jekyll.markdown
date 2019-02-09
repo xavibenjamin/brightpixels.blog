@@ -4,11 +4,9 @@ date: 2017-02-16 21:21:00 -06:00
 categories:
 - Code
 custom_type: post
+series: jekyll
 ---
 
-*This post is part of a series on [Microblogging with Jekyll]({{ site.url }}/topics/#microblogging-with-jekyll)*.
-
----
 I wanted to get away from Twitter. If you don't get why, that's ok. It's not the point of this post. I want to talk about creating a microblog. What's a microblog? In essence, it's a place where you write small tweet-like posts, except the content lives on a server you pay for. You are in control.
 
 {% include toc.html %}

@@ -7,6 +7,7 @@ seo_title: 'Cover #2, Shuri #1 - Pull List for October 17, 2018'
 custom_type: post
 excerpt: Comics I'm picking up on Oct 17, 2018.
 featured_image: "/uploads/pull-list-10-17-2018.jpg"
+series: pull-list
 ---
 
 <figure class="extendout">

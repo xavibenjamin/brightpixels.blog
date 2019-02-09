@@ -9,6 +9,7 @@ excerpt: Another week is here, and that means there are new comic books to read,
   stories to be enveloped in, and new artwork to be entranced by. Here's what I read
   last week and what I'm picking up this week.
 featured_image: "/uploads/things-i-read-09-26-2018.jpg"
+series: pull-list
 ---
 
 <figure class="extendout">

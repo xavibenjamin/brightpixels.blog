@@ -9,7 +9,7 @@ excerpt: Bright Pixels is a web-column about comics, Star Wars, Apple, technolog
 
 <section class="posts">
   {% assign filteredPosts = site.posts | where_exp: "item", "item.is_rss_only != true" %}
-  {% for post in filteredPosts limit: 10 %}
+  {% for post in filteredPosts limit: 20 %}
     <article class="posts__post p-body format-{% if post.link_url %}link{% else %}post{% endif %} h-entry">
 
       {% if post.link_url %}

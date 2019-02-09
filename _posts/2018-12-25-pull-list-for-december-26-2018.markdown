@@ -7,6 +7,7 @@ seo_title: 'Fantastic Four #5, Man-Eaters #4 - Pull List for December 26, 2018'
 excerpt: Comics I read last week and ones I'm picking up this week.
 custom_type: post
 featured_image: "/uploads/pull-list-12-26-2018.jpg"
+series: pull-list
 ---
 
 <figure class="extendout">

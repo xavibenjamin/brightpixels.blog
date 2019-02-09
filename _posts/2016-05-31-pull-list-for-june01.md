@@ -5,6 +5,7 @@ categories:
 - Comics
 custom_type: post
 subtitle: Comics I’m picking up this week.
+series: pull-list
 ---
 
 Not a huge week for me, as I’m not incredibly interested in a lot of the new DC issues coming out.[^sidenote] Also, I’ve decided to drop Civil War II because this week’s issue is $5.99 and $4.99 after that. Too expensive for me, I’ll just pick up the trade.

@@ -5,6 +5,7 @@ categories:
 - Code
 subtitle: Images weren't working for me, but I finally figured out what was wrong
 custom_type: post
+series: jekyll
 ---
 
 I recently started using Siteleaf to manage this site, and I had an issue with image uploads. Siteleaf puts images in an `_uploads` folder that Jekyll doesn't output by default.

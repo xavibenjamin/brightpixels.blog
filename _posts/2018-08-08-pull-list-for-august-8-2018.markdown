@@ -6,6 +6,7 @@ categories:
 seo_title: 'Fantastic Four #1, The Amazing Spider-Man #3 - Pull List for August 8,
   2018'
 custom_type: post
+series: pull-list
 ---
 
 Another Wednesday is here, which means it’s New Comic Book Day! Here are my thoughts on what I picked up last week, and what I’m picking up today.

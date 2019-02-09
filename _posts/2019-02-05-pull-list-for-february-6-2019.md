@@ -5,6 +5,7 @@ categories:
 - Comics
 seo_title: 'Daredevil #1, Deadpool #9 - Pull List for February 6, 2019'
 custom_type: post
+series: pull-list
 ---
 
 Every Wednesday, all-new comic books hit the shelves with original stories to be engrossed in, and new art to be fascinated by. I didn't pick anything up last week, but this is what I'm buying this week.

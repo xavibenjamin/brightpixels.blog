@@ -7,6 +7,7 @@ seo_title: 'The Amazing Spider-Man #12, Aquaman #43 - Pull List for December 19,
 custom_type: post
 featured_image: "/uploads/pull-list-12-19-2018.jpg"
 excerpt: Comics I read last week and the comics I'll buy this week
+series: pull-list
 ---
 
 <figure class="extendout">

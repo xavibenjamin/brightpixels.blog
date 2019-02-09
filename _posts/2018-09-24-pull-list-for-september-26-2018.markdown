@@ -7,6 +7,7 @@ seo_title: 'Jessica Jones #3, The Amazing Spider-Man #6 - Pull List for Septembe
   26, 2018'
 custom_type: post
 featured_image: "/uploads/pull-list-09-26-2018.jpg"
+series: pull-list
 ---
 
 <figure class="extendout">

@@ -7,6 +7,7 @@ seo_title: 'Age of Republic - Obi-Wan Kenobi #1, Deadpool #8 - Pull List for Jan
   2, 2019'
 custom_type: post
 featured_image: "/uploads/pull-list-for-jan-2-2019.jpg"
+series: pull-list
 ---
 
 <figure class="extendout">
