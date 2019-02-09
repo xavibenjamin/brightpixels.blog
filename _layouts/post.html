@@ -40,7 +40,7 @@ custom_css_class: single
   <div class="e-content">{{ content | improve }}</div>
 
   <footer class="post__footer">
-    {% include_cached series.html series=page.series %}
+    {% include_cached series.html series=page.series url=page.url %}
 
     {% comment %} Letterboxed Link {% endcomment %}
     {% if page.review.movie.letterboxd %}
