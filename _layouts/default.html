@@ -115,15 +115,15 @@
     <meta name="google-site-verification" content="CkigHlbjr994yE6VvSG-SQsNbQ7Wu6OKXn83F08_pAY" />
 
   </head>
-  <body class="page-{{ page.layout | slugify }} {% if page.custom_css_class %}{{ page.custom_css_class }}{% else %}page-{{ page.title | slugify }}{% endif %}">
-    {% include header.html %}
+  <body class="page-{{ page.layout | slugify }} {{ page.custom_css_class }} page-{{ page.title | slugify }}">
+    {% include_cached header.html url=page.url %}
 
 
     <main class="main">
       {{ content }}
     </main>
 
-    {% include footer.html %}
+    {% include_cached footer.html url=page.url %}
         
     {% if jekyll.environment == "production" %}
       {% include_cached service-worker.html %}

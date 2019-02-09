@@ -22,7 +22,7 @@
     </ul>
   </div>
 
-  {% unless page.url == '/search/' %}
+  {% unless include.url == '/search/' %}
     {% include search-form.html %}
   {% endunless %}
 
@@ -30,7 +30,7 @@
     <small><em>Bright Pixels</em> is proudly built with <a href="https://jekyllrb.com/">Jekyll</a> and hosted with <a href="https://www.netlify.com/">Netlify</a>. Made with {% include_cached icons/icon-heart.html css_classes="icon--inline
     icon--medium" %} in Saint Paul, MN.</small>
 
-    <small>&copy; 2013&ndash;{{ site.time | date: "%Y" }} Timothy B. Smith.</small>
+    <small>&copy; 2013&ndash;<script>document.write(new Date().getFullYear())</script> Timothy B. Smith.</small>
   </div>
 </footer>
 
