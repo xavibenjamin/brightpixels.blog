@@ -9,33 +9,34 @@ collections:
     title: Uploads
     output: true
 defaults:
-- scope:
-    path: ''
-    type: posts
-  values:
-    custom_type: link
-    subtitle: 
-    excerpt: 
-    layout: post
-    author: timsmith
-    seo_title: 
-    link_url: 
-    featured_image: 
-    is_rss_only: 
-    review:
-      type: 
-      rating: 
-      movie:
-        letterboxd: 
+  - scope:
+      path: ''
+      type: posts
+    values:
+      custom_type: link
+      subtitle:
+      excerpt:
+      layout: post
+      author: timsmith
+      seo_title:
+      link_url:
+      featured_image:
+      is_rss_only:
+      review:
+        type:
+        rating:
+        movie:
+          letterboxd:
 name: Bright Pixels
 url: https://brightpixels.blog
-description: A web-column about comic books, Star Wars, movies, Apple, technology,
+description:
+  A web-column about comic books, Star Wars, movies, Apple, technology,
   and other geekery.
-permalink: "/:year/:month/:title/"
+permalink: '/:year/:month/:title/'
 exclude:
-- README.md
-- Gemfile.lock
-- LICENSE
+  - README.md
+  - Gemfile.lock
+  - LICENSE
 livereload: true
 highlighter: rouge
 port: 4000
@@ -47,26 +48,19 @@ markdown_ext: markdown,mkdown,mkdn,mkd,md,mdown
 kramdown:
   input: GFM
 plugins:
-- jekyll-typogrify
-- jekyll-include-cache
-social:
-  links:
-  - https://twitter.com/smithtimmytim
-  - https://github.com/smithtimmytim
-  - https://www.linkedin.com/in/smithtimmytim
-  - https://www.flickr.com/photos/smithtimmytim
-  - https://micro.blog/smith
-  - https://twitter.com/brightpxblog
+  - jekyll-typogrify
+  - jekyll-include-cache
 imgix:
   source: brightpixels.imgix.net
   secure_url_token: yecPTdx6GYCCJd7M
-sizes: "(min-width: 90em) 1300px, (min-width: 70em) 1000px, (min-width: 50em) 750px,
-  (min-width: 31.5em) 500px, 100vw"
+sizes:
+  '(min-width: 90em) 1300px, (min-width: 70em) 1000px, (min-width: 50em) 750px,
+  (min-width: 31.5em) 500px, 100vw'
 srcset:
-- 500
-- 750
-- 1000
-- 1300
+  - 500
+  - 750
+  - 1000
+  - 1300
 webmentions:
   username: brightpixels.blog
   cache_bad_uris_for: 7
@@ -76,9 +70,9 @@ webmentions:
     last_year: weekly
     older: every 2 months
   legacy_domains:
-  - https://brightlycolored.org
-  - http://theboldreport.net
-  - https://theboldreport.net
+    - https://brightlycolored.org
+    - http://theboldreport.net
+    - https://theboldreport.net
   templates:
     likes: _includes/webmentions/like.html
     reposts: _includes/webmentions/repost.html
