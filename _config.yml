@@ -35,8 +35,10 @@ description:
 permalink: '/:year/:month/:title/'
 exclude:
   - README.md
+  - Gemfile
   - Gemfile.lock
   - LICENSE
+  - .jekyll-cache
 livereload: true
 highlighter: rouge
 port: 4000
