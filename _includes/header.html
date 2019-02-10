@@ -4,25 +4,15 @@
   {% include_cached topics-list.html count=true %}
 </div>
 
-<header class="header {% if include.url == '/' %}header--home{% endif %}" role="banner">
+<header class="header" role="banner">
 
   <div class="header__wrap">
-    {% if include.url == '/' %}
+  
     <div class="site__branding">
-      <p class="header__byline"><span class="caps">Timothy B. Smith Presents</span></p>
-      <a href="/" class="logo">
-        {% include_cached icons/icon-logo.html %}
+      <a href="/" class="logo-monogram">
+        {% include_cached icons/icon-logo-monogram.html %}
       </a>
-
-      <p class="header__description">A web-column about comic books, <em>Star Wars</em>, movies, Apple, technology, and other&nbsp;geekery.</p>
     </div>
-
-    {% else %}
-
-    <a href="/" class="logo-monogram">
-      {% include_cached icons/icon-logo-monogram.html %}
-    </a>
-    {% endif %}
 
     <nav class="header__navigation">
       <ul>
@@ -32,5 +22,9 @@
         <li><a class="header__subscribe" href="/subscribe/">Subscribe</a></li>
       </ul>
     </nav>
+
+    {% unless include.url == '/search/' %}
+      {% include search-form.html %}
+    {% endunless %}
   </div>
 </header>

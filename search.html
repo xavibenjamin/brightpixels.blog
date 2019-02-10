@@ -120,9 +120,10 @@ excerpt: Search Bright Pixels.
   </head>
   <body class="page-search">
 
-    {% include header.html %}
+    {% include header.html url=page.url %}
 
     {% include search-form.html %}
+    
     <main class="main">
       <div class="p-body">
         <ul class="search__results" id="search-results"></ul>

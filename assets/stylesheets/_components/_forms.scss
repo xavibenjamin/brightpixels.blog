@@ -68,6 +68,7 @@
   margin-right: auto;
   padding: $ratio2 $ratio1;
   background-color: darken($light-bg-color, 5%);
+  position: relative;
 }
 
 .search__input {
@@ -77,16 +78,22 @@
   width: 100%;
 }
 
-.search--footer {
+.search--header {
   .search__input {
-    color: white;
-    border-bottom: 2px solid $primary-color;
+    background-color: white;
+    border-radius: $global-radius;
     font-size: $ratio-1;
-    transition: background-color 300ms ease-in-out;
+    padding: 0.6rem;
+    transition: opacity 300ms ease-in-out;
+    opacity: 0.8;
 
     &:focus {
-      background-color: rgba($primary-color, 0.15);
+      opacity: 1;
     }
+  }
+
+  @media #{$small-only} {
+    width: 5rem;
   }
 }
 
