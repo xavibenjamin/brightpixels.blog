@@ -2,7 +2,7 @@
 source 'https://rubygems.org'
 ruby RUBY_VERSION
 
-gem 'jekyll', :git => 'https://github.com/jekyll/jekyll.git', :branch => 'master'
+gem 'jekyll', github: 'jekyll/jekyll'
 gem 'liquid-c', '~> 4.0'
 gem 'nokogiri', '~> 1.8', '>= 1.8.1'
 gem 'sassc', '~> 2.0'

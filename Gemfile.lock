@@ -1,7 +1,6 @@
 GIT
-  remote: https://github.com/jekyll/jekyll.git
+  remote: git://github.com/jekyll/jekyll.git
   revision: 13b0832459af97cb54a788a7e221068fd988d3a5
-  branch: master
   specs:
     jekyll (3.8.5)
       addressable (~> 2.4)
