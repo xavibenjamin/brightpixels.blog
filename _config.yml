@@ -45,8 +45,8 @@ port: 4000
 sass:
   sass_dir: assets/stylesheets
   style: compressed
-markdown: kramdown
 markdown_ext: markdown,mkdown,mkdn,mkd,md,mdown
+markdown: kramdown
 kramdown:
   input: GFM
 plugins:

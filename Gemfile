@@ -2,10 +2,10 @@
 source 'https://rubygems.org'
 ruby RUBY_VERSION
 
-gem 'jekyll', github: 'jekyll/jekyll'
-gem 'liquid-c', '~> 4.0'
+gem 'jekyll', :git => 'https://github.com/jekyll/jekyll.git', branch: 'master'
+gem 'liquid-c', :git => 'https://github.com/Shopify/liquid-c.git', branch: 'master'
 gem 'nokogiri', '~> 1.8', '>= 1.8.1'
-gem 'sassc', '~> 2.0'
+gem 'sassc'
 
 
 
