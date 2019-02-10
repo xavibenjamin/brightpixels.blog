@@ -300,6 +300,15 @@
       text-decoration: underline solid $link-color;
     }
   }
+
+  .link-arrow {
+    font-family: sans-serif;
+    font-size: 0.75em;
+    vertical-align: middle;
+    color: lighten($light-text-color, 20%);
+    position: relative;
+    top: -2px;
+  }
 }
 
 // Footnotes ---------------------
