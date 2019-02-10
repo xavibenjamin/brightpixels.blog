@@ -11,7 +11,7 @@ series: pull-list
 ---
 
 <figure class="extendout">
-  {% include img.html src="/pull-list-11-07-2018.jpg" alt="Comics from last week" %}
+  {% include_cached img.html src="/pull-list-11-07-2018.jpg" alt="Comics from last week" %}
   <figcaption><strong>From left to right:</strong> <em>Batman Secret Files</em> #1, <em>West Coast Avengers</em> #3, <em>Man-Eaters</em> #2, and <em>Jessica Jones: Blindspot</em>&nbsp;<span class="caps">TP</span></figcaption>
 </figure>
 

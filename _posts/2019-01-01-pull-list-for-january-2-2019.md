@@ -11,7 +11,7 @@ series: pull-list
 ---
 
 <figure class="extendout">
-  {% include img.html src="/pull-list-for-jan-2-2019.jpg" alt="Pull List for January 2, 2019." %}
+  {% include_cached img.html src="/pull-list-for-jan-2-2019.jpg" alt="Pull List for January 2, 2019." %}
   <figcaption><strong>From left to right, back to front:</strong> <em>Self/Made</em> #1, <em>Man-Eaters</em> #4, <em>Fantastic Four</em> #5, and <em>Descender</em> Vol. 1: Tin Stars <span class="caps">TP</span></figcaption>
 </figure>
 

@@ -8,7 +8,7 @@ layout: page
 _Bright Pixels_ is designed and developed by me, [Tim Smith](http://ttimsmith.com), in beautiful [St. Paul, Minnesota](https://www.stpaul.gov/).
 
 <figure class="extendout">
-  {% include img.html src="/tim-02-16x9.jpg" alt="Tim Smith's Photo" %}
+  {% include_cached img.html src="/tim-02-16x9.jpg" alt="Tim Smith's Photo" %}
   <figcaption>Photo by <a href="https://www.jaimielaurenphoto.com/">Jaimie Lauren</a></figcaption>
 </figure>
 

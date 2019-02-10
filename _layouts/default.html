@@ -1,19 +1,133 @@
 ---
 ---
+<!DOCTYPE html>
+<html>
+  <head>
+    <!--
+      How much does a polar bear weigh? Just enough to break the ice.
 
-{% include head.html %}
-  <body class="page-{{ page.layout | slugify }} {% if page.custom_css_class %}{{ page.custom_css_class }}{% else %}page-{{ page.title | slugify }}{% endif %}">
-    {% include header.html %}
+      Made with love in beautiful Saint Paul, Minnesota.
+    -->
+
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+    <title>{% if page.seo_title %}{{ page.seo_title }}{% else %}{{ page.title }}{% endif %}{% if page.review.type %} {% include head-rating.html page='true' %}{% endif %}{% unless page.url == '/' %} // {{ site.name }}{% endunless %}</title>
+    
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1.0, user-scalable=no"
+    />
+    <link href="/apple-touch-icon.png" rel="apple-touch-icon" />
+
+    <!-- DNS Prefetch -->
+    <link rel="dns-prefetch" href="https://cloud.typography.com" />
+
+    <!-- Other Important Meta Info -->
+    <link rel="canonical" href="https://brightpixels.blog{{ page.url }}" />
+    <meta
+      name="description"
+      content="{{ page.excerpt | strip_html | strip_newlines | truncate: 156 }}"
+    />
+
+    <!-- Facebook Article Info -->
+    <meta
+      property="og:url"
+      content="https://brightpixels.blog{{ page.url }}"
+    />
+    {% if page.custom_type %}
+    <meta property="og:type" content="article" />
+    {% endif %}
+    
+    <meta 
+      property="og:title" 
+      content="{{ page.title }}{% if page.review.type %}{% include head-rating.html page='true' %}{% endif %}" />
+    <meta
+      property="og:description"
+      content="{{ page.excerpt | strip_html | strip_newlines | truncate: 156 }}"
+    />
+    <meta
+      property="og:image"
+      content="https://brightpixels.blog{% if page.featured_image %}{{ page.featured_image }}{% else %}/brightpixels-avatar.png{% endif %}"
+    />
+    <meta property="og:site_name" content="Bright Pixels" />
+    <meta
+      property="og:url"
+      content="https://brightpixels.blog{{ page.url }}"
+    />
+
+    <!-- Twitter Info -->
+    {% if page.featured_image %}
+    <meta name="twitter:card" content="summary_large_image" />
+    {% else %}
+    <meta name="twitter:card" content="summary" />
+    {% endif %}
+    <meta name="twitter:site" content="@brightlycolord" />
+    <meta name="twitter:title" content="{{ page.title }}{% if page.review.type %}{% include head-rating.html page='true' %}{% endif %}" />
+    <meta
+      name="twitter:description"
+      content="{{ page.excerpt | strip_html | strip_newlines | truncate: 156 }}"
+    />
+    <meta
+      name="twitter:image"
+      content="https://brightpixels.blog{% if page.featured_image %}{{ page.featured_image }}{% else %}/brightpixels-avatar.png{% endif %}"
+    />
+
+    <!-- Indie Web -->
+    <link rel="me" href="https://twitter.com/smithtimmytim" />
+    <link rel="me" href="https://github.com/smithtimmytim" />
+    <link rel="me" href="https://www.linkedin.com/in/smithtimmytim" />
+    <link rel="me" href="https://www.flickr.com/photos/smithtimmytim" />
+    <link rel="me" href="https://micro.blog/smith" />
+    <link rel="me" href="https://twitter.com/brightpxblog" />
+
+    <!-- Webmetion Stuff -->
+    {% if jekyll.environment == "production" %} 
+      {% webmentions_head %}
+    {% endif %}
+
+    <!-- RSS Feeds -->
+    <link
+      rel="alternate"
+      type="application/rss+xml"
+      title="Master Feed for Bright Pixels"
+      href="https://feedpress.me/brightpixels"
+    />
+
+    <link rel="stylesheet" href="/assets/stylesheets/global.css?ver={{ site.time | date: '%Y%m%d%H%M%S' }}" />
+
+    <!-- preload the fonts -->
+    <link	
+      as="style"	
+      href="https://cloud.typography.com/7114076/6025012/css/fonts.css"	
+      onload="this.rel='stylesheet'"	
+      rel="preload"	
+    />	
+     <!-- non-JS fallback -->	
+    <noscript>	
+      <link	
+        href="https://cloud.typography.com/7114076/6025012/css/fonts.css"	
+        media="screen"	
+        rel="stylesheet"	
+        type="text/css"	
+      />	
+    </noscript>
+
+    <!-- Google Site Verification -->
+    <meta name="google-site-verification" content="CkigHlbjr994yE6VvSG-SQsNbQ7Wu6OKXn83F08_pAY" />
+
+  </head>
+  <body class="page-{{ page.layout | slugify }} {{ page.custom_css_class }} page-{{ page.title | slugify }}">
+    {% include_cached header.html url=page.url %}
 
 
     <main class="main">
       {{ content }}
     </main>
 
-    {% include footer.html %}
+    {% include_cached footer.html url=page.url %}
         
     {% if jekyll.environment == "production" %}
-      {% include service-worker.html %}
+      {% include_cached service-worker.html %}
       <div class="offline-ready">Site is ready for Offline Use</div>
     {% endif %}
   </body>

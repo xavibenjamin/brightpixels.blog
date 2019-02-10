@@ -11,16 +11,20 @@ custom_css_class: single
 
     {% if page.link_url %}
       <h1 class="p-name">
-        <a class="u-bookmark-of" href="{{ page.link_url }}">{{ page.title | smartify | widont }}</a>
+        <a class="u-bookmark-of" href="{{ page.link_url }}">{{ page.title | widont }}</a>
       </h1>
     {% else %}
-      <h1 class="p-name">{{ page.title | smartify | widont }}</h1>
+      <h1 class="p-name">{{ page.title | widont }}</h1>
       {% if page.subtitle %}
-        <h2 class="post__subtitle">{{ page.subtitle | smartify | widont }}</h2>
+        <h2 class="post__subtitle">{{ page.subtitle | widont }}</h2>
       {% endif %} 
     {% endif %}
 
-    {% include post-meta.html %}
+    <!-- Post Meta -->
+    {% assign author = site.data.authors[page.author] %}
+    <div class="post__meta">
+      <span class="post__author"><a class="p-author h-card" href="/authors/{{ author.author_path }}" title="View more posts written by {{ author.display_name }}">{{ author.display_name }}{% if author.gravatar %}<img class="u-photo" src="//gravatar.com/avatar/{{ author.gravatar}}?s=200" alt="{{ author.display_name }}" style="display: none;" />{% else %}<img src="{{ site.url }}/uploads/authors/{{ author.author_path }}.jpg" class="u-photo" alt="{{ author.display_name }}" style="display: none;"/>{% endif %}</a></span>&emsp;<span class="post__date"><time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%b %d, %Y" }}</time><a href="{{ page.url | prepend: site.url }}" class="u-url"></a></span>
+    </div>
 
     {% if page.review.type %}
       {% include_cached star-rating.html rating=page.review.rating %}
@@ -33,14 +37,17 @@ custom_css_class: single
   </aside>
   {% endif %}
 
-  <div class="e-content">{{ content | improve }}</div>
+  <div class="e-content">{{ content | widont | caps }}</div>
 
   <footer class="post__footer">
-    {% include series.html %}
-    {% include letterboxd-link.html %}
-    {% if page.author != 'timsmith' %}
-      {% include author-credit.html %}
+    {% include_cached series.html series=page.series url=page.url %}
+
+    {% comment %} Letterboxed Link {% endcomment %}
+    {% if page.review.movie.letterboxd %}
+      <p class="letterboxd__link">{% include icons/icon-letterboxd.html %}<em>Read this review on <a href="{{ page.review.movie.letterboxd }}" title="Read my review of ‘{{ page.title }}’ on Letterboxd">Letterboxd</a></em></p>
     {% endif %}
+
+    
     <section class="card card--light card--large">
       <h2>Bright Pixels Dispatch</h2>
       {% include_cached newsletter-form.html %}
@@ -51,4 +58,4 @@ custom_css_class: single
   </footer>
 </article>
 
-{% include ad.html %}
+{% include_cached ad.html %}

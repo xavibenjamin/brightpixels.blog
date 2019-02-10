@@ -1,3 +1,11 @@
+GIT
+  remote: https://github.com/Shopify/liquid-c.git
+  revision: 0a7afdc5d192666ad855dbc35efc58482806adc6
+  branch: master
+  specs:
+    liquid-c (4.0.0)
+      liquid (>= 3.0.0)
+
 GEM
   remote: https://rubygems.org/
   specs:
@@ -10,7 +18,7 @@ GEM
       http_parser.rb (~> 0.6.0)
     eventmachine (1.2.7)
     execjs (2.7.0)
-    ffi (1.10.0)
+    ffi (1.9.25)
     forwardable-extended (2.6.0)
     htmlbeautifier (1.3.1)
     http_parser.rb (0.6.0)
@@ -43,11 +51,6 @@ GEM
       sass (~> 3.4)
     jekyll-sitemap (1.2.0)
       jekyll (~> 3.3)
-    jekyll-tagging (1.1.0)
-      nuggets
-    jekyll-tagging-related_posts (1.0.0)
-      jekyll (~> 3.0)
-      jekyll-tagging (~> 1.0)
     jekyll-typogrify (0.3.5)
       titlecase
       typogruby
@@ -74,11 +77,11 @@ GEM
     multi_xml (0.6.0)
     nokogiri (1.10.1)
       mini_portile2 (~> 2.4.0)
-    nuggets (1.6.0)
     openssl (2.1.2)
     pathutil (0.16.2)
       forwardable-extended (~> 2.6)
     public_suffix (3.0.3)
+    rake (12.3.2)
     rb-fsevent (0.10.3)
     rb-inotify (0.10.0)
       ffi (~> 1.0)
@@ -91,6 +94,9 @@ GEM
     sass-listen (4.0.0)
       rb-fsevent (~> 0.9, >= 0.9.4)
       rb-inotify (~> 0.9, >= 0.9.7)
+    sassc (2.0.0)
+      ffi (~> 1.9.6)
+      rake
     string_inflection (0.1.2)
     titlecase (0.1.1)
     typogruby (1.0.18)
@@ -107,18 +113,19 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
-  jekyll (~> 3.8, >= 3.8.4)
+  jekyll
   jekyll-compose (~> 0.8.0)
   jekyll-imgix (~> 1.1)
   jekyll-include-cache (~> 0.1.0)
   jekyll-sitemap
-  jekyll-tagging-related_posts (~> 1.0)
   jekyll-typogrify (~> 0.3.5)
   jekyll-webmention_io (~> 3.3, >= 3.3.4)
+  liquid-c!
   nokogiri (~> 1.8, >= 1.8.1)
+  sassc
 
 RUBY VERSION
    ruby 2.4.3p205
 
 BUNDLED WITH
-   1.17.1
+   1.17.3

@@ -11,7 +11,7 @@ series: pull-list
 ---
 
 <figure class="extendout">
-  {% include img.html src="/pull-list-12-05-2018.jpg" alt="Pull List for December 5, 2018" %}
+  {% include_cached img.html src="/pull-list-12-05-2018.jpg" alt="Pull List for December 5, 2018" %}
   <figcaption><strong>Left to right, back to front:</strong> <em>The Amazing Spider-Man</em> #10, <em>Man-Eaters</em> #3, <em>Daredevil</em> #612, <em>Wonder Woman</em> #59, and <em>Fantastic Four</em> #4</figcaption>
 </figure>
 

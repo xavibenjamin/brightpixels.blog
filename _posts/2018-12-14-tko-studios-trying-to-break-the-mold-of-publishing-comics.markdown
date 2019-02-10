@@ -14,14 +14,14 @@ TKO Studios, a publisher I'd never heard of until recently [on The Outhouse](htt
 Netflix popularized this idea of binging content, and now that's coming to comics. I love sitting down to read a whole story arc at once. But just because they're releasing a complete story all at once doesn't mean you have less choices in format. [In that same Twitter thread](https://twitter.com/TKOpresents/status/1072261853290487808), TKO explains that all of their books will come out in three different formats.
 
 <figure class="reg">
-  {% include img.html src="/2018/12/tko-six-issue.jpg" alt="TKO Studio six issue set" %}
+  {% include_cached img.html src="/2018/12/tko-six-issue.jpg" alt="TKO Studio six issue set" %}
   <figcaption><span class="image__copyright">&copy; <span class="caps">TKO</span> Studios</span></figcaption>
 </figure>
 
 For those of us who love to collect single issues, TKO will release a six-issue set complete with an awesome looking collectors box. If you're a fan of trade paperbacks (which I also happen to love), TKO is making those too. And to cover all their bases, there are digital options too. [Which they're saying](https://twitter.com/TKOpresents/status/1072261865093312513) will be available on mobile, tablet, and desktop.
 
 <figure class="reg">
-  {% include img.html src="/2018/12/tko-tradepaperback.jpg" alt="TKO Studios trade paperback" %}
+  {% include_cached img.html src="/2018/12/tko-tradepaperback.jpg" alt="TKO Studios trade paperback" %}
   <figcaption><span class="image__copyright">&copy; <span class="caps">TKO</span> Studios</span></figcaption>
 </figure>
 

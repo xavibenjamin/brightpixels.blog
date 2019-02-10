@@ -11,7 +11,7 @@ series: pull-list
 ---
 
 <figure class="extendout">
-  {% include img.html src="/pull-list-12-12-2018.jpg" alt="Pull List for December 12, 2018" %}
+  {% include_cached img.html src="/pull-list-12-12-2018.jpg" alt="Pull List for December 12, 2018" %}
   <figcaption><strong>From left to right, back to front:</strong> <em>Bully Wars</em> #4, <em>Star Wars: Age of Republic - Qui-Gon Jinn</em> #1, <em>Paper Girls</em> Vol. 5 <span class="caps">TP</span>, <em>Shazam!</em> #1, and <em>Martian Manhunter</em> #1</figcaption>
 </figure>
 

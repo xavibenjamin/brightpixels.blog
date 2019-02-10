@@ -75,7 +75,7 @@ Use the `<figure>` element for images.
 ```html
 {% raw %}
 <figure class="extendout">
-  {% include img.html src="/path/to/image.jpg" alt="Alt text here" %}
+  {% include_cached img.html src="/path/to/image.jpg" alt="Alt text here" %}
   <figcaption>Caption here</figcaption>
 </figure>
 {% endraw %}
@@ -86,10 +86,10 @@ You can find possible photo grid options on the [Style Guide](/styleguide). It'l
 ```html
 {% raw %}
 <figure class="photo-grid photo-grid--three">
-  {% include img.html src="/2017/12/family-at-the-fair.jpg" alt="Family at the
+  {% include_cached img.html src="/2017/12/family-at-the-fair.jpg" alt="Family at the
   Fair" %}
-  {% include img.html src="/2017/12/dawson.jpg" alt="Dawson" %}
-  {% include img.html src="/2017/12/friends-at-the-cabin.jpg" alt="Friends at the Cabin" %}
+  {% include_cached img.html src="/2017/12/dawson.jpg" alt="Dawson" %}
+  {% include_cached img.html src="/2017/12/friends-at-the-cabin.jpg" alt="Friends at the Cabin" %}
   <figcaption>Caption for the images goes here</figcaption>
 </figure>
 {% endraw %}

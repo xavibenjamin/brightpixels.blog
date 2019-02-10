@@ -1,14 +1,14 @@
-{% if page.series %}
+{% if include.series %}
 <aside class="post__series">
-{% assign series = site.data.series[page.series] %}
+{% assign series = site.data.series[include.series] %}
 <div class="series__text">
   <h4 class="series__title"><small>Series</small>{{ series.name }}</h4>
   {{ series.description | markdownify }}
 </div>
 <ul class="series-list">
-  {% assign seriesPosts = site.posts | where: 'series', page.series %}
+  {% assign seriesPosts = site.posts | where: 'series', include.series %}
   {% for post in seriesPosts limit: 6 %}
-    {% if post.url == page.url %}
+    {% if post.url == include.url %}
       <li><strong>{{ post.title }}</strong></li>
     {% else %}
       <li><a href="{{post.url}}" title="Permalink to {{ post.title}}">{{ post.title | improve }}</a></li>

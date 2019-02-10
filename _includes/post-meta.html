@@ -1,5 +1,0 @@
-<!-- Post Meta -->
-{% assign author = site.data.authors[page.author] %}
-<div class="post__meta">
-  <span class="post__author"><a class="p-author h-card" href="/authors/{{ author.author_path }}" title="View more posts written by {{ author.display_name }}">{{ author.display_name }}{% if author.gravatar %}<img class="u-photo" src="//gravatar.com/avatar/{{ author.gravatar}}?s=200" alt="{{ author.display_name }}" style="display: none;" />{% else %}<img src="{{ site.url }}/uploads/authors/{{ author.author_path }}.jpg" class="u-photo" alt="{{ author.display_name }}" style="display: none;"/>{% endif %}</a></span>&emsp;<span class="post__date"><time class="dt-published" datetime="{{ page.date | date_to_xmlschema }}">{{ page.date | date: "%b %d, %Y" }}</time><a href="{{ page.url | prepend: site.url }}" class="u-url"></a></span>
-</div>
