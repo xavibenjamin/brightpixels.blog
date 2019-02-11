@@ -1,7 +1,7 @@
 // -------------------------------
 
 pre {
-  font-family: Operator Mono, monospace;
+  font-family: $font-code;
   line-height: 1.5;
   overflow-x: auto;
   white-space: pre;
@@ -15,7 +15,7 @@ code {
   background: #f6f3f2;
   border-radius: 3px;
   color: #bf616a;
-  font-family: Operator Mono, monospace;
+  font-family: $font-code;
   font-size: $ratio - 0.05;
   line-height: 1.5;
   padding: 1px 4px;
