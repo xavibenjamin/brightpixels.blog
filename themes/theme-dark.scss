@@ -1,6 +1,50 @@
 ---
 ---
 
+$primary: #ff008f;
+
+$bg-color: #161f2d;
+$text-color: #cfc9cc;
+
 body {
-  background: red;
+  background: $bg-color;
+}
+
+.main {
+  background: darken($bg-color, 3%);
+}
+
+body,
+h1,
+h2,
+h3,
+h5,
+.format-post h1,
+.card--light h2,
+.card--light,
+.format-post h1 a,
+.format-link h1 a {
+  color: $text-color;
+}
+
+blockquote {
+  color: darken($text-color, 25%);
+}
+
+.header:before {
+  content: none;
+}
+
+a {
+  color: $text-color;
+  text-decoration: underline;
+  &:hover,
+  &:focus {
+    color: $primary;
+    text-decoration: underline;
+  }
+}
+
+.card--light {
+  background: darken($bg-color, 6%);
 }
