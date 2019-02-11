@@ -8,9 +8,9 @@ $secondary-color: #161f2d;
 $alt-color: #ffe000;
 
 // TEXT COLOR --------------------
-$body-color: lighten($secondary-color, 20%);
+$body-color: #31445d;
 $heading-color: $secondary-color;
-$light-text-color: lighten($body-color, 20%);
+$light-text-color: desaturate(lighten($heading-color, 30%), 10%);
 $highlight-color: #fffedb;
 $link-color: #0993cb;
 $link-underline: lighten(saturate($link-color, 10%), 40%);
@@ -44,13 +44,10 @@ $font-text: Whitney SSm A, Whitney SSm B, system, -apple-system,
   BlinkMacSystemFont, Avenir, sans-serif;
 $font-small: Whitney SSm SmallCaps A, Whitney SSm SmallCaps B, system,
   -apple-system, BlinkMacSystemFont, Avenir, sans-serif;
-$font-display: Whitney A, Whitney B, system, -apple-system, BlinkMacSystemFont,
-  Avenir, sans-serif;
-$font-code: Operator SSm A, Operator SSm B, Operator Mono, monospace;
-$font-disp-cond: Whitney Cond A, Whitney Cond B, system, -apple-system,
-  BlinkMacSystemFont, Avenir, sans-serif;
+$font-display: Mercury SSm A, Mercury SSm B, serif;
+$font-code: Operator Mono SSm A, Operator Mono SSm B, monospace;
 
-$base-font-size: 17px;
+$base-font-size: 16.2px;
 
 // -----------------------------------------
 // SPACING RATIO
@@ -58,18 +55,18 @@ $base-font-size: 17px;
 
 $ratio: 1rem;
 
-$ratio-1: 0.75rem;
-$ratio-2: 0.65rem;
+$ratio-1: 0.8rem;
+$ratio-2: 0.75rem;
 $ratio-3: 0.4rem;
 
-$ratio1: 1.4rem;
-$ratio2: 2.8rem;
+$ratio1: 1.2rem;
+$ratio2: 2.2rem;
 
 // -----------------------------------------
 // Content Widths
 // -----------------------------------------
 
-$text-width: 35.2rem;
+$text-width: 38rem;
 
 $content-width: $text-width * 1.25;
 $wrapper-width: $content-width * 1.35;

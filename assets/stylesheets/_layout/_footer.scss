@@ -15,7 +15,6 @@ $footer-light-text-color: lighten($light-text-color, 10%);
     'about'
     'topics'
     'furthermore'
-    'search'
     'subfooter';
 
   @media #{$medium-up} {
@@ -23,7 +22,6 @@ $footer-light-text-color: lighten($light-text-color, 10%);
     grid-gap: 2rem 2rem;
     grid-template-areas:
       'about topics furthermore'
-      'search search .'
       'subfooter subfooter subfooter';
   }
 
@@ -32,7 +30,6 @@ $footer-light-text-color: lighten($light-text-color, 10%);
     grid-gap: 2rem 3rem;
     grid-template-areas:
       'about topics furthermore'
-      'search . .'
       'subfooter subfooter subfooter';
   }
 
@@ -79,9 +76,9 @@ $footer-light-text-color: lighten($light-text-color, 10%);
   color: $footer-light-text-color;
   border-bottom: 2px solid $footer-light-text-color;
   padding-bottom: 0.4rem;
+  font-family: $font-text;
   font-size: $ratio-1;
   margin-bottom: $ratio-2;
-  text-transform: uppercase;
 }
 
 .footer__topics {
@@ -124,7 +121,7 @@ $footer-light-text-color: lighten($light-text-color, 10%);
 
   small {
     display: block;
-    font-size: $ratio-2;
+    font-size: 0.65rem;
     line-height: 1.6;
     margin-top: 0.4rem;
     max-width: 16rem;

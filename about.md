@@ -66,7 +66,7 @@ Send me an email anytime. I love getting an email from actual people. If you hav
 - [Sony FE 50mm ƒ/1.8](https://amzn.to/2NCmYyP)
 - [Sony FE 85mm ƒ/1.8](https://amzn.to/2I9zNLf)
 
-The site is hosted by [Netlify](https://www.netlify.com/), and powered by [Jekyll](http://jekyllrb.com). Type is set in Whitney and Operator by [Hoefler & Co.](https://www.typography.com/)
+The site is hosted by [Netlify](https://www.netlify.com/), and powered by [Jekyll](http://jekyllrb.com). Type is set in Mercury, Whitney and Operator Mono by [Hoefler & Co.](https://www.typography.com/)
 
 A huge thanks to the friends who've contributed to this site: [TJ Draper](/authors/tjdraper) and [Keaton Taylor](/authors/keatontaylor). Also thanks to [Sonya Mann](https://twitter.com/sonyaellenmann) for editing a few articles here and there, making me sound much better. Of course, a huge thank you to my partner in crime, [Kelly Smith](/authors/kellysmith), who reads drafts and sometimes writes herself.
 

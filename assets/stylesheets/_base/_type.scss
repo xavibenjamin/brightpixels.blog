@@ -3,9 +3,12 @@
 // -------------------------------
 
 html {
-  font-size: calc(#{$base-font-size} + 0.25vw);
+  font-size: 16px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  @media #{$medium-up} {
+    font-size: calc(#{$base-font-size} + 0.25vw);
+  }
 }
 
 body {
@@ -26,6 +29,7 @@ h5,
 h6 {
   font-family: $font-display;
   line-height: 1.3;
+  letter-spacing: -0.3px;
 }
 
 h1,
@@ -52,20 +56,18 @@ h2 {
   font-size: $ratio1;
   font-weight: 700;
   line-height: 1.2;
-  margin-top: $ratio1;
-  margin-bottom: $ratio-3;
+  margin-top: $ratio1 * 1.8;
+  margin-bottom: 0.4rem;
   + h3 {
     margin-top: $ratio1;
   }
 }
 
 h3 {
-  color: lighten($heading-color, 10%);
   font-size: $ratio;
   font-weight: 700;
   margin-top: $ratio2;
   margin-bottom: $ratio-3;
-  text-transform: uppercase;
 }
 
 h5 {
@@ -114,7 +116,7 @@ blockquote > ul {
 .p-body > ol,
 .e-content > ol,
 blockquote > ol {
-  list-style-type: decimal-leading-zero;
+  list-style-type: decimal;
   margin-bottom: 1.1rem;
   margin-left: 2rem;
   margin-top: 1.1rem;
@@ -177,7 +179,7 @@ button,
 // BLOCKQUOTE --------------------
 blockquote {
   border-left: 4px solid $primary-color;
-  color: $light-text-color;
+  color: desaturate(lighten($body-color, 27%), 10%);
   margin-bottom: 1.1rem;
   margin-top: 1.1rem;
   padding-left: 0.75rem;
@@ -186,9 +188,6 @@ blockquote {
   }
   > ul {
     margin-left: 0;
-    @media #{$large-up} {
-      margin-left: 1.3rem;
-    }
   }
   > ol {
     margin-left: 0;
