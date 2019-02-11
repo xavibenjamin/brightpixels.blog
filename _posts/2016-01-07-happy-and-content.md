@@ -4,8 +4,7 @@ date: 2016-01-07 19:12:17 -06:00
 categories:
 - Life
 custom_type: post
-subtitle: The title perfectly encapsulates my year. 2015 came and went, and as usual,
-  here's my annual year in review.
+subtitle: The year came and went, and as usual, here's my annual year in review
 series: year-in-review
 ---
 

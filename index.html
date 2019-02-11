@@ -17,12 +17,12 @@ excerpt: Bright Pixels is a web-column about comics, Star Wars, Apple, technolog
 
         {% if post.link_url %}
           <h1 class="p-name">
-            <a class="u-bookmark-of" href="{{ post.link_url }}">{{ post.title | widont }}</a>&nbsp;<span class="link-arrow">&rarr;</span>
+            <a class="u-bookmark-of" href="{{ post.link_url }}">{{ post.title | smartify | widont }}</a>&nbsp;<span class="link-arrow">&rarr;</span>
           </h1>
         {% else %}
-          <h1 class="p-name"><a href="{{ post.url }}" title="Permalink for {{ post.title }}">{{ post.title | widont }}</a></h1>
+          <h1 class="p-name"><a href="{{ post.url }}" title="Permalink for {{ post.title }}">{{ post.title | smartify | widont }}</a></h1>
           {% if post.subtitle %}
-            <h2 class="post__subtitle">{{ post.subtitle | widont }}</h2>
+            <h2 class="post__subtitle">{{ post.subtitle | smartify | widont }}</h2>
           {% endif %} 
         {% endif %}
 
