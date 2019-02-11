@@ -48,7 +48,7 @@
 .post__subtitle {
   color: $light-text-color;
   font-family: $font-text;
-  font-size: 1.05rem;
+  font-size: 1.14rem;
   font-weight: normal;
   line-height: 1.3;
   margin-top: 0.4rem;
@@ -97,10 +97,9 @@
 
 .post__meta {
   color: $light-text-color;
-  font-size: 0.72rem;
-  font-family: $font-code;
+  font-size: 0.65rem;
   margin-top: $ratio-1;
-  position: relative;
+  text-transform: uppercase;
 }
 
 .post__author {
@@ -115,16 +114,14 @@
 
 .post__category {
   display: block;
-  font-style: italic;
   margin-bottom: 0.4rem;
-  font-size: 0.72rem;
-  font-family: $font-code;
+  font-size: 0.65rem;
+  text-transform: uppercase;
 
   a {
     color: $primary-color;
     text-decoration: none;
     transition: background-color 300ms ease-in-out;
-    font-weight: normal;
 
     &:hover,
     &:focus {

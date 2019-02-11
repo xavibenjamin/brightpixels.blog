@@ -76,6 +76,7 @@ $footer-light-text-color: lighten($light-text-color, 10%);
   color: $footer-light-text-color;
   border-bottom: 2px solid $footer-light-text-color;
   padding-bottom: 0.4rem;
+  font-family: $font-text;
   font-size: $ratio-1;
   margin-bottom: $ratio-2;
 }

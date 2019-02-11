@@ -31,6 +31,7 @@
 }
 
 .post-webmentions__title {
+  font-family: $font-text;
   font-size: $ratio-1;
   margin-top: 0;
 
@@ -80,7 +81,7 @@
 
 .webmention__pubdate {
   color: lighten($body-color, 25%);
-  font-family: $font-code;
+  font-family: $font-text;
   font-size: $ratio-2;
   vertical-align: middle;
   margin-left: 0.3rem;
