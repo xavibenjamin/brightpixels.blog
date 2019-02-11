@@ -98,7 +98,7 @@
 .post__meta {
   color: $light-text-color;
   font-size: 0.65rem;
-  margin-top: $ratio-1;
+  margin-top: 1.6rem;
   text-transform: uppercase;
 }
 
@@ -312,7 +312,7 @@
     vertical-align: middle;
     color: lighten($light-text-color, 20%);
     position: relative;
-    top: -2px;
+    top: -1px;
   }
 }
 
