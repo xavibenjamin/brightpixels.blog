@@ -16,7 +16,7 @@ custom_type: post
 
 I never understood the move to Medium. Even though at the time they supported using a custom domain, their URL structure and lack of design flexibility were deal breakers for me from the get-go.
 
-But I think David touches on something significant here. These platforms that have taken over the web (Facebook, Twitter, Instagram, *even* YouTube) have proven to be far from benign. I don't think I ever stopped to consider what the price of free was, but a quick look at the dumpster fire that social media has become quickly shows the cost. <mark>Not only has our privacy been invaded, and our data sold to the highest bidder—these "platforms" have become the breeding ground for racism, misogyny, harassment, and every other vile thing in our society.</mark>
+But I think David touches on something significant here. These platforms that have taken over the web (Facebook, Twitter, Instagram, *even* YouTube) have proven to be far from benign. I don't think I ever stopped to consider what the price of free was, but a quick look at the dumpster fire that social media has become quickly shows the cost. <mark>Not only has our privacy been invaded, and our data sold to the highest bidder—these "platforms" have become the breeding ground for racism, misogyny, harassment, and every other vile thing in our&nbsp;society.</mark>
 
 And okay, I'm sure reasonable people work at these companies. But for the most part, the people who are leading strategic decisions are people in moral bankruptcy who care more about pleasing venture capitalists and raking in their excessive bonuses, than about the real-life consequences of their technology decisions.
 
