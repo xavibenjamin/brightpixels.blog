@@ -117,7 +117,8 @@ $border-color: darken($light-text-color, 15%);
     content: none;
   }
 
-  blockquote {
+  blockquote,
+  .search__input--secondary {
     border-color: $primary;
   }
 
@@ -149,7 +150,8 @@ $border-color: darken($light-text-color, 15%);
   .group__count,
   .card--light,
   .header__topics,
-  .footer {
+  .footer,
+  .search--page {
     background: darken($bg-color, 6%);
   }
 
