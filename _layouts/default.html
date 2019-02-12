@@ -117,6 +117,16 @@
     <!-- Google Site Verification -->
     <meta name="google-site-verification" content="CkigHlbjr994yE6VvSG-SQsNbQ7Wu6OKXn83F08_pAY" />
 
+    <script>
+      ;(function (window, document, undefined) {
+        'use strict';
+        if (!('localStorage' in window)) return;
+        var nightMode = localStorage.getItem('nightMode');
+        if (!nightMode) return;
+        document.documentElement.className += ' night-mode';
+      })(window, document);
+    </script>
+
   </head>
   <body class="page-{{ page.layout | slugify }} {{ page.custom_css_class }} page-{{ page.title | slugify }}">
     
