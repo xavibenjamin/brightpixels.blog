@@ -190,7 +190,14 @@ $border-color: darken($light-text-color, 15%);
   .footer a,
   .webmention__author a,
   .carbon-wrap a,
-  .carbon-poweredby {
+  .carbon-poweredby,
+  .header__topics a {
     text-decoration: none;
+  }
+
+  pre {
+    code {
+      background: none;
+    }
   }
 }
