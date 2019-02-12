@@ -186,7 +186,9 @@ $border-color: darken($light-text-color, 15%);
   .post__category a,
   .header__subscribe,
   .footer a,
-  .webmention__author a {
+  .webmention__author a,
+  .carbon-wrap a,
+  .carbon-poweredby {
     text-decoration: none;
   }
 }
