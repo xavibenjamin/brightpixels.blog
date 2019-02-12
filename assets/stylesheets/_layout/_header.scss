@@ -93,6 +93,36 @@ body {
   }
 }
 
+// Header Mode Toggle
+
+.header__mode-toggle {
+  background: none;
+  border: 0;
+  display: grid;
+  padding: 0;
+  overflow: hidden;
+  height: 1.4rem;
+
+  .svg-icon {
+    width: 1.4rem;
+    height: 1.4rem;
+    fill: white;
+    transition: opacity 1.2s ease-in-out, transform 300ms ease-in-out;
+  }
+
+  .svg-icon--light {
+    transform: translateY(100%);
+    opacity: 0;
+  }
+
+  .svg-icon--dark {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+// Header Topics
+
 .header-topics__close {
   background: none;
   border: 0;
