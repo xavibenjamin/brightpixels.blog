@@ -185,7 +185,8 @@ $border-color: darken($light-text-color, 15%);
   .format-post h1 a,
   .post__category a,
   .header__subscribe,
-  .footer a {
+  .footer a,
+  .webmention__author a {
     text-decoration: none;
   }
 }
