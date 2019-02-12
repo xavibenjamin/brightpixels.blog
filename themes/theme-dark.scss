@@ -99,7 +99,8 @@ $border-color: darken($light-text-color, 15%);
   .group__return-home,
   .groups-list a,
   .header__topics a,
-  .heading-link {
+  .heading-link,
+  .webmention__pubdate {
     color: $light-text-color;
   }
 
@@ -165,7 +166,9 @@ $border-color: darken($light-text-color, 15%);
   td,
   .header__topics .header-topics__title,
   .group-section + .group-section,
-  .toc-wrapper {
+  .toc-wrapper,
+  .webmentions__item:not(.webmention--like):not(.webmention--repost)
+    + .webmentions__item {
     border-color: $border-color;
   }
 
