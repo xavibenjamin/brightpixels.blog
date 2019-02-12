@@ -366,6 +366,7 @@
 
     small {
       display: block;
+      font-family: $font-text;
       font-size: 0.65em;
       text-transform: uppercase;
       color: lighten($primary-color, 27%);
