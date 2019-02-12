@@ -76,7 +76,8 @@ $border-color: darken($light-text-color, 15%);
   .post-list__title a,
   .group__count,
   .header-topics__close,
-  .carbon-wrap a {
+  .carbon-wrap a,
+  .groups-list a {
     color: $text-color;
   }
 
@@ -97,10 +98,11 @@ $border-color: darken($light-text-color, 15%);
   .post__subtitle,
   .group-post__meta-info,
   .group__return-home,
-  .groups-list a,
   .header__topics a,
   .heading-link,
-  .webmention__pubdate {
+  .webmention__pubdate,
+  .post__series p,
+  .group-section p {
     color: $light-text-color;
   }
 
@@ -108,7 +110,6 @@ $border-color: darken($light-text-color, 15%);
   .footer__about h2,
   .groups-list a,
   .header__topics a,
-  .post__series li + li,
   .post__series .series__link {
     border-color: $light-text-color;
   }
@@ -170,7 +171,8 @@ $border-color: darken($light-text-color, 15%);
   .group-section + .group-section,
   .toc-wrapper,
   .webmentions__item:not(.webmention--like):not(.webmention--repost)
-    + .webmentions__item {
+    + .webmentions__item,
+  .post__series li + li {
     border-color: $border-color;
   }
 
@@ -191,7 +193,10 @@ $border-color: darken($light-text-color, 15%);
   .webmention__author a,
   .carbon-wrap a,
   .carbon-poweredby,
-  .header__topics a {
+  .header__topics a,
+  .group-post__item a,
+  .groups-list a,
+  .post__series a {
     text-decoration: none;
   }
 
