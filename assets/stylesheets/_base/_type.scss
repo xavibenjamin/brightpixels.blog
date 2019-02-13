@@ -61,6 +61,17 @@ h2 {
   + h3 {
     margin-top: $ratio1;
   }
+  a:not(.heading-link) {
+    color: inherit;
+    display: inline-block;
+    text-decoration: none;
+    border-bottom: 2px solid $primary-color;
+    &:hover,
+    &:focus {
+      color: $primary-color;
+      text-decoration: none;
+    }
+  }
 }
 
 h3 {
@@ -68,6 +79,17 @@ h3 {
   font-weight: 700;
   margin-top: $ratio2;
   margin-bottom: $ratio-3;
+  a:not(.heading-link) {
+    color: inherit;
+    display: inline-block;
+    text-decoration: none;
+    border-bottom: 2px solid $primary-color;
+    &:hover,
+    &:focus {
+      color: $primary-color;
+      text-decoration: none;
+    }
+  }
 }
 
 h5 {
