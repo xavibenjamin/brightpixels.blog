@@ -2,11 +2,11 @@
 // HEADER
 // -------------------------------
 
-.home {
+body {
   position: relative;
 }
 
-.header--home {
+.header {
   &:before {
     content: '';
     display: block;
@@ -14,7 +14,6 @@
     width: 100%;
     height: 30rem;
     background-color: $primary-color;
-    background-image: url("data:image/svg+xml,%3Csvg width='52' height='26' viewBox='0 0 52 26' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='0.1'%3E%3Cpath d='M10 10c0-2.21-1.79-4-4-4-3.314 0-6-2.686-6-6h2c0 2.21 1.79 4 4 4 3.314 0 6 2.686 6 6 0 2.21 1.79 4 4 4 3.314 0 6 2.686 6 6 0 2.21 1.79 4 4 4v2c-3.314 0-6-2.686-6-6 0-2.21-1.79-4-4-4-3.314 0-6-2.686-6-6zm25.464-1.95l8.486 8.486-1.414 1.414-8.486-8.486 1.414-1.414z' /%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
   }
 }
 
@@ -27,74 +26,28 @@
   padding-top: 1.2rem;
   padding-bottom: 1.2rem;
   justify-content: space-between;
-
   width: 90%;
 
   @media screen and (min-width: 78em) {
     width: 100%;
   }
-
-  .header--home & {
-    align-items: flex-start;
-    padding-bottom: $ratio1;
-    padding-top: $ratio1;
-
-    @media #{$small-only} {
-      flex-direction: column-reverse;
-    }
-  }
 }
 
 // Logo
-
-.site__branding {
-  margin-bottom: $ratio1;
-}
-
-.logo {
-  display: grid;
-  width: 15rem;
-}
 
 .logo-monogram {
   display: grid;
   width: 2.6rem;
 }
 
-.icon-logo {
+.icon-logo-monogram {
   fill: $alt-color;
   width: 100%;
-}
-
-.icon-logo-monogram {
-  fill: $primary-color;
-  width: 100%;
-}
-
-.header__byline {
-  color: white;
-  font-size: $ratio-1;
-  margin-bottom: 0.4rem;
-  text-transform: uppercase;
-}
-
-.header__description {
-  max-width: 16rem;
-  font-size: $ratio-1;
-  line-height: 1.4;
-  color: white;
-  margin-top: 0.6rem;
 }
 
 // Navigation
 
 .header__navigation {
-  .home & {
-    @media #{$small-only} {
-      margin-bottom: 1.4rem;
-    }
-  }
-
   > ul {
     display: flex;
     align-items: center;
@@ -104,24 +57,19 @@
   }
 
   .topics-menu__label {
-    color: $primary-color;
+    color: $alt-color;
     font-weight: 600;
     text-transform: uppercase;
     font-size: $ratio-1;
     background: none;
     border: 0;
     padding: 0;
-
-    .home & {
-      color: $alt-color;
-      display: inline-block;
-    }
   }
 }
 
 .header__subscribe {
-  color: $primary-color;
-  border: 3px solid $primary-color;
+  color: $alt-color;
+  border: 3px solid $alt-color;
   padding: 0.5rem 0.7rem;
   text-decoration: none;
   display: inline;
@@ -133,12 +81,6 @@
   &:focus {
     background-color: rgba(white, 0.1);
     text-decoration: none;
-  }
-
-  .home & {
-    color: $alt-color;
-    border: 3px solid $alt-color;
-    display: inline-block;
   }
 }
 
