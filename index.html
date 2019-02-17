@@ -18,7 +18,7 @@ excerpt: Bright Pixels is a web-column about comics, Star Wars, Apple, technolog
             <a class="post__permalink u-url" href="{{ post.url}}" title="Permalink to {{ post.title }}"><time class="dt-published" datetime="{{ post.date | date_to_xmlschema }}"><span class="date__hash u-url">#</span>&ensp;{{ post.date | date: "%b %d" }}</time></a>
           </div>
           <h1 class="p-name">
-            <a class="u-bookmark-of" href="{{ post.link_url }}">{{ post.title | widont }}</a>
+            <a class="u-bookmark-of" href="{{ post.link_url }}">{{ post.title | widont }}</a>&nbsp;<span class="link-arrow">→</span>
           </h1>
         </header>
       {% else %}
