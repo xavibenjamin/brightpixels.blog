@@ -11,7 +11,6 @@ html {
 body {
   color: $body-color;
   font-family: $font-text;
-  -webkit-hyphens: auto;
   hyphens: auto;
   line-height: 1.4;
 }
@@ -40,7 +39,7 @@ p {
   font-size: $ratio;
   line-height: 1.7;
   + p {
-    margin-top: 1rem;
+    margin-top: $ratio;
   }
 }
 
@@ -52,20 +51,40 @@ h2 {
   font-size: $ratio1;
   font-weight: 700;
   line-height: 1.2;
-  margin-top: $ratio1;
+  margin-top: $ratio1 * 1.5;
   margin-bottom: $ratio-3;
   + h3 {
     margin-top: $ratio1;
+  }
+
+  a:not(.heading-link) {
+    color: inherit;
+    display: inline-block;
+    text-decoration: underline;
+    text-decoration: underline solid $primary-color;
+    &:hover,
+    &:focus {
+      color: $primary-color;
+    }
   }
 }
 
 h3 {
   color: lighten($heading-color, 10%);
-  font-size: $ratio;
   font-weight: 700;
-  margin-top: $ratio2;
-  margin-bottom: $ratio-3;
-  text-transform: uppercase;
+  margin-top: $ratio1 * 1.5;
+  margin-bottom: 0.2rem;
+
+  a:not(.heading-link) {
+    color: inherit;
+    display: inline-block;
+    text-decoration: underline;
+    text-decoration: underline solid $primary-color;
+    &:hover,
+    &:focus {
+      color: $primary-color;
+    }
+  }
 }
 
 h5 {
@@ -87,20 +106,31 @@ h5 {
 .p-body > ul:not(.slash-list):not(.author-archive):not(.search__results),
 .e-content > ul,
 blockquote > ul {
-  list-style-type: circle;
   margin-bottom: 1.1rem;
   margin-left: 2rem;
   margin-top: 1.1rem;
   li {
     font-size: $ratio;
     line-height: 1.7;
+    position: relative;
 
     + li {
       margin-top: 0.6rem;
     }
 
+    &:before {
+      content: '';
+      background: $primary-color;
+      display: inline-block;
+      width: 6px;
+      height: 6px;
+      position: absolute;
+      left: -0.9rem;
+      top: 0.65rem;
+      border-radius: 50%;
+    }
+
     ul {
-      list-style: square;
       margin-left: 1rem;
       margin-top: 0.5rem;
     }
@@ -114,22 +144,41 @@ blockquote > ul {
 .p-body > ol,
 .e-content > ol,
 blockquote > ol {
-  list-style-type: decimal-leading-zero;
   margin-bottom: 1.1rem;
   margin-left: 2rem;
   margin-top: 1.1rem;
+  counter-reset: section;
+
   li {
     font-size: $ratio;
     line-height: 1.7;
+    position: relative;
 
     + li {
       margin-top: 0.6rem;
     }
 
+    &:before {
+      color: $primary-color;
+      text-align: right;
+      position: absolute;
+      counter-increment: section;
+      content: counter(section);
+      font-family: $font-code;
+      font-size: 0.7em;
+      left: -1.4rem;
+      top: 0.5rem;
+      line-height: 1;
+    }
+
+    &:nth-child(-n + 9):before {
+      content: '0' counter(section);
+    }
+
     ol {
-      list-style-type: lower-roman;
       margin-left: 1rem;
       margin-top: 0.5rem;
+      counter-reset: section;
     }
   }
   > li {

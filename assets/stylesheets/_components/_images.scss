@@ -14,9 +14,9 @@ figure {
 }
 
 figcaption {
-  color: lighten($body-color, 15%);
+  color: $light-text-color;
   font-size: $ratio-1;
-  line-height: 1.4;
+  line-height: 1.5;
   margin-top: 0.6rem;
 
   code {
