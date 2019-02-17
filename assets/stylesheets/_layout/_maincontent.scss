@@ -19,6 +19,12 @@
   + .posts__post {
     margin-top: 8rem;
   }
+
+  .post__date a {
+    color: $light-text-color;
+    font-weight: normal;
+    text-decoration: none;
+  }
 }
 
 .post__permalink {
@@ -345,13 +351,6 @@
     &:hover,
     &:focus {
       color: $primary-color;
-    }
-  }
-
-  .posts & {
-    .post__meta {
-      margin-bottom: 0.8rem;
-      margin-top: 0;
     }
   }
 

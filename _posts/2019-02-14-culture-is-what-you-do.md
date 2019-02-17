@@ -3,6 +3,8 @@ title: Culture Is What You Do
 link_url: https://shawnblanc.net/2019/02/culture-is-what-you-do/
 excerpt: I like what Shawn talks about here.
 date: 2019-02-14 09:16 -06:00
+categories:
+- Life
 ---
 
 Shawn Blanc:

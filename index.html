@@ -12,29 +12,30 @@ excerpt: Bright Pixels is a web-column about comics, Star Wars, Apple, technolog
   {% for post in filteredPosts limit: 20 %}
     <article class="posts__post p-body format-{% if post.link_url %}link{% else %}post{% endif %} h-entry">
 
-      {% if post.link_url %}
-        <header class="post__header">
-          <div class="post__meta">
-            <a class="post__permalink u-url" href="{{ post.url}}" title="Permalink to {{ post.title }}"><time class="dt-published" datetime="{{ post.date | date_to_xmlschema }}"><span class="date__hash u-url">#</span>&ensp;{{ post.date | date: "%b %d" }}</time></a>
-          </div>
+      <header class="post__header">
+        <span class="post__category"><a class="p-category" href="/{{ post.categories[0] | slugify }}" title="More posts about {{ post.categories[0] }}">{{ post.categories[0] }}</a></span>
+
+        {% if post.link_url %}
           <h1 class="p-name">
             <a class="u-bookmark-of" href="{{ post.link_url }}">{{ post.title | widont }}</a>&nbsp;<span class="link-arrow">→</span>
           </h1>
-        </header>
-      {% else %}
-        <header class="post__header">
-          <h1 class="p-name">
-            <a class="u-url" href="{{ post.url }}">{{ post.title | widont }}</a>
-          </h1>
+        {% else %}
+          <h1 class="p-name"><a href="{{ post.url }}" title="Permalink to {{ post.title }}">{{ post.title | widont }}</a></h1>
           {% if post.subtitle %}
-          <h2 class="post__subtitle">{{ post.subtitle | widont }}</h2>
-          {% endif %}
+            <h2 class="post__subtitle">{{ post.subtitle | widont }}</h2>
+          {% endif %} 
+        {% endif %}
 
-          {% if post.review.type %}
-            {% include_cached star-rating.html rating=post.review.rating %}
-          {% endif %}
-        </header>
-      {% endif %}
+        <!-- Post Meta -->
+        {% assign author = site.data.authors[post.author] %}
+        <div class="post__meta">
+          <span class="post__author"><a class="p-author h-card" href="/authors/{{ author.author_path }}" title="View more posts written by {{ author.display_name }}">{{ author.display_name }}{% if author.gravatar %}<img class="u-photo" src="//gravatar.com/avatar/{{ author.gravatar}}?s=200" alt="{{ author.display_name }}" style="display: none;" />{% else %}<img src="{{ site.url }}/uploads/authors/{{ author.author_path }}.jpg" class="u-photo" alt="{{ author.display_name }}" style="display: none;"/>{% endif %}</a></span>&emsp;<span class="post__date"><a href="{{ post.url | prepend: site.url }}" class="u-url"><time class="dt-published" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%b %d, %Y" }}</time></a></span>
+        </div>
+
+        {% if post.review.type %}
+          {% include_cached star-rating.html rating=post.review.rating %}
+        {% endif %}
+      </header>
     
       <div class="e-content">{{ post.content | widont | caps }}</div>
 
