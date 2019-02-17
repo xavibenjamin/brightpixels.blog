@@ -61,10 +61,10 @@ h2 {
     color: inherit;
     display: inline-block;
     text-decoration: underline;
-    text-decoration: underline solid $primary-color;
+    text-decoration: underline solid var(--primary);
     &:hover,
     &:focus {
-      color: $primary-color;
+      color: var(--primary);
     }
   }
 }
@@ -79,10 +79,10 @@ h3 {
     color: inherit;
     display: inline-block;
     text-decoration: underline;
-    text-decoration: underline solid $primary-color;
+    text-decoration: underline solid var(--primary);
     &:hover,
     &:focus {
-      color: $primary-color;
+      color: var(--primary);
     }
   }
 }
@@ -120,7 +120,7 @@ blockquote > ul {
 
     &:before {
       content: '';
-      background: $primary-color;
+      background: var(--primary);
       display: inline-block;
       width: 6px;
       height: 6px;
@@ -159,7 +159,7 @@ blockquote > ol {
     }
 
     &:before {
-      color: $primary-color;
+      color: var(--primary);
       text-align: right;
       position: absolute;
       counter-increment: section;
@@ -225,7 +225,7 @@ button,
 
 // BLOCKQUOTE --------------------
 blockquote {
-  border-left: 4px solid $primary-color;
+  border-left: 4px solid var(--primary);
   color: $light-text-color;
   margin-bottom: 1.1rem;
   margin-top: 1.1rem;

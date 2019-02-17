@@ -80,18 +80,18 @@
 .search--footer {
   .search__input {
     color: white;
-    border-bottom: 2px solid $primary-color;
+    border-bottom: 2px solid var(--primary);
     font-size: $ratio-1;
     transition: background-color 300ms ease-in-out;
 
     &:focus {
-      background-color: rgba($primary-color, 0.15);
+      background-color: rgba(var(--primary), 0.15);
     }
   }
 }
 
 .search__input--secondary {
   background-color: white;
-  border-bottom: 5px solid $primary-color;
+  border-bottom: 5px solid var(--primary);
   padding: 1rem;
 }

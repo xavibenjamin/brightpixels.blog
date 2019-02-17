@@ -38,7 +38,7 @@
   }
 
   .date__hash {
-    color: $primary-color;
+    color: var(--primary);
   }
 }
 
@@ -119,7 +119,7 @@
   h2 {
     a:not(.heading-link) {
       color: $body-color;
-      border-bottom: 2px solid $primary-color;
+      border-bottom: 2px solid var(--primary);
       text-decoration: none;
     }
   }
@@ -153,14 +153,14 @@
   font-family: $font-code;
 
   a {
-    color: $primary-color;
+    color: var(--primary);
     text-decoration: none;
     transition: background-color 300ms ease-in-out;
 
     &:hover,
     &:focus {
-      color: $primary-color;
-      background-color: rgba($primary-color, 0.1);
+      color: var(--primary);
+      background-color: rgba(var(--primary), 0.1);
     }
   }
 }
@@ -347,10 +347,10 @@
   h1 a {
     color: inherit;
     text-decoration: underline;
-    text-decoration: underline solid $primary-color;
+    text-decoration: underline solid var(--primary);
     &:hover,
     &:focus {
-      color: $primary-color;
+      color: var(--primary);
     }
   }
 
@@ -367,7 +367,7 @@
   margin-top: 2rem;
 
   &:before {
-    background-color: $primary-color;
+    background-color: var(--primary);
     content: '';
     display: block;
     height: 2px;
@@ -394,7 +394,7 @@
 // Series Stuff ----------------------------
 
 .post__series {
-  background: lighten($primary-color, 47%);
+  background: var(--primary-bg);
   border-radius: $global-radius;
   padding: 1.2rem;
   margin-top: 2rem;
@@ -412,7 +412,7 @@
       display: block;
       font-size: 0.65em;
       text-transform: uppercase;
-      color: lighten($primary-color, 27%);
+      color: var(--primary);
     }
   }
 
@@ -426,17 +426,17 @@
     padding-bottom: 0.4rem;
 
     + li {
-      border-top: 2px solid lighten($primary-color, 43%);
+      border-top: 2px solid var(--primary-border);
       padding-top: 0.4rem;
     }
   }
 
   a {
-    color: $primary-color;
+    color: var(--primary);
     text-decoration: none;
     &:hover,
     &:focus {
-      color: lighten($primary-color, 25%);
+      color: var(--light-text);
     }
   }
 
@@ -445,13 +445,13 @@
     grid-column: 1 / span 2;
     text-align: center;
     font-size: 0.8rem;
-    border: 2px solid lighten($primary-color, 43%);
+    border: 2px solid var(--primary-border);
     padding: 0.6rem;
     transition: all 0.2s ease-in-out;
     &:hover,
     &:focus {
-      color: $primary-color;
-      background-color: rgba($primary-color, 0.1);
+      color: var(--primary);
+      background-color: rgba(var(--primary), 0.1);
     }
   }
 }
@@ -476,7 +476,7 @@
 
     &:hover,
     &:focus {
-      color: $primary-color !important;
+      color: var(--primary) !important;
     }
   }
 }
@@ -488,7 +488,7 @@
   font-weight: 400;
   &:hover,
   &:focus {
-    color: $primary-color;
+    color: var(--primary);
     text-decoration: none;
   }
 }

@@ -42,7 +42,7 @@ $footer-light-text-color: lighten($light-text-color, 10%);
   }
 
   .icon {
-    fill: $primary-color;
+    fill: var(--primary);
   }
 
   a {
@@ -66,7 +66,7 @@ $footer-light-text-color: lighten($light-text-color, 10%);
   margin-bottom: 0.8rem;
 
   .icon-logo {
-    fill: $primary-color;
+    fill: var(--primary);
   }
 }
 
@@ -100,7 +100,7 @@ $footer-light-text-color: lighten($light-text-color, 10%);
   .topics-link {
     text-transform: uppercase;
     a {
-      border-bottom: 1px solid $primary-color;
+      border-bottom: 1px solid var(--primary);
     }
   }
 }

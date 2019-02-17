@@ -13,7 +13,7 @@ body {
     position: absolute;
     width: 100%;
     height: 30rem;
-    background-color: $primary-color;
+    background-color: var(--primary);
   }
 }
 
@@ -97,7 +97,7 @@ body {
   margin-bottom: 0.6rem;
   &:hover,
   &:focus {
-    color: $primary-color;
+    color: var(--primary);
   }
 }
 
@@ -152,7 +152,7 @@ body {
     font-size: $ratio-1;
     &:hover,
     &:focus {
-      color: $primary-color;
+      color: var(--primary);
     }
 
     span {
