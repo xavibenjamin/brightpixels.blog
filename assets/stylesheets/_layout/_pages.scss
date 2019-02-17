@@ -21,7 +21,7 @@
 }
 
 .page-header__title {
-  color: $heading-color;
+  color: var(--heading);
   font-size: $ratio2;
   font-weight: 400;
   margin-bottom: 0.2rem;
@@ -31,7 +31,7 @@
     font-family: $font-code;
     font-size: $ratio-1;
     margin-left: $ratio-2;
-    background-color: $light-bg-color;
+    background-color: var(--light-bg);
     padding: 0.2rem 0.5rem;
     border-radius: 3px;
     vertical-align: middle;
@@ -39,7 +39,7 @@
 }
 
 .page-header__description {
-  color: $light-text-color;
+  color: var(--light-text);
   font-family: $font-display;
   font-size: $ratio1;
   line-height: 1.35;
@@ -75,12 +75,12 @@
   .author__name {
     font-size: $ratio2;
     font-weight: 600;
-    color: $heading-color;
+    color: var(--heading);
     margin: 0;
   }
 
   .author__title {
-    color: lighten($body-color, 15%);
+    color: var(--light-text);
     font-size: $ratio1;
     margin-bottom: 0;
     margin-top: 0;

@@ -21,19 +21,19 @@
   }
 
   .post__date a {
-    color: $light-text-color;
+    color: var(--light-text);
     font-weight: normal;
     text-decoration: none;
   }
 }
 
 .post__permalink {
-  color: $light-text-color;
+  color: var(--light-text);
   font-weight: normal;
   text-decoration: none;
   &:hover,
   &:focus {
-    color: $link-color;
+    color: var(--link);
     text-decoration: none;
   }
 
@@ -43,7 +43,7 @@
 }
 
 .small-author {
-  color: $light-text-color;
+  color: var(--light-text);
   font-family: $font-code;
   font-size: $ratio-2;
 
@@ -80,7 +80,7 @@
 }
 
 .post__subtitle {
-  color: $light-text-color;
+  color: var(--light-text);
   font-size: $ratio1;
   font-weight: normal;
   line-height: 1.2;
@@ -103,7 +103,7 @@
 }
 
 .post__rss-only {
-  background-color: $light-bg-color;
+  background-color: var(--light-bg);
   border-radius: $global-radius;
   margin-bottom: 1.1rem;
   margin-top: 2rem;
@@ -118,7 +118,7 @@
   h3,
   h2 {
     a:not(.heading-link) {
-      color: $body-color;
+      color: var(--text);
       border-bottom: 2px solid var(--primary);
       text-decoration: none;
     }
@@ -128,7 +128,7 @@
 // Post Author -------------------
 
 .post__meta {
-  color: $light-text-color;
+  color: var(--light-text);
   font-size: $ratio-2;
   font-family: $font-code;
   margin-top: $ratio1;
@@ -140,7 +140,7 @@
     transition: background-color 300ms ease-in-out;
     &:hover,
     &:focus {
-      background-color: rgba($link-color, 0.1);
+      background-color: var(--link-bg);
     }
   }
 }
@@ -160,7 +160,7 @@
     &:hover,
     &:focus {
       color: var(--primary);
-      background-color: rgba(var(--primary), 0.1);
+      background-color: var(--primary-bg);
     }
   }
 }
@@ -176,7 +176,7 @@
 
 .author__credit {
   align-items: center;
-  color: $light-text-color;
+  color: var(--light-text);
   display: grid;
   font-family: $font-code;
   grid-column-gap: 0.6rem;
@@ -206,7 +206,7 @@
     font-weight: 700;
     line-height: 1.1;
     a {
-      color: $heading-color;
+      color: var(--heading);
       font-weight: inherit;
     }
   }
@@ -228,7 +228,7 @@
 }
 
 .heading-link {
-  color: $light-text-color;
+  color: var(--light-text);
   display: none;
   font-size: 0.85em;
   font-weight: normal;
@@ -241,14 +241,14 @@
 }
 
 .toc-wrapper {
-  border: 1px solid rgba($body-color, 0.1);
+  border: 1px solid rgba(var(--text), 0.1);
   border-radius: $global-radius;
   margin-bottom: 2rem;
   margin-top: 2rem;
 
   h2 {
     align-items: center;
-    background-color: rgba($body-color, 0.05);
+    background-color: rgba(var(--text), 0.05);
     cursor: pointer;
     display: flex;
     font-size: $ratio-1;
@@ -259,7 +259,7 @@
     text-transform: uppercase;
 
     svg {
-      fill: lighten($body-color, 30%);
+      fill: var(--light-text);
       transition: transform 350ms ease;
       width: 16px;
     }
@@ -298,8 +298,8 @@
 
       &:hover,
       &:focus {
-        background-color: rgba($link-color, 0.1);
-        border-bottom: 1px dotted $link-color;
+        background-color: var(--link-bg);
+        border-bottom: 1px dotted var(--link);
       }
     }
 
@@ -355,7 +355,7 @@
   }
 
   .link-arrow {
-    color: $light-text-color;
+    color: var(--light-text);
     font-family: sans-serif;
     font-size: 0.75em;
   }
@@ -451,7 +451,6 @@
     &:hover,
     &:focus {
       color: var(--primary);
-      background-color: rgba(var(--primary), 0.1);
     }
   }
 }
@@ -471,7 +470,7 @@
   margin-bottom: 0.2rem;
 
   a {
-    color: $heading-color;
+    color: var(--heading);
     text-decoration: none;
 
     &:hover,
@@ -482,7 +481,7 @@
 }
 
 .post-list__more {
-  color: lighten($light-text-color, 5%);
+  color: var(--light-text);
   font-size: $ratio-1;
   text-decoration: none;
   font-weight: 400;

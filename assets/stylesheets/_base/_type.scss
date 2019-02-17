@@ -9,7 +9,7 @@ html {
 }
 
 body {
-  color: $body-color;
+  color: var(--text);
   font-family: $font-text;
   hyphens: auto;
   line-height: 1.4;
@@ -30,7 +30,7 @@ h6 {
 h1,
 h2,
 h5 {
-  color: $heading-color;
+  color: var(--heading);
 }
 
 // TEXT --------------------------
@@ -70,7 +70,7 @@ h2 {
 }
 
 h3 {
-  color: lighten($heading-color, 10%);
+  color: var(--heading);
   font-weight: 700;
   margin-top: $ratio1 * 1.5;
   margin-bottom: 0.2rem;
@@ -94,7 +94,7 @@ h5 {
   text-transform: uppercase;
 
   &:before {
-    background-color: $border-color;
+    background-color: var(--border);
     content: '';
     display: block;
     height: 1px;
@@ -204,8 +204,8 @@ cite {
 }
 
 mark {
-  color: $body-color;
-  background-color: $highlight-color;
+  color: var(--text);
+  background-color: var(--highlight);
   padding: 0 3px;
 }
 
@@ -226,7 +226,7 @@ button,
 // BLOCKQUOTE --------------------
 blockquote {
   border-left: 4px solid var(--primary);
-  color: $light-text-color;
+  color: var(--light-text);
   margin-bottom: 1.1rem;
   margin-top: 1.1rem;
   padding-left: 0.75rem;
@@ -252,7 +252,7 @@ blockquote {
 
 // HR ----------------------------
 hr {
-  border: solid $border-color;
+  border: solid var(--border);
   border-width: 1px 0 0;
   display: block;
   height: 0;
@@ -263,16 +263,16 @@ hr {
 // LINKS -------------------------
 
 a {
-  color: $link-color;
+  color: var(--link);
   font-weight: 600;
   -webkit-hyphens: none;
   hyphens: none;
   text-decoration: underline;
-  text-decoration: underline solid $link-underline;
+  text-decoration: underline solid var(--link-underline);
   text-decoration-skip: ink;
   transition: color 0.2s ease-in-out;
   &:hover,
   &:focus {
-    text-decoration: underline solid $link-color;
+    text-decoration: underline solid var(--link);
   }
 }

@@ -3,7 +3,7 @@
 // -------------------------------
 
 body {
-  background-color: $light-bg-color;
+  background-color: var(--light-bg);
 }
 
 svg {

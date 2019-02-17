@@ -2,23 +2,6 @@
 // BITS
 // -----------------------------------------
 
-// COLORS ------------------------
-$primary-color: #ff008f;
-$secondary-color: #161f2d;
-$alt-color: #ffe000;
-
-// TEXT COLOR --------------------
-$body-color: #31445d;
-$heading-color: $secondary-color;
-$light-text-color: desaturate(lighten($heading-color, 40%), 15%);
-$highlight-color: #fffedb;
-$link-color: #0993cb;
-$link-underline: lighten(saturate($link-color, 10%), 40%);
-
-// BG AND BORDER COLORS ----------
-$border-color: lighten($secondary-color, 76%);
-$light-bg-color: lighten($secondary-color, 81%);
-
 :root {
   --primary: #ff008f;
   --primary-active: #e60081;
@@ -31,10 +14,12 @@ $light-bg-color: lighten($secondary-color, 81%);
   --light-text: #70829f;
   --highlight: #fffedb;
   --link: #0993cb;
+  --link-bg: #0993cb1a;
   --link-underline: #a1e4ff;
   --border: #dae1ed;
   --light-bg: #ebeff5;
   --code-bg: #f6f3f2;
+  --footer-light-text: #8f9db3;
 }
 
 // GLOBAL RADIUS

@@ -41,7 +41,7 @@ body {
 }
 
 .icon-logo-monogram {
-  fill: $alt-color;
+  fill: var(--alt);
   width: 100%;
 }
 
@@ -57,7 +57,7 @@ body {
   }
 
   .topics-menu__label {
-    color: $alt-color;
+    color: var(--alt);
     font-weight: 600;
     text-transform: uppercase;
     font-size: $ratio-1;
@@ -68,8 +68,8 @@ body {
 }
 
 .header__subscribe {
-  color: $alt-color;
-  border: 3px solid $alt-color;
+  color: var(--alt);
+  border: 3px solid var(--alt);
   padding: 0.5rem 0.7rem;
   text-decoration: none;
   display: inline;
@@ -129,7 +129,7 @@ body {
     margin-top: 0;
     margin-bottom: 0.6rem;
     padding-top: 0.6rem;
-    border-top: 3px solid $heading-color;
+    border-top: 3px solid var(--heading);
     text-transform: uppercase;
     font-size: $ratio;
   }
@@ -145,9 +145,9 @@ body {
     display: flex;
     justify-content: space-between;
     text-decoration: none;
-    color: $light-text-color;
+    color: var(--light-text);
     padding: 0.6rem 0;
-    border-top: 3px solid $border-color;
+    border-top: 3px solid var(--border);
     line-height: 1;
     font-size: $ratio-1;
     &:hover,
