@@ -2,12 +2,11 @@
 // FOOTER
 // -------------------------------
 
-$footer-light-text-color: lighten($light-text-color, 10%);
-
 .footer {
-  background-color: $secondary-color;
-  color: $footer-light-text-color;
+  background-color: var(--secondary);
+  color: var(--footer-light-text);
   padding: 2rem;
+  position: relative;
 
   display: grid;
   grid-gap: 1.4rem;
@@ -42,7 +41,7 @@ $footer-light-text-color: lighten($light-text-color, 10%);
   }
 
   .icon {
-    fill: $primary-color;
+    fill: var(--primary);
   }
 
   a {
@@ -51,7 +50,7 @@ $footer-light-text-color: lighten($light-text-color, 10%);
     text-decoration: none;
     &:hover,
     &:focus {
-      color: lighten($link-color, 10%);
+      color: var(--alt);
     }
   }
 }
@@ -66,7 +65,7 @@ $footer-light-text-color: lighten($light-text-color, 10%);
   margin-bottom: 0.8rem;
 
   .icon-logo {
-    fill: $primary-color;
+    fill: var(--primary);
   }
 }
 
@@ -76,8 +75,8 @@ $footer-light-text-color: lighten($light-text-color, 10%);
 
 .footer__topics h2,
 .footer__about h2 {
-  color: $footer-light-text-color;
-  border-bottom: 2px solid $footer-light-text-color;
+  color: var(--footer-light-text);
+  border-bottom: 2px solid var(--footer-light-text);
   padding-bottom: 0.4rem;
   font-size: $ratio-1;
   margin-bottom: $ratio-2;
@@ -100,7 +99,7 @@ $footer-light-text-color: lighten($light-text-color, 10%);
   .topics-link {
     text-transform: uppercase;
     a {
-      border-bottom: 1px solid $primary-color;
+      border-bottom: 1px solid var(--primary);
     }
   }
 }

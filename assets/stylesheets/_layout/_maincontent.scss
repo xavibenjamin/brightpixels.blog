@@ -3,7 +3,7 @@
 // -------------------------------
 
 .main {
-  background-color: white;
+  background-color: var(--main-bg);
   padding: 2.5rem 0 4rem;
   position: relative;
   z-index: 2;
@@ -21,29 +21,29 @@
   }
 
   .post__date a {
-    color: $light-text-color;
+    color: var(--light-text);
     font-weight: normal;
     text-decoration: none;
   }
 }
 
 .post__permalink {
-  color: $light-text-color;
+  color: var(--light-text);
   font-weight: normal;
   text-decoration: none;
   &:hover,
   &:focus {
-    color: $link-color;
+    color: var(--link);
     text-decoration: none;
   }
 
   .date__hash {
-    color: $primary-color;
+    color: var(--primary);
   }
 }
 
 .small-author {
-  color: $light-text-color;
+  color: var(--light-text);
   font-family: $font-code;
   font-size: $ratio-2;
 
@@ -80,7 +80,7 @@
 }
 
 .post__subtitle {
-  color: $light-text-color;
+  color: var(--light-text);
   font-size: $ratio1;
   font-weight: normal;
   line-height: 1.2;
@@ -103,7 +103,7 @@
 }
 
 .post__rss-only {
-  background-color: $light-bg-color;
+  background-color: var(--light-bg);
   border-radius: $global-radius;
   margin-bottom: 1.1rem;
   margin-top: 2rem;
@@ -118,8 +118,8 @@
   h3,
   h2 {
     a:not(.heading-link) {
-      color: $body-color;
-      border-bottom: 2px solid $primary-color;
+      color: var(--text);
+      border-bottom: 2px solid var(--primary);
       text-decoration: none;
     }
   }
@@ -128,7 +128,7 @@
 // Post Author -------------------
 
 .post__meta {
-  color: $light-text-color;
+  color: var(--light-text);
   font-size: $ratio-2;
   font-family: $font-code;
   margin-top: $ratio1;
@@ -140,7 +140,7 @@
     transition: background-color 300ms ease-in-out;
     &:hover,
     &:focus {
-      background-color: rgba($link-color, 0.1);
+      background-color: var(--link-bg);
     }
   }
 }
@@ -153,14 +153,14 @@
   font-family: $font-code;
 
   a {
-    color: $primary-color;
+    color: var(--primary);
     text-decoration: none;
     transition: background-color 300ms ease-in-out;
 
     &:hover,
     &:focus {
-      color: $primary-color;
-      background-color: rgba($primary-color, 0.1);
+      color: var(--primary);
+      background-color: var(--primary-bg);
     }
   }
 }
@@ -176,7 +176,7 @@
 
 .author__credit {
   align-items: center;
-  color: $light-text-color;
+  color: var(--light-text);
   display: grid;
   font-family: $font-code;
   grid-column-gap: 0.6rem;
@@ -206,7 +206,7 @@
     font-weight: 700;
     line-height: 1.1;
     a {
-      color: $heading-color;
+      color: var(--heading);
       font-weight: inherit;
     }
   }
@@ -228,7 +228,7 @@
 }
 
 .heading-link {
-  color: $light-text-color;
+  color: var(--light-text);
   display: none;
   font-size: 0.85em;
   font-weight: normal;
@@ -241,14 +241,14 @@
 }
 
 .toc-wrapper {
-  border: 1px solid rgba($body-color, 0.1);
+  border: 1px solid var(--border);
   border-radius: $global-radius;
   margin-bottom: 2rem;
   margin-top: 2rem;
 
   h2 {
     align-items: center;
-    background-color: rgba($body-color, 0.05);
+    background-color: var(--light-bg);
     cursor: pointer;
     display: flex;
     font-size: $ratio-1;
@@ -259,7 +259,7 @@
     text-transform: uppercase;
 
     svg {
-      fill: lighten($body-color, 30%);
+      fill: var(--light-text);
       transition: transform 350ms ease;
       width: 16px;
     }
@@ -298,8 +298,8 @@
 
       &:hover,
       &:focus {
-        background-color: rgba($link-color, 0.1);
-        border-bottom: 1px dotted $link-color;
+        background-color: var(--link-bg);
+        border-bottom: 1px dotted var(--link);
       }
     }
 
@@ -312,6 +312,7 @@
 
 .letterboxd__link {
   font-size: $ratio-1;
+  font-family: $font-code;
   position: relative;
   margin-bottom: 1rem;
 
@@ -347,15 +348,16 @@
   h1 a {
     color: inherit;
     text-decoration: underline;
-    text-decoration: underline solid $primary-color;
+    -webkit-text-decoration-color: var(--primary);
+    text-decoration-color: var(--primary);
     &:hover,
     &:focus {
-      color: $primary-color;
+      color: var(--primary);
     }
   }
 
   .link-arrow {
-    color: $light-text-color;
+    color: var(--light-text);
     font-family: sans-serif;
     font-size: 0.75em;
   }
@@ -367,7 +369,7 @@
   margin-top: 2rem;
 
   &:before {
-    background-color: $primary-color;
+    background-color: var(--primary);
     content: '';
     display: block;
     height: 2px;
@@ -394,15 +396,18 @@
 // Series Stuff ----------------------------
 
 .post__series {
-  background: lighten($primary-color, 47%);
+  background: var(--primary-bg);
   border-radius: $global-radius;
   padding: 1.2rem;
   margin-top: 2rem;
 
   display: grid;
-  grid-template-columns: 1fr 1fr;
   align-items: center;
   grid-gap: 1.6rem 2rem;
+
+  @media #{$medium-up} {
+    grid-template-columns: 1fr 1fr;
+  }
 
   .series__title {
     font-weight: bold;
@@ -412,7 +417,7 @@
       display: block;
       font-size: 0.65em;
       text-transform: uppercase;
-      color: lighten($primary-color, 27%);
+      color: var(--primary);
     }
   }
 
@@ -426,32 +431,35 @@
     padding-bottom: 0.4rem;
 
     + li {
-      border-top: 2px solid lighten($primary-color, 43%);
+      border-top: 2px solid var(--primary-border);
       padding-top: 0.4rem;
     }
   }
 
   a {
-    color: $primary-color;
+    color: var(--primary);
     text-decoration: none;
     &:hover,
     &:focus {
-      color: lighten($primary-color, 25%);
+      color: var(--light-text);
     }
   }
 
   .series__link {
     font-family: $font-small;
-    grid-column: 1 / span 2;
     text-align: center;
     font-size: 0.8rem;
-    border: 2px solid lighten($primary-color, 43%);
+    border: 2px solid var(--primary-border);
     padding: 0.6rem;
     transition: all 0.2s ease-in-out;
+
+    @media #{$medium-up} {
+      grid-column: 1 / span 2;
+    }
+
     &:hover,
     &:focus {
-      color: $primary-color;
-      background-color: rgba($primary-color, 0.1);
+      color: var(--primary);
     }
   }
 }
@@ -459,10 +467,11 @@
 // POST LIST -------------------------------
 
 .post-list {
-  margin-top: 2.8rem;
+  margin-top: 3.6rem;
 
   .post__meta {
-    margin-bottom: 0.4rem;
+    margin-bottom: 1.3rem;
+    margin-top: 0;
   }
 }
 
@@ -471,24 +480,24 @@
   margin-bottom: 0.2rem;
 
   a {
-    color: $heading-color;
+    color: var(--heading);
     text-decoration: none;
 
     &:hover,
     &:focus {
-      color: $primary-color !important;
+      color: var(--primary) !important;
     }
   }
 }
 
 .post-list__more {
-  color: lighten($light-text-color, 5%);
+  color: var(--light-text);
   font-size: $ratio-1;
   text-decoration: none;
   font-weight: 400;
   &:hover,
   &:focus {
-    color: $primary-color;
+    color: var(--primary);
     text-decoration: none;
   }
 }

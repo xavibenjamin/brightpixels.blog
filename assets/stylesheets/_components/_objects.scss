@@ -55,11 +55,11 @@
 }
 
 .card--light {
-  background-color: $light-bg-color;
-  color: $body-color;
+  background-color: var(--light-bg);
+  color: var(--text);
 
   h2 {
-    color: $heading-color;
+    color: var(--heading);
   }
 }
 
@@ -80,7 +80,7 @@
 
     + li {
       &:before {
-        color: $light-text-color;
+        color: var(--light-text);
         content: '/';
         margin-left: 0.6rem;
         margin-right: 0.6rem;
@@ -120,14 +120,14 @@
 
 .carbon-wrap {
   align-items: center;
-  background-color: $light-bg-color;
+  background-color: var(--light-bg);
   border-radius: 2px;
   display: grid;
   grid-gap: $ratio;
   grid-template-columns: 130px auto;
   padding: $ratio-1;
   a {
-    color: $body-color;
+    color: var(--text);
     font-weight: normal;
     text-decoration: none;
   }

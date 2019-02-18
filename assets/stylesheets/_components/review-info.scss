@@ -14,13 +14,14 @@
   .p-body h2 &,
   .p-body h3 & {
     width: 4.2em;
+    margin-left: 0.2rem;
   }
 }
 
 .star--empty {
-  fill: lighten($light-text-color, 25%);
+  fill: var(--light-text);
 }
 
 .star--filled {
-  fill: $primary-color;
+  fill: var(--primary);
 }

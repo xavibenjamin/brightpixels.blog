@@ -46,7 +46,7 @@
   padding-bottom: $ratio1;
 
   + .webmentions__item {
-    border-top: 1px solid $border-color;
+    border-top: 1px solid var(--border);
   }
 }
 
@@ -62,13 +62,13 @@
   line-height: 1;
 
   a {
-    color: $heading-color;
+    color: var(--heading);
     display: inline-block;
     text-decoration: none;
 
     &:hover,
     &:focus {
-      color: $primary-color;
+      color: var(--primary);
     }
   }
 }
@@ -79,7 +79,7 @@
 }
 
 .webmention__pubdate {
-  color: lighten($body-color, 25%);
+  color: var(--light-text);
   font-family: $font-code;
   font-size: $ratio-2;
   vertical-align: middle;

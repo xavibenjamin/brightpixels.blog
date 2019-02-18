@@ -12,7 +12,7 @@ pre {
 }
 
 code {
-  background: #f6f3f2;
+  background: var(--code-bg);
   border-radius: 3px;
   color: #bf616a;
   font-family: Operator Mono, monospace;
