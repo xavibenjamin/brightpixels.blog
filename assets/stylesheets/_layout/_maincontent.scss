@@ -312,6 +312,7 @@
 
 .letterboxd__link {
   font-size: $ratio-1;
+  font-family: $font-code;
   position: relative;
   margin-bottom: 1rem;
 
@@ -347,7 +348,8 @@
   h1 a {
     color: inherit;
     text-decoration: underline;
-    text-decoration: underline solid var(--primary);
+    -webkit-text-decoration-color: var(--primary);
+    text-decoration-color: var(--primary);
     &:hover,
     &:focus {
       color: var(--primary);

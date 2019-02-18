@@ -61,7 +61,8 @@ h2 {
     color: inherit;
     display: inline-block;
     text-decoration: underline;
-    text-decoration: underline solid var(--primary);
+    -webkit-text-decoration-color: var(--primary);
+    text-decoration-color: var(--primary);
     &:hover,
     &:focus {
       color: var(--primary);
@@ -79,7 +80,8 @@ h3 {
     color: inherit;
     display: inline-block;
     text-decoration: underline;
-    text-decoration: underline solid var(--primary);
+    -webkit-text-decoration-color: var(--primary);
+    text-decoration-color: var(--primary);
     &:hover,
     &:focus {
       color: var(--primary);
@@ -268,11 +270,14 @@ a {
   -webkit-hyphens: none;
   hyphens: none;
   text-decoration: underline;
-  text-decoration: underline solid var(--link-underline);
+  -webkit-text-decoration-color: var(--link-underline);
+  text-decoration-color: var(--link-underline);
   text-decoration-skip: ink;
   transition: color 0.2s ease-in-out;
   &:hover,
   &:focus {
-    text-decoration: underline solid var(--link);
+    text-decoration: underline;
+    -webkit-text-decoration-color: var(--link);
+    text-decoration-color: var(--link);
   }
 }
