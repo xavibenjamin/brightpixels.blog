@@ -3,7 +3,7 @@
 // -------------------------------
 
 .main {
-  background-color: white;
+  background-color: var(--main-bg);
   padding: 2.5rem 0 4rem;
   position: relative;
   z-index: 2;
@@ -241,14 +241,14 @@
 }
 
 .toc-wrapper {
-  border: 1px solid rgba(var(--text), 0.1);
+  border: 1px solid var(--border);
   border-radius: $global-radius;
   margin-bottom: 2rem;
   margin-top: 2rem;
 
   h2 {
     align-items: center;
-    background-color: rgba(var(--text), 0.05);
+    background-color: var(--light-bg);
     cursor: pointer;
     display: flex;
     font-size: $ratio-1;
@@ -400,9 +400,12 @@
   margin-top: 2rem;
 
   display: grid;
-  grid-template-columns: 1fr 1fr;
   align-items: center;
   grid-gap: 1.6rem 2rem;
+
+  @media #{$medium-up} {
+    grid-template-columns: 1fr 1fr;
+  }
 
   .series__title {
     font-weight: bold;
@@ -442,12 +445,16 @@
 
   .series__link {
     font-family: $font-small;
-    grid-column: 1 / span 2;
     text-align: center;
     font-size: 0.8rem;
     border: 2px solid var(--primary-border);
     padding: 0.6rem;
     transition: all 0.2s ease-in-out;
+
+    @media #{$medium-up} {
+      grid-column: 1 / span 2;
+    }
+
     &:hover,
     &:focus {
       color: var(--primary);
@@ -461,7 +468,8 @@
   margin-top: 2.8rem;
 
   .post__meta {
-    margin-bottom: 0.4rem;
+    margin-bottom: 1.3rem;
+    margin-top: 0;
   }
 }
 

@@ -20,6 +20,56 @@
   --light-bg: #ebeff5;
   --code-bg: #f6f3f2;
   --footer-light-text: #8f9db3;
+  --main-bg: #fff;
+}
+
+.night-mode {
+  --primary: #f075ba;
+  --primary-bg: #f075ba4d;
+  --primary-border: var(--border);
+  --secondary: #1c1d21;
+  --alt: #dbbb76;
+  --text: #bbb;
+  --heading: #ccc;
+  --light-bg: #23252a;
+  --light-text: #757982;
+  --main-bg: #2a2c32;
+  --link: #7bb2bf;
+  --link-underline: var(--link);
+  --highlight: #bbbbbb26;
+  --footer-light-text: var(--light-text);
+  --border: #51545a;
+  --code-bg: var(--secondary);
+
+  .header:before {
+    content: none;
+  }
+
+  .btn--primary:hover,
+  .btn--primary:focus {
+    color: white;
+  }
+
+  .footer a {
+    color: var(--text);
+  }
+
+  .post__series,
+  .header__topics {
+    background-color: var(--secondary);
+  }
+
+  .star--empty {
+    fill: var(--light-text);
+  }
+
+  pre.highlight {
+    background: var(--light-bg);
+  }
+
+  .post__series p {
+    color: var(--light-text);
+  }
 }
 
 // GLOBAL RADIUS
