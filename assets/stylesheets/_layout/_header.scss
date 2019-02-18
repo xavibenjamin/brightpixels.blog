@@ -84,6 +84,23 @@ body {
   }
 }
 
+// Header Mode Toggle
+
+.header__mode-toggle {
+  background: none;
+  border: 0;
+  display: grid;
+  padding: 0;
+
+  .svg-icon {
+    width: 1.4rem;
+    height: 1.4rem;
+    fill: var(--alt);
+  }
+}
+
+// Header Topics
+
 .header-topics__close {
   background: none;
   border: 0;
