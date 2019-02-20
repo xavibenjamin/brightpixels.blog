@@ -71,6 +71,11 @@
   .post__series p {
     color: var(--light-text);
   }
+
+  ::selection {
+    background-color: var(--primary);
+    color: white;
+  }
 }
 
 // GLOBAL RADIUS
