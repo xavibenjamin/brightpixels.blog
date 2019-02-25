@@ -2,7 +2,7 @@
 seo_title: An attractive design, versatility of ports, and power delivery make OWC's Thunderbolt 3 Dock one the best for Mac
 title: OWC Thunderbolt 3 Dock
 subtitle: An attractive design, versatility of ports, and power delivery make this dock one the best for Mac
-date: 2019-02-24 13:52 -06:00
+date: 2019-02-25 12:06 -06:00
 custom_type: post
 categories:
 - Tech
