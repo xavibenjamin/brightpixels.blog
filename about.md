@@ -5,7 +5,7 @@ excerpt: Find out more about Bright Pixels.
 layout: page
 ---
 
-_Bright Pixels_ is designed and developed by me, [Tim Smith](http://ttimsmith.com), in beautiful [St. Paul, Minnesota](https://www.stpaul.gov/).
+_Bright Pixels_ is designed and developed by me, [Tim Smith](http://ttimsmith.com), in sunny [Oceanside, CA](https://en.wikipedia.org/wiki/Oceanside%2C_California).
 
 <figure class="extendout">
   {% include_cached img.html src="/tim-02-16x9.jpg" alt="Tim Smith's Photo" %}
@@ -18,15 +18,13 @@ _Bright Pixels_ is designed and developed by me, [Tim Smith](http://ttimsmith.co
 
 Writing about yourself is tough, but here we go.
 
-I live in Saint Paul, MN with my beautiful and amazing wife, Kelly. We have two cats: Izzy and Minnie. I'm very opinionated and picky about certain things, but I strive to lace kindness and empathy into everything I do.
+I live in Oceanside, CA with my beautiful and amazing wife, Kelly. We have two cats: Izzy and Minnie. I'm very opinionated and picky about certain things, but I strive to lace kindness and empathy into everything I do.
 
 I've messed up a lot in life, but as Yoda once said, "The greatest teacher, failure is." Some of the failures have been painful—both to me and others. I've always tried to take responsibility for it and learn.
 
 I started my adventure into design and development in 2006 when I was fifteen. I took some community college classes, but I'm mostly self-taught. My early career was tough—no one took me seriously as soon as I told them how old I was.
 
 Since then, I've had the chance to work with some pretty amazing people. Some of those amazing people work for companies like [Relay FM](https://www.relay.fm/), [Carbon Ads](https://carbonads.net/), [&Yet](https://andyet.com/), [Lullabot](https://www.lullabot.com/), [Crush & Lovely](http://crushlovely.com/), and The Clinton Foundation.
-
-In 2018, I decided I no longer wanted to work as a designer and developer for the web and became the Senior Producer for [Changelog Media](https://changelog.com/). I now make audio and video things for a living, and I love it.
 
 I originally started this site thinking I'd be the next [John Gruber](https://en.wikipedia.org/wiki/John_Gruber), but quickly realized I didn't actually want that (not to mention, I'm not nearly as great a writer). Ever since this fantastic place is where I write about all that interests me.
 
