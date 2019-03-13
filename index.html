@@ -40,10 +40,6 @@ excerpt: Bright Pixels is a web-column about comics, Star Wars, Apple, technolog
       <div class="e-content">{{ post.content | widont | caps }}</div>
 
     </article>
-
-    {% if forloop.first %}
-      {% include_cached ad.html %}
-    {% endif %}
   {% endfor %}
 </section>
 
