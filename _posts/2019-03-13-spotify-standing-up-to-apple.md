@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Spotify Standing Up to Apple
-date: 2019-03-13 10:27 -08:00
+date: 2019-03-13 10:27
 link_url: https://www.manton.org/2019/03/13/spotify-standing-up.html
 ---
 
