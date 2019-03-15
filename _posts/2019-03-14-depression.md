@@ -3,7 +3,7 @@ title: Depression
 custom_type: post
 categories:
 - Life
-date: 2019-03-14 15:56 -08:00
+date: 2019-03-14 15:56
 ---
 
 I haven’t been very public about this, but I was going through a severe bout of seasonal depression. We were living in a basement apartment in one of the coldest places you can live: Minnesota. Add to that the fact that there are so many days where it’s just gray and gloomy.
