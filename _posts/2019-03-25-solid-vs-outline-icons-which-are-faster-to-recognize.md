@@ -4,7 +4,7 @@ link_url: https://uxmovement.com/mobile/solid-vs-outline-icons-which-are-faster-
 categories:
 - Design
 excerpt: And the debate continues.
-date: 2019-03-26 11:30
+date: 2019-03-27 05:30
 ---
 Anthony T on *UX Movement*:
 
