@@ -14,9 +14,9 @@ custom_css_class: single
         <a class="u-bookmark-of" href="{{ page.link_url }}">{{ page.title | widont }}</a>&nbsp;<span class="link-arrow">→</span>
       </h1>
     {% else %}
-      <h1 class="p-name">{{ page.title | widont }}</h1>
+      <h1 class="p-name">{{ page.title | smartify | widont }}</h1>
       {% if page.subtitle %}
-        <h2 class="post__subtitle">{{ page.subtitle | widont }}</h2>
+        <h2 class="post__subtitle">{{ page.subtitle | smartify | widont }}</h2>
       {% endif %} 
     {% endif %}
 
